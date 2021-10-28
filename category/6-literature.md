@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our board
+title: About
 sidebar_link: true
 ---
 
