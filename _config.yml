@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            SedaDNA
 tagline:          'The sedaDNA scientific society'
-description:      'The international network of researchers using ancient environmental DNA.'
+description:      'The international network of sedaDNA research'
 url:              https://sedadna.github.io/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
