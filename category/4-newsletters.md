@@ -4,4 +4,4 @@ title: Newsletters
 sidebar_link: true
 ---
 
-We offer some some literature surveys
+We offer some newsletters
