@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Newsletters
 sidebar_link: true
 ---
 
-Some stuffs to add
+We offer some some literature surveys
