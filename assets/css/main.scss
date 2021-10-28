@@ -1,0 +1,178 @@
+---
+# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+# only main files contain this front matter, not partials.
+---
+
+$sidebar-width: 22rem;
+@import "hydeout";
+
+
+#particles-js {
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  .particles-js-canvas-el {
+    position: fixed;
+    z-index: -1;
+    background-color: #232741;
+  }
+}
+
+.copyright {
+    font-size: 0.7rem;
+}
+
+.section {
+    background-color: $body-bg;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+.section-title {
+    padding-bottom: 1rem;
+    font-weight: bold;
+}
+
+.underline::after {
+    box-shadow: rgb(233, 235, 237) 0px 1px 0px 0px inset;
+    display: block;
+    content: "";
+    height: 3px;
+    margin-top: 1rem;
+    border-left: 30px solid #232741;
+}
+
+.intro {
+    padding-top: 2rem;
+}
+
+.intro p {
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+
+.member {
+    width: 7rem;
+    text-align: center;
+}
+
+.square {
+    display: inline-block;
+    width: 6rem;
+    height: 6rem;
+    margin: auto;
+    background-color: #fff;
+}
+
+.square img{
+    opacity: 1;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+.square:hover img{
+    opacity: .5;
+}
+
+.avatar {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+
+.avatar img{
+    border-radius: 50%;
+    width: 6rem;
+    height: 6rem;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+
+.member p {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-bottom: 0;
+    display: block;
+}
+
+.member p:first-of-type {
+    font-size: 0.8rem;
+    color: #000;
+    font-weight: bold;
+}
+
+.section p {
+    color: $body-color;
+}
+
+.index .content {
+    padding-top: 0 !important;
+}
+
+.join-us {
+    background-color: #fff;
+    padding-left: 2rem;
+}
+
+.button-join {
+    background: #232741;
+    border: 1px solid #232741;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 20px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+}
+  
+.button-join:hover,
+.button-join:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #232741;
+}
+
+.page .content {
+    text-align: justify;
+}
+
+
+@media (min-width: $large-breakpoint) {
+
+// undo something
+
+.section {
+    padding: 0;
+  }
+
+.intro {
+    padding-top: 0;
+}
+
+.index .content {
+    padding-top: 2rem;
+}
+
+.join-us {
+    padding-left: 0;
+}
+
+}
+
+
