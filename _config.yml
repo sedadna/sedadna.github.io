@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Mersorcium
-tagline:          'Mercury consortium'
-description:      'The microbial Hg cycling consortium.'
-url:              https://mersorcium.github.io
+title:            SedaDNA
+tagline:          'The sedaDNA scientific society'
+description:      'The international network of researchers using ancient environmental DNA.'
+url:              https://sedadna.github.io/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -15,7 +15,7 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Heyu Lin'
+  name:           'Eric Capo'
   url:            https://twitter.com/linheyu
 
 paginate:         5
@@ -34,4 +34,4 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 disqus:
-  shortname: mersorcium
+  shortname: sedadna-society
