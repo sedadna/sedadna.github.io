@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Literature surveys
 sidebar_link: true
 ---
 
-Some stuffs to add
+We offer you some papers to read
