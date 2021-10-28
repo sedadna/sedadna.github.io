@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Code of conduct
 sidebar_link: true
 ---
 
@@ -14,11 +14,11 @@ The sedaDNA scientific society is engaged to grow and evolve with its members. T
 
 In this aspect, the sedaDNA scientific society is committed to reinforce the following principles:
 
-    Avoid and reprimand discremination and harassment
+- Avoid and reprimand discremination and harassment
 
-    Insure and promote honest and respectful research
+- Insure and promote honest and respectful research
 
-    Trust, respect, fairness and integrity in all activities offered by the society
+- Trust, respect, fairness and integrity in all activities offered by the society
 
  
 
