@@ -16,7 +16,7 @@ baseurl:          '/'
 
 author:
   name:           'Eric Capo'
-  url:            https://twitter.com/linheyu
+  url:           
 
 paginate:         5
 # paginate_path:    '/page:num'
