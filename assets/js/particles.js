@@ -4,7 +4,7 @@ document.addEventListener(
         "particles-js",
         {particles:
             {number:{value:430,density:{enable:!0,value_area:400}},
-            color:{value:"#141212"},
+            color:{value:"#ffffff"},
             shape:{type:"circle",stroke:{width:0,color:"#000000"},polygon:{nb_sides:5},image:{src:"img/github.svg",width:100,height:100}},
             opacity:{value:1,random:!0,anim:{enable:!0,speed:1,opacity_min:0,sync:!1}},
             size:{value:3,random:!0,anim:{enable:!1,speed:4,size_min:.3,sync:!1}},
