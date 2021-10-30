@@ -35,7 +35,7 @@ sidebar_link: true
 </div>
 
 <div class="section Trisha">
-<p>  <a href="https://www.trishaspanbauer.com/" target="_blank"><b>Trisha Spanbauer</b></a> </p>        
+<p>  <a href="https://www.trishaspanbauer.com/" target="_blank"><b>Trisha Spanbauer</b></a> has a Ph.D. in geology and biology from the University of Nebraska-Lincoln and her research is focused on paleolimnology, with an emphasis on the ecology and evolution of algae. She is currently an assistant professor at the University of Toledo where she runs a sedimentary DNA and a molecular ecology lab. </p>        
 </div>
 
 </div>
