@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code of conduct
-sidebar_link: true
+sidebar_link: false
 ---
 
 
