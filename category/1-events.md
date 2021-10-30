@@ -12,6 +12,12 @@ Session at JASM2022?
 ---
 
 **Past events**
+
+Mini-Symposium "Recovering DNA from sedimentary archives"
+ <iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=-57oTu1CrpU">
+</iframe> 
+
 Seminar on 17 June 2021 with Bárbara Moguel as invited speaker “Metagenomic analysis of Lake Chalco sediments reveals large taxonomic diversity providing insights into the Holocene of Central Mexico”
 
 Seminar on 20 May 2021 with Viviane Slon and Benjamin Vernot as invited speakers “Identifying ancient human mitochondrial DNA in Pleistocene sediment" and 
