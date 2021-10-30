@@ -7,7 +7,7 @@ sidebar_link: true
 <div class="section organizing board">
 <h3 class="section-title underline">The organizing board</h3>  
 <div class="section Eric">
-<p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> has a PhD in molecular paleoecology with  strong interests in the ecology of freshwater and marine microbial communities and their responses to environmental perturbations. Eric is the founder and coordinator of the sedaDNA scientific society</p>  
+<p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> has a PhD in molecular paleoecology with  strong interests in the ecology of freshwater and marine microbial communities and their responses to environmental perturbations. Eric is the founder and coordinator of the society and is currently a post-doc fellow at ICM-CSIC (Barcelona, Spain)</p>  
 </div>
 
 <div class="section Marie-Eve">
@@ -15,7 +15,7 @@ sidebar_link: true
 </div>
 
 <div class="section Kevin">
-<p>  <a href="https://www.researchgate.net/profile/Kevin_Nota2" target="_blank"><b>Kevin Nota</b></a> </p>        
+<p>  <a href="https://www.researchgate.net/profile/Kevin_Nota2" target="_blank"><b>Kevin Nota</b></a> is a PhD student at Uppsala university specialising in molecular paleoecology, with the main focus and interest in reconstructing past flora. Within the society, Kevin is responsible for distributing the monthly newsletters. </p>        
 </div>
 
 <div class="section Cecilia">
