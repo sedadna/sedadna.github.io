@@ -10,9 +10,11 @@ title: Events
 <p>Session "Deciphering past aquatic ecosystem dynamics using sedimentary ancient DNA" at the <a href="https://jasm2022.aquaticsocieties.org/"><b>JASM2022</b></a> meeting</p>
 </div>
 
+
 ---
 
-**Past events**
+<div class="section">
+<h3 class="section-title underline">Pasts Events</h3>
 
 04 October 2021 : Mini-Symposium "Recovering DNA from sedimentary archives"
 
