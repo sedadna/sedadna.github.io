@@ -15,7 +15,7 @@ sidebar_link: true
 </div>
 
 <div class="section Kevin">
-<p>  <a href="https://www.researchgate.net/profile/Kevin_Nota2" target="_blank"><b>Kevin Nota</b></a> is a PhD student at Uppsala university specialising in molecular paleoecology, with the main focus and interest in reconstructing past flora. Within the society, Kevin is responsible for distributing the monthly newsletters. </p>        
+<p>  <a href="https://www.researchgate.net/profile/Kevin_Nota2" target="_blank"><b>Kevin Nota</b></a> is a PhD student at Uppsala university specialising in molecular paleoecology, with the main focus and interest in reconstructing past flora. Within the society, Kevin is responsible for distributing the monthly newsletters and co-organized the first society symposium. </p>        
 </div>
 
 <div class="section Cecilia">
