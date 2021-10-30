@@ -5,27 +5,27 @@ title: Events
 
 ---
 
-**Upcoming events**
-
-Session at JASM2022?
+<div class="section">
+<h3 class="section-title underline">Upcoming Events</h3>
+<p>Session "Deciphering past aquatic ecosystem dynamics using sedimentary ancient DNA" at the <a href="https://jasm2022.aquaticsocieties.org/"><b>JASM2022</b></a> meeting</p>
+</div>
 
 ---
 
 **Past events**
 
-Mini-Symposium "Recovering DNA from sedimentary archives"
- <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=-57oTu1CrpU">
-</iframe> 
+04 October 2021 : Mini-Symposium "Recovering DNA from sedimentary archives"
 
-Seminar on 17 June 2021 with Bárbara Moguel as invited speaker “Metagenomic analysis of Lake Chalco sediments reveals large taxonomic diversity providing insights into the Holocene of Central Mexico”
+09-10 June 2021: First Symposium of the African sedaDNA working group
 
-Seminar on 20 May 2021 with Viviane Slon and Benjamin Vernot as invited speakers “Identifying ancient human mitochondrial DNA in Pleistocene sediment" and 
-“DNA in cave sediments reveals Neandertal population history”
+17 June 2021 : Seminar with Bárbara Moguel  “Metagenomic analysis of Lake Chalco sediments reveals large taxonomic diversity providing insights into the Holocene of Central Mexico” as invited speaker
 
-Seminar on 14 April 2021 with Jill Pelto as invited speaker "Science Communication Through Art" 
+20 May 2021 : Seminar with Viviane Slon “Identifying ancient human mitochondrial DNA in Pleistocene sediment" and Benjamin Vernot 
+“DNA in cave sediments reveals Neandertal population history” as invited speakers
 
-Seminar on 18 March 2021 with Hussein Kanbar as invited speaker "The effect of lake sediment geochemistry on DNA binding"
+14 April 2021 : Seminar with with Jill Pelto "Science Communication Through Art" as invited speaker
 
-Seminar on 18 February 2021 with Rebecca Garner as invited speaker "Sediment metagenomes as time capsules of lake microbiomes"
+18 March 2021 : Seminar with with Hussein Kanbar "The effect of lake sediment geochemistry on DNA binding" as invited speaker
+
+18 February 2021 : Seminar with Rebecca Garner "Sediment metagenomes as time capsules of lake microbiomes" as invited speaker
 
