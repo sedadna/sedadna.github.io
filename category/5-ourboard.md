@@ -4,6 +4,8 @@ title: Our board
 sidebar_link: true
 ---
 
+<div class="section organizing board">
+      <h3 class="section-title underline">The organizing board</h3>  
 <div class="section Eric">
 <p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> has a PhD in molecular paleoecology with  strong interests in the ecology of freshwater and marine microbial communities and their responses to environmental perturbations. Eric is the founder and coordinator of the sedaDNA scientific society</p>  
 </div>
@@ -36,17 +38,17 @@ sidebar_link: true
 <p>  <a href="https://www.trishaspanbauer.com/" target="_blank"><b>Trisha Spanbauer</b></a> </p>        
 </div>
 
+</div>
 
 <div class="section advisory board">
       <h3 class="section-title underline">The advisory board</h3>  
   <p>The advisory board is currently composed by 22 members including many recognized experts in paleoecology, paleogenomics, molecular ecology and more particularly sedaDNA research.</p>
-  </div>
+</div>
 
 <div class="section">
-
-    <div class="avatar">
-
-      <div class ="member">
+  <div class="avatar">
+      
+        <div class ="member">
         <div class="square"><a href="https://en.uit.no/ansatte/person?p_document_id=164266" target="_blank"><img src="{{ "/assets/board-members/Inger.png" | relative_url }}" alt="Avatar" /></a></div>
         <p>Inger G. Alsos</p>
         <p>UiT, Tromsø, Norway </p>
@@ -70,7 +72,7 @@ sidebar_link: true
         <p>WA-OIGC, Curtin University, Australia</p>
       </div>
 
-       </div>
+   </div>
 
  <div class="section">
      <br> 
