@@ -21,5 +21,5 @@ title: Events
 <a href="https://www.youtube.com/watch?v=ioBCcIICxwQ"><b>17 June 2021</b></a> Seminar with Bárbara Moguel  “Metagenomic analysis of Lake Chalco sediments reveals large taxonomic diversity providing insights into the Holocene of Central Mexico” as invited speaker
 <a href="https://www.youtube.com/watch?v=0QYkxPMCQuk"><b>20 May 2021</b></a> Seminar with Viviane Slon “Identifying ancient human mitochondrial DNA in Pleistocene sediment" and Benjamin Vernot “DNA in cave sediments reveals Neandertal population history” as invited speakers
 <a href="https://www.youtube.com/watch?v=ZPYRj8lIn-c"><b>14 April 2021 </b></a> Seminar with with Jill Pelto "Science Communication Through Art" as invited speaker
-<a href="https://www.youtube.com/watch?v=59ZmHbODaUk"><b>18 March 2021 </b></a> Seminar with with Hussein Kanbar "The effect of lake sediment geochemistry on DNA binding" as invited speaker
+<a href="https://www.youtube.com/watch?v=59ZmHbODaUk"><b>18 March 2021 </b></a> Seminar with Hussein Kanbar "The effect of lake sediment geochemistry on DNA binding" as invited speaker
 <a href="https://www.youtube.com/watch?v=0xt41PY25Xs"><b>18 February 2021</b></a> Seminar with Rebecca Garner "Sediment metagenomes as time capsules of lake microbiomes" as invited speaker
