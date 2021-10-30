@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <div class="section Eric">
-<p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</a> has a PhD in molecular paleoecology with  strong interests in the ecology of freshwater and marine microbial communities and their responses to environmental perturbations. Eric is the founder and coordinator of the sedaDNA scientific society</p>  
+<p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> has a PhD in molecular paleoecology with  strong interests in the ecology of freshwater and marine microbial communities and their responses to environmental perturbations. Eric is the founder and coordinator of the sedaDNA scientific society</p>  
 </div>
 
 <div class="section Marie-Eve">
