@@ -4,6 +4,11 @@ Title: Our board
 sidebar_link: true
 ---
 
+<div class="intro">
+<h3 class="section-title underline">About us</h3>
+<p>The sedaDNA scientific society aims to transmit information about current sedaDNA research, promote best practices and increase collaborations between research groups. Our research is based on the use of the <b>sedimentary ancient DNA</b> (sedaDNA), a tool largely used to track past long-term changes in terrestrial and aquatic biodiversity.  The primary aim of the society is to share informations about sedaDNA research.</p>
+</div>
+
 <div class="section organizing board">
 <h3 class="section-title underline">The organizing board</h3>  
 </div>
