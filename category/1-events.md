@@ -7,7 +7,7 @@ title: Events
 
 <div class="section">
 <h3 class="section-title underline">Upcoming Events</h3>
-<p>Session "Deciphering past aquatic ecosystem dynamics using sedimentary ancient DNA" at the <a href="https://jasm2022.aquaticsocieties.org/"><b>JASM2022</b></a> meeting</p>
+<p>Session "Deciphering past aquatic ecosystem dynamics using sedimentary ancient DNA" at the <a href="https://jasm2022.aquaticsocieties.org/"><b>JASM2022</b></a> meeting.</p>
 </div>
 
 
