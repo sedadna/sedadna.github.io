@@ -1,12 +1,14 @@
 ---
-layout: page
 title: Our members
 sidebar_link: true
 ---
 
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
-<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0/handlebars.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<html>
+  <body>
+    <!-- We'll need to include Google Maps, Handlebars for templating, and jQuery for general futzing about -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0/handlebars.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
     <!-- Tabletop.js for accessing Google Spreadsheets and Mapsheet.js for mapping, of course -->
     <script type="text/javascript" src="tabletop.js"></script>
@@ -49,3 +51,5 @@ sidebar_link: true
         });
       });
     </script>
+  </body>
+</html>
