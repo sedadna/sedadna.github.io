@@ -1,7 +1,6 @@
 ---
 layout: category
 Title: Our members
-sidebar_link: true
 ---
 
 <div class="section organizing board">
