@@ -4,7 +4,11 @@ title: Newsletters
 ---
 
 <div class="section">
-<h3 class="Monthly newsletters">Monthly newsletters</h3>
+<h3 class="section-title underline">Monthly newsletters</h3>
+</div>
+
+<div class="intro">
+<p><a href="https://mailchi.mp/4add8545938a/sedadna-society-february-2021-newsletter" target="_blank"><b>February 2021</b></a> - <a href="https://mailchi.mp/0f3827b0858e/sedadna-society-march-2021-newsletter" target="_blank"><b>March 2021</b></a> - <a href="https://mailchi.mp/845fac603b38/sedadna-society-april-2021-newsletter" target="_blank"><b>April 2021</b></a> - <a href="https://mailchi.mp/0f04ef9f22a8/sedadna-society-may-seminar" target="_blank"><b>May 2021</b></a> - <a href="https://mailchi.mp/2eb31c40a2fc/sedadna-society-june-2021-newsletter" target="_blank"><b>June 2021</b></a> - <a href="https://mailchi.mp/b17fd202cdce/sedadna-society-july-2021-newsletter" target="_blank"><b>July 2021</b></a> - <a href="https://mailchi.mp/1ac834a88670/sedadna-society-september-2021-newsletter" target="_blank"><b>September 2021</b></a> - <a href="https://mailchi.mp/7fdaf9114c3a/sedadna-society-october-2021-newsletter" target="_blank"><b>October 2021</b></a>.</p>
 </div>
 
 <div class="section">
