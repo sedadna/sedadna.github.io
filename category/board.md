@@ -1,14 +1,15 @@
 ---
 layout: default
 Title: Our board
+sidebar_link: true
 ---
 
 <div class="section organizing board">
 <h3 class="section-title underline">The organizing board</h3>  
 </div>
 
-
-<div class="intro">
+<div class="section">
+<div class="section Eric">
 <p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> has a PhD in molecular paleoecology with  strong interests in the ecology of freshwater and marine microbial communities. Eric is the founder and coordinator of the society and is currently a post-doc fellow at ICM-CSIC (Barcelona, Spain).</p>  
 </div>
 
