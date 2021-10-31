@@ -1,19 +1,10 @@
 ---
-layout: default
+layout: category
 Title: Our board
-sidebar_link: true
 ---
 
 <div class="intro">
-<h3 class="section-title underline">About us</h3>
-<p>The sedaDNA scientific society aims to transmit information about current sedaDNA research, promote best practices and increase collaborations between research groups. Our research is based on the use of the <b>sedimentary ancient DNA</b> (sedaDNA), a tool largely used to track past long-term changes in terrestrial and aquatic biodiversity.  The primary aim of the society is to share informations about sedaDNA research.</p>
-</div>
-
-<div class="section organizing board">
 <h3 class="section-title underline">The organizing board</h3>  
-</div>
-
-<div class="section">
 <div class="section Eric">
 <p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> has a PhD in molecular paleoecology with  strong interests in the ecology of freshwater and marine microbial communities. Eric is the founder and coordinator of the society and is currently a post-doc fellow at ICM-CSIC (Barcelona, Spain).</p>  
 </div>
@@ -45,7 +36,6 @@ sidebar_link: true
 <div class="section Trisha">
 <p>  <a href="https://www.trishaspanbauer.com/" target="_blank"><b>Trisha Spanbauer</b></a> has a Ph.D. in geology and biology from the University of Nebraska-Lincoln and her research is focused on paleolimnology, with an emphasis on the ecology and evolution of algae. She is currently an assistant professor at the University of Toledo where she runs a sedimentary DNA and a molecular ecology lab. </p>        
 </div>
-
 </div>
 
 <div class="section advisory board">
