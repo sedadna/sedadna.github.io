@@ -1,46 +1,54 @@
 <div id="sidebar">
 
-  <header>
-  <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
-    
-     {% unless page.url == "/" %}
-     <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
-     {% endunless %}
-  <img src="/assets/whitelogo.png" alt="The sedaDNA society"  role="log"/>
-        </a>
-      </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
-      <p class="lead">{{ site.description }}</p>
-    </header>
+<header>
+<{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
+{% unless page.url == "/" %}
+<span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
+{% endunless %}
+<img src="/assets/whitelogo.png" alt="The sedaDNA society"  role="log"/>
+</a>
+</{% if page.layout == "index" %}h1{% else %}div{% endif %}>
+<p class="lead">{{ site.description }}</p>
+ </header>
 
 <nav id="sidebar-nav-links">
-  {% if site.sidebar_home_link %}
-    <a class="home-link {% if page.url == '/' %} active{% endif %}"
-        href="{{ "/" | relative_url }}">Home</a>
-  {% endif %}
-  {% if site.sidebar_blog_link %}
-    <a class="page-link {% if page.url == site.sidebar_blog_link %} active{% endif %}"
-	href="{{ site.sidebar_blog_link | relative_url }}">Blog</a>
-  {% endif %}
+{% if site.sidebar_home_link %}
+<a class="home-link {% if page.url == '/' %} active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
+{% endif %}
+{% if site.sidebar_blog_link %}
+<a class="page-link {% if page.url == site.sidebar_blog_link %} active{% endif %}" href="{{ site.sidebar_blog_link | relative_url }}">Blog</a>
+{% endif %}
 
-  {% comment %}
-    The code below dynamically generates a sidebar nav of pages with
-    `sidebar_link: true` in the front-matter. See readme for usage.
-  {% endcomment %}
+{% assign pages_list = site.pages|sort:"sidebar_sort_order" %}
+{% for node in pages_list %}
+{% if node.title != null %}
+{% if node.sidebar_link %}
+<a class="page-link {% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}">{% if node.short_title != null %}{{ node.short_title }}{% else %}{{ node.title }}{% endif %}</a>
+{% endif %}
+{% endif %}
+{% endfor %}
+	
+{% comment %}
+Dynamically generate list of links to all category pages
+{% endcomment %}
+{% assign pages_list = site.pages|sort:"sidebar_sort_order" %}
+{% for node in pages_list %}
+{% if node.title != null %}
+{% if node.layout == "category" %}
+<a class="category-link {% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}">{{ node.title }}</a>
+{% endif %}
+{% endif %}
+{% endfor %}
 
-  {% include page-links.html %}
-  {% include category-links.html %}
-
-  {% include custom-nav-links.html %}
+{% include custom-nav-links.html %}
 </nav>
-
 {% if site.version %}
 <span class="site-version">Currently v{{ site.version }}</span>
 {% endif %}
 {% include sidebar-icon-links.html %}
 
-<p class='copyright'>
-  &copy; {{ site.time | date: '%Y' }}.
-  <a href="{{ "/LICENSE.md" | relative_url }}">MIT License.</a>
+<p class='copyright'> &copy; {{ site.time | date: '%Y' }}.
+<a href="{{ "/LICENSE.md" | relative_url }}">MIT License.</a>
 </p>
 
 </div>
