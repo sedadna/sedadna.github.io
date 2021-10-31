@@ -11,36 +11,12 @@
 <p class="lead">{{ site.description }}</p>
  </header>
 
-<nav id="sidebar-nav-links">
-{% if site.sidebar_home_link %}
-<a class="home-link {% if page.url == '/' %} active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
-{% endif %}
-{% if site.sidebar_blog_link %}
-<a class="page-link {% if page.url == site.sidebar_blog_link %} active{% endif %}" href="{{ site.sidebar_blog_link | relative_url }}">Blog</a>
-{% endif %}
+<a href="/category/board.html" target="_blank">Our board</a>
+<a href="/category/members.html" target="_blank">Members</a>
+<a href="/category/news.html" target="_blank">Newsletters</a>
+<a href="/category/events.html" target="_blank">Events</a>
+<a href="/category/outcomes.html" target="_blank">Outcomes</a>
 
-{% assign pages_list = site.pages|sort:"sidebar_sort_order" %}
-{% for node in pages_list %}
-{% if node.title != null %}
-{% if node.sidebar_link %}
-<a class="page-link {% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}">{% if node.short_title != null %}{{ node.short_title }}{% else %}{{ node.title }}{% endif %}</a>
-{% endif %}
-{% endif %}
-{% endfor %}
-	
-{% comment %}
-Dynamically generate list of links to all category pages
-{% endcomment %}
-{% assign pages_list = site.pages|sort:"sidebar_sort_order" %}
-{% for node in pages_list %}
-{% if node.title != null %}
-{% if node.layout == "category" %}
-<a class="category-link {% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}">{{ node.title }}</a>
-{% endif %}
-{% endif %}
-{% endfor %}
-
-{% include custom-nav-links.html %}
 </nav>
 {% if site.version %}
 <span class="site-version">Currently v{{ site.version }}</span>
