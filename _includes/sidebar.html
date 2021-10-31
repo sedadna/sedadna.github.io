@@ -11,14 +11,7 @@
 <p class="lead">{{ site.description }}</p>
  </header>
 
-<nav id="sidebar-nav-links">
-{% if site.sidebar_home_link %}
-<a class="home-link {% if page.url == '/' %} active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
-{% endif %}
-{% if site.sidebar_blog_link %}
-<a class="page-link {% if page.url == site.sidebar_blog_link %} active{% endif %}" href="{{ site.sidebar_blog_link | relative_url }}">Blog</a>
-{% endif %}
- 
+<a href="https://sedadna.github.io/">Home</a> 
 <a href="/category/board.html">Our board</a>
 <a href="/category/members.html">Members</a>
 <a href="/category/news.html">Newsletters</a>
