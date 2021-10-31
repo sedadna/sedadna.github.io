@@ -1,8 +1,3 @@
----
-title: Our members
-sidebar_link: true
----
-
 <html>
   <body>
     <!-- We'll need to include Google Maps, Handlebars for templating, and jQuery for general futzing about -->
