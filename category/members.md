@@ -1,7 +1,51 @@
 ---
 layout: page
-title: Our board
+title: Our members
 sidebar_link: true
 ---
 
-Some stuffs to add
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0/handlebars.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+    <!-- Tabletop.js for accessing Google Spreadsheets and Mapsheet.js for mapping, of course -->
+    <script type="text/javascript" src="tabletop.js"></script>
+    <script type="text/javascript" src="mapsheet.js"></script>
+
+    <!-- This is where the map will go -->
+    <div id="map"></div>
+
+    <!-- Let's make the map not too big -->
+    <style>
+      #map {
+        width: 600px;
+        height: 500px;
+      }
+    </style>
+
+    <!-- This is the popup you'll get when you click a marker. 
+         {{these}} are columns in your spreadsheet -->
+    <script id="popup-template" type="text/x-handlebars-template">
+      <img src="{{image}}">
+      <h3>{{name}}</h3>
+      <p>{{location}} in {{neighborhood}}</p>
+    </script>
+
+    <!-- Okay, time to do this! -->
+    <script type="text/javascript">
+      $(document).ready( function() {       
+        // Make sure the spreadsheet is published!
+        var published_spreadsheet_url = 'https://docs.google.com/spreadsheet/pub?key=0AmYzu_s7QHsmdGNzMnkwbXRyVmdyZGdrWVRoMWRKVGc&output=html'; 
+
+        // Let's get the popup template and compile it using Handlebars
+        var source   = $("#popup-template").html();
+        var template = Handlebars.compile(source);
+
+        // OK, now let's make the map
+        var map = Mapsheet({
+          key: published_spreadsheet_url,
+          element: "map",
+          popupTemplate: template
+        });
+      });
+    </script>
