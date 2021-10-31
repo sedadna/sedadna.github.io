@@ -1,7 +1,6 @@
 ---
 layout: category
 Title: Our board
-sidebar_link: true
 ---
 
 <div class="section organizing board">
