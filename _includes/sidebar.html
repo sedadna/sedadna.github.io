@@ -11,11 +11,19 @@
 <p class="lead">{{ site.description }}</p>
  </header>
 
-<a href="/category/board.html" target="_blank">Our board</a>
-<a href="/category/members.html" target="_blank">Members</a>
-<a href="/category/news.html" target="_blank">Newsletters</a>
-<a href="/category/events.html" target="_blank">Events</a>
-<a href="/category/outcomes.html" target="_blank">Outcomes</a>
+<nav id="sidebar-nav-links">
+{% if site.sidebar_home_link %}
+<a class="home-link {% if page.url == '/' %} active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
+{% endif %}
+{% if site.sidebar_blog_link %}
+<a class="page-link {% if page.url == site.sidebar_blog_link %} active{% endif %}" href="{{ site.sidebar_blog_link | relative_url }}">Blog</a>
+{% endif %}
+ 
+<a href="/category/board.html">Our board</a>
+<a href="/category/members.html">Members</a>
+<a href="/category/news.html">Newsletters</a>
+<a href="/category/events.html">Events</a>
+<a href="/category/outcomes.html"_blank">Outcomes</a>
 
 </nav>
 {% if site.version %}
@@ -26,5 +34,4 @@
 <p class='copyright'> &copy; {{ site.time | date: '%Y' }}.
 <a href="{{ "/LICENSE.md" | relative_url }}">MIT License.</a>
 </p>
-
 </div>
