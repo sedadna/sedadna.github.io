@@ -92,8 +92,7 @@ Title: Our board
 </div>
 
 <div class="section Kuldeep">
-<p>  <a href="https://www.researchgate.net/profile/Kuldeep_More2" target="_blank"><b>Kuldeep More</b></a> </p>    
-<p>Kuldeep More has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He is currently working as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France.</p>
+<p>  <a href="https://www.researchgate.net/profile/Kuldeep_More2" target="_blank"><b>Kuldeep More</b></a> has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He is currently working as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France.</p>
 </div>
 
 <div class="section Joanna">
