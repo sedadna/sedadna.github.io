@@ -66,6 +66,7 @@ Title: Our board
 <p>Trisha Spanbauer</p>
 <p>Toledo University</p>
 <p>Toledo, USA</p>
+<br>
 </div>
          
 </div>
