@@ -3,8 +3,73 @@ layout: category
 Title: Our board
 ---
 
+<div class="section">
+<h3 class="section-title underline">The organizing board</h3>
+</div>
+
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Eric Capo</p>
+<p>Coordinator</p>
+<p>ICM-CSIC</p>
+<p>Barcelona, Spain</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Marie-Eve Monchamp</p>
+<p>McGill University</p>
+<p>Montréal, Canada</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Kevin-Nota" target="_blank"><img src="{{ "/assets/board-members/Kevin.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kevin Nota</p>
+<p>Uppsala University</p>
+<p>Uppsala, Sweden</p>
+</div>
+  
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><img src="{{ "/assets/board-members/Cecilia2.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Cécilia Barouillet</p>
+<p>INRAE UMR CARRTEL</p>
+<p>Thonon-les-Bains, France</p>
+</div>
+<br>  
+</div>
+
+<div class="avatar">
+              
+<div class ="member">
+<div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><img src="{{ "/assets/board-members/Alex.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Alexandra Rouillard</p>
+<p>UiT, Tromsø, Norway</p>
+</div>
+          
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Kuldeep-More" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kuldeep More</p>
+<p>CAGT</p>
+<p>Toulouse, France</p>  
+</div>   
+        
+<div class ="member">
+<div class="square"><a href="http://www.iopan.gda.pl/projects/Dwarf/participants-7.html" target="_blank"><img src="{{ "/assets/board-members/Joanna2.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Joanna Pawłowska</p>
+<p>IOPAN, Sopot, Poland</p>
+</div>       
+    
+<div class ="member">
+<div class="square"><a href="https://www.trishaspanbauer.com/" target="_blank"><img src="{{ "/assets/board-members/Trisha.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Trisha Spanbauer</p>
+<p>Toledo University</p>
+<p>Toledo, USA</p>
+</div>
+         
+</div>
 <div class="intro">
-<h3 class="section-title underline">The organizing board</h3>  
 <div class="section Eric">
 <p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> has a PhD in molecular paleoecology with  strong interests in the ecology of freshwater and marine microbial communities. Eric is the founder and coordinator of the society and is currently a post-doc fellow at ICM-CSIC (Barcelona, Spain).</p>  
 </div>
@@ -26,7 +91,8 @@ Title: Our board
 </div>
 
 <div class="section Kuldeep">
-<p>  <a href="https://www.researchgate.net/profile/Kuldeep_More2" target="_blank"><b>Kuldeep More</b></a> </p>        
+<p>  <a href="https://www.researchgate.net/profile/Kuldeep_More2" target="_blank"><b>Kuldeep More</b></a> </p>    
+<p>Kuldeep More has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He is currently working as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France.</p>
 </div>
 
 <div class="section Joanna">
