@@ -72,11 +72,11 @@ Title: Our board
 </div>
 <div class="intro">
 <div class="section Eric">
-<p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> has a PhD in molecular paleoecology from INRAE UMR CARRTEL (Thonon-les-Bains, France) with  strong interests in the ecology of freshwater and marine microbial communities. Eric is the founder and coordinator of the society and is currently a post-doc fellow at ICM-CSIC (Barcelona, Spain) and guest researcher at SLU (Uppsala, Sweden).</p>  
+<p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> has a Ph.D. in molecular paleoecology from INRAE UMR CARRTEL (Thonon-les-Bains, France) with  strong interests in the ecology of freshwater and marine microbial communities. Eric is the founder and coordinator of the society and is currently a post-doc fellow at ICM-CSIC (Barcelona, Spain) and guest researcher at SLU (Uppsala, Sweden).</p>  
 </div>
 
 <div class="section Marie-Eve">
-<p>  <a href="https://marie-evemonchamp.weebly.com/" target="_blank"><b>Marie-Eve Monchamp</b></a> </p>        
+<p>  <a href="https://marie-evemonchamp.weebly.com/" target="_blank"><b>Marie-Eve Monchamp</b></a> </p> has a Ph.D. in Environmental Systems Science from the Swiss Federal Institute of Technology (ETH) (Zurich, Switzerland). Her research interests are focussed on the impact of human activities on freshwater biota. She is currently an NSERC postdoctoral fellow at McGill University (Montréal, Canada) where she applies eDNA, sedDNA and eRNA approaches to study lacustrine biodiversity and ecosystem function. Marie-Eve is the leader of the PAGES PaleoEcoGen Working Group.       
 </div>
 
 <div class="section Kevin">
