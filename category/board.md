@@ -277,12 +277,10 @@ Title: Our board
 
 
 <div class="section advisory board">
-<h3 class="section-title underline">The advisory board</h3>  
-<p>The advisory board is composed by recognized experts in paleoecology, paleogenomics, molecular ecology and more particularly sedaDNA research.</p>
+<h3 class="section-title underline">Alumni</h3>  
 </div>
 
 <div class="avatar">
-      
 <div class ="member">
 <div class="square"><img src="{{ "/assets/board-members/Erin.jpg" | relative_url }}" alt="Avatar" /></div>
 <p>Erin E. Smith</p>
