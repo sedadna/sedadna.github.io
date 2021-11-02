@@ -5,7 +5,7 @@ Title: Our members
 
 <div class="section organizing board">
 <h3 class="section-title underline">The members</h3>  
-<div class="section">
+<div class="intro">
 <p> The society is currently composed by 289 members from XX research groups from XX countries. You can find below some informations about our members. If you want to add your info here, please email a pic and your website to <b>k.more@graduate.curtin.edu.au</b></p>
 <br>
 </div>
@@ -32,6 +32,22 @@ Title: Our members
 <p>Montréal, Canada</p>
 </div> 
 
+<div class ="member">
+<div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Marie-Eve Monchamp</p>
+<p>McGill University</p>
+<p>Montréal, Canada</p>
+</div> 
+  
+
+<div class ="member">
+<div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Marie-Eve Monchamp</p>
+<p>McGill University</p>
+<p>Montréal, Canada</p>
+</div> 
+
+  
 <div class ="member">
 <div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Marie-Eve Monchamp</p>
