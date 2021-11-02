@@ -88,7 +88,7 @@ Title: Our board
 </div>
 
 <div class="section Alex">
-<p>  <a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><b>Alexandra Rouillard</b></a> </p>        
+<p>  <a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><b>Alexandra Rouillard</b></a> has a Ph.D. in Plant Biology (paleoecology) and is currently a postdoc at UiT The Arctic University of Norway in Tromsø also affiliated with GeoGenetics, GLOBE, at the The University of Copenhagen, Denmark. Her research aims to understand the role of climatic shifts on the diversity and function of Arctic species and ecosystems over a range of timescales using molecular and geochemical proxies from lake sediments. Alex is in charge of promoting our members' outreach and science communication content on sedaDNA.</p>        
 </div>
 
 <div class="section Kuldeep">
