@@ -3,13 +3,14 @@ layout: category
 Title: Popular Science
 ---
 
+
 <div class="section">
-<h3 class="section-title underline">Popular Sciences and outreach</h3>
+<h3 class="section-title underline">Popular science and outreach</h3>
 </div>
 
 <div class="intro">
 <div class="section Eric">
-<p> Our society would like to help sharing the sedaDNA research with all. To do so, blablabla. <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> interests in the ecology of freshwater and marine microbial communities.</p>  
+<p> Our society would like to help sharing the sedaDNA research with all. To do so, blablabla. <a href="https://laurap.it/events" target="_blank"><b>Science & Art</b></a> interests in the ecology of freshwater and marine microbial communities.</p>  
 </div>
 
 <div class="avatar">
