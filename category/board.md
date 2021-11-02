@@ -76,7 +76,7 @@ Title: Our board
 </div>
 
 <div class="section Marie-Eve">
-<p> <a href="https://marie-evemonchamp.weebly.com/" target="_blank"><b>Marie-Eve Monchamp</b></a> has a Ph.D. in Environmental Systems Science from the Swiss Federal Institute of Technology (ETH) (Zurich, Switzerland). Her research interests are focussed on the impact of human activities on freshwater biota. She is currently an NSERC postdoctoral fellow at McGill University (Montréal, Canada) where she applies eDNA, sedDNA and eRNA approaches to study lacustrine biodiversity and ecosystem function. Marie-Eve is the leader of the PAGES PaleoEcoGen Working Group.</p>        
+<p> <a href="https://marie-evemonchamp.weebly.com/" target="_blank"><b>Marie-Eve Monchamp</b></a> has a Ph.D. in Environmental Systems Science from the Swiss Federal Institute of Technology (ETH) (Zurich, Switzerland). Her research interests are focussed on the impact of human activities on freshwater biota. She is currently an NSERC postdoctoral fellow at McGill University (Montréal, Canada) where she applies eDNA, sedDNA and eRNA approaches to study lacustrine biodiversity and ecosystem function. Marie-Eve is the leader of the <a href="https://pastglobalchanges.org/taxonomy/term/104" target="_blank"><b>PAGES PaleoEcoGen Working Group</b></a>.</p>         
 </div>
 
 <div class="section Kevin">
@@ -84,7 +84,7 @@ Title: Our board
 </div>
 
 <div class="section Cecilia">
-<p>  <a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><b>Cecilia Barouillet</b></a> has a PhD in Biology paleolimnology from Queen's University (Kingston, Ontario, Canada). She did her PhD in the Paleoecological Environmental Assessment and Research Laboratory (PEARL) and is now a post-doctoral researcher at INRAE UMR CARRTEL (Thonon-les-Bains, France). Her research interests focus on reconstructing the long-term ecological trajectory of lakes and studying changes in lake ecosystems functioning in response to environmental change and anthropogenic stressors using traditional paleolimnological and sedDNA approaches. Cecilia coordinate actions in the <a href="https://ercapo.wixsite.com/sedadna-society/african-sedadna-wg" target="_blank"><b>African sedaDNA working group</b></a>. She is also Vice-President of the <a href="https://limnology.org/officers-and-boards/" target="_blank"><b>SIL</b></a>.</p>        
+<p>  <a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><b>Cecilia Barouillet</b></a> has a PhD in Biology paleolimnology from Queen's University (PEARL laboratory, Kingston, Canada, ) and is now post-doc at INRAE UMR CARRTEL (Thonon-les-Bains, France). Her research interests focus on reconstructing the long-term ecological trajectory of lakes and studying changes in lake ecosystems functioning in response to environmental change and anthropogenic stressors. Cecilia is VP at the <a href="https://limnology.org/officers-and-boards/" target="_blank"><b>International Society of Limnology</b></a> and coordinate actions in the <a href="https://ercapo.wixsite.com/sedadna-society/african-sedadna-wg" target="_blank"><b>African sedaDNA working group</b></a>.</p>        
 </div>
 
 <div class="section Alex">
