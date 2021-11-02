@@ -3,7 +3,6 @@ layout: category
 Title: Popular Science
 ---
 
-
 <div class="section">
 <h3 class="section-title underline">Popular Sciences and outreach</h3>
 </div>
