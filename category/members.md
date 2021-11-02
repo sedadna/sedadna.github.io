@@ -9,7 +9,8 @@ Title: Our members
 <p> The society is currently composed by 289 members from XX research groups from XX countries.</p>
 
 You can find below some informations about our members   
-  
+
+<div class="avatar">
 <div class ="member">
 <div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Marie-Eve Monchamp</p>
@@ -36,6 +37,7 @@ You can find below some informations about our members
 <p>Marie-Eve Monchamp</p>
 <p>McGill University</p>
 <p>Montréal, Canada</p>
+</div> 
 </div> 
 </div> 
   
