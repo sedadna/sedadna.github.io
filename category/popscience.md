@@ -1,6 +1,6 @@
 ---
 layout: category
-Title: Popular Sciences and Outreach
+Title: Popular Science
 ---
 
 
