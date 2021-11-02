@@ -10,7 +10,7 @@ Title: Popular Science
 
 <div class="intro">
 <div class="section Eric">
-<p> <a href="https://laurap.it/events" target="_blank"><b>Science & Art</b></a>
+<a href="https://laurap.it/events" target="_blank"><b>Science & Art</b></a>
 <p> 'Like Jill [Pelto] I like finding new ways to communicate science to a broader audience and especially through art. In these pieces of art Jill used scientific data from our research to increase awareness about what we do and to explain it in a simpler fashion.' - Laura Parducci </p>  
 </div>
 
