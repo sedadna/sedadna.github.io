@@ -96,7 +96,7 @@ Title: Our board
 </div>
 
 <div class="section Joanna">
-<p>  <a href="http://www.iopan.gda.pl/projects/Dwarf/participants-7.html" target="_blank"><b>Joanna Pawłowska</b></a> </p>        
+<p>  <a href="http://www.iopan.gda.pl/projects/Dwarf/participants-7.html" target="_blank"><b>Joanna Pawłowska</b></a> has a Ph.D. in oceanography from the Institute of Oceanology Polish Academy of Sciences IOPAN). She is currently an assistant professor in the IOPAN, where she runs the environmental DNA lab. Her research interests focus on the application of molecular tools for the assessment of benthic and planktonic ecosystems and for reconstructing past climate and environmental changes. A large part of her activities are devoted to developing environmental sedimentary ancient DNA as a new paleoceanographic proxy in the Arctic region.</p>     
 </div>
 
 <div class="section Trisha">
