@@ -11,7 +11,7 @@ Title: Popular Science
 <div class="intro">
 <div class="section Eric">
 <a href="https://laurap.it/events" target="_blank"><b>Science & Art</b></a>
-<p> 'Like Jill [Pelto] I like finding new ways to communicate science to a broader audience and especially through art. In these pieces of art Jill used scientific data from our research to increase awareness about what we do and to explain it in a simpler fashion.' - Laura Parducci </p>  
+<p> 'Like Jill [Pelto] I like finding new ways to communicate science to a broader audience and especially through art. In these pieces of art Jill used scientific data from our research to increase awareness about what we do and to explain it in a simpler fashion.' - <a href="https://www.laurap.it/" target="_blank"><b>Laura Parducci</b></a>, Assoc. Professor at Sapienza University of Rome </p>  
 </div>
 
 https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961  
