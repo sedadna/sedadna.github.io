@@ -41,7 +41,7 @@ Title: Our board
 </div>
 
 <div class="avatar">
-              
+<br>               
 <div class ="member">
 <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><img src="{{ "/assets/board-members/Alex.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Alexandra Rouillard</p>
