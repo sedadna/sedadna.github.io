@@ -39,6 +39,7 @@ You can find below some informations about our members
 <p>Montréal, Canada</p>
 </div> 
 </div> 
+<br>
 </div> 
   
 <div class ="intro">
