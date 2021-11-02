@@ -84,7 +84,7 @@ Title: Our board
 </div>
 
 <div class="section Cecilia">
-<p>  <a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><b>Cecilia Barouillet</b></a> has a PhD in Biology paleolimnology from Queen's University (PEARL laboratory, Kingston, Canada, ) and is now post-doc at INRAE UMR CARRTEL (Thonon-les-Bains, France). Her research interests focus on reconstructing the long-term ecological trajectory of lakes and studying changes in lake ecosystems functioning in response to environmental change and anthropogenic stressors. Cecilia is VP at the <a href="https://limnology.org/officers-and-boards/" target="_blank">International Society of Limnology</a> and coordinate actions in the <a href="https://ercapo.wixsite.com/sedadna-society/african-sedadna-wg" target="_blank">African sedaDNA working group</a>.</p>        
+<p>  <a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><b>Cecilia Barouillet</b></a> has a PhD in Biology paleolimnology from Queen's University (PEARL laboratory, Kingston, Canada) and is now post-doc at INRAE UMR CARRTEL (Thonon-les-Bains, France). Her research interests focus on reconstructing the long-term ecological trajectory of lakes and studying changes in lake ecosystems functioning in response to environmental change and anthropogenic stressors. Cecilia is VP at the <a href="https://limnology.org/officers-and-boards/" target="_blank">International Society of Limnology</a> and coordinate actions in the <a href="https://ercapo.wixsite.com/sedadna-society/african-sedadna-wg" target="_blank">African sedaDNA working group</a>.</p>        
 </div>
 
 <div class="section Alex">
