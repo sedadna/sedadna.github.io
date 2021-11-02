@@ -10,7 +10,7 @@ Title: Popular Science
 
 <div class="intro">
 <div class="section Eric">
-<p> Our society would like to help sharing the sedaDNA research with all. To do so, blablabla. <a href="https://laurap.it/events" target="_blank"><b>Science & Art</b></a> interests in the ecology of freshwater and marine microbial communities.</p>  
+<p> 'Jill depicted what we do in the fieldwork and how we use ancient and modern DNA data to understand plant response to climate change.' Laura Parducci <a href="https://laurap.it/events" target="_blank"><b>Science & Art</b></a> interests in the ecology of freshwater and marine microbial communities.</p>  
 </div>
 
 <div class="avatar">
