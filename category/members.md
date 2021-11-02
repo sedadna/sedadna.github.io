@@ -6,7 +6,7 @@ Title: Our members
 <div class="section organizing board">
 <h3 class="section-title underline">The members</h3>  
 <div class="section">
-<p> The society is currently composed by 289 members from XX research groups from XX countries.You can find below some informations about our members   </p>
+<p> The society is currently composed by 289 members from XX research groups from XX countries. You can find below some informations about our members   </p>
 <br>
 </div>
 
