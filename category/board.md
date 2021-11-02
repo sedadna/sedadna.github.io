@@ -92,15 +92,15 @@ Title: Our board
 </div>
 
 <div class="section Kuldeep">
-<p>  <a href="https://www.researchgate.net/profile/Kuldeep_More2" target="_blank"><b>Kuldeep More</b></a> has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He is currently working as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France.</p>
+<p>  <a href="https://www.researchgate.net/profile/Kuldeep_More2" target="_blank"><b>Kuldeep More</b></a> has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He is currently working as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France. In the society, Kuldeep is managing informations from new members.</p>
 </div>
 
 <div class="section Joanna">
-<p>  <a href="http://www.iopan.gda.pl/projects/Dwarf/participants-7.html" target="_blank"><b>Joanna Pawłowska</b></a> has a Ph.D. in oceanography from the Institute of Oceanology Polish Academy of Sciences IOPAN). She is currently an assistant professor in the IOPAN, where she runs the environmental DNA lab. Her research interests focus on the application of molecular tools for the assessment of benthic and planktonic ecosystems and for reconstructing past climate and environmental changes. A large part of her activities are devoted to developing environmental sedimentary ancient DNA as a new paleoceanographic proxy in the Arctic region.</p>     
+<p>  <a href="http://www.iopan.gda.pl/projects/Dwarf/participants-7.html" target="_blank"><b>Joanna Pawłowska</b></a> has a Ph.D. in oceanography from the Institute of Oceanology Polish Academy of Sciences IOPAN). She is currently an assistant professor in the IOPAN, where she runs the environmental DNA lab. Her research interests focus on the application of molecular tools for the assessment of benthic and planktonic ecosystems and for reconstructing past climate and environmental changes. Joanna´s role in the society is keeping up the sedaDNA literature survey.</p>     
 </div>
 
 <div class="section Trisha">
-<p>  <a href="https://www.trishaspanbauer.com/" target="_blank"><b>Trisha Spanbauer</b></a> has a Ph.D. in geology and biology from the University of Nebraska-Lincoln and her research is focused on paleolimnology, with an emphasis on the ecology and evolution of algae. She is currently an assistant professor at the University of Toledo where she runs a sedimentary DNA and a molecular ecology lab.</p>        
+<p>  <a href="https://www.trishaspanbauer.com/" target="_blank"><b>Trisha Spanbauer</b></a> has a Ph.D. in geology and biology from the University of Nebraska-Lincoln and her research is focused on paleolimnology, with an emphasis on the ecology and evolution of algae. She is currently an assistant professor at the University of Toledo where she runs a sedimentary DNA and a molecular ecology lab. Trisha is responsible for the organization of society seminars.</p>        
 </div>
 </div>
 
