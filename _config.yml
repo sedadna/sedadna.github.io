@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            SedaDNA
+title:            SedaDNA scientific society
 tagline:          'The sedaDNA scientific society'
 description:      'The international network of sedaDNA research'
 url:              https://sedadna.github.io/
