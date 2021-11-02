@@ -161,7 +161,7 @@ Title: Our board
       
 <div class ="member">
 <div class="square"><a href="https://www.limnologie.uni-konstanz.de/ag-epp-umweltgenomik/team/laura-epp/" target="_blank"><img src="{{ "/assets/board-members/LauraE.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Laura Epp</p>
+<p>Laura S. Epp</p>
 <p>Konstanz University, Germany</p>
 </div>
  
@@ -215,7 +215,7 @@ Title: Our board
       
 <div class ="member">
 <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/289258" target="_blank"><img src="{{ "/assets/board-members/Mikkel.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Mikkel Pedersen</p>
+<p>Mikkel W. Pedersen</p>
 <p>GLOBE, Copenhagen University, Denmark</p>
 </div>     
       
@@ -275,3 +275,16 @@ Title: Our board
       
 </div>  
 
+
+<div class="section advisory board">
+<h3 class="section-title underline">The advisory board</h3>  
+<p>The advisory board is composed by recognized experts in paleoecology, paleogenomics, molecular ecology and more particularly sedaDNA research.</p>
+</div>
+
+<div class="avatar">
+      
+<div class ="member">
+<div class="square"><img src="{{ "/assets/board-members/Erin.jpg" | relative_url }}" alt="Avatar" /></div>
+<p>Erin E. Smith</p>
+<p>UW-Madison, USA</p>
+</div>
