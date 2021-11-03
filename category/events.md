@@ -5,17 +5,16 @@ title: Events
 
 ---
 
-<div class="section">
+<div class="intro">
 <h3 class="section-title underline">Upcoming Events</h3>
-
-  <p>17 November 2021 : Society seminar by <b>Yucheng Wang</b> "Reconstructing 50,000 years Arctic environmental history using ancient eDNA"</p>
-  
-<p>Certain members are currently guest editors of <a href="/category/si.html" target="_blank"><b>special issues</b></a> about sedaDNA research.
-<p>Special Issue in the journal Diversity <a href="https://www.mdpi.com/journal/diversity/special_issues/ancient_faunal_diversity" target="_blank"><b>Revealing the Puzzle of the Past through Ancient Biomolecules: From Wild to Tame Faunal Diversity</b></a>
-<p>Special Issue in the journal Freshwater Biology <a href="https://ercapo.wixsite.com/sedadna-society/specialissue" target="_blank"><b>Interpreting environmental and evolutionary change in freshwater systems using DNA preserved in sediments</b></a>
-<p>Special Issue in the journal AIMS Microbiology <a href="https://www.aimspress.com/aimsmicro/article/6064/special-articles" target="_blank"><b>Progress in paleomicrobial ecology research</b></a>  
+<p>17 November 2021 : Society seminar by <b>Yucheng Wang</b> "Reconstructing 50,000 years Arctic environmental history using ancient eDNA"</p>
+<br>  
+<h3 class="section-title underline">Special issues</h3> 
+Find here more information about sedaDNA <a href="/category/si.html" target="_blank"><b>special issues</b></a>.
+<p>In the journal Diversity <a href="https://www.mdpi.com/journal/diversity/special_issues/ancient_faunal_diversity" target="_blank"><b>Revealing the Puzzle of the Past through Ancient Biomolecules: From Wild to Tame Faunal Diversity</b></a>
+<p>In the journal Freshwater Biology <a href="https://ercapo.wixsite.com/sedadna-society/specialissue" target="_blank"><b>Interpreting environmental and evolutionary change in freshwater systems using DNA preserved in sediments</b></a>
+<p>In the journal AIMS Microbiology <a href="https://www.aimspress.com/aimsmicro/article/6064/special-articles" target="_blank"><b>Progress in paleomicrobial ecology research</b></a>  
  </div>
-
 
 ---
 
