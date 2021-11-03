@@ -26,7 +26,7 @@ Title: Popular Science
 <div class="avatar">
       
 <div class ="member">
-<div class="square"><a href="https://laurap.it/events" target="_blank"><img src="{{ "https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961" | width=200 }}" /></a></div>
+<div class="square"><a href="https://laurap.it/events" target="_blank"><img src="https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961" | width=200 /></a></div>
 <p>'Winter sediment coring from a lake'</p>
 <p>Jill Pelto</p>
 
@@ -65,7 +65,7 @@ Title: Popular Science
 <p><a href="https://www.eva.mpg.de/press/news/2017/2017-04-27-dna-from-extinct-humans/" target="_blank"><b>DNA from Extinct Humans Discovered in Cave Sediments</b></a>
 <div class="intro">
 <div class="section Eric">
-<p> Check out the Press kit for paper: <a href="https://www.science.org/doi/abs/10.1126/science.aam9695" target="_blank"><b>Neandertal and Denisovan DNA from Pleistocene sediments</b></a>, Slon et al., 2017, <i>Science</i><br>
+<p> Check out the Press kit for paper: <a href="https://www.science.org/doi/abs/10.1126/science.aam9695" target="_blank"><b>'Neandertal and Denisovan DNA from Pleistocene sediments'</b></a>, Slon et al., 2017, <i>Science</i><br>
 - shared by first author <a href="https://www.tau.ac.il/~viviane/" target="_blank"><b>Viviane Slon</b></a>, Senior lecturer, Dept. of Anatomy and Anthropology and Dept. of Human Molecular Genetics and Biochemistry, Sackler Faculty of Medicine, Tel Aviv University</p>
 </div>
       
@@ -82,7 +82,7 @@ Title: Popular Science
 <p><a href="https://www.eva.mpg.de/press/news/2017/2017-04-27-dna-from-extinct-humans/" target="_blank"><b>Project PALMIRA (Paleoecology of <i>Alexandrium minutum</i> in the Bay of Brest)</b></a>
 <div class="intro">
 <div class="section Eric">
-<p> Video released as part of paper: <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(21)00452-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221004528%3Fshowall%3Dtrue#secsectitle0025" target="_blank"><b>Sediment archives reveal irreversible shifts in plankton communities after World War II and agricultural pollution</b></a>, , Siano et al., 2021 <i>Current Biology</i><br>
+<p> Video released as part of paper: <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(21)00452-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221004528%3Fshowall%3Dtrue#secsectitle0025" target="_blank"><b>'Sediment archives reveal irreversible shifts in plankton communities after World War II and agricultural pollution'</b></a>, Siano et al., 2021, <i>Current Biology</i><br>
 </div>
       
 <div class="avatar">
