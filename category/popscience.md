@@ -57,7 +57,7 @@ Title: Popular Science
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://lakes380.com/publications/exploring-the-history-of-new-zealands-lakes-a-printable-infographic/" target="_blank"><img src="{{ "https://lakes380.com/wp-content/uploads/2020/08/L380_Input_Inforgraphic_A3_Web.pdf" | width=200 }}" /></a></div>
+<div class="square"><a href="https://lakes380.com/publications/exploring-the-history-of-new-zealands-lakes-a-printable-infographic/" target="_blank"><img src="{{ "https://lakes380.com/wp-content/uploads/2020/08/Inforgraphic_A3_Web.jpg" | width=200 }}" /></a></div>
 <p>Exploring the history of New Zealand’s lakes</p>
 <hr>
 </div>
