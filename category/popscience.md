@@ -16,23 +16,6 @@ Title: Popular Science
 </div>
 
 <div class="section">
-<p><a href="https://laurap.it/events" target="_blank"><b>Science & Art</b></a>
-<div class="intro">
-<div class="section Eric">
-<p> 'Like Jill [Pelto] I like finding new ways to communicate science to a broader audience and especially through art. In these pieces of art Jill used scientific data from our research to increase awareness about what we do and to explain it in a simpler fashion.' <br>
-- <a href="https://www.laurap.it/" target="_blank"><b>Laura Parducci</b></a>, Assoc. Professor, Dept. of Environmental Biology at Sapienza University of Rome, Italy & Dept. of Plant Ecology at Uppsala University, Sweden</p>
-</div>
-
-<div class="avatar">
-      
-<div class ="member">
-<div class="square"><a href="https://laurap.it/events" target="_blank"><img src="https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961" width="200" /></a></div>
-<p>'Winter sediment coring from a lake'</p>
-<p>Jill Pelto</p>
-<hr>
-</div>
-
-<div class="section">
 <p><a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><b>Is There DNA in Dirt?</b></a>
 <div class="intro">
 <div class="section Eric">
@@ -48,6 +31,23 @@ Title: Popular Science
 <hr>
 </div>
 </div>
+
+<div class="section">
+<p><a href="https://laurap.it/events" target="_blank"><b>Science & Art</b></a>
+<div class="intro">
+<div class="section Eric">
+<p> 'Like Jill [Pelto] I like finding new ways to communicate science to a broader audience and especially through art. In these pieces of art Jill used scientific data from our research to increase awareness about what we do and to explain it in a simpler fashion.' <br>
+- <a href="https://www.laurap.it/" target="_blank"><b>Laura Parducci</b></a>, Assoc. Professor, Dept. of Environmental Biology at Sapienza University of Rome, Italy & Dept. of Plant Ecology at Uppsala University, Sweden</p>
+</div>
+
+<div class="avatar">
+      
+<div class ="member">
+<div class="square"><a href="https://laurap.it/events" target="_blank"><img src="https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961" width="200" /></a></div>
+<p>'Winter sediment coring from a lake'</p>
+<p>Jill Pelto</p>
+<hr>
+</div>
       
 <div class="section">
 <p><a href="https://lakes380.com/" target="_blank"><b>Lakes380</b></a>
@@ -62,6 +62,22 @@ Title: Popular Science
 <p>Exploring the history of New Zealand’s lakes</p>
 <hr>
 </div>
+</div>
+
+<div class="section">
+<p><a href="https://www.iflscience.com/plants-and-animals/climate-change-not-humans-likely-killed-the-woolly-mammoth/" target="_blank"><b>Climate Change, Not Humans, Likely Killed The Woolly Mammoth</b></a>
+<div class="intro">
+<div class="section Eric">
+<p> 'The rapid warming - and increase in precipitation - from the Early to Mid-Holocene in the Arctic turned the vast grasslands into wetter and more heterogenous habitats that could no longer support mega herbivores such as mammoths' - shared by co-author <a href="https://en.uit.no/ansatte/person?p_document_id=618540&p_dimension_id=88137" target="_blank"><b>Alexandra Rouillard</b></a>, postdoc at the Dept. of Geosciences, UiT The Arctic University of Norway, Norway and affiliated researcher at the GLOBE Institue, University of Copenhagen, Denmark</p>
+</div>
+      
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><a href="https://www.iflscience.com/plants-and-animals/climate-change-not-humans-likely-killed-the-woolly-mammoth/" target="_blank"><img src="{{ "https://cdn.iflscience.com/images/52f20095-436f-500e-83b6-88404a722feb/extra_large-1634815285-artist-impression-of-a-trio-of-woolly-mammoths-trudging-over-snow-covered-hills-image-credit-daniel-eskridge-shutterstock-ocm.jpg" | height=200 }}" /></a></div>
+<p>Artist impression of a trio of woolly mammoths trudging on snow-covered hills.</p>
+<p>Image credit: Daniel Eskridge</p>    
+<hr>
 </div>
 
 <div class="section">
