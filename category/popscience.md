@@ -47,21 +47,6 @@ Title: Popular Science
 <p>Is There DNA in Dirt?</p>
 </div>
 </div>
-
-<div class="section">
-<p><a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><b>DNA from Extinct Humans Discovered in Cave Sediments</b></a>
-<div class="intro">
-<div class="section Eric">
-<p> Check out the Press kit for paper: ‘Neandertal and Denisovan DNA from Pleistocene sediments’, Slon et al., 2017, Science <a href="https://www.youtube.com/scishow" target="_blank"><b>SciShow</b></a></p>
-</div>
-      
-<div class="avatar">
-
-<div class ="member">
-<div class="square"><a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><img src="{{ "https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" | height=200 }}" /></a></div>
-<p>Is There DNA in Dirt?</p>
-</div>
-</div>
       
 <div class="section">
 <p><a href="https://lakes380.com/" target="_blank"><b>Lakes380</b></a>
@@ -73,6 +58,38 @@ Title: Popular Science
 <div class ="member">
 <div class="square"><a href="https://lakes380.com/publications/exploring-the-history-of-new-zealands-lakes-a-printable-infographic/" target="_blank"><img src="{{ "https://lakes380.com/wp-content/uploads/2020/08/L380_Input_Inforgraphic_A3_Web.pdf" | width=200 }}" /></a></div>
 <p>Exploring the history of New Zealand’s lakes</p>
+</div>
+</div>
+
+<div class="section">
+<p><a href="https://www.eva.mpg.de/press/news/2017/2017-04-27-dna-from-extinct-humans/" target="_blank"><b>DNA from Extinct Humans Discovered in Cave Sediments</b></a>
+<div class="intro">
+<div class="section Eric">
+<p> Check out the Press kit for paper: <a href="https://www.science.org/doi/abs/10.1126/science.aam9695" target="_blank"><b>Neandertal and Denisovan DNA from Pleistocene sediments</b></a>, Slon et al., 2017, <i>Science</i><br>
+- shared by first author <a href="https://www.tau.ac.il/~viviane/" target="_blank"><b>Viviane Slon</b></a>, Senior lecturer, Dept. of Anatomy and Anthropology and Dept. of Human Molecular Genetics and Biochemistry, Sackler Faculty of Medicine, Tel Aviv University</p>
+</div>
+      
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><a href="https://www.eva.mpg.de/press/news/2017/2017-04-27-dna-from-extinct-humans/" target="_blank"><img src="{{ "https://www.eva.mpg.de/fileadmin/_processed_/8/2/csm_10_View_of_Les_Cottes_f7c95c7153.jpg" | width=200 }}" /></a></div>
+<p>The archaeological site of Les Cottés, France</p>
+<p>Credit/Quelle: M. Soressi/S. Schatz</p>    
+</div>
+</div>
+
+<div class="section">
+<p><a href="https://www.eva.mpg.de/press/news/2017/2017-04-27-dna-from-extinct-humans/" target="_blank"><b>Project PALMIRA (Paleoecology of <i>Alexandrium minutum</i> in the Bay of Brest)</b></a>
+<div class="intro">
+<div class="section Eric">
+<p> Video released in as part of paper: <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(21)00452-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221004528%3Fshowall%3Dtrue#secsectitle0025" target="_blank"><b>Sediment archives reveal irreversible shifts in plankton communities after World War II and agricultural pollution</b></a>, , Siano et al., 2021 <i>Current Biology</i><br>
+</div>
+      
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><a href="https://www.sciencedirect.com/science/article/pii/S0960982221004528?casa_token=Y5-2bjJun4QAAAAA:dWTzs6hH-0qgnKMHLEgYPSSGvDJC6qOvnsnRyxmNUCaL0woLQNLNxqRAqocmW6LxCBRml-Z4o3U#mmc2" target="_blank"><img src="{{ "https://ars.els-cdn.com/content/image/1-s2.0-S0960982221004528-mmc4.jpg" | height=200 }}" /></a></div>
+<p>Core sampling, in situ, and lab work on sediment cores, related to STAR Methods.</p>
 </div>
 </div>
       
