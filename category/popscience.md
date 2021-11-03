@@ -45,6 +45,7 @@ Title: Popular Science
 <div class ="member">
 <div class="square"><a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><img src="{{ "https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" | height=200 }}" /></a></div>
 <p>Is There DNA in Dirt?</p>
+<hr>
 </div>
 </div>
       
@@ -58,6 +59,7 @@ Title: Popular Science
 <div class ="member">
 <div class="square"><a href="https://lakes380.com/publications/exploring-the-history-of-new-zealands-lakes-a-printable-infographic/" target="_blank"><img src="{{ "https://lakes380.com/wp-content/uploads/2020/08/L380_Input_Inforgraphic_A3_Web.pdf" | width=200 }}" /></a></div>
 <p>Exploring the history of New Zealand’s lakes</p>
+<hr>
 </div>
 </div>
 
@@ -75,6 +77,7 @@ Title: Popular Science
 <div class="square"><a href="https://www.eva.mpg.de/press/news/2017/2017-04-27-dna-from-extinct-humans/" target="_blank"><img src="{{ "https://www.eva.mpg.de/fileadmin/_processed_/8/2/csm_10_View_of_Les_Cottes_f7c95c7153.jpg" | width=200 }}" /></a></div>
 <p>The archaeological site of Les Cottés, France</p>
 <p>Credit/Quelle: M. Soressi/S. Schatz</p>    
+<hr>
 </div>
 
 <div class="section">
@@ -90,5 +93,6 @@ Title: Popular Science
 <div class ="member">
 <div class="square"><a href="https://www.sciencedirect.com/science/article/pii/S0960982221004528?casa_token=Y5-2bjJun4QAAAAA:dWTzs6hH-0qgnKMHLEgYPSSGvDJC6qOvnsnRyxmNUCaL0woLQNLNxqRAqocmW6LxCBRml-Z4o3U#mmc2" target="_blank"><img src="{{ "https://ars.els-cdn.com/content/image/1-s2.0-S0960982221004528-mmc4.jpg" | height=200 }}" /></a></div>
 <p>Core sampling, in situ, and lab work on sediment cores, related to STAR Methods.</p>
+<hr>
 </div>
 </div>
