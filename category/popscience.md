@@ -29,7 +29,7 @@ Title: Popular Science
 <div class="square"><a href="https://laurap.it/events" target="_blank"><img src="https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961" width="200" /></a></div>
 <p>'Winter sediment coring from a lake'</p>
 <p>Jill Pelto</p>
-
+<hr>
 </div>
 
 <div class="section">
