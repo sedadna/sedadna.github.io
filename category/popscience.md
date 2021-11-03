@@ -26,7 +26,7 @@ Title: Popular Science
 <div class="avatar">
       
 <div class ="member">
-<div class="square"><a href="https://laurap.it/events" target="_blank"><img src="https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961" | width=200 /></a></div>
+<div class="square"><a href="https://laurap.it/events" target="_blank"><img src="https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961" width="200" /></a></div>
 <p>'Winter sediment coring from a lake'</p>
 <p>Jill Pelto</p>
 
@@ -76,13 +76,13 @@ Title: Popular Science
 <p>The archaeological site of Les Cottés, France</p>
 <p>Credit/Quelle: M. Soressi/S. Schatz</p>    
 </div>
-</div>
 
 <div class="section">
 <p><a href="https://www.eva.mpg.de/press/news/2017/2017-04-27-dna-from-extinct-humans/" target="_blank"><b>Project PALMIRA (Paleoecology of <i>Alexandrium minutum</i> in the Bay of Brest)</b></a>
 <div class="intro">
 <div class="section Eric">
-<p> Video released as part of paper: <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(21)00452-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221004528%3Fshowall%3Dtrue#secsectitle0025" target="_blank"><b>'Sediment archives reveal irreversible shifts in plankton communities after World War II and agricultural pollution'</b></a>, Siano et al., 2021, <i>Current Biology</i><br>
+<p> Video released as part of paper: <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(21)00452-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221004528%3Fshowall%3Dtrue#secsectitle0025" target="_blank"><b>'Sediment archives reveal irreversible shifts in plankton communities after World War II and agricultural pollution'</b></a>, Siano et al., 2021, <i>Current Biology</i>
+</div>
 </div>
       
 <div class="avatar">
@@ -91,6 +91,4 @@ Title: Popular Science
 <div class="square"><a href="https://www.sciencedirect.com/science/article/pii/S0960982221004528?casa_token=Y5-2bjJun4QAAAAA:dWTzs6hH-0qgnKMHLEgYPSSGvDJC6qOvnsnRyxmNUCaL0woLQNLNxqRAqocmW6LxCBRml-Z4o3U#mmc2" target="_blank"><img src="{{ "https://ars.els-cdn.com/content/image/1-s2.0-S0960982221004528-mmc4.jpg" | height=200 }}" /></a></div>
 <p>Core sampling, in situ, and lab work on sediment cores, related to STAR Methods.</p>
 </div>
-</div>
-      
 </div>
