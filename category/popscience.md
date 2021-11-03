@@ -53,7 +53,8 @@ Title: Popular Science
 <p><a href="https://lakes380.com/" target="_blank"><b>Lakes380</b></a>
 <p><i>'Our Lakes’ Health: past, present, future - Me hoki whakamuri kia haere whakamua</i> is a five-year research project that will enrich our understanding of the environmental, social and cultural histories of 10% of New Zealand’s 3,800 lakes (>1 ha). This involves collecting and analysing lake sediments and water samples, as well as interviews and field visits.<br>
 - shared by Lakes380 project researcher <a href="https://www.cawthron.org.nz/our-people/susie-wood/" target="_blank"><b>Susie Wood</b></a>, Senior Scientist, Cawthron Institute, New Zealand</p>
-
+</div>
+      
 <div class="avatar">
 
 <div class ="member">
@@ -84,7 +85,7 @@ Title: Popular Science
 <p><a href="https://www.eva.mpg.de/press/news/2017/2017-04-27-dna-from-extinct-humans/" target="_blank"><b>Project PALMIRA (Paleoecology of <i>Alexandrium minutum</i> in the Bay of Brest)</b></a>
 <div class="intro">
 <div class="section Eric">
-<p> Video released as part of paper: <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(21)00452-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221004528%3Fshowall%3Dtrue#secsectitle0025" target="_blank"><b>'Sediment archives reveal irreversible shifts in plankton communities after World War II and agricultural pollution'</b></a>, Siano et al., 2021, <i>Current Biology</i>
+<p> Video released as part of paper: <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(21)00452-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221004528%3Fshowall%3Dtrue#secsectitle0025" target="_blank"><b>'Sediment archives reveal irreversible shifts in plankton communities after World War II and agricultural pollution'</b></a>, Siano et al., 2021, <i>Current Biology</i></p>
 </div>
       
 <div class="avatar">
