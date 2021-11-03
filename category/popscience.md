@@ -68,7 +68,8 @@ Title: Popular Science
 <p><a href="https://www.iflscience.com/plants-and-animals/climate-change-not-humans-likely-killed-the-woolly-mammoth/" target="_blank"><b>Climate Change, Not Humans, Likely Killed The Woolly Mammoth</b></a>
 <div class="intro">
 <div class="section Eric">
-<p> 'The rapid warming - and increase in precipitation - from the Early to Mid-Holocene in the Arctic turned the vast grasslands into wetter and more heterogenous habitats that could no longer support mega herbivores such as mammoths' - shared by co-author <a href="https://en.uit.no/ansatte/person?p_document_id=618540&p_dimension_id=88137" target="_blank"><b>Alexandra Rouillard</b></a>, postdoc at the Dept. of Geosciences, UiT The Arctic University of Norway, Norway and affiliated researcher at the GLOBE Institue, University of Copenhagen, Denmark</p>
+<p> 'The rapid warming - and increase in precipitation - from the Early to Mid-Holocene in the Arctic turned the vast grasslands into wetter and more heterogenous habitats that could no longer support mega herbivores such as mammoths'<br>
+- shared by co-author <a href="https://en.uit.no/ansatte/person?p_document_id=618540&p_dimension_id=88137" target="_blank"><b>Alexandra Rouillard</b></a>, postdoc at the Dept. of Geosciences, UiT The Arctic University of Norway, Norway and affiliated researcher at the GLOBE Institue, University of Copenhagen, Denmark, of paper: <a href="https://www.nature.com/articles/s41586-021-04016-x" target="_blank"><b>'Late Quaternary dynamics of Arctic biota from ancient environmental genomics'</b></a>, Wang, Pedersen and Alsos et al., 2021, <i>Nature</i></p>
 </div>
       
 <div class="avatar">
