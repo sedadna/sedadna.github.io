@@ -7,7 +7,7 @@ Title: Popular Science
 <div class="section">
 <h3 class="section-title underline">Popular science and outreach</h3>
 <div class="intro">
-<p> Our members share their passion about sedaDNA research with the public through different outreach and popular science initiatives. Please enjoy and share their stories!
+<p> Our members share their passion about sedaDNA research with the public through a range of outreach and popular science initiatives. Please enjoy and share their stories!
 </div>
 </div>
 
