@@ -23,7 +23,7 @@ Title: Popular Science
 </div>
 
 <div class="avatar">
-      
+
 <div class ="member">
 <div class="square"><a href="https://laurap.it/events" target="_blank"><img src="{{ "https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961" | width=200 }}" /></a></div>
 <p>'Winter sediment coring from a lake'</p>
@@ -33,13 +33,17 @@ Title: Popular Science
 
 <div class="section">
 <p><a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><b>Is There DNA in Dirt?</b></a>
+<div class="intro">
+<div class="section Eric">
 <p> 'It turns out that there are lots of other clues about the history of living things that are just waiting to be dug up. It's just that they are a lot smaller than even your tiniest fossils.' - by <a href="https://www.youtube.com/scishow" target="_blank"><b>SciShow</b></a></p>
-
+</div>
+      
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><img src="{{ "https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" | width=200 }}" /></a></div>
+<div class="square"><a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><img src="{{ "https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" | height=200 }}" /></a></div>
 <p>Is There DNA in Dirt?</p>
+</div>
 </div>
 
 <div class="section">
