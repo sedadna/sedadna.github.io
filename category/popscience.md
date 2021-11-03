@@ -82,7 +82,7 @@ Title: Popular Science
 </div>
 
 <div class="section">
-<p><a href="https://www.eva.mpg.de/press/news/2017/2017-04-27-dna-from-extinct-humans/" target="_blank"><b>Project PALMIRA (Paleoecology of <i>Alexandrium minutum</i> in the Bay of Brest)</b></a>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0960982221004528?casa_token=Y5-2bjJun4QAAAAA:dWTzs6hH-0qgnKMHLEgYPSSGvDJC6qOvnsnRyxmNUCaL0woLQNLNxqRAqocmW6LxCBRml-Z4o3U#mmc2" target="_blank"><b>Project PALMIRA (Paleoecology of <i>Alexandrium minutum</i> in the Bay of Brest)</b></a>
 <div class="intro">
 <div class="section Eric">
 <p> Video released as part of paper: <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(21)00452-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221004528%3Fshowall%3Dtrue#secsectitle0025" target="_blank"><b>'Sediment archives reveal irreversible shifts in plankton communities after World War II and agricultural pollution'</b></a>, Siano et al., 2021, <i>Current Biology</i></p>
