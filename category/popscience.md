@@ -92,7 +92,7 @@ Title: Popular Science
 
 <div class ="member">
 <div class="square"><a href="https://www.sciencedirect.com/science/article/pii/S0960982221004528?casa_token=Y5-2bjJun4QAAAAA:dWTzs6hH-0qgnKMHLEgYPSSGvDJC6qOvnsnRyxmNUCaL0woLQNLNxqRAqocmW6LxCBRml-Z4o3U#mmc2" target="_blank"><img src="{{ "https://ars.els-cdn.com/content/image/1-s2.0-S0960982221004528-mmc4.jpg" | height=200 }}" /></a></div>
-<p>Core sampling, in situ, and lab work on sediment cores, related to STAR Methods.</p>
+<p>Core sampling, in situ, and lab work on sediment cores, related to STAR Methods</p>
 <hr>
 </div>
 </div>
