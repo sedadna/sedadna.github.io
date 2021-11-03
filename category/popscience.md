@@ -76,7 +76,7 @@ Title: Popular Science
 
 <div class ="member">
 <div class="square"><a href="https://www.iflscience.com/plants-and-animals/climate-change-not-humans-likely-killed-the-woolly-mammoth/" target="_blank"><img src="{{ "https://cdn.iflscience.com/images/52f20095-436f-500e-83b6-88404a722feb/extra_large-1634815285-artist-impression-of-a-trio-of-woolly-mammoths-trudging-over-snow-covered-hills-image-credit-daniel-eskridge-shutterstock-ocm.jpg" | height=200 }}" /></a></div>
-<p>Artist impression of a trio of woolly mammoths trudging on snow-covered hills.</p>
+<p>Artist impression of a trio of woolly mammoths trudging on snow-covered hills</p>
 <p>Image credit: Daniel Eskridge</p>    
 <hr>
 </div>
