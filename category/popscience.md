@@ -38,12 +38,11 @@ Title: Popular Science
 <br>
 
 <p><a href="https://ars.els-cdn.com/content/image/1-s2.0-S0960982221004528-mmc4.mp4" target="_blank"><b>Project PALMIRA (Paleoecology of <i>Alexandrium minutum</i> in the Bay of Brest)</b></a>
-<p> Video about core sampling and lab work released as part of paper: <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(21)00452-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221004528%3Fshowall%3Dtrue#secsectitle0025" target="_blank"><b>'Sediment archives reveal irreversible shifts in plankton communities after World War II and agricultural pollution'</b></a>, Siano et al., 2021, <i>Current Biology</i></p> - shared by Raffaele Siano.
-<img src="{{ "https://ars.els-cdn.com/content/image/1-s2.0-S0960982221004528-mmc4.jpg" | height=200 }}">
+<p> Video about core sampling and lab work released as part of paper: <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(21)00452-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221004528%3Fshowall%3Dtrue#secsectitle0025" target="_blank"><b>'Sediment archives reveal irreversible shifts in plankton communities after World War II and agricultural pollution'</b></a>, Siano et al., 2021, <i>Current Biology</i>- shared by Raffaele Siano.
+<img src="{{ "https://ars.els-cdn.com/content/image/1-s2.0-S0960982221004528-mmc4.jpg" | height=600 }}">
 
 <br>
 
 <p><a href="https://www.eva.mpg.de/press/news/2017/2017-04-27-dna-from-extinct-humans/" target="_blank"><b>DNA from Extinct Humans Discovered in Cave Sediments</b></a>
 <p> Check out the Press kit for paper: <a href="https://www.science.org/doi/abs/10.1126/science.aam9695" target="_blank"><b>'Neandertal and Denisovan DNA from Pleistocene sediments'</b></a>, Slon et al., 2017, <i>Science</i><br> - shared by first author <a href="https://www.tau.ac.il/~viviane/" target="_blank"><b>Viviane Slon</b></a>, Senior lecturer, Dept. of Anatomy and Anthropology and Dept. of Human Molecular Genetics and Biochemistry, Sackler Faculty of Medicine, Tel Aviv University - below : The archaeological site of Les Cottés, France; Credit/Quelle: M. Soressi/S. Schatz</p>
 <img src="{{ "https://www.eva.mpg.de/fileadmin/_processed_/8/2/csm_10_View_of_Les_Cottes_f7c95c7153.jpg" | width=200 }}">
-</div>
