@@ -26,7 +26,7 @@ Title: Popular Science
 <div class ="member">
 <img class="skrinktofit" src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" width="514" height="289"></img>
       
-img src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" class="w3-round" alt="Dirt"      
+<img src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" class="w3-round" alt="Dirt"      
 <a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><p>Is There DNA in Dirt?</p></a>
 </div>
       
