@@ -10,7 +10,6 @@ Title: Popular Science
 </div>
 </div>
 
-<img class="skrinktofit" src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" width="514" height="289"></img>
 
 <div class="section">
 <h3 class="section-title underline">Our stories</h3>
@@ -18,38 +17,21 @@ Title: Popular Science
 
 <div class="section">
 <p><a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><b>Is There DNA in Dirt?</b></a>
-<div class="intro">
-<div class="section Eric">
 <p> 'It turns out that there are lots of other clues about the history of living things that are just waiting to be dug up. It's just that they are a lot smaller than even your tiniest fossils.'<br>
-- by <a href="https://www.youtube.com/scishow" target="_blank"><b>SciShow</b></a></p>
+<p> - by <a href="https://www.youtube.com/scishow" target="_blank"><b>SciShow</b></a></p>
+</div>
 </div>
       
-<div class ="member">
 <img class="skrinktofit" src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" width="514" height="289"></img>
-      
-<img src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" class="w3-round" alt="Dirt" />
-<a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><p>Is There DNA in Dirt?</p></a>
-
-<img src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" alt="Flowers in Chania">
-
-</div>
-      
-<hr>
-</div>
-</div>
 
 <div class="section">
 <p><a href="https://laurap.it/events" target="_blank"><b>Science & Art</b></a>
-<div class="intro">
-<div class="section Eric">
 <p> 'Like Jill [Pelto] I like finding new ways to communicate science to a broader audience and especially through art. In these pieces of art Jill used scientific data from our research to increase awareness about what we do and to explain it in a simpler fashion.' <br>
 - <a href="https://www.laurap.it/" target="_blank"><b>Laura Parducci</b></a>, Assoc. Professor, Dept. of Environmental Biology at Sapienza University of Rome, Italy & Dept. of Plant Ecology at Uppsala University, Sweden</p>
 </div>
 
-<div class="avatar">
-      
-<div class ="member">
-<div class="square"><a href="https://laurap.it/events" target="_blank"><img src="https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961" width="200" /></a></div>
+<img class="skrinktofit" src="https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961" width="200" /><(img>
+
 <p>'Winter sediment coring from a lake'</p>
 <p>Jill Pelto</p>
 <hr>
