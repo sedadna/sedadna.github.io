@@ -3,13 +3,14 @@ layout: category
 Title: Popular Science
 ---
 
-
 <div class="section">
 <h3 class="section-title underline">Popular science and outreach</h3>
 <div class="intro">
 <p> Curious to know what sedaDNA research actually looks like? Our members share their passion about this new and exciting field of research with the public through a range of outreach and popular science initiatives. Please enjoy and share their stories! </p> 
 </div>
 </div>
+
+<img class="skrinktofit" src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" width="514" height="289"></img>
 
 <div class="section">
 <h3 class="section-title underline">Our stories</h3>
