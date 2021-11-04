@@ -11,8 +11,6 @@ Title: Our members
 <br>
 </div>
 
-<a href="https://www.youtube.com/watch?v=-57oTu1CrpU" target="_blank"><b>04 October 2021</b></a>
-	
 <div class ="member">
 <div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Firstname Monchamp</p>
