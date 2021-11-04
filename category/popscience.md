@@ -17,9 +17,7 @@ Title: Popular Science
 
 <div class="section">
 <p><a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><b>Is There DNA in Dirt?</b></a>
-<p> 'It turns out that there are lots of other clues about the history of living things that are just waiting to be dug up. It's just that they are a lot smaller than even your tiniest fossils.'<br>
-<p> - by <a href="https://www.youtube.com/scishow" target="_blank"><b>SciShow</b></a></p>
-</div>
+<p> 'It turns out that there are lots of other clues about the history of living things that are just waiting to be dug up. It's just that they are a lot smaller than even your tiniest fossils.' - by <a href="https://www.youtube.com/scishow" target="_blank"><b>SciShow</b></a></p>
 </div>
       
 <img class="skrinktofit" src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" width="514" height="289"></img>
@@ -31,28 +29,18 @@ Title: Popular Science
 </div>
 
 <img class="skrinktofit" src="https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961" width="200" /><(img>
-
 <p>'Winter sediment coring from a lake'</p>
 <p>Jill Pelto</p>
-<hr>
-</div>
+<br>
       
 <div class="section">
 <p><a href="https://lakes380.com/" target="_blank"><b>Lakes380</b></a>
-<div class="intro">
-<div class="section Eric">
 <p><i>'Our Lakes’ Health: past, present, future - Me hoki whakamuri kia haere whakamua</i> is a five-year research project that will enrich our understanding of the environmental, social and cultural histories of 10% of New Zealand’s 3,800 lakes (>1 ha). This involves collecting and analysing lake sediments and water samples, as well as interviews and field visits.<br>
 - shared by Lakes380 project researcher <a href="https://www.cawthron.org.nz/our-people/susie-wood/" target="_blank"><b>Susie Wood</b></a>, Senior Scientist, Cawthron Institute, New Zealand</p>
 </div>
       
-<div class="avatar">
-
-<div class ="member">
-<div class="square"><a href="https://lakes380.com/publications/exploring-the-history-of-new-zealands-lakes-a-printable-infographic/" target="_blank"><img src="{{ "https://lakes380.com/wp-content/uploads/2020/08/Inforgraphic_A3_Web.jpg" | width=200 }}" /></a></div>
+<img src="{{ "https://lakes380.com/wp-content/uploads/2020/08/Inforgraphic_A3_Web.jpg" | width=600 }}"/>
 <p>Exploring the history of New Zealand’s lakes</p>
-<hr>
-</div>
-</div>
 
 <div class="section">
 <p><a href="https://www.iflscience.com/plants-and-animals/climate-change-not-humans-likely-killed-the-woolly-mammoth/" target="_blank"><b>Climate Change, Not Humans, Likely Killed The Woolly Mammoth</b></a>
