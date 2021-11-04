@@ -51,6 +51,8 @@ Title: Popular Science
       
 <div class="section">
 <p><a href="https://lakes380.com/" target="_blank"><b>Lakes380</b></a>
+<div class="intro">
+<div class="section Eric">
 <p><i>'Our Lakes’ Health: past, present, future - Me hoki whakamuri kia haere whakamua</i> is a five-year research project that will enrich our understanding of the environmental, social and cultural histories of 10% of New Zealand’s 3,800 lakes (>1 ha). This involves collecting and analysing lake sediments and water samples, as well as interviews and field visits.<br>
 - shared by Lakes380 project researcher <a href="https://www.cawthron.org.nz/our-people/susie-wood/" target="_blank"><b>Susie Wood</b></a>, Senior Scientist, Cawthron Institute, New Zealand</p>
 </div>
