@@ -6,12 +6,13 @@ Title: Our members
 <div class="intro">
 <h3 class="section-title underline">The members</h3>  
 <p> The society is currently composed by 289 members from XX research groups from XX countries. You can find below some informations about our members. If you want to add your info here, please email a pic and your website to <b>k.more@graduate.curtin.edu.au</b></p>
-<p><a href="https://www.researchgate.net/scientific-contributions/Benie-Rose-Danielle-Aboua-2049816223 target="_blank">Benié Rose Danielle	Aboua</a> - 
-<a href="https://www.researchgate.net/profile/Bernardo-Aguila target="_blank">	Bernardo	Aguila</a> - <a href="https://www.sh.se/english/sodertorn-university/contact/researchers/elinor-andren target="_blank">	Elinor	Andren</a></p>
+<p><a href="https://www.researchgate.net/scientific-contributions/Benie-Rose-Danielle-Aboua-2049816223 target="_blank">Benié Rose Danielle Aboua</a> - 
+<a href="https://www.researchgate.net/profile/Bernardo-Aguila target="_blank"> Bernardo Aguila</a> - <a href="https://www.sh.se/english/sodertorn-university/contact/researchers/elinor-andren target="_blank"> Elinor Andren</a></p>
 <br>
 </div>
 
-<div class="avatar">
+<a href="https://www.youtube.com/watch?v=-57oTu1CrpU" target="_blank"><b>04 October 2021</b></a>
+	
 <div class ="member">
 <div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Firstname Monchamp</p>
