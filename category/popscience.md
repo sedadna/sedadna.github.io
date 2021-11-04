@@ -23,11 +23,11 @@ Title: Popular Science
 - by <a href="https://www.youtube.com/scishow" target="_blank"><b>SciShow</b></a></p>
 </div>
       
-<div class="avatar">
-
 <div class ="member">
-<div class="square"><a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><img src="{{ "https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" | height=200 }}" /></a></div>
-<p>Is There DNA in Dirt?</p>
+<img src="{{ "https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" | height=200 }}" />
+<a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><p>Is There DNA in Dirt?</p></a>
+</div>
+      
 <hr>
 </div>
 </div>
