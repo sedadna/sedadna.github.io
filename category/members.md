@@ -13,7 +13,7 @@ Title: Our members
 <div class="avatar">
 <div class ="member">
 <div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Marie-Eve Monchamp</p>
+<pFirstname Monchamp</p>
 <p>McGill University</p>
 <p>Montréal, Canada</p>
 </div> 
