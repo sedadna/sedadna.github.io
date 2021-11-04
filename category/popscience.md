@@ -17,10 +17,10 @@ Title: Popular Science
 
 <div class="section">
 <p><a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><b>Is There DNA in Dirt?</b></a>
-<p> 'It turns out that there are lots of other clues about the history of living things that are just waiting to be dug up. It's just that they are a lot smaller than even your tiniest fossils.' - by <a href="https://www.youtube.com/scishow" target="_blank"><b>SciShow</b></a></p>
+<p>'It turns out that there are lots of other clues about the history of living things that are just waiting to be dug up. It's just that they are a lot smaller than even your tiniest fossils.' - by <a href="https://www.youtube.com/scishow" target="_blank"><b>SciShow</b></a></p>
 </div>
       
-<img class="skrinktofit" src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" width="514" height="289"></img>
+<img class="skrinktofit" src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" width="514" height="289"/>
 
 <div class="section">
 <p><a href="https://laurap.it/events" target="_blank"><b>Science & Art</b></a>
