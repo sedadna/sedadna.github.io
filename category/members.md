@@ -3,20 +3,45 @@ layout: category
 title: Newsletters
 ---
 
-<div class="section">
-<h3 class="section-title underline">Monthly newsletters</h3>
+<div class="intro">
+<h3 class="section-title underline">The members</h3>  
+<p> The society is currently composed by 289 members from XX research groups from XX countries. You can find below some informations about our members. If you want to add your info here, please email a pic and your website to <b>k.more@graduate.curtin.edu.au</b></p>
+<br>
 </div>
+
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Eric Capo</p>
+<p>Coordinator</p>
+<p>ICM-CSIC</p>
+<p>Barcelona, Spain</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Eric Capo</p>
+<p>Coordinator</p>
+<p>ICM-CSIC</p>
+<p>Barcelona, Spain</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Eric Capo</p>
+<p>Coordinator</p>
+<p>ICM-CSIC</p>
+<p>Barcelona, Spain</p>
+</div>
+
+
+</div> 
+<br>
 
 <div class="intro">
 <p>
-<a href="https://mailchi.mp/7fdaf9114c3a/sedadna-society-october-2021-newsletter" target="_blank"><b>October 2021</b></a> - <a href="https://mailchi.mp/1ac834a88670/sedadna-society-september-2021-newsletter" target="_blank"><b>September 2021</b></a> - <a href="https://mailchi.mp/b17fd202cdce/sedadna-society-july-2021-newsletter" target="_blank"><b>July 2021</b></a> - <a href="https://mailchi.mp/2eb31c40a2fc/sedadna-society-june-2021-newsletter" target="_blank"><b>June 2021</b></a> - <a href="https://mailchi.mp/0f04ef9f22a8/sedadna-society-may-seminar" target="_blank"><b>May 2021</b></a> - <a href="https://mailchi.mp/845fac603b38/sedadna-society-april-2021-newsletter" target="_blank"><b>April 2021</b></a> - <a href="https://mailchi.mp/0f3827b0858e/sedadna-society-march-2021-newsletter" target="_blank"><b>March 2021</b></a> - <a href="https://mailchi.mp/4add8545938a/sedadna-society-february-2021-newsletter" target="_blank"><b>February 2021</b></a>.</p>
-</div>
-
-<div class="intro">
-<p><a href="https://www.researchgate.net/scientific-contributions/Benie-Rose-Danielle-Aboua-2049816223 target="_blank"><b>Benié Rose Danielle	Aboua</b></a></p>
-</div>
-
-	
+<a href="https://www.researchgate.net/scientific-contributions/Benie-Rose-Danielle-Aboua-2049816223 target="_blank">Benié Rose Danielle Aboua</a> -
 <a href="https://www.researchgate.net/profile/Bernardo-Aguila target="_blank">	Bernardo	Aguila</a> - 
 <a href="https://www.sh.se/english/sodertorn-university/contact/researchers/elinor-andren target="_blank">	Elinor	Andren</a> -
 <a href="https://www.icrag-centre.org/people/drclaireansberque.html target="_blank">	Claire	Ansberque</a> -
@@ -276,41 +301,3 @@ Ella	Nehin -
 <a href="https://scholar.google.com/citations?user=0W79goMAAAAJ&hl=de target="_blank">	Heike	Zimmermann</a> -
 <a href="https://globe.ku.dk/staff-list/?pure=en/persons/674373 target="_blank">	Marina	Zure</a>.
 </p></div>
-
-
-<div class="intro">
-<h3 class="section-title underline">The members</h3>  
-<p> The society is currently composed by 289 members from XX research groups from XX countries. You can find below some informations about our members. If you want to add your info here, please email a pic and your website to <b>k.more@graduate.curtin.edu.au</b></p>
-<br>
-</div>
-
-<div class="avatar">
-
-<div class ="member">
-<div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Eric Capo</p>
-<p>Coordinator</p>
-<p>ICM-CSIC</p>
-<p>Barcelona, Spain</p>
-</div>
-
-<div class ="member">
-<div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Eric Capo</p>
-<p>Coordinator</p>
-<p>ICM-CSIC</p>
-<p>Barcelona, Spain</p>
-</div>
-
-<div class ="member">
-<div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Eric Capo</p>
-<p>Coordinator</p>
-<p>ICM-CSIC</p>
-<p>Barcelona, Spain</p>
-</div>
-
-
-</div> 
-<br>
-
