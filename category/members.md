@@ -13,7 +13,10 @@ title: Newsletters
 </div>
 
 <div class="intro">
-<p><a href="https://www.researchgate.net/scientific-contributions/Benie-Rose-Danielle-Aboua-2049816223 target="_blank">Benié Rose Danielle	Aboua</a> - 
+<p><a href="https://www.researchgate.net/scientific-contributions/Benie-Rose-Danielle-Aboua-2049816223 target="_blank"><b>Benié Rose Danielle	Aboua</b></a></p>
+</div>
+
+	
 <a href="https://www.researchgate.net/profile/Bernardo-Aguila target="_blank">	Bernardo	Aguila</a> - 
 <a href="https://www.sh.se/english/sodertorn-university/contact/researchers/elinor-andren target="_blank">	Elinor	Andren</a> -
 <a href="https://www.icrag-centre.org/people/drclaireansberque.html target="_blank">	Claire	Ansberque</a> -
