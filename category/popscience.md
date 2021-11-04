@@ -24,7 +24,7 @@ Title: Popular Science
 </div>
       
 <div class ="member">
-<img src="{{ "https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" | height=200 }}" />
+<img src="{{ "https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" | height=1000 }}" />
 <a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><p>Is There DNA in Dirt?</p></a>
 </div>
       
