@@ -59,9 +59,10 @@ Title: Our members
 </div> 
   
 <div class="intro">
-<p><a href="https://www.researchgate.net/scientific-contributions/Benie-Rose-Danielle-Aboua-2049816223 target="_blank">Benié Rose Danielle	Aboua</a> -
-<a href="https://www.researchgate.net/profile/Bernardo-Aguila target="_blank">	Bernardo	Aguila</a> -
-<a href="https://www.sh.se/english/sodertorn-university/contact/researchers/elinor-andren target="_blank">	Elinor	Andren</a> -
+<p><a href="https://www.researchgate.net/scientific-contributions/Benie-Rose-Danielle-Aboua-2049816223 target="_blank">Benié Rose Danielle	Aboua</a> - <a href="https://www.researchgate.net/profile/Bernardo-Aguila target="_blank">	Bernardo	Aguila</a> - <a href="https://www.sh.se/english/sodertorn-university/contact/researchers/elinor-andren target="_blank">	Elinor	Andren</a></p>
+</div>
+	
+	-
 <a href="https://www.icrag-centre.org/people/drclaireansberque.html target="_blank">	Claire	Ansberque</a> -
 <a href="https://www.unige.ch/sciences/terre/people/personal_pages/DanielAriztegui/DanielAriztegui.php target="_blank">	Daniel	Ariztegui</a> -
 <a href="https://edytem.cnrs.fr/pages-personnelles/Fabien-Arnaud/ target="_blank">	Fabien	Arnaud</a> -
