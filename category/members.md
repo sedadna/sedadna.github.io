@@ -13,7 +13,7 @@ Title: Our members
 <div class="avatar">
 <div class ="member">
 <div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<pFirstname Monchamp</p>
+<p>Firstname Monchamp</p>
 <p>McGill University</p>
 <p>Montréal, Canada</p>
 </div> 
@@ -59,7 +59,7 @@ Title: Our members
 </div> 
   
 <div class="intro">
-<a href="https://www.researchgate.net/scientific-contributions/Benie-Rose-Danielle-Aboua-2049816223 target="_blank">Benié Rose Danielle	Aboua</a> -
+<p><a href="https://www.researchgate.net/scientific-contributions/Benie-Rose-Danielle-Aboua-2049816223 target="_blank">Benié Rose Danielle	Aboua</a> -
 <a href="https://www.researchgate.net/profile/Bernardo-Aguila target="_blank">	Bernardo	Aguila</a> -
 <a href="https://www.sh.se/english/sodertorn-university/contact/researchers/elinor-andren target="_blank">	Elinor	Andren</a> -
 <a href="https://www.icrag-centre.org/people/drclaireansberque.html target="_blank">	Claire	Ansberque</a> -
