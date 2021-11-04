@@ -27,6 +27,8 @@ Title: Popular Science
 <p>'Winter sediment coring from a lake'</p>
 <p>Jill Pelto</p>
 <br>
+
+---
       
 <div class="intro">
 <p><a href="https://lakes380.com/" target="_blank"><b>Lakes380</b></a>
