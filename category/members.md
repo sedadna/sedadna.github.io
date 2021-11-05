@@ -148,7 +148,7 @@ title: Newsletters
 <a href="https://www.univ-fhb.edu.ci" target="_blank">	Tanoh Marius	Kamelan</a> -
 <a href="http://moleculargeo.chem.umu.se/dr-hussein-kanbar/" target="_blank">	Hussein	Kanbar</a> -
 <a href="https://www.tu-braunschweig.de/igeo/team/kang-wengang" target="_blank">	Wengang	Kang</a> -
-<a href="http://www.univ-lome.tg target="_blank">"	Koffi Evenyon	Kassegne</a> -
+<a href="http://www.univ-lome.tg" target="_blank"> Koffi Evenyon	Kassegne</a> -
 <a href="https://researchers.mq.edu.au/en/persons/armin-kavehei" target="_blank">	Armin	Kavehei</a> -
 <a href="https://www.researchgate.net/profile/Sevgi-Kaynar" target="_blank">	Sevgi	Kaynar</a> -
 <a href="https://funecol.org/duygu-deniz-kazanci-ph-d-student/" target="_blank">	Duygu Deniz	Kazancı</a> -
@@ -233,9 +233,9 @@ Ella	Nehin -
 <a href="https://en.uit.no/ansatte/person?p_document_id=742731" target="_blank">	Aloïs	Revéret</a> -
 <a href="https://www.researchgate.net/profile/Sofia-Ribeiro-9" target="_blank">	Sofia	Ribeiro</a> -
 <a href="https://en.uit.no/tmu" target="_blank">	Dilli Prasad	Rijal</a> -
-<a href="https://www.wwt.org.uk/our-work/wetland-conservation-unit/meet-the-team/hannah-robson/ target="_blank">	Hanna	Robson</a> -
-<a href="https://www.eawag.ch/en/aboutus/portrait/organisation/staff/profile/remo-roethlin/show/ target="_blank">	Remo	Roethlin</a> -
-<a href="https://www.researchgate.net/profile/Piotr-Rozwalak target="_blank">	Piotr	Rozwalak</a> -
+<a href="https://www.wwt.org.uk/our-work/wetland-conservation-unit/meet-the-team/hannah-robson/" target="_blank">	Hanna	Robson</a> -
+<a href="https://www.eawag.ch/en/aboutus/portrait/organisation/staff/profile/remo-roethlin/show/" target="_blank">	Remo	Roethlin</a> -
+<a href="https://www.researchgate.net/profile/Piotr-Rozwalak" target="_blank">	Piotr	Rozwalak</a> -
 <a href="https://www.umu.se/en/staff/johan-rydberg/" target="_blank">	Johan	Rydberg</a> -
 <a href="https://www.epoc.u-bordeaux.fr/index.php?lang=fr&page=fiche_etudiants&id=msabourd" target="_blank">	Manon	Sabourdy</a> -
 <a href="https://volley0red777.wixsite.com/sakata" target="_blank">	Masayuki	Sakata</a> -
@@ -267,7 +267,7 @@ Ella	Nehin -
 <a href="https://cmllthomas.wixsite.com/geomic" target="_blank">	Camille	Thomas</a> -
 <a href="https://scholar.google.com/citations?user=nm2iXpYAAAAJ&hl=en" target="_blank">	Georgia	Thomson-Laing</a> -
 <a href="<a href="https://www.geog.ucl.ac.uk/people/academic-staff/david-thornalley" target="_blank">	David	Thornalley</a> -
-<a href="<a href="<a href="https://www.researchgate.net/profile/Amy_Thorpe7" target="_blank"> 	Amy	Thorpe</a> -
+<a href="<a href="https://www.researchgate.net/profile/Amy_Thorpe7" target="_blank"> 	Amy	Thorpe</a> -
 <a href="https://www.uni-potsdam.de/en/ibb-evolutionsbiologie/index" target="_blank">	Ralf	Tiedemann</a> -
 <a href="https://www.4d-reef.eu/esr/andrew-torres/" target="_blank">	Andrew	Torres</a> -
 <a href="https://www.researchgate.net/profile/Luca-Turolo" target="_blank">	Luca	Turolo</a> -
@@ -284,7 +284,7 @@ Ella	Nehin -
 <a href="https://www.gov.uk/government/organisations/environment-agency" target="_blank">	Kerry	Walsh</a> -
 <a href="https://www.researchgate.net/profile/Yucheng-Wang-5" target="_blank">	Yucheng	Wang</a> -
 <a href="https://www.limnologie.uni-konstanz.de/en/ag-epp-environmental-genomics/team/yi-wang/" target="_blank">	Yi	Wang</a> -
-<a href="<a href="http://earth.tju.edu.cn/" target="_blank">	Jing	Wang</a> -
+<a href="http://earth.tju.edu.cn/" target="_blank">	Jing	Wang</a> -
 <a href="https://www.researchgate.net/profile/Agnes_Weiner" target="_blank">	Agnes	Weiner</a> -
 <a href="https://www.researchgate.net/profile/Laura-Weldon-2" target="_blank">	Laura	Weldon</a> -
 <a href="https://www.cip.uliege.be/cms/c_6288624/en/cyanobacterial-diversity-phylogeny-and-biogeography" target="_blank">	Annick	Wilmotte</a> -
