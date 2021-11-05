@@ -24,6 +24,13 @@ title: Newsletters
 <p>IBENS, Paris, France</p>
 </div>
 	
+
+<div class ="member">
+<div class="square"><a href="https://ecologyweb.jimdofree.com/" target="_blank"><img src="{{ "/category/members/Hideyuki_Doi.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Hideyuki Doi</p>
+<p>Hyogo University, Kobe, Japa</p>
+</div>
+	
 <div class ="member">
 <div class="square"><a href="http://www.lsce.ipsl.fr/Pisp/olivier.evrard/" target="_blank"><img src="{{ "/category/members/Olivier_Evrard.JPG" | relative_url }}" alt="Avatar" /></a></div>
 <p>Olivier Evrard</p>
