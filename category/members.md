@@ -14,13 +14,13 @@ title: Newsletters
 <div class ="member">
 <div class="square"><a href="https://www.umcs.pl/en/addres-book-employee,9721,en.html" target="_blank"><img src="{{ "/category/members/Magdalena_Suchora.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Magdalena Suchora</p>
-<p>Institute of Earth and Environmental Sciences, Lublin, Poland</p>
+<p>UMCS, Lublin, Poland</p>
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.senckenberg.de/en/institutes/sbik-f/functional-environmental-genomics/" target="_blank"><img src="{{ "/category/members/Miklós_Bálint.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.senckenberg.de/en/institutes/sbik-f/functional-environmental-genomics/" target="_blank"><img src="{{ "/category/members/Miklós_Balint.jpeg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Miklós Bálint</p>
-<p>Senckenberg Biodiversity and Climate Research Centre, Frankfurt, Germany</p>
+<p>Senckenberg Centre, Frankfurt, Germany</p>
 </div>
  
 <div class ="member">
@@ -37,19 +37,13 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 </div>
  
 <div class ="member">
-<div class="square"><a href="laurap.it" target="_blank"><img src="{{ "/category/members/Laura_Parducci.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Laura Parducci</p>
-<p>Sapienza University of Rome, Rome, Italy</p>
-</div>
- 
-<div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Haifeng_Gu" target="_blank"><img src="{{ "/category/members/Haifeng_Gu.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Haifeng Gu</p>
 <p>Third Institute of Oceanography, Xiamen, China</p>
 </div>
  
 <div class ="member">
-<div class="square"><a href="http://www.lsce.ipsl.fr/Pisp/olivier.evrard/" target="_blank"><img src="{{ "/category/members/Olivier_Evrard.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="http://www.lsce.ipsl.fr/Pisp/olivier.evrard/" target="_blank"><img src="{{ "/category/members/Olivier_Evrard.JPG" | relative_url }}" alt="Avatar" /></a></div>
 <p>Olivier Evrard</p>
 <p>LSCE, Saint Aubin, France</p>
 </div>
@@ -63,11 +57,11 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <div class ="member">
 <div class="square"><a href="https://scholar.google.com/citations?user=cLUbbJkAAAAJ" target="_blank"><img src="{{ "/category/members/Mohamed_Sarhan.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mohamed S. Sarhan</p>
-<p>Eurac- Institute for Mummy Studies, Bolzano, Italy</p>
+<p>Eurac Research, Bolzano, Italy</p>
 </div>
  
 <div class ="member">
-<div class="square"><a href="https://www.ibens.ens.fr/spip.php?rubrique36&lang=fr" target="_blank"><img src="{{ "/category/members/ Mathilde_Bourreau.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.ibens.ens.fr/spip.php?rubrique36&lang=fr" target="_blank"><img src="{{ "/category/members/Mathilde_Bourreau.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mathilde Bourreau</p>
 <p>IBENS, Paris, France</p>
 </div>
@@ -75,7 +69,7 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <div class ="member">
 <div class="square"><a href="https://sites.google.com/york.ac.uk/seachanges/home" target="_blank"><img src="{{ "/category/members/Giulia_Zampirolo.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Giulia Zampirolo</p>
-<p>University of Copenhagen, Copenhagen, Denmark</p>
+<p>University of Copenhagen, Denmark</p>
 </div>
 
 
@@ -311,7 +305,7 @@ Ella	Nehin -
 <a href="https://anneketerschure.nl/" target="_blank">	Anneke	ter Schure</a> -
 <a href="https://cmllthomas.wixsite.com/geomic" target="_blank">	Camille	Thomas</a> -
 <a href="https://scholar.google.com/citations?user=nm2iXpYAAAAJ&hl=en" target="_blank">	Georgia	Thomson-Laing</a> -
-<a href="<a href="https://www.geog.ucl.ac.uk/people/academic-staff/david-thornalley" target="_blank">	David	Thornalley</a> -
+<a href="https://www.geog.ucl.ac.uk/people/academic-staff/david-thornalley" target="_blank">	David	Thornalley</a> -
 <a href="<a href="https://www.researchgate.net/profile/Amy_Thorpe7" target="_blank"> 	Amy	Thorpe</a> -
 <a href="https://www.uni-potsdam.de/en/ibb-evolutionsbiologie/index" target="_blank">	Ralf	Tiedemann</a> -
 <a href="https://www.4d-reef.eu/esr/andrew-torres/" target="_blank">	Andrew	Torres</a> -
