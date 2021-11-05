@@ -5,7 +5,7 @@ title: Newsletters
 
 <div class="intro">
 <h3 class="section-title underline">The members</h3>  
-<p> The society is currently composed by 289 members from XX research groups from XX countries. You can find below some informations about our members. If you want to add your info here, please email a pic and your website to <b>k.more@graduate.curtin.edu.au</b></p>
+<p> The society is currently composed by 291 members. You can find below some informations about our members. If you want to add your info here, please email a pic and your website to <b>k.more@graduate.curtin.edu.au</b></p>
 <br>
 </div>
 
