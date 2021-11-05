@@ -113,7 +113,6 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <a href="https://www.uio.no/english/research/strategic-research-areas/life-science/research/convergence-environments/realife/people/rebecca-blakeney.html" target="_blank">	Rebecca	Blakeney</a> -
 <a href="https://www.mn.uio.no/cees/english/people/core/sanneb/" target="_blank">	Sanne	Boessenkool</a> -
 <a href="https://www.kathrynhargan.com/our-team-opportunities" target="_blank">	Johanna	Bosch</a> -
-<a href="https://www.ibens.ens.fr/?rubrique36&lang=fr" target="_blank">	Mathilde	Bourreau</a> -
 <a href="https://leca.osug.fr/" target="_blank">	Frédéric	Boyer</a> -
 <a href="https://www.researchgate.net/profile/Katie-Brasell" target="_blank">	Katie	Brasell</a> -
 <a href="http://www.imbe.fr/elodie-brisset" target="_blank">	Elodie	Brisset</a> -
