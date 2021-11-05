@@ -138,7 +138,6 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <a href="https://aquaticecoevo.uqam.ca" target="_blank">	Alison	Derry</a> -
 <a href="http://www.jaduniv.edu.in/profile.php?uid=1071" target="_blank">	Paltu	Dhal</a> -
 <a href="https://www.researchgate.net/profile/Daniel-Quijano-3" target="_blank">	Daniel	Diaz de Quijano</a> -
-<a href="http://ecologyweb.jimdo.com/" target="_blank">	Hideyuki	Doi</a> -
 <a href="https://scholar.google.de/citations?user=xx3i6sIAAAAJ&hl=en" target="_blank">	Rene	Dommain</a> -
 <a href="https://www.researchgate.net/profile/Julian_Donald" target="_blank">	Julian	Donald</a> -
 <a href="https://www.york.ac.uk/archaeology/people/research-staff/katharina-dulias/" target="_blank">	Katharina	Dulias</a> -
