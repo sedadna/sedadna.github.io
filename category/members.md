@@ -12,28 +12,73 @@ title: Newsletters
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Eric Capo</p>
-<p>Coordinator</p>
-<p>ICM-CSIC</p>
-<p>Barcelona, Spain</p>
+<div class="square"><a href="https://www.umcs.pl/en/addres-book-employee,9721,en.html" target="_blank"><img src="{{ "/category/members/Magdalena_Suchora.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Magdalena Suchora</p>
+<p>Institute of Earth and Environmental Sciences, Lublin, Poland</p>
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Eric Capo</p>
-<p>Coordinator</p>
-<p>ICM-CSIC</p>
-<p>Barcelona, Spain</p>
+<div class="square"><a href="https://www.senckenberg.de/en/institutes/sbik-f/functional-environmental-genomics/" target="_blank"><img src="{{ "/category/members/Miklós_Bálint.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Miklós Bálint</p>
+<p>Senckenberg Biodiversity and Climate Research Centre, Frankfurt, Germany</p>
+</div>
+ 
+<div class ="member">
+<div class="square"><a href="https://www.awi.de/ueber-uns/organisation/mitarbeiter/weihan-jia.html"
+target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Weihan Jia</p>
+<p>AWI, Potsdam, Germany</p>
+</div>
+ 
+<div class ="member">
+<div class="square"><a href="https://www.cawthron.org.nz/our-people/susie-wood/" target="_blank"><img src="{{ "/category/members/Susie_Wood.png" | relative_url }}" alt="Avatar" /></a></div>
+<p> Susie Wood</p>
+<p> Cawthron Institute, Nelson, New Zealand</p>
+</div>
+ 
+<div class ="member">
+<div class="square"><a href="laurap.it" target="_blank"><img src="{{ "/category/members/Laura_Parducci.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Laura Parducci</p>
+<p>Sapienza University of Rome, Rome, Italy</p>
+</div>
+ 
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Haifeng_Gu" target="_blank"><img src="{{ "/category/members/Haifeng_Gu.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Haifeng Gu</p>
+<p>Third Institute of Oceanography, Xiamen, China</p>
+</div>
+ 
+<div class ="member">
+<div class="square"><a href="http://www.lsce.ipsl.fr/Pisp/olivier.evrard/" target="_blank"><img src="{{ "/category/members/Olivier_Evrard.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Olivier Evrard</p>
+<p>LSCE, Saint Aubin, France</p>
+</div>
+ 
+<div class ="member">
+<div class="square"><a href="https://sites.google.com/fmach.it/cristianovernesi/home" target="_blank"><img src="{{"/category/members/Cristiano_Vernesi.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Cristiano Vernesi</p>
+<p> Fondazione Edmund Mach, Trento, Italy</p>
+</div>
+ 
+<div class ="member">
+<div class="square"><a href="https://scholar.google.com/citations?user=cLUbbJkAAAAJ" target="_blank"><img src="{{ "/category/members/Mohamed_Sarhan.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Mohamed S. Sarhan</p>
+<p>Eurac- Institute for Mummy Studies, Bolzano, Italy</p>
+</div>
+ 
+<div class ="member">
+<div class="square"><a href="https://www.ibens.ens.fr/spip.php?rubrique36&lang=fr" target="_blank"><img src="{{ "/category/members/ Mathilde_Bourreau.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Mathilde Bourreau</p>
+<p>IBENS, Paris, France</p>
+</div>
+ 
+<div class ="member">
+<div class="square"><a href="https://sites.google.com/york.ac.uk/seachanges/home" target="_blank"><img src="{{ "/category/members/Giulia_Zampirolo.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Giulia Zampirolo</p>
+<p>University of Copenhagen, Copenhagen, Denmark</p>
 </div>
 
-<div class ="member">
-<div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Eric Capo</p>
-<p>Coordinator</p>
-<p>ICM-CSIC</p>
-<p>Barcelona, Spain</p>
-</div>
+
 
 
 </div> 
