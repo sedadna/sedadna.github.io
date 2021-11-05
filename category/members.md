@@ -27,7 +27,7 @@ title: Newsletters
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Abraham-Dabengwa" target="_blank"><img src="{{ "/category/members/Abraham_Dabengwa.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Abraham Dabengwa</p>
-<p>University of the Witwatersrand, South Africa</p>
+<p>Witwatersrand University, South Africa</p>
 </div>
 
 <div class ="member">
@@ -125,7 +125,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 	
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Yucheng-Wang-5" target="_blank"><img src="{{ "/category/members/Yucheng_Wang.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Yucheng-Wang-5" target="_blank"><img src="{{ "/category/members/Yucheng_Wang.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Yucheng Wang</p>
 <p>University of Cambridge, United Kingdom</p>
 </div>
@@ -335,7 +335,7 @@ Ella	Nehin -
 <a href="https://www.epoc.u-bordeaux.fr/index.php?lang=fr&page=fiche_etudiants&id=msabourd" target="_blank">	Manon	Sabourdy</a> -
 <a href="https://volley0red777.wixsite.com/sakata" target="_blank">	Masayuki	Sakata</a> -
 <a href="https://diatomecology.com/" target="_blank">	Jasmine	Saros</a> -
-<a href="<a href="https://www.research.manchester.ac.uk/portal/dael.sassoon.html" target="_blank">	Dael	Sassoon</a> -
+<a href="https://www.research.manchester.ac.uk/portal/dael.sassoon.html" target="_blank">	Dael	Sassoon</a> -
 <a href="https://www.fsg.ulaval.ca/departements/professeurs/emilie-saulnier-talbot-904/" target="_blank">	Emilie	Saulnier-Talbot</a> -
 <a href="https://researchmap.jp/rikai?lang=en" target="_blank">	Rikai	Sawafuji</a> -
 <a href="https://uit.no/ansatte/person?p_document_id=443179" target="_blank">	Anders	Schomaker</a> -
@@ -372,19 +372,18 @@ Ella	Nehin -
 <a href="https://sites.google.com/view/jvoneggers/home" target="_blank">	Jordan	Von Eggers</a> -
 <a href="https://www.awi.de/en/about-us/organisation/staff/barbara-von-hippel.html" target="_blank">	Barbara	von Hippel</a> -
 <a href="https://www.gov.uk/government/organisations/environment-agency" target="_blank">	Kerry	Walsh</a> -
-<a href="https://www.researchgate.net/profile/Yucheng-Wang-5" target="_blank">	Yucheng	Wang</a> -
 <a href="https://www.limnologie.uni-konstanz.de/en/ag-epp-environmental-genomics/team/yi-wang/" target="_blank">	Yi	Wang</a> -
 <a href="http://earth.tju.edu.cn/" target="_blank">	Jing	Wang</a> -
 <a href="https://www.researchgate.net/profile/Agnes_Weiner" target="_blank">	Agnes	Weiner</a> -
 <a href="https://www.researchgate.net/profile/Laura-Weldon-2" target="_blank">	Laura	Weldon</a> -
 <a href="https://www.cip.uliege.be/cms/c_6288624/en/cyanobacterial-diversity-phylogeny-and-biogeography" target="_blank">	Annick	Wilmotte</a> -
 <a href="https://charlescongxu.weebly.com/" target="_blank">	Charles	Xu</a> -
-	Hai	Xu -
+	Hai Xu -
 <a href="https://www.researchgate.net/profile/Alfredo-Yanez" target="_blank">	Alfredo	Yanez-Montalvo</a> -
 <a href="https://www.researchgate.net/profile/Yanli-Yuan" target="_blank">	Yanli	Yuan</a> -
 <a href="https://www.eva.mpg.de/genetics/advanced-dna-sequencing-techniques/group-staff/" target="_blank">	Elena	Zavala</a> -
-<a href="https://www.ecogen.no/" target="_blank">	Scarlett	Zetter
+<a href="https://www.ecogen.no/" target="_blank">	Scarlett	Zetter -
 <a href="http://www.itpcas.cas.cn/new_rcdw/new_qchcy/new_cy/202102/t20210225_5960839.html" target="_blank">	Jifeng	Zhang</a> -
-	Han Cheng	Zhao -
+	Han Cheng Zhao -
 <a href="https://scholar.google.com/citations?user=0W79goMAAAAJ&hl=de" target="_blank">	Heike	Zimmermann</a> -
 <a href="https://globe.ku.dk/staff-list/?pure=en/persons/674373" target="_blank">	Marina	Zure</a>.
