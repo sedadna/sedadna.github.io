@@ -11,29 +11,23 @@ title: Newsletters
 
 <div class="avatar">
 
-<div class ="member">
-<div class="square"><a href="https://www.umcs.pl/en/addres-book-employee,9721,en.html" target="_blank"><img src="{{ "/category/members/Magdalena_Suchora.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Magdalena Suchora</p>
-<p>UMCS, Lublin, Poland</p>
-</div>
 
 <div class ="member">
 <div class="square"><a href="https://www.senckenberg.de/en/institutes/sbik-f/functional-environmental-genomics/" target="_blank"><img src="{{ "/category/members/Miklós_Balint.jpeg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Miklós Bálint</p>
 <p>Senckenberg Centre, Frankfurt, Germany</p>
 </div>
- 
+
 <div class ="member">
-<div class="square"><a href="https://www.awi.de/ueber-uns/organisation/mitarbeiter/weihan-jia.html"
-target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Weihan Jia</p>
-<p>AWI, Potsdam, Germany</p>
+<div class="square"><a href="https://www.ibens.ens.fr/spip.php?rubrique36&lang=fr" target="_blank"><img src="{{ "/category/members/Mathilde_Bourreau.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Mathilde Bourreau</p>
+<p>IBENS, Paris, France</p>
 </div>
- 
+	
 <div class ="member">
-<div class="square"><a href="https://www.cawthron.org.nz/our-people/susie-wood/" target="_blank"><img src="{{ "/category/members/Susie_Wood.png" | relative_url }}" alt="Avatar" /></a></div>
-<p> Susie Wood</p>
-<p> Cawthron Institute, Nelson, New Zealand</p>
+<div class="square"><a href="http://www.lsce.ipsl.fr/Pisp/olivier.evrard/" target="_blank"><img src="{{ "/category/members/Olivier_Evrard.JPG" | relative_url }}" alt="Avatar" /></a></div>
+<p>Olivier Evrard</p>
+<p>LSCE, Saint Aubin, France</p>
 </div>
  
 <div class ="member">
@@ -43,27 +37,34 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 </div>
  
 <div class ="member">
-<div class="square"><a href="http://www.lsce.ipsl.fr/Pisp/olivier.evrard/" target="_blank"><img src="{{ "/category/members/Olivier_Evrard.JPG" | relative_url }}" alt="Avatar" /></a></div>
-<p>Olivier Evrard</p>
-<p>LSCE, Saint Aubin, France</p>
+<div class="square"><a href="https://www.awi.de/ueber-uns/organisation/mitarbeiter/weihan-jia.html"
+target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Weihan Jia</p>
+<p>AWI, Potsdam, Germany</p>
 </div>
- 
-<div class ="member">
-<div class="square"><a href="https://sites.google.com/fmach.it/cristianovernesi/home" target="_blank"><img src="{{"/category/members/Cristiano_Vernesi.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Cristiano Vernesi</p>
-<p> Fondazione Edmund Mach, Trento, Italy</p>
-</div>
- 
+
 <div class ="member">
 <div class="square"><a href="https://scholar.google.com/citations?user=cLUbbJkAAAAJ" target="_blank"><img src="{{ "/category/members/Mohamed_Sarhan.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mohamed S. Sarhan</p>
 <p>Eurac Research, Bolzano, Italy</p>
 </div>
- 
+
 <div class ="member">
-<div class="square"><a href="https://www.ibens.ens.fr/spip.php?rubrique36&lang=fr" target="_blank"><img src="{{ "/category/members/Mathilde_Bourreau.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Mathilde Bourreau</p>
-<p>IBENS, Paris, France</p>
+<div class="square"><a href="https://www.umcs.pl/en/addres-book-employee,9721,en.html" target="_blank"><img src="{{ "/category/members/Magdalena_Suchora.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Magdalena Suchora</p>
+<p>UMCS, Lublin, Poland</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://sites.google.com/fmach.it/cristianovernesi/home" target="_blank"><img src="{{"/category/members/Cristiano_Vernesi.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Cristiano Vernesi</p>
+<p> Fondazione Edmund Mach, Trento, Italy</p>
+</div>
+	
+<div class ="member">
+<div class="square"><a href="https://www.cawthron.org.nz/our-people/susie-wood/" target="_blank"><img src="{{ "/category/members/Susie_Wood.png" | relative_url }}" alt="Avatar" /></a></div>
+<p> Susie Wood</p>
+<p> Cawthron Institute, Nelson, New Zealand</p>
 </div>
  
 <div class ="member">
@@ -71,9 +72,6 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <p>Giulia Zampirolo</p>
 <p>University of Copenhagen, Denmark</p>
 </div>
-
-
-
 
 </div> 
 <br>
@@ -90,7 +88,6 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <a href="https://www.kuleuven.be/wieiswie/en/person/00121412" target="_blank">	Femke	Augustijns</a> -
 	Ayca	Aydogan - 
 <a href="https://www.researchgate.net/profile/Suryanarayanan-Balasubramanian" target="_blank">	Suryanarayanan	Balasubramanian</a> -
-<a href="https://www.senckenberg.de/en/institutes/sbik-f/functional-environmental-genomics/" target="_blank">	Miklos	Balint</a> -
 <a href="https://scholar.google.com/citations?user=DfM6UvsAAAAJ&hl=en" target="_blank">	Pritam	Banerjee</a> -
 <a href="https://scholar.google.com/citations?user=HZ_2OcIAAAAJ&hl=fr" target="_blank">	Ines	Barrenechea Angeles</a> -
 <a href="https://www.imbe.fr/alex-baumel" target="_blank">	Alex	Baumel
@@ -110,7 +107,6 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <a href="https://www.mn.uio.no/cees/english/people/core/sanneb/" target="_blank">	Sanne	Boessenkool</a> -
 <a href="https://www.kathrynhargan.com/our-team-opportunities" target="_blank">	Johanna	Bosch</a> -
 <a href="https://www.ibens.ens.fr/?rubrique36&lang=fr" target="_blank">	Mathilde	Bourreau</a> -
-<a href="https://www.ibens.ens.fr/?lang=fr" target="_blank">	Mathilde	Bourreau</a> -
 <a href="https://leca.osug.fr/" target="_blank">	Frédéric	Boyer</a> -
 <a href="https://www.researchgate.net/profile/Katie-Brasell" target="_blank">	Katie	Brasell</a> -
 <a href="http://www.imbe.fr/elodie-brisset" target="_blank">	Elodie	Brisset</a> -
@@ -145,7 +141,6 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <a href="http://tiger.curtin.edu.au/our-people/students/" target="_blank">	Md Akthar-E	Ekram</a> -
 <a href="https://www.epoc.u-bordeaux.fr/index.php?lang=fr&page=fiche_permanents&id=jetourne" target="_blank">	Johan	Etourneau</a> -
 <a href="https://www.researchgate.net/profile/Rosie-Everett-2" target="_blank">	Rosie	Everett</a> -
-<a href="http://www.lsce.ipsl.fr/Pisp/olivier.evrard/" target="_blank">	Olivier	Evrad</a> -
 <a href="https://ufind.univie.ac.at/en/person.html?id=102471" target="_blank">	Florian	Exler</a> -
 <a href="https://geosciences.uconn.edu/person/andy_fallon/" target="_blank">	Andy	Fallon</a> -
 <a href="https://www.researchgate.net/profile/Motahare-Feizabadi-Farahani-2" target="_blank">	Motahare	Feizabadi Farahani</a> -
@@ -163,7 +158,6 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <a href="https://www.norceresearch.no/en/persons/danielle-grant" target="_blank">	Danielle	Grant</a> -
 <a href="http://gregoryeaveslab.weebly.com" target="_blank">	Irene	Gregory-Eaves</a> -
 <a href="https://www.mola.org.uk/people/sam-griffiths" target="_blank">	Samuel	Griffiths</a> -
-<a href="https://www.researchgate.net/profile/Haifeng-Gu-2" target="_blank">	Haifeng	Gu</a> -
 <a href="https://orcid.org/0000-0002-5681-8210" target="_blank">	Aritina	Haliuc</a> -
 <a href="https://warwick.ac.uk/fac/sci/lifesci/research/archaeobotany/group_members/" target="_blank">	Teri	Hansford</a> -
 <a href="https://www.researchgate.net/profile/Sara-Hardardottir" target="_blank">	Sara	Hardardottir</a> -
@@ -278,7 +272,6 @@ Ella	Nehin -
 <a href="https://www.umu.se/en/staff/johan-rydberg/" target="_blank">	Johan	Rydberg</a> -
 <a href="https://www.epoc.u-bordeaux.fr/index.php?lang=fr&page=fiche_etudiants&id=msabourd" target="_blank">	Manon	Sabourdy</a> -
 <a href="https://volley0red777.wixsite.com/sakata" target="_blank">	Masayuki	Sakata</a> -
-<a href="https://www.eurac.edu/en/research/health/iceman/staff/Pages/staffdetails.aspx?persId=50176" target="_blank">	Mohamed	Sarhan</a> -
 <a href="https://diatomecology.com/" target="_blank">	Jasmine	Saros</a> -
 <a href="<a href="https://www.research.manchester.ac.uk/portal/dael.sassoon.html" target="_blank">	Dael	Sassoon</a> -
 <a href="https://www.fsg.ulaval.ca/departements/professeurs/emilie-saulnier-talbot-904/" target="_blank">	Emilie	Saulnier-Talbot</a> -
@@ -300,7 +293,6 @@ Ella	Nehin -
 <a href="https://www.eva.mpg.de/evolution/staff/mareike-cordula-stahlschmidt/" target="_blank">	Mareike	Stahlschmidt</a> -
 <a href="https://www.tu-braunschweig.de/igeo/team/petra-steffen" target="_blank">	Petra	Steffen</a> -
 <a href="https://allisonstegner.com/" target="_blank">	Allison	Stegner</a> -
-<a href="https://www.researchgate.net/profile/Magdalena-Suchora" target="_blank">	Magdalena	Suchora</a> -
 <a href="https://geohazards.amu.edu.pl/en/prof-uam-dr-hab-witold-szczucinski" target="_blank">	Witold	Szczuciński</a> -
 <a href="https://anneketerschure.nl/" target="_blank">	Anneke	ter Schure</a> -
 <a href="https://cmllthomas.wixsite.com/geomic" target="_blank">	Camille	Thomas</a> -
@@ -314,7 +306,6 @@ Ella	Nehin -
 <a href="https://www.helsinki.fi/en/researchgroups/environmental-change" target="_blank">	Minna	Väliranta</a> -
 <a href="https://www.ncl.ac.uk/gps/staff/profile/maartenvanhardenbroek.html#research" target="_blank">	Marteen	van Hardenbroek</a> -
 <a href="https://www.ugent.be/we/biology/en/research/protistology/pae-home/" target="_blank">	Elie	Verleyen</a> -
-<a href="https://sites.google.com/fmach.it/cristianovernesi/home" target="_blank">	Cristiano	Vernesi</a> -
 <a href="https://scholar.google.com/citations?user=5UbYSBEAAAAJ&hl=en" target="_blank">	Benjamin	Vernot</a> -
 <a href="https://www.researchgate.net/profile/Marianne-Vogel" target="_blank">	Marianne	Vogel</a> -
 <a href="https://orbit.dtu.dk/en/persons/nicola-alexandra-vogel" target="_blank">	Nicola	Vogel</a> -
@@ -327,12 +318,10 @@ Ella	Nehin -
 <a href="https://www.researchgate.net/profile/Agnes_Weiner" target="_blank">	Agnes	Weiner</a> -
 <a href="https://www.researchgate.net/profile/Laura-Weldon-2" target="_blank">	Laura	Weldon</a> -
 <a href="https://www.cip.uliege.be/cms/c_6288624/en/cyanobacterial-diversity-phylogeny-and-biogeography" target="_blank">	Annick	Wilmotte</a> -
-<a href="https://lakes380.com/" target="_blank">	Susie	Wood</a> -
 <a href="https://charlescongxu.weebly.com/" target="_blank">	Charles	Xu</a> -
 	Hai	Xu -
 <a href="https://www.researchgate.net/profile/Alfredo-Yanez" target="_blank">	Alfredo	Yanez-Montalvo</a> -
 <a href="https://www.researchgate.net/profile/Yanli-Yuan" target="_blank">	Yanli	Yuan</a> -
-<a href="https://twitter.com/" target="_blank">	Giulia	Zampirolo</a> -
 <a href="https://www.eva.mpg.de/genetics/advanced-dna-sequencing-techniques/group-staff/" target="_blank">	Elena	Zavala</a> -
 <a href="https://www.ecogen.no/" target="_blank">	Scarlett	Zetter
 <a href="http://www.itpcas.cas.cn/new_rcdw/new_qchcy/new_cy/202102/t20210225_5960839.html" target="_blank">	Jifeng	Zhang</a> -
