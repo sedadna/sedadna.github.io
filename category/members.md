@@ -24,11 +24,22 @@ title: Newsletters
 <p>IBENS, Paris, France</p>
 </div>
 	
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Abraham-Dabengwa" target="_blank"><img src="{{ "/category/members/Abraham_Dabengwa.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Abraham Dabengwa</p>
+<p>University of the Witwatersrand, South Africa</p>
+</div>
 
+<div class ="member">
+<div class="square"><a href="https://scholar.google.de/citations?user=xx3i6sIAAAAJ&hl=en" target="_blank"><img src="{{ "/category/members/Rene_Dommain.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Rene Dommain</p>
+<p>University of Potsdam, Germany</p>
+</div>
+	
 <div class ="member">
 <div class="square"><a href="https://ecologyweb.jimdofree.com/" target="_blank"><img src="{{ "/category/members/Hideyuki_Doi.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Hideyuki Doi</p>
-<p>Hyogo University, Kobe, Japa</p>
+<p>Hyogo University, Kobe, Japan</p>
 </div>
 	
 <div class ="member">
@@ -36,7 +47,13 @@ title: Newsletters
 <p>Olivier Evrard</p>
 <p>LSCE, Saint Aubin, France</p>
 </div>
- 
+
+<div class ="member">
+<div class="square"><a href="https://rebeccagarner.github.io/" target="_blank"><img src="{{ "/category/members/Rebecca_Garner.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Rebecca Garner</p>
+<p>Concordia University, Montreal, Canada</p>
+</div>
+	
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Haifeng_Gu" target="_blank"><img src="{{ "/category/members/Haifeng_Gu.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Haifeng Gu</p>
@@ -51,11 +68,44 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 </div>
 
 <div class ="member">
+<div class="square"><a href="http://www.ucedna.com"
+target="_blank"><img src="{{ "/category/members/Rachel_Meyer.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Rachel Meyer</p>
+<p>University of California Santa Cruz, USA</p>
+</div>
+	
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Barbara_Moguel"
+target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Bárbara Moguel</p>
+<p>UNAM, Juriquilla, Mexico</p>
+</div>
+	
+<div class ="member">
+<div class="square"><a href="https://www.univ-na.ci/" target="_blank"><img src="{{ "/category/members/Allassane_Ouattara.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Allassane Ouattara</p>
+<p>University of Nangui Abrogoua, Ivory Coast</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://sites.google.com/uonbi.ac.ke/omuombo/home" target="_blank"><img src="{{ "/category/members/Tina_Omuombo.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Christine Omuombo</p>
+<p>University of Nairobi, Kenya</p>
+</div>
+
+	
+<div class ="member">
 <div class="square"><a href="https://scholar.google.com/citations?user=cLUbbJkAAAAJ" target="_blank"><img src="{{ "/category/members/Mohamed_Sarhan.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mohamed S. Sarhan</p>
 <p>Eurac Research, Bolzano, Italy</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://www.slonlab.com/" target="_blank"><img src="{{ "/category/members/Viviane_Slon.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Viviane Slon</p>
+<p>Tel Aviv University, Israel</p>
+</div>
+	
 <div class ="member">
 <div class="square"><a href="https://www.umcs.pl/en/addres-book-employee,9721,en.html" target="_blank"><img src="{{ "/category/members/Magdalena_Suchora.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Magdalena Suchora</p>
@@ -66,6 +116,18 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <div class="square"><a href="https://sites.google.com/fmach.it/cristianovernesi/home" target="_blank"><img src="{{"/category/members/Cristiano_Vernesi.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Cristiano Vernesi</p>
 <p> Fondazione Edmund Mach, Trento, Italy</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://scholar.google.com/citations?user=5UbYSBEAAAAJ&hl=en" target="_blank"><img src="{{"/category/members/Benjamin_Vernot.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Benjamin Vernot</p>
+<p>MPI-EVA, Leipzig, Germany</p>
+</div>
+	
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Yucheng-Wang-5" target="_blank"><img src="{{ "/category/members/Yucheng_Wang.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Yucheng Wang</p>
+<p>University of Cambridge, United Kingdom</p>
 </div>
 	
 <div class ="member">
@@ -131,13 +193,11 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <a href="https://www.sarahcrumpscience.com/" target="_blank">	Sarah	Crump</a> -
 <a href="https://www.queensu.ca/pearl/" target="_blank">	Brian	Cumming</a> -
 <a href="https://www.amandancurtis.com/" target="_blank">	Amanda	Curtis</a> -
-<a href="https://www.researchgate.net/profile/Abraham-Dabengwa" target="_blank">	Abraham	Dabengwa</a> -
 <a href="http://www.wur.nl/en/product/Ecological-genetics.htm" target="_blank">	Arjen	De Groot</a> -
 <a href="https://cagt.cnrs.fr" target="_blank">	Clio	Der Sarkissian</a> -
 <a href="https://aquaticecoevo.uqam.ca" target="_blank">	Alison	Derry</a> -
 <a href="http://www.jaduniv.edu.in/profile.php?uid=1071" target="_blank">	Paltu	Dhal</a> -
 <a href="https://www.researchgate.net/profile/Daniel-Quijano-3" target="_blank">	Daniel	Diaz de Quijano</a> -
-<a href="https://scholar.google.de/citations?user=xx3i6sIAAAAJ&hl=en" target="_blank">	Rene	Dommain</a> -
 <a href="https://www.researchgate.net/profile/Julian_Donald" target="_blank">	Julian	Donald</a> -
 <a href="https://www.york.ac.uk/archaeology/people/research-staff/katharina-dulias/" target="_blank">	Katharina	Dulias</a> -
 <a href="https://researchers.adelaide.edu.au/profile/lucinda.duxbury" target="_blank">	Lucinda	Duxbury</a> -
@@ -234,7 +294,6 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <a href="http://palaeogenetics.com/im/" target="_blank">	Ioana	Meleg</a> -
 <a href="https://climatechange.umaine.edu/people/alessandro-mereghetti/" target="_blank">	Alessandro	Mereghetti</a> -
 <a href="http://www.ucedna.com" target="_blank">	Rachel	Meyer</a> -
-<a href="https://www.researchgate.net/profile/Barbara_Moguel" target="_blank">	Bárbara	Moguel</a> -
 <a href="https://anthropology.stanford.edu/people/hannah-moots" target="_blank">	Hannah	Moots</a> -
 <a href="https://www.marum.de/en/Dr.-raphael-morard.html" target="_blank">	Raphael	Morard</a> -
 <a href="https://www.umu.se/en/staff/marina-morlock/" target="_blank">	Marine	Morlock</a> -
@@ -247,8 +306,6 @@ Ella	Nehin -
 <a href="https://www.gfz-potsdam.de/en/staff/ebuka-canisius-nwosu/sec37/" target="_blank">	Ebuka	Nwosu</a> -
 <a href="https://stri.si.edu/scientist/aaron-odea" target="_blank">	Aaron	O'Dea</a> -
 <a href="https://ecobio.univ-rennes1.fr/interlocuteurs/morgane-ollivier" target="_blank">	Morgane	Ollivier</a> -
-<a href="https://sites.google.com/uonbi.ac.ke/omuombo/home" target="_blank">	Christine	Omuombo</a> -
-<a href="https://www.univ-na.ci/" target="_blank">	Allassane	Ouattara</a> -
 <a href="https://www.researchgate.net/profile/Idrissa-Ouedraogo-3" target="_blank">	Idrissa	Ouedraogo</a> -
 <a href="https://www.uib.no/en/persons/Anna.Patova" target="_blank">	Anna	Patova</a> -
 <a href="http://www.iopan.gda.pl" target="_blank">	Jan	Pawlowski</a> -
@@ -292,7 +349,6 @@ Ella	Nehin -
 <a href="https://www.qmul.ac.uk/sbcs/staff/ewanshilland.html" target="_blank">	Ewan	Shilland</a> -
 <a href="https://annuaire.ifremer.fr/cv/17456/" target="_blank">	Raffaele	Siano</a> -
 <a href="https://www.researchgate.net/profile/Prashasti-Singh-4" target="_blank">	Prashasti	Singh</a> -
-<a href="https://www.slonlab.com/" target="_blank">	Viviane	Slon</a> -
 <a href="https://www.cawthron.org.nz/our-people/kirsty-smith/" target="_blank">	Kirsty	Smith</a> -
 <a href="http://www.ucad.sn" target="_blank">	El Hadji	Sow</a> -
 <a href="https://www.eva.mpg.de/evolution/staff/mareike-cordula-stahlschmidt/" target="_blank">	Mareike	Stahlschmidt</a> -
@@ -311,7 +367,6 @@ Ella	Nehin -
 <a href="https://www.helsinki.fi/en/researchgroups/environmental-change" target="_blank">	Minna	Väliranta</a> -
 <a href="https://www.ncl.ac.uk/gps/staff/profile/maartenvanhardenbroek.html#research" target="_blank">	Marteen	van Hardenbroek</a> -
 <a href="https://www.ugent.be/we/biology/en/research/protistology/pae-home/" target="_blank">	Elie	Verleyen</a> -
-<a href="https://scholar.google.com/citations?user=5UbYSBEAAAAJ&hl=en" target="_blank">	Benjamin	Vernot</a> -
 <a href="https://www.researchgate.net/profile/Marianne-Vogel" target="_blank">	Marianne	Vogel</a> -
 <a href="https://orbit.dtu.dk/en/persons/nicola-alexandra-vogel" target="_blank">	Nicola	Vogel</a> -
 <a href="https://sites.google.com/view/jvoneggers/home" target="_blank">	Jordan	Von Eggers</a> -
