@@ -13,7 +13,7 @@ title: Newsletters
 
 
 <div class ="member">
-<div class="square"><a href="https://www.senckenberg.de/en/institutes/sbik-f/functional-environmental-genomics/" target="_blank"><img src="{{ "/category/members/Miklós_Balint.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.senckenberg.de/en/institutes/sbik-f/functional-environmental-genomics/" target="_blank"><img src="{{ "/category/members/Miklós_Balint.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Miklós Bálint</p>
 <p>Senckenberg Centre, Frankfurt, Germany</p>
 </div>
