@@ -82,13 +82,13 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 	
 <div class ="member">
-<div class="square"><a href="https://www.univ-na.ci/" target="_blank"><img src="{{ "/category/members/Allassane_Ouattara.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.univ-na.ci/" target="_blank"><img src="{{ "/category/members/Allassane_Ouattara.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Allassane Ouattara</p>
 <p>University of Nangui Abrogoua, Ivory Coast</p>
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://sites.google.com/uonbi.ac.ke/omuombo/home" target="_blank"><img src="{{ "/category/members/Tina_Omuombo.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://sites.google.com/uonbi.ac.ke/omuombo/home" target="_blank"><img src="{{ "/category/members/Tina_Omuombo.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Christine Omuombo</p>
 <p>University of Nairobi, Kenya</p>
 </div>
@@ -101,7 +101,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.slonlab.com/" target="_blank"><img src="{{ "/category/members/Viviane_Slon.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.slonlab.com/" target="_blank"><img src="{{ "/category/members/Viviane_Slon.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Viviane Slon</p>
 <p>Tel Aviv University, Israel</p>
 </div>
@@ -119,7 +119,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://scholar.google.com/citations?user=5UbYSBEAAAAJ&hl=en" target="_blank"><img src="{{"/category/members/Benjamin_Vernot.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://scholar.google.com/citations?user=5UbYSBEAAAAJ&hl=en" target="_blank"><img src="{{"/category/members/Benjamin_Vernot.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Benjamin Vernot</p>
 <p>MPI-EVA, Leipzig, Germany</p>
 </div>
