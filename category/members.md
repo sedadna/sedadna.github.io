@@ -305,7 +305,7 @@ Ella	Nehin -
 <a href="https://cmllthomas.wixsite.com/geomic" target="_blank">	Camille	Thomas</a> -
 <a href="https://scholar.google.com/citations?user=nm2iXpYAAAAJ&hl=en" target="_blank">	Georgia	Thomson-Laing</a> -
 <a href="https://www.geog.ucl.ac.uk/people/academic-staff/david-thornalley" target="_blank">	David	Thornalley</a> -
-<a href="<a href="https://www.researchgate.net/profile/Amy_Thorpe7" target="_blank"> 	Amy	Thorpe</a> -
+<a href="https://www.researchgate.net/profile/Amy_Thorpe7" target="_blank"> 	Amy	Thorpe</a> -
 <a href="https://www.uni-potsdam.de/en/ibb-evolutionsbiologie/index" target="_blank">	Ralf	Tiedemann</a> -
 <a href="https://www.4d-reef.eu/esr/andrew-torres/" target="_blank">	Andrew	Torres</a> -
 <a href="https://www.researchgate.net/profile/Luca-Turolo" target="_blank">	Luca	Turolo</a> -
@@ -335,4 +335,3 @@ Ella	Nehin -
 	Han Cheng	Zhao -
 <a href="https://scholar.google.com/citations?user=0W79goMAAAAJ&hl=de" target="_blank">	Heike	Zimmermann</a> -
 <a href="https://globe.ku.dk/staff-list/?pure=en/persons/674373" target="_blank">	Marina	Zure</a>.
-</p></div>
