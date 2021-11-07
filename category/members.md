@@ -125,7 +125,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 	
 <div class ="member">
-<div class="square"><a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><img src="{{"/category/members/Jordan_VonEggers.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><img src="{{"/category/members/Jordan_VonEggers.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Jordan Von Eggers</p>
 <p>University of Wyoming, USA</p>
 </div>
