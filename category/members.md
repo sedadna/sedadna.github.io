@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Newsletters
+title: Members
 ---
 
 <div class="intro">
