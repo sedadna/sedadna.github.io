@@ -222,6 +222,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <a href="http://www.beastlab.net" target="_blank">	Jacquelyn	Gill</a> -
 <a href="https://www.norceresearch.no/en/persons/danielle-grant" target="_blank">	Danielle	Grant</a> -
 <a href="http://gregoryeaveslab.weebly.com" target="_blank">	Irene	Gregory-Eaves</a> -
+	Charlotte Greenall -
 <a href="https://www.mola.org.uk/people/sam-griffiths" target="_blank">	Samuel	Griffiths</a> -
 <a href="https://orcid.org/0000-0002-5681-8210" target="_blank">	Aritina	Haliuc</a> -
 <a href="https://warwick.ac.uk/fac/sci/lifesci/research/archaeobotany/group_members/" target="_blank">	Teri	Hansford</a> -
@@ -343,6 +344,7 @@ Ella	Nehin -
 <a href="https://www.researchgate.net/profile/Lennart-Schreiber" target="_blank">	Lennart	Schreiber</a> -
 <a href="https://www.awi.de/ueber-uns/organisation/mitarbeiter/luise-schulte.html" target="_blank">	Luise	Schulte</a> -
 <a href="https://www.limnologie.uni-konstanz.de/en/ag-epp-environmental-genomics/team/peter-seeber/" target="_blank">	Peter	Seeber</a> -
+Takahiro Segawa -
 <a href="https://www.researchgate.net/profile/Joeselle-Serrana/amp" target="_blank">	Joeselle	Serrana</a> -
 <a href="https://www.researchgate.net/profile/Bhavatharini-Shanmuganathan" target="_blank">	Bhavatharini	Shanmuganathan</a> -
 <a href="https://www.awi.de/en/science/geosciences/polar-terrestrial-environmental-systems/staff.html" target="_blank">	Wei	Shen</a> -
@@ -366,6 +368,7 @@ Ella	Nehin -
 <a href="https://biblio.ugent.be/person/802000412688" target="_blank">	Bjorn	Tytgat</a> -
 <a href="https://www.helsinki.fi/en/researchgroups/environmental-change" target="_blank">	Minna	Väliranta</a> -
 <a href="https://www.ncl.ac.uk/gps/staff/profile/maartenvanhardenbroek.html#research" target="_blank">	Marteen	van Hardenbroek</a> -
+<a href="https://ibsclimate.org/" target="_blank"> Valentina Vanghi</a> -
 <a href="https://www.ugent.be/we/biology/en/research/protistology/pae-home/" target="_blank">	Elie	Verleyen</a> -
 <a href="https://www.researchgate.net/profile/Marianne-Vogel" target="_blank">	Marianne	Vogel</a> -
 <a href="https://orbit.dtu.dk/en/persons/nicola-alexandra-vogel" target="_blank">	Nicola	Vogel</a> -
@@ -380,6 +383,7 @@ Ella	Nehin -
 <a href="https://charlescongxu.weebly.com/" target="_blank">	Charles	Xu</a> -
 	Hai Xu -
 <a href="https://www.researchgate.net/profile/Alfredo-Yanez" target="_blank">	Alfredo	Yanez-Montalvo</a> -
+	N'goran Jean-Paul Yao -	
 <a href="https://www.researchgate.net/profile/Yanli-Yuan" target="_blank">	Yanli	Yuan</a> -
 <a href="https://www.eva.mpg.de/genetics/advanced-dna-sequencing-techniques/group-staff/" target="_blank">	Elena	Zavala</a> -
 <a href="https://www.ecogen.no/" target="_blank">	Scarlett	Zetter -
