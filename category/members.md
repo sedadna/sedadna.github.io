@@ -101,6 +101,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Lennart-Schreiber" target="_blank"><img src="{{ "/category/members/Lennart_Schreiber.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Lennart Schreiber</p>
+<p>University of Bremen, Germany</p>
+</div>
+	
+<div class ="member">
 <div class="square"><a href="https://www.slonlab.com/" target="_blank"><img src="{{ "/category/members/Viviane_Slon.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Viviane Slon</p>
 <p>Tel Aviv University, Israel</p>
