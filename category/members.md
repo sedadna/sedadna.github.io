@@ -80,7 +80,7 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Sevgi-Kaynar"
-target="_blank"><img src="{{ "/category/members/Sevgi Kaynar.png" | relative_url }}" alt="Avatar" /></a></div>
+target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sevgi Kaynar</p>
 <p>University of Potsdam, Germany</p>
 </div>
