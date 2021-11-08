@@ -15,7 +15,7 @@ title: Members
 <div class ="member">
 <div class="square"><a href="https://www.senckenberg.de/en/institutes/sbik-f/functional-environmental-genomics/" target="_blank"><img src="{{ "/category/members/Mikki.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Miklós Bálint</p>
-<p>Senckenberg Centre, Frankfurt, Germany</p>
+<p>Senckenberg Centre and LOEWE-TBG, Frankfurt, Germany</p>
 </div>
 
 <div class ="member">
