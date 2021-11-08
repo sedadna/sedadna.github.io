@@ -11,7 +11,12 @@ title: Members
 
 <div class="avatar">
 
-
+<div class ="member">
+<div class="square"><a href="https://publons.com/researcher/1345770/fabien-arnaud/" target="_blank"><img src="{{ "/category/members/Fabien_Arnaud.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Fabien Arnaud</p>
+<p>CNRS - University of Savoie Mont Blanc, France</p>
+</div>
+	
 <div class ="member">
 <div class="square"><a href="https://www.senckenberg.de/en/institutes/sbik-f/functional-environmental-genomics/" target="_blank"><img src="{{ "/category/members/Mikki.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Miklós Bálint</p>
@@ -22,6 +27,12 @@ title: Members
 <div class="square"><a href="https://www.ibens.ens.fr/spip.php?rubrique36&lang=fr" target="_blank"><img src="{{ "/category/members/Mathilde_Bourreau.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mathilde Bourreau</p>
 <p>IBENS, Paris, France</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Jeremy-Courtin" target="_blank"><img src="{{ "/category/members/Jérémy_Courtin.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Jérémy Courtin</p>
+<p>Alfred Wegener Institute, Potsdam, Germany</p>
 </div>
 	
 <div class ="member">
@@ -67,6 +78,13 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <p>AWI, Potsdam, Germany</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Sevgi-Kaynar"
+target="_blank"><img src="{{ "/category/members/Sevgi Kaynar.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Sevgi Kaynar</p>
+<p>University of Potsdam, Germany</p>
+</div>
+	
 <div class ="member">
 <div class="square"><a href="http://www.ucedna.com"
 target="_blank"><img src="{{ "/category/members/Rachel_Meyer.jpg" | relative_url }}" alt="Avatar" /></a></div>
