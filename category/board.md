@@ -76,7 +76,7 @@ Title: Our board
 </div>
 
 <div class="section Marie-Eve">
-<p> <a href="https://marie-evemonchamp.weebly.com/" target="_blank"><b>Marie-Eve Monchamp</b></a> has a Ph.D. in Environmental Systems Science from the Swiss Federal Institute of Technology (ETH) (Zurich, Switzerland). Her research interests are focussed on the impact of human activities on freshwater biota. She is currently an NSERC postdoctoral fellow at McGill University (Montréal, Canada) where she applies eDNA, sedDNA and eRNA approaches to study lacustrine biodiversity and ecosystem function. Marie-Eve is the leader of the <a href="https://pastglobalchanges.org/taxonomy/term/104" target="_blank">PAGES PaleoEcoGen Working Group</a>.</p>         
+<p> <a href="https://marie-evemonchamp.weebly.com/" target="_blank"><b>Marie-Eve Monchamp</b></a> has a Ph.D. in Environmental Systems Science from the Swiss Federal Institute of Technology (ETH) (Zurich, Switzerland). Her research interests are focussed on the impact of human activities on freshwater biota. She is currently an NSERC postdoctoral fellow at McGill University (Montréal, Canada) where she applies eDNA, sedDNA and eRNA approaches to study lacustrine biodiversity and ecosystem function. Marie-Eve is the leader of the <a href="https://pastglobalchanges.org/science/wg/paleoecogen" target="_blank">PAGES PaleoEcoGen Working Group</a>.</p>         
 </div>
 
 <div class="section Kevin">
