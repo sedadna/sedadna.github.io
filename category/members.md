@@ -30,7 +30,7 @@ title: Members
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Jeremy-Courtin" target="_blank"><img src="{{ "/category/members/Jérémy_Courtin.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Jeremy-Courtin" target="_blank"><img src="{{ "/category/members/Jeremy_Courtin.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Jérémy Courtin</p>
 <p>Alfred Wegener Institute, Potsdam, Germany</p>
 </div>
