@@ -15,7 +15,7 @@ Title: Popular Science
 <div class="intro">
 <p><a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><b>Is There DNA in Dirt?</b></a>
 <p>'It turns out that there are lots of other clues about the history of living things that are just waiting to be dug up. It's just that they are a lot smaller than even your tiniest fossils.' - made by <a href="https://www.youtube.com/scishow" target="_blank"><b>SciShow</b></a></p>
-<a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><img class="skrinktofit" src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" width="514" height="289"/>
+<a href="https://www.youtube.com/watch?v=gTsArY9o9LU" target="_blank"><img class="skrinktofit" src="https://i.ytimg.com/vi/gTsArY9o9LU/maxresdefault.jpg" width="514" height="289"</a>/>
 
 <br>
       
