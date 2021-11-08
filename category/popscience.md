@@ -22,25 +22,25 @@ Title: Popular Science
 <p><a href="https://laurap.it/events" target="_blank"><b>Science & Art</b></a>
 <p> 'Like Jill Pelto I like finding new ways to communicate science to a broader audience and especially through art. In these pieces of art Jill used scientific data from our research to increase awareness about what we do and to explain it in a simpler fashion.' - from <a href="https://www.laurap.it/" target="_blank"><b>Laura Parducci</b></a>, Assoc. Professor, Dept. of Environmental Biology at Sapienza University of Rome, Italy & Dept. of Plant Ecology at Uppsala University, Sweden - below made by <a href="https://www.jillpelto.com/" target="_blank"><b>Jill Pelto</b></a></p>
 <a href="https://laurap.it/events" target="_blank"><img class="skrinktofit" src="https://laurap.it/____impro/1/onewebmedia/LakeCore_Small.jpg?etag=%22651bec-60e84c65%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,1961" width="400" />
-
+<hr>
 <br>
 
 <p><a href="https://lakes380.com/" target="_blank"><b>Lakes380</b></a>
 <p><i>'Our Lakes’ Health: past, present, future - Me hoki whakamuri kia haere whakamua</i> is a five-year research project that will enrich our understanding of the environmental, social and cultural histories of 10% of New Zealand’s 3,800 lakes (>1 ha). This involves collecting and analysing lake sediments and water samples, as well as interviews and field visits - shared by Lakes380 project researcher <a href="https://www.cawthron.org.nz/our-people/susie-wood/" target="_blank"><b>Susie Wood</b></a>, Senior Scientist, Cawthron Institute, New Zealand.</p>
 <a href="https://lakes380.com/" target="_blank"><img src="{{ "https://lakes380.com/wp-content/uploads/2020/08/Inforgraphic_A3_Web.jpg" | width=600 }}"/>
-
+<hr>
 <br>
 
 <p><a href="https://www.iflscience.com/plants-and-animals/climate-change-not-humans-likely-killed-the-woolly-mammoth/" target="_blank"><b>Climate Change, Not Humans, Likely Killed The Woolly Mammoth</b></a>
 <p> 'Ultimately, the rapid warming - and increase in precipitation - in the Arctic that preceded the Holocene turned the vast steppe-tundra grasslands into a wetter mosaic of habitats that could no longer support mega herbivores such as mammoths - shared by co-author <a href="https://en.uit.no/ansatte/person?p_document_id=618540&p_dimension_id=88137" target="_blank"><b>Alexandra Rouillard</b></a>, postdoc at the Dept. of Geosciences, UiT The Arctic University of Norway, Norway and affiliated researcher at the GLOBE Institue, University of Copenhagen, Denmark, of paper: <a href="https://www.nature.com/articles/s41586-021-04016-x" target="_blank"><b>'Late Quaternary dynamics of Arctic biota from ancient environmental genomics'</b></a>, Wang, Pedersen and Alsos et al., 2021, <i>Nature</i> - below Artist impression of a trio of woolly mammoths trudging on snow-covered hills. Image credit: Daniel Eskridge.</p>    
 <a href="https://www.iflscience.com/plants-and-animals/climate-change-not-humans-likely-killed-the-woolly-mammoth/" target="_blank"><img src="{{ "https://cdn.iflscience.com/images/52f20095-436f-500e-83b6-88404a722feb/extra_large-1634815285-artist-impression-of-a-trio-of-woolly-mammoths-trudging-over-snow-covered-hills-image-credit-daniel-eskridge-shutterstock-ocm.jpg" | height=600 }}">
-
+<hr>
 <br>
 
 <p><a href="https://ars.els-cdn.com/content/image/1-s2.0-S0960982221004528-mmc4.mp4" target="_blank"><b>Project PALMIRA (Paleoecology of <i>Alexandrium minutum</i> in the Bay of Brest)</b></a>
 <p> Video about core sampling and lab work released as part of paper: <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(21)00452-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221004528%3Fshowall%3Dtrue#secsectitle0025" target="_blank"><b>'Sediment archives reveal irreversible shifts in plankton communities after World War II and agricultural pollution'</b></a>, Siano et al., 2021, <i>Current Biology</i>- shared by Raffaele Siano.</p>
 <a href="https://ars.els-cdn.com/content/image/1-s2.0-S0960982221004528-mmc4.mp4" target="_blank"><img src="{{ "https://ars.els-cdn.com/content/image/1-s2.0-S0960982221004528-mmc4.jpg" | height=600 }}">
-
+<hr>
 <br>
 
 <p><a href="https://www.eva.mpg.de/press/news/2017/2017-04-27-dna-from-extinct-humans/" target="_blank"><b>DNA from Extinct Humans Discovered in Cave Sediments</b></a>
