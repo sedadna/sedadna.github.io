@@ -30,7 +30,7 @@ title: Members
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Jeremy-Courtin" target="_blank"><img src="{{ "/category/members/Jérémy_Courtin.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Jeremy-Courtin" target="_blank"><img src="{{ "/category/members/Jérémy_Courtin.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Jérémy Courtin</p>
 <p>Alfred Wegener Institute, Potsdam, Germany</p>
 </div>
@@ -80,7 +80,7 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Sevgi-Kaynar"
-target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.png" | relative_url }}" alt="Avatar" /></a></div>
+target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sevgi Kaynar</p>
 <p>University of Potsdam, Germany</p>
 </div>
