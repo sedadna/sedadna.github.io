@@ -29,6 +29,12 @@ title: Members
 <p>Mathilde Bourreau</p>
 <p>IBENS, Paris, France</p>
 </div>
+	
+<div class ="member">
+<div class="square"><a href="https://www.ibens.ens.fr/spip.php?rubrique36&lang=fr" target="_blank"><img src="{{ "/category/members/Johanna_Bosch.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Johanna</p>
+<p>IBENS, Paris, France</p>
+</div>	
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Jeremy-Courtin" target="_blank"><img src="{{ "/category/members/Jeremy_Courtin.jpg" | relative_url }}" alt="Avatar" /></a></div>
