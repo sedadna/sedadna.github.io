@@ -277,7 +277,7 @@ Title: Our board
 
 
 <div class="section advisory board">
-<h3 class="section-title underline">Alumni</h3>  
+<h3 class="section-title underline">Past members</h3>  
 </div>
 
 <div class="avatar">
