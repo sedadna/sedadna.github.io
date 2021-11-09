@@ -22,6 +22,14 @@ title: Members
 <p>Miklós Bálint</p>
 <p>Senckenberg Centre and LOEWE-TBG, Frankfurt, Germany</p>
 </div>
+	
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Johanna-Bosch" target="_blank"><img src="{{ "/assets/members/Johanna_Bosch.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Johanna Bosch</p>
+<p>Memorial University of Newfoundland, St. John's, Canada</p>
+</div>
+![image](https://user-images.githubusercontent.com/57949667/140931867-80dcfdc2-f8f4-4b5b-874d-b5aee672f1be.png)
+
 
 <div class ="member">
 <div class="square"><a href="https://www.ibens.ens.fr/spip.php?rubrique36&lang=fr" target="_blank"><img src="{{ "/category/members/Mathilde_Bourreau.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -34,7 +42,14 @@ title: Members
 <p>Jérémy Courtin</p>
 <p>AWI, Potsdam, Germany</p>
 </div>
-	
+
+<div class ="member">
+<div class="square"><a href="https://www.sarahcrumpscience.com/" target="_blank"><img src="{{ "/assets/members/Sarah_Crump.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Sarah Crump</p>
+<p>University of California, Santa Cruz, USA</p>
+</div>
+![image](https://user-images.githubusercontent.com/57949667/140932196-36f6fb4e-7d6c-4a4b-ae9e-f08716cacbd7.png)
+
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Abraham-Dabengwa" target="_blank"><img src="{{ "/category/members/Abraham_Dabengwa.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Abraham Dabengwa</p>
@@ -79,12 +94,33 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://www.tu-braunschweig.de/en/igeo/team/kang-wengang" target="_blank"><img src="{{ "/assets/members/Wengang_Kang.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Wengang Kang</p>
+<p>University of Braunschweig, Braunschweig, Germany</p>
+</div>
+![image](https://user-images.githubusercontent.com/57949667/140932084-b8ea400c-1869-48c2-a452-fabfe5ca18d8.png)
+
+<div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Sevgi-Kaynar"
-target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.JPG" | relative_url }}" alt="Avatar" /></a></div>
+target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sevgi Kaynar</p>
 <p>University of Potsdam, Germany</p>
 </div>
-	
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Alexis-Marchesini" target="_blank"><img src="{{ "/assets/members/Alexis_Marchesini.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Alexis Marchesini</p>
+<p>Istituto Agrario San Michele All'Adige, San Michele All'Adige, Italy</p>
+</div>
+![image](https://user-images.githubusercontent.com/57949667/140931995-a3dbc245-f836-45ae-a20e-f907002fc33a.png)
+
+<div class ="member">
+<div class="square"><a href="http://palaeogenetics.com/im/" target="_blank"><img src="{{ "/assets/members/Ioana_Meleg.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Ioana Meleg</p>
+<p>Centre for Palaeogenetics, Swedish Museum of Natural History, Stockholm, Sweden</p>
+</div>
+![image](https://user-images.githubusercontent.com/57949667/140932357-10f87765-7165-4f1c-ba70-32458cb7001f.png)
+
 <div class ="member">
 <div class="square"><a href="http://www.ucedna.com"
 target="_blank"><img src="{{ "/category/members/Rachel_Meyer.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -98,7 +134,14 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Bárbara Moguel</p>
 <p>UNAM, Juriquilla, Mexico</p>
 </div>
-	
+
+<div class ="member">
+<div class="square"><a href="https://www.gfz-potsdam.de/staff/ebuka-canisius-nwosu/sec53/" target="_blank"><img src="{{ "/assets/members/Ebuka_Nwosu.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Ebuka Nwosu</p>
+<p>German Research Centre for Geosciences, Potsdam, Germany</p>
+</div>
+![image](https://user-images.githubusercontent.com/57949667/140932052-62151c52-e4e4-436f-a5b0-cd95af8c9fb8.png)
+
 <div class ="member">
 <div class="square"><a href="https://www.univ-na.ci/" target="_blank"><img src="{{ "/category/members/Allassane_Ouattara.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Allassane Ouattara</p>
@@ -123,7 +166,14 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Lennart Schreiber</p>
 <p>University of Bremen, Germany</p>
 </div>
-	
+
+<div class ="member">
+<div class="square"><a href="https://www.awi.de/en/about-us/organisation/staff/luise-schulte.html" target="_blank"><img src="{{ "/assets/members/Luise_Schulte.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Luise Schulte</p>
+<p>Alfred Wegener Institute, Potsdam, Germany</p>
+</div>
+![image](https://user-images.githubusercontent.com/57949667/140932289-26d461c3-b720-4f6f-a96d-79a1240fa448.png)
+
 <div class ="member">
 <div class="square"><a href="https://www.slonlab.com/" target="_blank"><img src="{{ "/category/members/Viviane_Slon.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Viviane Slon</p>
