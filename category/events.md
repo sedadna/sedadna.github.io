@@ -7,6 +7,7 @@ title: Events
 
 <div class="intro">
 <h3 class="section-title underline">Upcoming Events</h3>
+<p>14-20 May 2022 : Session '<b>Deciphering past aquatic ecosystem dynamics using sedimentary ancient DNA</b>' at  <a href="/category/si.html" target="_blank"><b>JASM2022</b></a> at Grand Rapids, Michigan, USA. Conveners: Trisha Spanbauer (University of Toledo), Eric Capo (ICM-CSIC), Marie-Eve Monchamp (McGill University) and Cecilia Barouillet (INRAE). <i>Abstract submissions to come soon</i>.</p>
 <p>17 November 2021 : Society seminar by <b>Yucheng Wang</b> "Reconstructing 50,000 years Arctic environmental history using ancient eDNA"</p>
 <br>  
 <h3 class="section-title underline">Special issues</h3> 
