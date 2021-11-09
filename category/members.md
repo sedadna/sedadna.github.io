@@ -42,6 +42,12 @@ title: Members
 <p>AWI, Potsdam, Germany</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://www.sarahcrumpscience.com/" target="_blank"><img src="{{ "/assets/members/Sarah_Crump.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Sarah Crump</p>
+<p>University of California, Santa Cruz, USA</p>
+</div>
+![image](https://user-images.githubusercontent.com/57949667/140960883-eb8c8409-6a32-48d3-b8b7-1b981bdf85c4.png)
 
 
 <div class ="member">
