@@ -32,8 +32,8 @@ title: Members
 	
 <div class ="member">
 <div class="square"><a href="https://www.ibens.ens.fr/spip.php?rubrique36&lang=fr" target="_blank"><img src="{{ "/category/members/Johanna_Bosch.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Johanna</p>
-<p>IBENS, Paris, France</p>
+<p>Johanna Bosch</p>
+<p>Memorial University of Newfoundland, St. John's, Canada</p>
 </div>	
 
 <div class ="member">
