@@ -43,7 +43,7 @@ title: Members
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.sarahcrumpscience.com/" target="_blank"><img src="{{ "/assets/members/Sarah_Crump.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.sarahcrumpscience.com/" target="_blank"><img src="{{ "/assets/members/Sarah_Crump.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sarah Crump</p>
 <p>University of California, Santa Cruz, USA</p>
 </div>
