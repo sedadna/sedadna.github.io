@@ -161,11 +161,11 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.awi.de/en/about-us/organisation/staff/luise-schulte.html" target="_blank"><img src="{{ "/assets/members/Luise_Schulte.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.awi.de/en/about-us/organisation/staff/luise-schulte.html" target="_blank"><img src="{{ "/category/members/Luise_Schulte.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Luise Schulte</p>
 <p>Alfred Wegener Institute, Potsdam, Germany</p>
 </div>
-
+	
 <div class ="member">
 <div class="square"><a href="https://www.slonlab.com/" target="_blank"><img src="{{ "/category/members/Viviane_Slon.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Viviane Slon</p>
