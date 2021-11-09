@@ -134,6 +134,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Ebuka Nwosu</p>
 <p>German Research Centre for Geosciences, Potsdam, Germany</p>
 </div>
+![image](https://user-images.githubusercontent.com/57949667/140952215-297b08e6-42d5-4a24-9b22-2d4fe02e8d22.png)
 
 
 <div class ="member">
