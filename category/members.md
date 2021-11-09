@@ -110,7 +110,7 @@ target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.jpg" | relative_url
 </div>
 
 <div class ="member">
-<div class="square"><a href="http://palaeogenetics.com/im/" target="_blank"><img src="{{ "/assets/members/Ioana_Meleg.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="http://palaeogenetics.com/im/" target="_blank"><img src="{{ "/assets/members/Ioana_Meleg.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ioana Meleg</p>
 <p>Centre for Palaeogenetics, Swedish Museum of Natural History, Stockholm, Sweden</p>
 </div>
