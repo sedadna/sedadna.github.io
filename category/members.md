@@ -50,7 +50,7 @@ title: Members
 <div class ="member">
 <div class="square"><a href="https://ecologyweb.jimdofree.com/" target="_blank"><img src="{{ "/category/members/Hideyuki_Doi.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Hideyuki Doi</p>
-<p>Hyogo University, Kobe, Japan</p>
+<p>University of Hyogo, Kobe, Japan</p>
 </div>
 	
 <div class ="member">
