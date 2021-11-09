@@ -134,8 +134,6 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Ebuka Nwosu</p>
 <p>German Research Centre for Geosciences, Potsdam, Germany</p>
 </div>
-![image](https://user-images.githubusercontent.com/57949667/140952215-297b08e6-42d5-4a24-9b22-2d4fe02e8d22.png)
-
 
 <div class ="member">
 <div class="square"><a href="https://www.univ-na.ci/" target="_blank"><img src="{{ "/category/members/Allassane_Ouattara.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -197,8 +195,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Jordan Von Eggers</p>
 <p>University of Wyoming, USA</p>
 </div>
-	
-	
+		
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Yucheng-Wang-5" target="_blank"><img src="{{ "/category/members/Yucheng_Wang.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Yucheng Wang</p>
