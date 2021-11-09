@@ -24,7 +24,7 @@ title: Members
 </div>
 	
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Johanna-Bosch" target="_blank"><img src="{{ "/assets/members/Johanna_Bosch.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Johanna-Bosch" target="_blank"><img src="{{ "/assets/members/Johanna_Bosch.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Johanna Bosch</p>
 <p>Memorial University of Newfoundland, St. John's, Canada</p>
 </div>
@@ -42,7 +42,7 @@ title: Members
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.sarahcrumpscience.com/" target="_blank"><img src="{{ "/assets/members/Sarah_Crump.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.sarahcrumpscience.com/" target="_blank"><img src="{{ "/assets/members/Sarah_Crump.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sarah Crump</p>
 <p>University of California, Santa Cruz, USA</p>
 </div>
@@ -91,7 +91,7 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.tu-braunschweig.de/en/igeo/team/kang-wengang" target="_blank"><img src="{{ "/assets/members/Wengang_Kang.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.tu-braunschweig.de/en/igeo/team/kang-wengang" target="_blank"><img src="{{ "/assets/members/Wengang_Kang.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Wengang Kang</p>
 <p>University of Braunschweig, Braunschweig, Germany</p>
 </div>
@@ -104,7 +104,7 @@ target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.jpg" | relative_url
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Alexis-Marchesini" target="_blank"><img src="{{ "/assets/members/Alexis_Marchesini.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Alexis-Marchesini" target="_blank"><img src="{{ "/assets/members/Alexis_Marchesini.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Alexis Marchesini</p>
 <p>Istituto Agrario San Michele All'Adige, San Michele All'Adige, Italy</p>
 </div>
@@ -130,7 +130,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.gfz-potsdam.de/staff/ebuka-canisius-nwosu/sec53/" target="_blank"><img src="{{ "/assets/members/Ebuka_Nwosu.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.gfz-potsdam.de/staff/ebuka-canisius-nwosu/sec53/" target="_blank"><img src="{{ "/assets/members/Ebuka_Nwosu.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ebuka Nwosu</p>
 <p>German Research Centre for Geosciences, Potsdam, Germany</p>
 </div>
