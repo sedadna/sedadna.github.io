@@ -118,7 +118,7 @@ target="_blank"><img src="{{ "/category/members/Rachel_Meyer.jpg" | relative_url
 </div>
 
 <div class ="member"> 
-<div class="square"><a href="https://www.researchgate.net/profile/Alexis-Marchesini" target="_blank"><img src="{{ "/category/members/Alexis_Marchesini.jpg" | relative_url }}" alt="Avatar" /></a></div> 
+<div class="square"><a href="https://www.researchgate.net/profile/Alexis-Marchesini" target="_blank"><img src="{{ "/category/members/Alexis_Marchesini.png" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Alexis Marchesini</p> 
 <p>Istituto Agrario San Michele All'Adige, San Michele All'Adige, Italy</p> 
 </div> 
