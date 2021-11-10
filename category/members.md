@@ -215,5 +215,5 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>University of Copenhagen, Denmark</p>
 </div>
 	
-</div> 
+</div>  
 <br>
