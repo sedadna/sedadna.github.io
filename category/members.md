@@ -104,6 +104,13 @@ target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.jpg" | relative_url
 <p>University of Potsdam, Germany</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://www.nhm-wien.ac.at/en/kerstin_kowarik"
+target="_blank"><img src="{{ "/category/members/Kerstin_Kowarik.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kerstin Kowarik</p>
+<p>Museum of Natural History, Vienna, Austria</p>
+</div>
+	
 <div class ="member"> 
 <div class="square"><a href="http://palaeogenetics.com/im/" target="_blank"><img src="{{ "/category/members/Ioana_Meleg.png" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Ioana Meleg</p> 
