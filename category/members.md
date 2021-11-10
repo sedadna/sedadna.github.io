@@ -214,6 +214,6 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Giulia Zampirolo</p>
 <p>University of Copenhagen, Denmark</p>
 </div>
-	
+ 	
 </div>  
 <br>
