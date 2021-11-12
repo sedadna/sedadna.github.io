@@ -37,6 +37,12 @@ title: Members
 </div>	
 
 <div class ="member">
+<div class="square"><a href="http://tristan.cordier.free.fr" target="_blank"><img src="{{ "/category/members/Tristan_Cordier.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Tristan Cordier</p>
+<p>NORCE climate, Bergen, Norway</p>
+</div>
+	
+<div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Jeremy-Courtin" target="_blank"><img src="{{ "/category/members/Jeremy_Courtin.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Jérémy Courtin</p>
 <p>AWI, Potsdam, Germany</p>
