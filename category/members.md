@@ -22,7 +22,12 @@ title: Members
 <p>Miklós Bálint</p>
 <p>Senckenberg Centre and LOEWE-TBG, Frankfurt, Germany</p>
 </div>
-	
+
+<div class ="member">
+<div class="square"><a href="https://genev.unige.ch/research/people/ines-barrenechea" target="_blank"><img src="{{ "/category/members/Ines_Barrenechea.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Ines Barrenechea</p>
+<p>University of Geneva, Geneva, Switzerland</p>
+</div>
 
 <div class ="member">
 <div class="square"><a href="https://www.ibens.ens.fr/spip.php?rubrique36&lang=fr" target="_blank"><img src="{{ "/category/members/Mathilde_Bourreau.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -161,7 +166,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>University of Nairobi, Kenya</p>
 </div>
 
-	
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Ngoran-Yao" target="_blank"><img src="{{ "/category/members/YaoN'goran_JeanPaul.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Yao N'goran Jean Paul</p>
+<p>Université Félix Houphouët-Boigny, Abidjan, Côte d'Ivoire</p>
+</div>
+
 <div class ="member">
 <div class="square"><a href="https://scholar.google.com/citations?user=cLUbbJkAAAAJ" target="_blank"><img src="{{ "/category/members/Mohamed_Sarhan.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mohamed S. Sarhan</p>
