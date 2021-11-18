@@ -167,7 +167,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Ngoran-Yao" target="_blank"><img src="{{ "/category/members/YaoN'goran_JeanPaul.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Ngoran-Yao" target="_blank"><img src="{{ "/category/members/YaoNgoran_JeanPaul.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Yao N'goran Jean Paul</p>
 <p>Université Félix Houphouët-Boigny, Abidjan, Côte d'Ivoire</p>
 </div>
