@@ -239,7 +239,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://scholar.google.com/citations?user=0W79goMAAAAJ&hl=de" target="_blank"><img src="{{ "/category/members/Heike Zimmermann.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://scholar.google.com/citations?user=0W79goMAAAAJ&hl=de" target="_blank"><img src="{{ "/category/members/Heike_Zimmermann.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Heike Zimmermann</p>
 <p>The National Geological Survey for Denmark and Greenland (GEUS), Copenhagen, Denmark</p>
 </div>
