@@ -49,7 +49,7 @@ Title: Our board
 </div>
           
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Kuldeep-More" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Kuldeep More</p>
 <p>CAGT</p>
 <p>Toulouse, France</p>  
