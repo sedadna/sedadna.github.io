@@ -51,10 +51,10 @@ Title: Our board
 <div class ="member">
 <div class="square"><a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Kuldeep More</p>
-<p>CAGT</p>
-<p>Toulouse, France</p>  
+<p>CAGT, Toulouse, France</p>  
 </div>   
-        
+
+
 <div class ="member">
 <div class="square"><a href="http://www.iopan.gda.pl/projects/Dwarf/participants-7.html" target="_blank"><img src="{{ "/assets/board-members/Joanna2.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Joanna Pawłowska</p>
@@ -92,7 +92,7 @@ Title: Our board
 </div>
 
 <div class="section Kuldeep">
-<p>  <a href="https://www.researchgate.net/profile/Kuldeep_More2" target="_blank"><b>Kuldeep More</b></a> has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He is currently working as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France. In the society, Kuldeep is managing informations from new members.</p>
+<p>  <a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><b>Kuldeep More</b></a> has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He is currently working as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France. In the society, Kuldeep is managing informations from new members.</p>
 </div>
 
 <div class="section Joanna">
