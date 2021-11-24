@@ -286,4 +286,3 @@ Title: Our board
 <p>Erin E. Smith</p>
 <p>UW-Madison, USA</p>
 </div>
-  
