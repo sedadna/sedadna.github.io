@@ -76,6 +76,12 @@ title: Members
 <p>Hideyuki Doi</p>
 <p>University of Hyogo, Kobe, Japan</p>
 </div>
+
+<div class ="member">
+<div class="square"><a href="https://www.tu-braunschweig.de/igeo/team/dr-katharina-dulias" target="_blank"><img src="{{ "/category/members/Katharina_Dulias.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Katharina Dulias</p>
+<p>Technical University of Braunschweig, Braunschweig, Germany</p>
+</div>
 	
 <div class ="member">
 <div class="square"><a href="http://www.lsce.ipsl.fr/Pisp/olivier.evrard/" target="_blank"><img src="{{ "/category/members/Olivier_Evrard.JPG" | relative_url }}" alt="Avatar" /></a></div>
