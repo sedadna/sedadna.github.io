@@ -155,6 +155,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member"> 
+<div class="square"><a href="https://www.researchgate.net/profile/Ngoc-Loi-Nguyen/" target="_blank"><img src="{{ "/category/members/NgocLoi_Nguyen.jpg" | relative_url }}" alt="Avatar" /></a></div> 
+<p>Ngoc Loi Nguyen</p> 
+<p>IOPAN, Sopot, Poland</p> 
+</div> 
+	
+<div class ="member"> 
 <div class="square"><a href="https://www.gfz-potsdam.de/staff/ebuka-canisius-nwosu/sec53/" target="_blank"><img src="{{ "/category/members/Ebuka_Nwosu.png" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Ebuka Nwosu</p> 
 <p>German Research Centre for Geosciences, Potsdam, Germany</p> 
