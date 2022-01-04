@@ -306,7 +306,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>      
 
 <div class ="member">
-<div class="square"><a href="https://science.uottawa.ca/biology/people/pick-frances-r" target="_blank"><img src="{{ "/category/members/Frances_Pick.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://science.uottawa.ca/biology/people/pick-frances-r" target="_blank"><img src="{{ "/category/members/Frances_Pick.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Frances Pick</p>
 <p>University of Ottawa, Canada</p>
 </div>  
