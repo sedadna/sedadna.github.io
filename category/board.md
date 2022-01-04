@@ -259,7 +259,7 @@ Title: Our board
 </div>
 
 <div class="section advisory board">
-<h3 class="section-title underline">Past members</h3>  
+<h3 class="section-title underline">Past board members</h3>  
 </div>
 
 <div class="avatar">
