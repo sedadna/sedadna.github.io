@@ -203,7 +203,7 @@ Title: Our board
 </div>
   
 <div class ="member">
-<div class="square"><a href="https://www.queensu.ca/pearl/~smolj/" target="_blank"><img src="{{ "/category/members/John_Smol.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.queensu.ca/pearl/~smolj/" target="_blank"><img src="{{ "/category/members/John_Smol.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>John Smol</p>
 <p>Queen’s University, Canada</p>
 </div>
