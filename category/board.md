@@ -124,29 +124,12 @@ Title: Our board
 </div>
  
 <div class ="member">
-<div class="square"><a href="https://jessicablois.com/" target="_blank"><img src="{{ "/assets/board-members/Jessica.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Jessica Blois</p>
-<p>University of California Merced, USA</p>
-</div>
-
-<div class ="member">
 <div class="square"><a href="https://staffportal.curtin.edu.au/staff/profile/view/Marco.Coolen/" target="_blank"><img src="{{ "/assets/board-members/Marco.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Marco Coolen</p>
 <p>WA-OIGC, Curtin University, Australia</p>
 </div>
 
-</div>
 
-<br> 
-
-<div class="avatar">
-      
-<div class ="member">
-<div class="square"><a href="https://www.norceresearch.no/personer/stijn-de-schepper" target="_blank"><img src="{{ "/assets/board-members/Stijn.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Stijn De Schepper</p>
-<p>NORCE, Bergen, Norway</p>
-</div>
-      
 <div class ="member">
 <div class="square"><a href="https://isabelledomaizon.wixsite.com/recherche" target="_blank"><img src="{{ "/assets/board-members/Isabelle.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Isabelle Domaizon</p>
@@ -154,22 +137,10 @@ Title: Our board
 </div>
       
 <div class ="member">
-<div class="square"><a href="https://www.southampton.ac.uk/geography/about/staff/mee.page" target="_blank"><img src="{{ "/assets/board-members/Mary.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Mary E. Edwards</p>
-<p>Southampton University, United Kingdom</p>
-</div>
-      
-<div class ="member">
 <div class="square"><a href="https://www.limnologie.uni-konstanz.de/ag-epp-umweltgenomik/team/laura-epp/" target="_blank"><img src="{{ "/assets/board-members/LauraE.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Laura S. Epp</p>
 <p>Konstanz University, Germany</p>
 </div>
- 
-</div>
-
-<br> 
-
-<div class="avatar">
       
 <div class ="member">
 <div class="square"><a href="https://scholar.google.fr/citations?user=AN0gYZIAAAAJ&hl=fr&oi=ao" target="_blank"><img src="{{ "/assets/board-members/Charline.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -194,19 +165,13 @@ Title: Our board
 <p>Veljo Kisand</p>
 <p>Tartu University, Estonia</p>
 </div>
-      
- </div>
 
-<br> 
-
-<div class="avatar">
-      
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Michinobu_Kuwae" target="_blank"><img src="{{ "/assets/board-members/Michinobu.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Michinobu Kuwae</p>
-<p>Ehime University, Matsuyama, Japan</p>
+<div class="square"><a href="https://www.univ-na.ci/" target="_blank"><img src="{{ "/category/members/Allassane_Ouattara.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Allassane Ouattara</p>
+<p>University of Nangui Abrogoua, Ivory Coast</p>
 </div>
-
+  
 <div class ="member">
 <div class="square"><a href="https://corsidilaurea.uniroma1.it/it/users/lauraparducciuniroma1it" target="_blank"><img src="{{ "/assets/board-members/LauraP.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Laura Parducci</p>
@@ -218,31 +183,37 @@ Title: Our board
 <p>Mikkel W. Pedersen</p>
 <p>GLOBE, Copenhagen University, Denmark</p>
 </div>     
-      
+
+<div class ="member">
+<div class="square"><a href="https://science.uottawa.ca/biology/people/pick-frances-r" target="_blank"><img src="{{ "/assets/board-members/Frances_Pick.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Frances Pick</p>
+<p>University of Ottawa, Canada</p>
+</div>    
+  
 <div class ="member">
 <div class="square"><a href="https://pgl.soe.ucsc.edu" target="_blank"><img src="{{ "/assets/board-members/Beth.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Beth Shapiro</p>
 <p>University of California Santa Cruz, USA</p>
 </div>
-      
+
+<div class ="member">
+<div class="square"><a href="https://www.slonlab.com/" target="_blank"><img src="{{ "/category/members/Viviane_Slon.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Viviane Slon</p>
+<p>Tel Aviv University, Israel</p>
 </div>
-
-<br> 
-
-<div class="avatar">
-      
+  
+<div class ="member">
+<div class="square"><a href="https://www.queensu.ca/pearl/~smolj/" target="_blank"><img src="{{ "/category/members/John_Smol.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>John Smol</p>
+<p>Queen’s University, Canada</p>
+</div>
+  
 <div class ="member">
 <div class="square"><a href="https://www.awi.de/en/about-us/organisation/staff/kathleen-stoof-leichsenring.html" target="_blank"><img src="{{ "/assets/board-members/Kathleen.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Kathleen Stoof-Leichsenring</p>
 <p>AWI, Potsdam, Germany</p>
 </div>
-
-<div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Pierre_Taberlet" target="_blank"><img src="{{ "/assets/board-members/Pierre.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Pierre Taberlet</p>
-<p>LECA, Grenoble Alpes University, France</p>
-</div>      
-      
+  
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Narumi-Tsugeki" target="_blank"><img src="{{ "/assets/board-members/Narumi.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Narumi Tsugeki</p>
@@ -250,17 +221,17 @@ Title: Our board
 </div>      
 
 <div class ="member">
-<div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/26558" target="_blank"><img src="{{ "/assets/board-members/Eske.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Eske Willerslev</p>
-<p>GLOBE, Copenhagen University, Denmark</p>
+<div class="square"><a href="https://scholar.google.com/citations?user=5UbYSBEAAAAJ&hl=en" target="_blank"><img src="{{"/category/members/Benjamin_Vernot.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Benjamin Vernot</p>
+<p>MPI-EVA, Leipzig, Germany</p>
 </div>
- 
- </div>
 
-<br> 
-
-<div class="avatar">
-      
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Yucheng-Wang-5" target="_blank"><img src="{{ "/category/members/Yucheng_Wang.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Yucheng Wang</p>
+<p>University of Cambridge, United Kingdom</p>
+</div>
+  
 <div class ="member">
 <div class="square"><a href="https://www.geography.wisc.edu/profile.php?p=51" target="_blank"><img src="{{ "/assets/board-members/Jack.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Jack W. Williams</p>
@@ -272,12 +243,39 @@ Title: Our board
 <p>Jamie Wood</p>
 <p>Landcare Research, Lincoln, New Zealand</p>
 </div>  
-      
-</div>  
 
+<div class ="member">
+<div class="square"><a href="https://www.cawthron.org.nz/our-people/susie-wood/" target="_blank"><img src="{{ "/category/members/Susie_Wood.png" | relative_url }}" alt="Avatar" /></a></div>
+<p> Susie Wood</p>
+<p> Cawthron Institute, Nelson, New Zealand</p>
+</div>
 
 <div class="section advisory board">
 <h3 class="section-title underline">Past members</h3>  
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://jessicablois.com/" target="_blank"><img src="{{ "/assets/board-members/Jessica.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Jessica Blois</p>
+<p>University of California Merced, USA</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.norceresearch.no/personer/stijn-de-schepper" target="_blank"><img src="{{ "/assets/board-members/Stijn.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Stijn De Schepper</p>
+<p>NORCE, Bergen, Norway</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.southampton.ac.uk/geography/about/staff/mee.page" target="_blank"><img src="{{ "/assets/board-members/Mary.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Mary E. Edwards</p>
+<p>Southampton University, United Kingdom</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Michinobu_Kuwae" target="_blank"><img src="{{ "/assets/board-members/Michinobu.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Michinobu Kuwae</p>
+<p>Ehime University, Matsuyama, Japan</p>
 </div>
 
 <div class="avatar">
@@ -286,3 +284,17 @@ Title: Our board
 <p>Erin E. Smith</p>
 <p>UW-Madison, USA</p>
 </div>
+  
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Pierre_Taberlet" target="_blank"><img src="{{ "/assets/board-members/Pierre.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Pierre Taberlet</p>
+<p>LECA, Grenoble Alpes University, France</p>
+</div>     
+  
+<div class ="member">
+<div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/26558" target="_blank"><img src="{{ "/assets/board-members/Eske.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Eske Willerslev</p>
+<p>GLOBE, Copenhagen University, Denmark</p>
+</div>
+
+  
