@@ -263,6 +263,7 @@ Title: Our board
 </div>
 
 <div class="avatar">
+  
 <div class ="member">
 <div class="square"><a href="https://jessicablois.com/" target="_blank"><img src="{{ "/assets/board-members/Jessica.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Jessica Blois</p>
