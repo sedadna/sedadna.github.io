@@ -129,7 +129,12 @@ Title: Our board
 <p>WA-OIGC, Curtin University, Australia</p>
 </div>
 
-
+<div class ="member">
+<div class="square"><a href="https://www.sarahcrumpscience.com/" target="_blank"><img src="{{ "/category/members/Sarah_Crump.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Sarah Crump</p>
+<p>University of California, Santa Cruz, USA</p>
+</div>
+  
 <div class ="member">
 <div class="square"><a href="https://isabelledomaizon.wixsite.com/recherche" target="_blank"><img src="{{ "/assets/board-members/Isabelle.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Isabelle Domaizon</p>
@@ -185,7 +190,7 @@ Title: Our board
 </div>     
 
 <div class ="member">
-<div class="square"><a href="https://science.uottawa.ca/biology/people/pick-frances-r" target="_blank"><img src="{{ "/assets/board-members/Frances_Pick.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://science.uottawa.ca/biology/people/pick-frances-r" target="_blank"><img src="{{ "/assets/board-members/Frances_Pick.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Frances Pick</p>
 <p>University of Ottawa, Canada</p>
 </div>    
@@ -203,7 +208,7 @@ Title: Our board
 </div>
   
 <div class ="member">
-<div class="square"><a href="https://www.queensu.ca/pearl/~smolj/" target="_blank"><img src="{{ "/category/members/John_Smol.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.queensu.ca/pearl/~smolj/" target="_blank"><img src="{{ "/category/members/John_Smol.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>John Smol</p>
 <p>Queen’s University, Canada</p>
 </div>
