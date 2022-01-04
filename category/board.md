@@ -190,7 +190,7 @@ Title: Our board
 </div>     
 
 <div class ="member">
-<div class="square"><a href="https://science.uottawa.ca/biology/people/pick-frances-r" target="_blank"><img src="{{ "/assets/board-members/Frances_Pick.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://science.uottawa.ca/biology/people/pick-frances-r" target="_blank"><img src="{{ "/category/members/Frances_Pick.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Frances Pick</p>
 <p>University of Ottawa, Canada</p>
 </div>    
@@ -253,6 +253,8 @@ Title: Our board
 <div class="square"><a href="https://www.cawthron.org.nz/our-people/susie-wood/" target="_blank"><img src="{{ "/category/members/Susie_Wood.png" | relative_url }}" alt="Avatar" /></a></div>
 <p> Susie Wood</p>
 <p> Cawthron Institute, Nelson, New Zealand</p>
+</div>
+  
 <br> 
 </div>
 
