@@ -12,9 +12,21 @@ title: Members
 <div class="avatar">
 
 <div class ="member">
+<div class="square"><a href="https://en.uit.no/ansatte/person?p_document_id=164266" target="_blank"><img src="{{ "/assets/board-members/Inger.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Inger G. Alsos</p>
+<p>UiT, Tromsø, Norway </p>
+</div>
+	
+<div class ="member">
 <div class="square"><a href="https://publons.com/researcher/1345770/fabien-arnaud/" target="_blank"><img src="{{ "/category/members/Fabien_Arnaud.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Fabien Arnaud</p>
 <p>CNRS - University of Savoie Mont Blanc, France</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://researchers.adelaide.edu.au/profile/linda.armbrecht" target="_blank"><img src="{{ "/assets/board-members/Linda.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Linda Armbrecht</p>
+<p>University of Tasmania, Australia</p>
 </div>
 	
 <div class ="member">
@@ -24,11 +36,23 @@ title: Members
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><img src="{{ "/assets/board-members/Cecilia2.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Cécilia Barouillet</p>
+<p>INRAE UMR CARRTEL, Thonon-les-Bains, France</p>
+</div>
+	
+<div class ="member">
 <div class="square"><a href="https://genev.unige.ch/research/people/ines-barrenechea" target="_blank"><img src="{{ "/category/members/Ines_Barrenechea.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ines Barrenechea</p>
 <p>University of Geneva, Geneva, Switzerland</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://jessicablois.com/" target="_blank"><img src="{{ "/assets/board-members/Jessica.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Jessica Blois</p>
+<p>University of California Merced, USA</p>
+</div>
+	
 <div class ="member">
 <div class="square"><a href="https://www.ibens.ens.fr/spip.php?rubrique36&lang=fr" target="_blank"><img src="{{ "/category/members/Mathilde_Bourreau.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mathilde Bourreau</p>
@@ -40,6 +64,18 @@ title: Members
 <p>Johanna Bosch</p>
 <p>Memorial University of Newfoundland, St. John's, Canada</p>
 </div>	
+
+<div class ="member">
+<div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Eric Capo</p>
+<p>ICM-CSIC, Barcelona, Spain</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://staffportal.curtin.edu.au/staff/profile/view/Marco.Coolen/" target="_blank"><img src="{{ "/assets/board-members/Marco.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Marco Coolen</p>
+<p>WA-OIGC, Curtin University, Australia</p>
+</div>
 
 <div class ="member">
 <div class="square"><a href="http://tristan.cordier.free.fr" target="_blank"><img src="{{ "/category/members/Tristan_Cordier.png" | relative_url }}" alt="Avatar" /></a></div>
@@ -66,6 +102,18 @@ title: Members
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://www.norceresearch.no/personer/stijn-de-schepper" target="_blank"><img src="{{ "/assets/board-members/Stijn.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Stijn De Schepper</p>
+<p>NORCE, Bergen, Norway</p>
+</div>
+	
+<div class ="member">
+<div class="square"><a href="https://isabelledomaizon.wixsite.com/recherche" target="_blank"><img src="{{ "/assets/board-members/Isabelle.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Isabelle Domaizon</p>
+<p>INRAE UMR CARRTEL, Thonon-les-bains, France</p>
+</div>
+	
+<div class ="member">
 <div class="square"><a href="https://scholar.google.de/citations?user=xx3i6sIAAAAJ&hl=en" target="_blank"><img src="{{ "/category/members/Rene_Dommain.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Rene Dommain</p>
 <p>University of Potsdam, Germany</p>
@@ -82,6 +130,19 @@ title: Members
 <p>Katharina Dulias</p>
 <p>Technical University of Braunschweig, Braunschweig, Germany</p>
 </div>
+
+
+<div class ="member">
+<div class="square"><a href="https://www.southampton.ac.uk/geography/about/staff/mee.page" target="_blank"><img src="{{ "/assets/board-members/Mary.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Mary E. Edwards</p>
+<p>Southampton University, United Kingdom</p>
+</div>
+	
+<div class ="member">
+<div class="square"><a href="https://www.limnologie.uni-konstanz.de/ag-epp-umweltgenomik/team/laura-epp/" target="_blank"><img src="{{ "/assets/board-members/LauraE.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Laura S. Epp</p>
+<p>Konstanz University, Germany</p>
+</div>
 	
 <div class ="member">
 <div class="square"><a href="http://www.lsce.ipsl.fr/Pisp/olivier.evrard/" target="_blank"><img src="{{ "/category/members/Olivier_Evrard.JPG" | relative_url }}" alt="Avatar" /></a></div>
@@ -94,13 +155,31 @@ title: Members
 <p>Rebecca Garner</p>
 <p>Concordia University, Montreal, Canada</p>
 </div>
-	
+
+<div class ="member">
+<div class="square"><a href="https://scholar.google.fr/citations?user=AN0gYZIAAAAJ&hl=fr&oi=ao" target="_blank"><img src="{{ "/assets/board-members/Charline.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Charline Giguet-Covex</p>
+<p>EDYTEM, Bourget-du-lac, France</p>
+</div>
+      
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Haifeng_Gu" target="_blank"><img src="{{ "/category/members/Haifeng_Gu.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Haifeng Gu</p>
 <p>Third Institute of Oceanography, Xiamen, China</p>
 </div>
- 
+
+<div class ="member">
+<div class="square"><a href="https://sites.google.com/view/peteheintzman" target="_blank"><img src="{{ "/assets/board-members/Pete.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Peter D. Heintzman</p>
+<p>UiT, Tromsø, Norway</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.awi.de/en/about-us/organisation/staff/ulrike-herzschuh.html" target="_blank"><img src="{{ "/assets/board-members/Ulrike.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Ulrike Herzschuh</p>
+<p>AWI, Potsdam, Germany</p>
+</div>
+	
 <div class ="member">
 <div class="square"><a href="https://www.awi.de/ueber-uns/organisation/mitarbeiter/weihan-jia.html"
 target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }}" alt="Avatar" /></a></div>
@@ -122,10 +201,22 @@ target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.jpg" | relative_url
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://www.tuit.ut.ee/en/research/veljo-kisand" target="_blank"><img src="{{ "/assets/board-members/Veljo.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Veljo Kisand</p>
+<p>Tartu University, Estonia</p>
+</div>
+	
+<div class ="member">
 <div class="square"><a href="https://www.nhm-wien.ac.at/en/kerstin_kowarik"
 target="_blank"><img src="{{ "/category/members/Kerstin_Kowarik.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Kerstin Kowarik</p>
 <p>Museum of Natural History, Vienna, Austria</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Michinobu_Kuwae" target="_blank"><img src="{{ "/assets/board-members/Michinobu.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Michinobu Kuwae</p>
+<p>Ehime University, Matsuyama, Japan</p>
 </div>
 	
 <div class ="member"> 
@@ -154,11 +245,28 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>UNAM, Juriquilla, Mexico</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Marie-Eve Monchamp</p>
+<p>McGill University, Montréal, Canada</p>
+
+<div class ="member">
+<div class="square"><a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kuldeep More</p>
+<p>CAGT, Toulouse, France</p>  
+</div>   
+	
 <div class ="member"> 
 <div class="square"><a href="https://www.researchgate.net/profile/Ngoc-Loi-Nguyen/" target="_blank"><img src="{{ "/category/members/NgocLoi_Nguyen.jpg" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Ngoc Loi Nguyen</p> 
 <p>IOPAN, Sopot, Poland</p> 
 </div> 
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Kevin-Nota" target="_blank"><img src="{{ "/assets/board-members/Kevin.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kevin Nota</p>
+<p>Uppsala University, Sweden</p>
+</div>
 	
 <div class ="member"> 
 <div class="square"><a href="https://www.gfz-potsdam.de/staff/ebuka-canisius-nwosu/sec53/" target="_blank"><img src="{{ "/category/members/Ebuka_Nwosu.png" | relative_url }}" alt="Avatar" /></a></div> 
@@ -179,11 +287,29 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Ngoran-Yao" target="_blank"><img src="{{ "/category/members/YaoNgoran_JeanPaul.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Yao N'goran Jean Paul</p>
-<p>Université Félix Houphouët-Boigny, Abidjan, Côte d'Ivoire</p>
+<div class="square"><a href="https://corsidilaurea.uniroma1.it/it/users/lauraparducciuniroma1it" target="_blank"><img src="{{ "/assets/board-members/LauraP.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Laura Parducci</p>
+<p>Sapienza University of Rome, Italy</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/289258" target="_blank"><img src="{{ "/assets/board-members/Mikkel.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Mikkel W. Pedersen</p>
+<p>GLOBE, Copenhagen University, Denmark</p>
+</div>     
+	
+<div class ="member">
+<div class="square"><a href="http://www.iopan.gda.pl/projects/Dwarf/participants-7.html" target="_blank"><img src="{{ "/assets/board-members/Joanna2.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Joanna Pawłowska</p>
+<p>IOPAN, Sopot, Poland</p>
+</div>      
+	
+<div class ="member">
+<div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><img src="{{ "/assets/board-members/Alex.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Alexandra Rouillard</p>
+<p>UiT, Tromsø, Norway</p>
+</div>
+	
 <div class ="member">
 <div class="square"><a href="https://scholar.google.com/citations?user=cLUbbJkAAAAJ" target="_blank"><img src="{{ "/category/members/Mohamed_Sarhan.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mohamed S. Sarhan</p>
@@ -201,19 +327,50 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Luise Schulte</p>
 <p>Alfred Wegener Institute, Potsdam, Germany</p>
 </div>
+
+<div class ="member">
+<div class="square"><a href="https://pgl.soe.ucsc.edu" target="_blank"><img src="{{ "/assets/board-members/Beth.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Beth Shapiro</p>
+<p>University of California Santa Cruz, USA</p>
+</div>
 	
 <div class ="member">
 <div class="square"><a href="https://www.slonlab.com/" target="_blank"><img src="{{ "/category/members/Viviane_Slon.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Viviane Slon</p>
 <p>Tel Aviv University, Israel</p>
 </div>
-	
+
+<div class ="member">
+<div class="square"><a href="https://www.trishaspanbauer.com/" target="_blank"><img src="{{ "/assets/board-members/Trisha.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Trisha Spanbauer</p>
+<p>Toledo University</p>
+<p>Toledo, USA</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.awi.de/en/about-us/organisation/staff/kathleen-stoof-leichsenring.html" target="_blank"><img src="{{ "/assets/board-members/Kathleen.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kathleen Stoof-Leichsenring</p>
+<p>AWI, Potsdam, Germany</p>
+</div>
+  
 <div class ="member">
 <div class="square"><a href="https://www.umcs.pl/en/addres-book-employee,9721,en.html" target="_blank"><img src="{{ "/category/members/Magdalena_Suchora.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Magdalena Suchora</p>
 <p>UMCS, Lublin, Poland</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Pierre_Taberlet" target="_blank"><img src="{{ "/assets/board-members/Pierre.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Pierre Taberlet</p>
+<p>LECA, Grenoble Alpes University, France</p>
+</div>    
+	
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Narumi-Tsugeki" target="_blank"><img src="{{ "/assets/board-members/Narumi.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Narumi Tsugeki</p>
+<p>Matsuyama University, Japany</p>
+</div>      
+	
 <div class ="member">
 <div class="square"><a href="https://sites.google.com/fmach.it/cristianovernesi/home" target="_blank"><img src="{{"/category/members/Cristiano_Vernesi.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Cristiano Vernesi</p>
@@ -237,13 +394,31 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Yucheng Wang</p>
 <p>University of Cambridge, United Kingdom</p>
 </div>
-	
+
+<div class ="member">
+<div class="square"><a href="https://www.geography.wisc.edu/profile.php?p=51" target="_blank"><img src="{{ "/assets/board-members/Jack.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Jack W. Williams</p>
+<p>UW-Madison, USA</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.landcareresearch.co.nz/about-us/our-people/jamie-wood" target="_blank"><img src="{{ "/assets/board-members/Jamie.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Jamie Wood</p>
+<p>Landcare Research, Lincoln, New Zealand</p>
+</div>  
+
 <div class ="member">
 <div class="square"><a href="https://www.cawthron.org.nz/our-people/susie-wood/" target="_blank"><img src="{{ "/category/members/Susie_Wood.png" | relative_url }}" alt="Avatar" /></a></div>
 <p> Susie Wood</p>
 <p> Cawthron Institute, Nelson, New Zealand</p>
 </div>
- 
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Ngoran-Yao" target="_blank"><img src="{{ "/category/members/YaoNgoran_JeanPaul.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>N'goran Jean Paul Yao</p>
+<p>Université Félix Houphouët-Boigny, Abidjan, Côte d'Ivoire</p>
+</div>
+	
 <div class ="member">
 <div class="square"><a href="https://sites.google.com/york.ac.uk/seachanges/home" target="_blank"><img src="{{ "/category/members/Giulia_Zampirolo.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Giulia Zampirolo</p>
@@ -254,6 +429,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class="square"><a href="https://scholar.google.com/citations?user=0W79goMAAAAJ&hl=de" target="_blank"><img src="{{ "/category/members/Heike_Zimmermann.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Heike Zimmermann</p>
 <p>The National Geological Survey for Denmark and Greenland (GEUS), Copenhagen, Denmark</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/26558" target="_blank"><img src="{{ "/assets/board-members/Eske.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Eske Willerslev</p>
+<p>GLOBE, Copenhagen University, Denmark</p>
 </div>
 	
 </div>  
