@@ -253,6 +253,7 @@ Title: Our board
 <div class="square"><a href="https://www.cawthron.org.nz/our-people/susie-wood/" target="_blank"><img src="{{ "/category/members/Susie_Wood.png" | relative_url }}" alt="Avatar" /></a></div>
 <p> Susie Wood</p>
 <p> Cawthron Institute, Nelson, New Zealand</p>
+<br> 
 </div>
 
 <div class="section advisory board">
