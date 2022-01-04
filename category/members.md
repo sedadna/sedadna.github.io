@@ -249,7 +249,8 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Marie-Eve Monchamp</p>
 <p>McGill University, Montréal, Canada</p>
-
+</div>   
+	
 <div class ="member">
 <div class="square"><a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Kuldeep More</p>
@@ -303,6 +304,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Joanna Pawłowska</p>
 <p>IOPAN, Sopot, Poland</p>
 </div>      
+
+<div class ="member">
+<div class="square"><a href="https://science.uottawa.ca/biology/people/pick-frances-r" target="_blank"><img src="{{ "/assets/board-members/Frances_Pick.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Frances Pick</p>
+<p>University of Ottawa, Canada</p>
+</div>  
 	
 <div class ="member">
 <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><img src="{{ "/assets/board-members/Alex.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -332,6 +339,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class="square"><a href="https://pgl.soe.ucsc.edu" target="_blank"><img src="{{ "/assets/board-members/Beth.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Beth Shapiro</p>
 <p>University of California Santa Cruz, USA</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.queensu.ca/pearl/~smolj/" target="_blank"><img src="{{ "/category/members/John_Smol.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>John Smol</p>
+<p>Queen’s University, Canada</p>
 </div>
 	
 <div class ="member">
