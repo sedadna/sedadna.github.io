@@ -262,6 +262,7 @@ Title: Our board
 <h3 class="section-title underline">Past members</h3>  
 </div>
 
+<div class="avatar">
 <div class ="member">
 <div class="square"><a href="https://jessicablois.com/" target="_blank"><img src="{{ "/assets/board-members/Jessica.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Jessica Blois</p>
@@ -286,7 +287,6 @@ Title: Our board
 <p>Ehime University, Matsuyama, Japan</p>
 </div>
 
-<div class="avatar">
 <div class ="member">
 <div class="square"><img src="{{ "/assets/board-members/Erin.jpg" | relative_url }}" alt="Avatar" /></div>
 <p>Erin E. Smith</p>
@@ -304,5 +304,5 @@ Title: Our board
 <p>Eske Willerslev</p>
 <p>GLOBE, Copenhagen University, Denmark</p>
 </div>
-
+</div>
   
