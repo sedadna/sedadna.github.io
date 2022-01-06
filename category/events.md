@@ -7,7 +7,9 @@ title: Events
 
 <div class="intro">
 <h3 class="section-title underline">Upcoming Events</h3>
-<p>14-20 May 2022 : Session '<b>Deciphering past aquatic ecosystem dynamics using sedimentary ancient DNA</b>' at  <a href="https://jasm2022.aquaticsocieties.org/" target="_blank"><b>JASM2022</b></a> at Grand Rapids, Michigan, USA. Conveners: Trisha Spanbauer (University of Toledo), Eric Capo (ICM-CSIC), Marie-Eve Monchamp (McGill University) and Cecilia Barouillet (INRAE). <i>Submission of abstracts will open soon</i>.</p>
+  
+<p>07-10 August 2022 : Session '<b>Studying the long-term dynamic of freshwater ecosystems through sedimentary DNA research: a potential tool for management and conservation</b>' at  <a href="https://www.sil2022.org/" target="_blank"><b>SIL2022</b></a> at Berlin, Germany. Conveners: Cecilia Barouillet (INRAE), Ebuka Nwosu (GFZ-Hemlholtz), Eric Capo (ICM-CSIC), Laura S Epp (Konstanz University). <i>Submission of abstracts will open soon</i>.</p>  
+<p>14-20 May 2022 : Session '<b>Deciphering past aquatic ecosystem dynamics using sedimentary ancient DNA</b>' at  <a href="https://jasm2022.aquaticsocieties.org/" target="_blank"><b>JASM2022</b></a> at Grand Rapids, Michigan, USA. Conveners: Trisha Spanbauer (University of Toledo), Eric Capo (ICM-CSIC), Marie-Eve Monchamp (McGill University) and Cecilia Barouillet (INRAE). <i>Submission deadline for abstracts is 10 January 2022</i>.</p>
 <br>  
 <h3 class="section-title underline">Special issues</h3> 
 <p>Find here more information about sedaDNA <a href="/category/si.html" target="_blank"><b>Special Issues</b></a>.</p>
