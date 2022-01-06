@@ -14,7 +14,7 @@ Title: Popular Science
 
 <div class="intro">
 <p><a href="https://www.science.org/content/article/breakthrough-2021#section_soil" target="_blank"><b>Ancient soil DNA comes of age</b></a>
-<p>Sedimentary DNA made the line up for Science's 2021 Breakthrough of the Year! Congrats to all co-authors involved for this achievement! Check out Science’s cover stories of their sedaDNA work here: <a href="https://www.science.org/doi/10.1126/science.300.5618.407a" target="_blank"><b>Ancient DNA Pulled From Soil - </b></a>
+<p>Sedimentary DNA made the line up for Science's 2021 Breakthrough of the Year! Congrats to all co-authors involved for this achievement! Check out Science’s cover stories of their sedaDNA work here: <a href="https://www.science.org/doi/10.1126/science.300.5618.407a" target="_blank"><b>Ancient DNA Pulled From Soil</b></a> - 
       <a href="https://www.science.org/doi/full/10.1126/science.349.6246.367" target="_blank"><b>Lost worlds found - </b></a>
       <a href="https://www.science.org/content/article/dna-cave-dirt-tells-tale-how-some-neanderthals-disappeared" target="_blank"><b>DNA from cave dirt tells tale of how some Neanderthals disappeared - </b></a>
       <a href="https://www.science.org/content/article/dna-dirt-can-offer-new-view-ancient-life" target="_blank"><b>DNA from dirt can offer new view of ancient life - </b></a>
