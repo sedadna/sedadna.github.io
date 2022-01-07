@@ -181,7 +181,7 @@ title: Members
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Barbara-Von-Hippel" target="_blank"><img src="{{ "/assets/board-members/Barbara-von-Hippel.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Barbara-Von-Hippel" target="_blank"><img src="{{ "/assets/board-members/Barbara_von_Hippel.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Barbara von Hippel</p>
 <p>AWI, Potsdam, Germany</p>
 </div>
