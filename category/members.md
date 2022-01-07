@@ -179,7 +179,13 @@ title: Members
 <p>Ulrike Herzschuh</p>
 <p>AWI, Potsdam, Germany</p>
 </div>
-	
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Barbara-Von-Hippel" target="_blank"><img src="{{ "/assets/board-members/Barbara-von-Hippel.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Barbara von Hippel</p>
+<p>AWI, Potsdam, Germany</p>
+</div>
+
 <div class ="member">
 <div class="square"><a href="https://www.awi.de/ueber-uns/organisation/mitarbeiter/weihan-jia.html"
 target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }}" alt="Avatar" /></a></div>
