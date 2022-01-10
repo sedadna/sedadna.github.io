@@ -383,6 +383,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Pierre Taberlet</p>
 <p>LECA, Grenoble Alpes University, France</p>
 </div>    
+
+<div class ="member">
+<div class="square"><a href="https://www.uni-potsdam.de/en/ibb-evolutionsbiologie/index" target="_blank"><img src="{{"/category/members/Ralph_Tiedemann.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Ralph Tiedemann</p>
+<p>University of Potsdam, Germany</p>
+</div>
 	
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Narumi-Tsugeki" target="_blank"><img src="{{ "/assets/board-members/Narumi.jpg" | relative_url }}" alt="Avatar" /></a></div>
