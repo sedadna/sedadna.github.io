@@ -461,6 +461,6 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Heike Zimmermann</p>
 <p>The National Geological Survey for Denmark and Greenland (GEUS), Copenhagen, Denmark</p>
 </div>
-	
+
 </div>  
 <br>
