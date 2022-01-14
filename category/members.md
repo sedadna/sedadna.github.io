@@ -169,6 +169,12 @@ title: Members
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Zhengquan-Gu" target="_blank"><img src="{{ "/category/members/Zhengquan_Gu.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Zhengquan Gu</p>
+<p>Institute of the Tibetan Plateau Research, Beijing, China</p>
+</div>
+	
+<div class ="member">
 <div class="square"><a href="https://sites.google.com/view/peteheintzman" target="_blank"><img src="{{ "/assets/board-members/Pete.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Peter D. Heintzman</p>
 <p>UiT, Tromsø, Norway</p>
