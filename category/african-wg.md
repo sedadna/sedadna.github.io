@@ -24,7 +24,7 @@ title: African
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Abraham-Dabengwa" target="_blank"><img src="{{ "/assets/board-members/Kevin.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Abraham-Dabengwa" target="_blank"><img src="{{ "/category/members/Abraham_Dabengwa.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Abraham Dabengwa</p>
 <p>South Africa</p>
 </div>
