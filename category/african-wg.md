@@ -69,12 +69,13 @@ title: African sedaDNA working group
 
 <p>This symposium is a 2-hours seminar series (June 9th) and a 2-hours brainstorming session (June 10th) event. The goal of this first symposium to have an overview of past and current sedaDNA research from African ecosystems towards the creation the African sedaDNA. See the conference <a href="https://www.youtube.com/watch?v=17sp_5l928s&feature=emb_title" target="_blank"><b>here</b></a></p>
 
+<br>  
 <p><b>Table of members</b></p> 
-
+<br>  
 <p><b>Research groups with skills in (paleo)ecology and/or molecular biology in Africa</b></p>
-  
- <p><b>Potential funds for sedaDNA research by African researchers</b></p>
-  
+<br>   
+<p><b>Potential funds for sedaDNA research by African researchers</b></p>
+<br>  
   
 <p><b>Literature about sedaDNA research in African ecosystems</b></p>
 
@@ -87,6 +88,5 @@ title: African sedaDNA working group
 <p> Epp L, Stoof-Leichsenring, Trauth M, Tiedemann (2011) Molecular profiling of diatom assemblages in tropical lake sediments using taxon‐specific PCR and Denaturing High‐Performance Liquid Chromatography (PCR‐DHPLC). Molecular ecology resources 11 (5), 842-853. click <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1755-0998.2011.03022.x" target="_blank"><b>here</b></a></p>
   
 <p>Epp L, Stoof K, Trauth M, Tiedemann (2010) Historical genetics on a sediment core from a Kenyan lake: intraspecific genotype turnover in a tropical rotifer is related to past environmental changes. Journal of Paleolimnology 43 (4), 939-954. click <a href="https://link.springer.com/article/10.1007/s10933-009-9379-7" target="_blank"><b>here</b></a></p>
-  
-  <a href="https://pastglobalchanges.org/publications/pages-magazines/pages-magazine/128666" target="_blank"><b>doi: 10.22498/pages.29.2.102</b></a>  </p>
 
+</div>
