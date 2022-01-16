@@ -1,6 +1,6 @@
 ---
 layout: category
-title: African
+title: African sedaDNA working group
 ---
 
 <div class="intro">
