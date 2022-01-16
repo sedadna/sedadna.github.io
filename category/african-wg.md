@@ -78,5 +78,15 @@ title: African
   
 <p><b>Literature about sedaDNA research in African ecosystems</b></p>
 
-<p>Monchamp, Armbrecht, Capo, Coolen, Cordier, Domaizon, Epp, Giguet-Covex, Gregory-Eaves, Herzschuh, Parducci, Stoof-Leichsenring, Williams (<b>2021</b>) PaleoEcoGen - Unlocking the power of ancient environmental DNA to understand past ecological trends. PAGEs Magazine. <a href="https://pastglobalchanges.org/publications/pages-magazines/pages-magazine/128666" target="_blank"><b>doi: 10.22498/pages.29.2.102</b></a>  </p>
+<p> Tabares X, Zimmermann H, Dietze E et al (2020) Vegetation state changes in the course of shrub encroachment in an African savanna since about 1850 CE and their potential drivers. Ecology and Evolution 10 (2) 962-979. click <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5955" target="_blank"><b>here</b></a></p>
+    
+<p> Dommain R, Andama, Mcdonough M et al (2020) The challenges of reconstructing tropical biodiversity with sedimentary ancient DNA: a 2200-year-long metagenomic record from Bwindi Impenetrable Forest, Uganda. Frontiers in Ecology and Evolution. click <a href="https://www.frontiersin.org/articles/10.3389/fevo.2020.00218/full" target="_blank"><b>here</b></a></p>
+  
+<p> Stoof-Leichsenring K, Epp L, Trauth M, Tiedemann R (2012) Hidden diversity in diatoms of Kenyan Lake Naivasha: a genetic approach detects temporal variation. Molecular Ecology 21 (8), 1918-1930. click <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-294X.2011.05412.x" target="_blank"><b>here</b></a></p>
+  
+<p> Epp L, Stoof-Leichsenring, Trauth M, Tiedemann (2011) Molecular profiling of diatom assemblages in tropical lake sediments using taxon‐specific PCR and Denaturing High‐Performance Liquid Chromatography (PCR‐DHPLC). Molecular ecology resources 11 (5), 842-853. click <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1755-0998.2011.03022.x" target="_blank"><b>here</b></a></p>
+  
+<p>Epp L, Stoof K, Trauth M, Tiedemann (2010) Historical genetics on a sediment core from a Kenyan lake: intraspecific genotype turnover in a tropical rotifer is related to past environmental changes. Journal of Paleolimnology 43 (4), 939-954. click <a href="https://link.springer.com/article/10.1007/s10933-009-9379-7" target="_blank"><b>here</b></a></p>
+  
+  <a href="https://pastglobalchanges.org/publications/pages-magazines/pages-magazine/128666" target="_blank"><b>doi: 10.22498/pages.29.2.102</b></a>  </p>
 
