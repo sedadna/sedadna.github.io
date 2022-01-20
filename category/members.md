@@ -193,6 +193,12 @@ title: Members
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><img src="{{ "/category/members/Grayson_Huston.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Grayson Huston</p>
+<p>University of Maine, Orono, USA</p>
+</div>	
+	
+<div class ="member">
 <div class="square"><a href="https://www.awi.de/ueber-uns/organisation/mitarbeiter/weihan-jia.html"
 target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Weihan Jia</p>
