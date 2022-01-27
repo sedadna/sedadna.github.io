@@ -330,6 +330,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>  
 	
 <div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Sofia-Ribeiro-9" target="_blank"><img src="{{ "/category/members/Sofia_Ribeiro.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Sofia Ribeiro</p>
+<p>Geological Survey for Denmark and Greenland (GEUS), Copenhagen, Denmark</p>
+</div>  
+	
+<div class ="member">
 <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><img src="{{ "/assets/board-members/Alex.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Alexandra Rouillard</p>
 <p>UiT, Tromsø, Norway</p>
