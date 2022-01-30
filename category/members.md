@@ -5,7 +5,7 @@ title: Members
 
 <div class="intro">
 <h3 class="section-title underline">The members</h3>  
-<p> The society is currently composed by 302 members including our <a href="/category/board.html" target="_blank"><b>board</b></a>. You can find below some informations about certain of our members. If you want to add your info here, please email a picture and your website link to <b>k.more@graduate.curtin.edu.au</b></p>
+<p> The society is currently composed by 313 members including our <a href="/category/board.html" target="_blank"><b>board</b></a>. You can find below some informations about certain of our members. If you want to add your info here, please email a picture and your website link to <b>k.more@graduate.curtin.edu.au</b></p>
 <br>
 </div>
 
