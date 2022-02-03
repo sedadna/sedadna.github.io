@@ -104,6 +104,32 @@ Title: Our board
 </div>
 </div>
 
+<div class="section">
+<h3 class="section-title underline">The student board</h3>
+</div>
+
+<div class="avatar">
+<div class ="member">
+<div class="square"><a href="https://genev.unige.ch/research/people/ines-barrenechea" target="_blank"><img src="{{ "/category/members/Ines_Barrenechea.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Ines Barrenechea</p>
+<p>University of Geneva, Geneva, Switzerland</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Maïlys Picard</p>
+<p>Cawthron Institute, Nelson, New-Zealand</p>
+</div> 
+
+<div class ="member">
+<div class="square"><a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><img src="{{"/category/members/Jordan_VonEggers.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Jordan Von Eggers</p>
+<p>University of Wyoming, USA</p>
+</div>          
+<br>
+</div>
+
+
 <div class="section advisory board">
 <h3 class="section-title underline">The advisory board</h3>  
 <p>The advisory board is composed by recognized experts in paleoecology, paleogenomics, molecular ecology and more particularly sedaDNA research.</p>
