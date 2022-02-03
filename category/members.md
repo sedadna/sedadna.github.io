@@ -310,12 +310,6 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Laura Parducci</p>
 <p>Sapienza University of Rome, Italy</p>
 </div>
-
-<div class ="member">
-<div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/289258" target="_blank"><img src="{{ "/assets/board-members/Mikkel.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Mikkel W. Pedersen</p>
-<p>GLOBE, Copenhagen University, Denmark</p>
-</div>     
 	
 <div class ="member">
 <div class="square"><a href="http://www.iopan.gda.pl/projects/Dwarf/participants-7.html" target="_blank"><img src="{{ "/assets/board-members/Joanna2.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -323,6 +317,18 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>IOPAN, Sopot, Poland</p>
 </div>      
 
+<div class ="member">
+<div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/289258" target="_blank"><img src="{{ "/assets/board-members/Mikkel.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Mikkel W. Pedersen</p>
+<p>GLOBE, Copenhagen University, Denmark</p>
+</div> 
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Maïlys Picard</p>
+<p>Cawthron Institute, Nelson, New-Zealand</p>
+</div> 
+	
 <div class ="member">
 <div class="square"><a href="https://science.uottawa.ca/biology/people/pick-frances-r" target="_blank"><img src="{{ "/category/members/Frances_Pick.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Frances Pick</p>
