@@ -106,6 +106,7 @@ Title: Our board
 
 <div class="section">
 <h3 class="section-title underline">The student board</h3>
+<p>The studenty board is composed by three PhD students working with sedimentary DNA and responsible of the organization of society PhD seminars, with Kevin Nota helping coordinating these seminars.</p>
 </div>
 
 <div class="avatar">
