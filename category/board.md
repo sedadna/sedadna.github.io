@@ -112,7 +112,7 @@ Title: Our board
 <div class="avatar">
 <div class ="member">
 <div class="square"><a href="https://genev.unige.ch/research/people/ines-barrenechea" target="_blank"><img src="{{ "/category/members/Ines_Barrenechea.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Ines Barrenechea</p>
+<p>Ines Angeles Barrenechea</p>
 <p>University of Geneva, Geneva, Switzerland</p>
 </div>
 
