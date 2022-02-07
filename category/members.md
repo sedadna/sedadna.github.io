@@ -445,6 +445,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://www.norceresearch.no/en/persons/agnes-weiner" target="_blank"><img src="{{ "/category/members/Agnes_Weiner.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Agnes Weiner</p>
+<p>NORCE, Bergen, Norway</p>
+</div>
+	
+<div class ="member">
 <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/26558" target="_blank"><img src="{{ "/assets/board-members/Eske.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Eske Willerslev</p>
 <p>GLOBE, Copenhagen University, Denmark</p>
