@@ -348,7 +348,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>  
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Riaan-Rifkin" target="_blank"><img src="{{ "/category/members/Riaan_Rifkin.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Riaan-Rifkin" target="_blank"><img src="{{ "/category/members/Riaan_Rifkin.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Dr. Riaan F. Rifkin</p>
 <p>University of Pretoria, Hatfield, South Africa</p>
 </div>  
