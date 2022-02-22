@@ -340,6 +340,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Sofia Ribeiro</p>
 <p>Geological Survey for Denmark and Greenland (GEUS), Copenhagen, Denmark</p>
 </div>  
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Riaan-Rifkin" target="_blank"><img src="{{ "/category/members/Riaan_Rifkin.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Dr. Riaan F. Rifkin</p>
+<p>University of Pretoria, Hatfield, South Africa</p>
+</div>  
 	
 <div class ="member">
 <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><img src="{{ "/assets/board-members/Alex.jpg" | relative_url }}" alt="Avatar" /></a></div>
