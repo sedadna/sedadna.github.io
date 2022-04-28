@@ -219,7 +219,7 @@ target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.jpg" | relative_url
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://scholar.google.com/citations?user=lcmPx3cAAAAJ&hl=en" target="_blank"><img src="{{ "/category/members/Zulaykha_Khurshid.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://scholar.google.com/citations?user=lcmPx3cAAAAJ&hl=en" target="_blank"><img src="{{ "/category/members/Zulaykha_Khurshid.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Zulaykha Khurshid</p>
 <p>University of Kashmir, Jammu & Kashmir, India</p>
 </div>
