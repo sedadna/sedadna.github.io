@@ -13,6 +13,15 @@ title: Events
 <p>07-10 August 2022 : Session '<b>Studying the long-term dynamic of freshwater ecosystems through sedimentary DNA research: a potential tool for management and conservation</b>' at  <a href="https://www.sil2022.org/" target="_blank"><b>SIL2022</b></a> at Berlin, Germany. Conveners: Cecilia Barouillet (INRAE), Ebuka Nwosu (GFZ-Hemlholtz), Eric Capo (ICM-CSIC), Laura S Epp (Konstanz University). <i>Submission deadline is 20 April 2022</i>.</p>  
 <p>14-20 May 2022 : Session '<b>Deciphering past aquatic ecosystem dynamics using sedimentary ancient DNA</b>' at  <a href="https://jasm2022.aquaticsocieties.org/" target="_blank"><b>JASM2022</b></a> at Grand Rapids, Michigan, USA. Conveners: Trisha Spanbauer (University of Toledo), Eric Capo (ICM-CSIC), Marie-Eve Monchamp (McGill University) and Cecilia Barouillet (INRAE). <i>Submission deadline for abstracts is 10 January 2022</i>.</p>
 <br>  
+ 
+ <h3 class="section-title underline">Monthly Recurring Events</h3>
+
+<p> The (under)graduate students seminar series. Monthly seminars, where students can give short presentations, ask questions, and socialize with peers. Since we are covering the whole globe with the society, we have split up the meetings into 3 time zones, with each zone having a local coordinator. We will have the meeting on the first Thursday of every month. To be added to the mailing list, contact one of the following coordinators: </p>
+ <p>Americas: Jordan Von Eggers (University of Wyoming)</p>
+<p>Europe/Africa: Inès Barrenechea (University of Geneva)</p>
+ <p>Asia/Australia/New Zeeland Mailys Picard (Cawthron Institute)</p>
+ <br>
+ 
 <h3 class="section-title underline">Special issues</h3> 
 <p>Find here more information about sedaDNA <a href="/category/si.html" target="_blank"><b>Special Issues</b></a>.</p>
 <p>In the journal Diversity <a href="https://www.mdpi.com/journal/diversity/special_issues/ancient_faunal_diversity" target="_blank">"<i>Revealing the Puzzle of the Past through Ancient Biomolecules: From Wild to Tame Faunal Diversity</i>"</a></p>
