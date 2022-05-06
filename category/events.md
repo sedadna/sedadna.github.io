@@ -17,7 +17,7 @@ title: Events
  <h3 class="section-title underline">Monthly Recurring Events</h3>
 
  <p> The <b>(under)graduate students seminar series</b>. Monthly seminars, where students can give short presentations, ask questions, and socialize with peers. Since we are covering the whole globe with the society, we have split up the meetings into 3 time zones, with each zone having a local coordinator. We will have the meeting on the first Thursday of every month. To be added to the mailing list, contact one of the following coordinators: </p>
- <p>Americas: <b>Jordan Von Eggers</b> (University of Wyoming)></p>
+ <p>Americas: <b>Jordan Von Eggers</b> (University of Wyoming)</p>
  <p>Europe/Africa: <b>Inès Barrenechea </b>(University of Geneva)</p>
  <p>Asia/Australia/New Zeeland <b>Mailys Picard</b> (Cawthron Institute)</p>
  <br>
