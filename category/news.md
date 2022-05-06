@@ -9,7 +9,7 @@ title: Newsletters
 
 <div class="intro">
 <p>
-<a href="https://sedadna.github.io/category/news/22-04.html" target="_blank"><b>April 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-03.html" target="_blank"><b>March 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-02.html" target="_blank"><b>February 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-01.html" target="_blank"><b>January 2022</b></a>.</p> 
+<a href="https://sedadna.github.io/category/news/22-05.html" target="_blank"><b>May 2022</b></a>, <a href="https://sedadna.github.io/category/news/22-04.html" target="_blank"><b>April 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-03.html" target="_blank"><b>March 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-02.html" target="_blank"><b>February 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-01.html" target="_blank"><b>January 2022</b></a>.</p> 
 
 <div class="section">
 <h3 class="section-title underline">Newsletters 2021</h3>
