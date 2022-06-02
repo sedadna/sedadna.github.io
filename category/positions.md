@@ -11,7 +11,8 @@ layout: category
 <p><a href="https://www.healthtech.dtu.dk/english" target="_blank"><u>The DTU Health Tech </u></a> is looking for a qualified candidate for a PhD position in  <a href="https://www.dtu.dk/english/about/job-and-career/vacant-positions/job?id=09a1546e-7501-47c5-bca9-ee43605153f7" target="_blank"><u> Bioinformatics</u></a>. In this position, you will develop algorithms and computational methods to deal with the analysis of large datasets from modern and ancient sources. More specifically, these algorithms will be aimed at analyzing human genomes from sedimentary DNA. The bioinformatics section of DTU Health Tech performs research in different areas including machine learning, cancer genomics and population genomics. <b>Application deadline 14th of June 2022</b>. <a href="https://www.dtu.dk/english/about/job-and-career/vacant-positions/job?id=09a1546e-7501-47c5-bca9-ee43605153f7" target="_blank"><u> More information</u></a> </p>
 <br>
 
-  
+<p><a href="https://en.uit.no/tmu" target="_blank"><u>The Arctic University Museum of Norway </u></a>(UM) is advertising an <a href="https://www.jobbnorge.no/en/available-jobs/job/226631/associate-professor-in-archaeogenomics" target="_blank"><u>Associate professor </u></a> position in archaeogenomicsis. This is full-time fully funded permanent post that is effectively research only (with some curatorial responsibility and teaching possible) with a good rate of pay and excellent welfare and working conditions.<b>Application deadline 22nd of June 2022</b>.<a href="https://www.jobbnorge.no/en/available-jobs/job/226631/associate-professor-in-archaeogenomics" target="_blank"><u> More information</u></a></p>
+
 <hr />
 <p><small>Contact kevin.nota@ebc.uu.se or sedimentarydna@gmail.com if you want to plance a job announcement on this page.</small></p>
 
