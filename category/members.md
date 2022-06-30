@@ -310,7 +310,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Christine Omuombo</p>
 <p>University of Nairobi, Kenya</p>
 </div>
-
+	
 <div class ="member">
 <div class="square"><a href="https://corsidilaurea.uniroma1.it/it/users/lauraparducciuniroma1it" target="_blank"><img src="{{ "/assets/board-members/LauraP.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Laura Parducci</p>
@@ -357,6 +357,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><img src="{{ "/assets/board-members/Alex.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Alexandra Rouillard</p>
 <p>UiT, Tromsø, Norway</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Philippe-Munyandamutsa" target="_blank"><img src="{{ "/category/members/Philippe_Sanzira.JPG" | relative_url }}" alt="Avatar" /></a></div>
+<p>Philippe Munyandamutsa</p>
+<p>University of Rwanda, Nyagatare, Rwanda</p>
 </div>
 	
 <div class ="member">
