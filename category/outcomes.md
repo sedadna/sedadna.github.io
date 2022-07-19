@@ -5,7 +5,7 @@ title: Outcomes
 
 <div class="intro">
 
-<p>Von Eggers, Monchamp, Capo, Giguet-Covex, Spanbauer, Heintzman (<b>2022</b>) Inventory of ancient environmental DNA from sedimentary archives: locations, methods, and target taxa 24(5) DATASET <a href="https://doi.org/10.5281/zenodo.6847522" target="_blank"><b>doi: 10.5281/zenodo.6847522</b></a>   </p>
+<p>Von Eggers, Monchamp, Capo, Giguet-Covex, Spanbauer, Heintzman (<b>2022</b>) Inventory of ancient environmental DNA from sedimentary archives: locations, methods, and target taxa version 1. DATASET. Zenodo <a href="https://doi.org/10.5281/zenodo.6847522" target="_blank"><b>doi: 10.5281/zenodo.6847522</b></a></p>
   
 <p>Capo*, Monchamp*, Coolen, Domaizon, Armbrecht, Bertilsson (<b>2022</b>) Environmental paleomicrobiology: using DNA preserved in aquatic sediments to its full potential. Environmental Microbiology. 24(5) *co-first authors <a href="https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15913" target="_blank"><b>doi: 10.1111/1462-2920.15913</b></a>   </p>
   
