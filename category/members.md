@@ -243,6 +243,12 @@ target="_blank"><img src="{{ "/category/members/Kerstin_Kowarik.jpg" | relative_
 <p>Ehime University, Matsuyama, Japan</p>
 </div>
 	
+<div class ="member">
+<div class="square"><a href="https://marklouielopez.weebly.com" target="_blank"><img src="{{ "/assets/board-members/Mark_Louie_Lopez.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Mark Louie Lopez</p>
+<p>University of Victoria, British Columbia, Canada</p>
+</div>
+	
 <div class ="member"> 
 <div class="square"><a href="http://palaeogenetics.com/im/" target="_blank"><img src="{{ "/category/members/Ioana_Meleg.png" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Ioana Meleg</p> 
