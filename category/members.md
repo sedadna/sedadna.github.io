@@ -364,6 +364,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Alexandra Rouillard</p>
 <p>UiT, Tromsø, Norway</p>
 </div>
+	
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/M-A-Gonzalez-Sagrario" target="_blank"><img src="{{ "/category/members/Angeles_Gonzalez_Sagrario.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>María de los Ángeles González Sagrario</p>
+<p>Instituto de Investigaciones Marinas y Costeras (IIMyC), Mar del Plata, Argentina</p>
+</div>
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Philippe-Munyandamutsa" target="_blank"><img src="{{ "/category/members/Philippe_Sanzira.JPG" | relative_url }}" alt="Avatar" /></a></div>
@@ -389,6 +395,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Alfred Wegener Institute, Potsdam, Germany</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Joeselle-Serrana" target="_blank"><img src="{{ "/category/members/JOESELLE_SERRANA.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Joeselle Serrana</p>
+<p>University of Ottawa, Canada</p>
+</div>
+	
 <div class ="member">
 <div class="square"><a href="https://pgl.soe.ucsc.edu" target="_blank"><img src="{{ "/assets/board-members/Beth.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Beth Shapiro</p>
