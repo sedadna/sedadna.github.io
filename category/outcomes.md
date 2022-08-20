@@ -5,7 +5,7 @@ title: Outcomes
 
 <div class="intro">
   
-<p>Jia, Anslan, Chen, Cao, Dong, Dulias, Gu, Heinecke, Jiang, Kruse, Kang, Li, Liu X, Liu Y, Ni, Schwalb, Stoof-Leichsenring, Shen, Tian, Wang J, Wang Yo, Wang Yu, Hu, Yang, Zhang, Herschuh (<b>2022</b>) Sedimentary ancient DNA reveals past ecosystems and biodiversity changes on the Tibetan Plateau: Overview and prospects <a href="https://doi.org/10.1016/j.quascirev.2022.107703" target="_blank"><b>doi: 10.1016/j.quascirev.2022.107703</b></a></p>
+<p>Jia, Anslan, Chen, Cao, Dong, Dulias, Gu, Heinecke, Jiang, Kruse, Kang, Li, Liu X, Liu Y, Ni, Schwalb, Stoof-Leichsenring, Shen, Tian, Wang J, Wang Yo, Wang Yu, Hu, Yang, Zhang, Herzschuh (<b>2022</b>) Sedimentary ancient DNA reveals past ecosystems and biodiversity changes on the Tibetan Plateau: Overview and prospects <a href="https://doi.org/10.1016/j.quascirev.2022.107703" target="_blank"><b>doi: 10.1016/j.quascirev.2022.107703</b></a></p>
   
 <p>Von Eggers, Monchamp, Capo, Giguet-Covex, Spanbauer, Heintzman (<b>2022</b>) Inventory of ancient environmental DNA from sedimentary archives: locations, methods, and target taxa version 1. DATASET. Zenodo <a href="https://doi.org/10.5281/zenodo.6847522" target="_blank"><b>doi: 10.5281/zenodo.6847522</b></a></p>
   
