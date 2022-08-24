@@ -296,7 +296,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Kevin-Nota" target="_blank"><img src="{{ "/assets/board-members/Kevin.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Kevin Nota</p>
-<p>Uppsala University, Sweden</p>
+<p>MPI-EVA, Leipzig, Germany</p>
 </div>
 	
 <div class ="member"> 
