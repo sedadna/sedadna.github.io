@@ -13,6 +13,8 @@ title: Events
  
  <h3 class="section-title underline">Monthly Recurring Events</h3>
 
+ <p> The ‘Pacific seminar series’ organized by Jamie Wood (ACAD, Adelaide, Australia). It will provide members in Pacific region timezones the opportunity to present their research and watch seminars live during daytime hours. All members of the society, irrespective of where they are in the world, are welcome to join and watch. And, if anyone is interested in presenting as part of this series please contact Jamie at jamie.wood@adelaide.edu.au.</p>  
+ 
  <p> The <b>(under)graduate students seminar series</b>. Monthly seminars, where students can give short presentations, ask questions, and socialize with peers. Since we are covering the whole globe with the society, we have split up the meetings into 3 time zones, with each zone having a local coordinator. We will have the meeting on the first Thursday of every month. To be added to the mailing list, contact one of the following coordinators: </p>
  <p>Americas: <b>Jordan Von Eggers</b> (University of Wyoming)</p>
  <p>Europe/Africa: <b>Inès Barrenechea </b>(University of Geneva)</p>
