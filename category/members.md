@@ -20,7 +20,7 @@ title: Members
 <div class ="member">
 <div class="square"><a href="https://publons.com/researcher/1345770/fabien-arnaud/" target="_blank"><img src="{{ "/category/members/Fabien_Arnaud.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Fabien Arnaud</p>
-<p>CNRS - University of Savoie Mont Blanc, France</p>
+<p>EDYTEM, Le-Bourget-du-Lac, France</p>
 </div>
 
 <div class ="member">
@@ -32,7 +32,7 @@ title: Members
 <div class ="member">
 <div class="square"><a href="https://www.senckenberg.de/en/institutes/sbik-f/functional-environmental-genomics/" target="_blank"><img src="{{ "/category/members/Mikki.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Miklós Bálint</p>
-<p>Senckenberg Centre and LOEWE-TBG, Frankfurt, Germany</p>
+<p>Senckenberg Centre, Frankfurt, Germany</p>
 </div>
 
 <div class ="member">
@@ -68,7 +68,7 @@ title: Members
 <div class ="member">
 <div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Eric Capo</p>
-<p>ICM-CSIC, Barcelona, Spain</p>
+<p>Umeå University, Sweden</p>
 </div>
 
 <div class ="member">
@@ -128,7 +128,7 @@ title: Members
 <div class ="member">
 <div class="square"><a href="https://www.tu-braunschweig.de/igeo/team/dr-katharina-dulias" target="_blank"><img src="{{ "/category/members/Katharina_Dulias.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Katharina Dulias</p>
-<p>Technical University of Braunschweig, Braunschweig, Germany</p>
+<p>TU-Braunschweig, Germany</p>
 </div>
 
 
@@ -208,7 +208,7 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 <div class ="member"> 
 <div class="square"><a href="https://www.tu-braunschweig.de/en/igeo/team/kang-wengang" target="_blank"><img src="{{ "/category/members/Wengang_Kang.jpg" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Wengang Kang</p> 
-<p>University of Braunschweig, Braunschweig, Germany</p> 
+<p>University of Braunschweig, Germany</p> 
 </div> 
 	
 <div class ="member">
@@ -218,12 +218,6 @@ target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.jpg" | relative_url
 <p>University of Potsdam, Germany</p>
 </div>
 
-<div class ="member">
-<div class="square"><a href="https://scholar.google.com/citations?user=lcmPx3cAAAAJ&hl=en" target="_blank"><img src="{{ "/category/members/Zulaykha_Khurshid.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Zulaykha Khurshid</p>
-<p>University of Kashmir, Jammu & Kashmir, India</p>
-</div>
-	
 <div class ="member">
 <div class="square"><a href="https://www.tuit.ut.ee/en/research/veljo-kisand" target="_blank"><img src="{{ "/assets/board-members/Veljo.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Veljo Kisand</p>
@@ -252,7 +246,7 @@ target="_blank"><img src="{{ "/category/members/Kerstin_Kowarik.jpg" | relative_
 <div class ="member"> 
 <div class="square"><a href="http://palaeogenetics.com/im/" target="_blank"><img src="{{ "/category/members/Ioana_Meleg.png" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Ioana Meleg</p> 
-<p>Centre for Palaeogenetics, Swedish Museum of Natural History, Stockholm, Sweden</p> 
+<p>Swedish Museum of Natural History, Stockholm, Sweden</p> 
 </div> 
 
 <div class ="member">
@@ -302,7 +296,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class ="member"> 
 <div class="square"><a href="https://www.gfz-potsdam.de/staff/ebuka-canisius-nwosu/sec53/" target="_blank"><img src="{{ "/category/members/Ebuka_Nwosu.png" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Ebuka Nwosu</p> 
-<p>German Research Centre for Geosciences, Potsdam, Germany</p> 
+<p>GFZ, Potsdam, Germany</p> 
 </div> 
 
 <div class ="member">
@@ -350,7 +344,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Sofia-Ribeiro-9" target="_blank"><img src="{{ "/category/members/Sofia_Ribeiro.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sofia Ribeiro</p>
-<p>Geological Survey for Denmark and Greenland (GEUS), Copenhagen, Denmark</p>
+<p>GEUS, Copenhagen, Denmark</p>
 </div>  
 
 <div class ="member">
@@ -368,7 +362,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/M-A-Gonzalez-Sagrario" target="_blank"><img src="{{ "/category/members/Angeles_Gonzalez_Sagrario.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>María de los Ángeles González Sagrario</p>
-<p>Instituto de Investigaciones Marinas y Costeras (IIMyC), Mar del Plata, Argentina</p>
+<p>IIMyC, Mar del Plata, Argentina</p>
 </div>
 
 <div class ="member">
@@ -525,7 +519,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class ="member">
 <div class="square"><a href="https://scholar.google.com/citations?user=0W79goMAAAAJ&hl=de" target="_blank"><img src="{{ "/category/members/Heike_Zimmermann.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Heike Zimmermann</p>
-<p>The National Geological Survey for Denmark and Greenland (GEUS), Copenhagen, Denmark</p>
+<p>GEUS, Copenhagen, Denmark</p>
 </div>
 	
 </div>  
