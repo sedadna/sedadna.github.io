@@ -5,7 +5,7 @@ title: Members
 
 <div class="intro">
 <h3 class="section-title underline">The members</h3>  
-<p> The society is currently composed by 356 members including our <a href="/category/board.html" target="_blank"><b>board</b></a>. You can find below informations about some of our members. If you want to add your info here, please email a picture and your website link to <b>kuldeep-dilip.more@univ-tlse3.fr</b></p>
+<p> The society is currently composed by 374 members including our <a href="/category/board.html" target="_blank"><b>board</b></a>. You can find below informations about some of our members. If you want to add your info here, please email a picture and your website link to <b>kuldeep-dilip.more@univ-tlse3.fr</b></p>
 <br>
 </div>
 
