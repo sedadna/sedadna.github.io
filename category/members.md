@@ -72,6 +72,12 @@ title: Members
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://www.linkedin.com/in/michelle-cheng-b3829b1aa/?originalSubdomain=ca" target="_blank"><img src="{{ "/category/members/Michelle_Cheng.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Michelle Cheng</p>
+<p>McGill University, Montreal, Canada</p>
+</div>	
+
+<div class ="member">
 <div class="square"><a href="https://staffportal.curtin.edu.au/staff/profile/view/Marco.Coolen/" target="_blank"><img src="{{ "/assets/board-members/Marco.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Marco Coolen</p>
 <p>WA-OIGC, Curtin University, Australia</p>
@@ -101,6 +107,12 @@ title: Members
 <p>Witwatersrand University, South Africa</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://scholar.google.co.in/citations?user=ipKbB24AAAAJ&hl=en" target="_blank"><img src="{{ "/category/members/Paltu_Kumar_Dhal.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Paltu Kumar Dhal</p>
+<p>Jadavpur University, Kolkata, India</p>
+</div>	
+	
 <div class ="member">
 <div class="square"><a href="https://www.norceresearch.no/personer/stijn-de-schepper" target="_blank"><img src="{{ "/assets/board-members/Stijn.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Stijn De Schepper</p>
@@ -377,6 +389,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Eurac Research, Bolzano, Italy</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://climatechange.umaine.edu/people/jasmine-saros/" target="_blank"><img src="{{ "/category/members/Jasmine_Saros.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Jasmine_Saros</p>
+<p>University of Maine, Orono, USA</p>
+</div>
+	
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Lennart-Schreiber" target="_blank"><img src="{{ "/category/members/Lennart_Schreiber.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Lennart Schreiber</p>
