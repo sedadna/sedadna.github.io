@@ -539,6 +539,6 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Heike Zimmermann</p>
 <p>GEUS, Copenhagen, Denmark</p>
 </div>
-	
+
 </div>  
 <br>
