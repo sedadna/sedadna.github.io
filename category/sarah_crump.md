@@ -10,25 +10,25 @@ Title: Our board
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.nature.com/articles/s43017-021-00158-8" target="_blank"><img src="{{ "/assets/crump_papers_crump2021b.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.nature.com/articles/s43017-021-00158-8" target="_blank"><img src="{{ "/assets/crump_papers/crump2021b.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Crump 2021</p>
 <p>Sedimentary ancient DNA as a tool in paleoecology</p>
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2019069118" target="_blank"><img src="{{ "/assets/crump_papers_crump2021a.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2019069118" target="_blank"><img src="{{ "/assets/crump_papers/crump2021a.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Crump et al. 2021</p>
 <p>Ancient plant DNA reveals High Arctic greening during the Last Interglacial</p>
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0277379120303814" target="_blank"><img src="{{ "/assets/crump_papers_crump2020.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0277379120303814" target="_blank"><img src="{{ "/assets/crump_papers/crump2020.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Crump et al. 2020</p>
 <p>Glacier expansion on Baffin Island during early Holocene cold reversals</p>
 </div>
   
 <div class ="member">
-<div class="square"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14836" target="_blank"><img src="{{ "/assets/crump_papers_crump2019.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14836" target="_blank"><img src="{{ "/assets/crump_papers/crump2019.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Crump et al. 2019</p>
 <p>Arctic shrub colonization lagged peak postglacial warmth: Molecular evidence in lake sediment from Arctic Canada</p>
 </div>
