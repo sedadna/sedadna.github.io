@@ -4,6 +4,16 @@ Title: Our board
 ---
 
 <div class="section">
+<h3 class="section-title underline">About Sarah Crump</h3>
+<p align="justify">
+Sarah was a driving force and rising star within the sedimentary ancient DNA community. She recently established a lab at the University of Utah after receiving her PhD from the University of Colorado Boulder and completing an NSF Postdoctoral Fellowship at the University of California Santa Cruz. Sarah will be fondly remembered for her endless enthusiasm, positivity, and kindness, in addition to her authoritative knowledge and insights into Arctic paleoecology, lipid biomarkers, and paleo-community reconstructions. Her pioneering work on Baffin Island demonstrated that ancient DNA can preserve in lake sediments of last interglacial age, thus opening up this previous warm period to our toolbox for understanding past ecological dynamics.
+</p> 
+<p align="justify">Sarah has been a pillar of the sedaDNA society since its inception, and was always supportive of collaborative projects and the building of a strong and joyful community.</p> 
+<p align="justify"> With help from Sarah, her family, and several of her close colleagues, Sarah’s alma mater, the Institute for Arctic and Alpine Research (INSTAAR), has established the <a href="https://www.colorado.edu/instaar/instaar-resources/student-funding/sarah-crump-graduate-fellowship" target="_blank"><b>Sarah Crump Graduate Fellowship Fund</b></a>, which aims to raise enough money to fully support one INSTAAR grad student each year. The fellowship will focus on the study of Earth or environmental science in Arctic or alpine regions and also be a lever for equity and underserved communities. We ask that you consider <a href="https://giving.cu.edu/fund/sarah-crump-graduate-fellowship-fund" target="_blank"><b>donating to the endowment</b></a>.
+</p> 
+</div>
+
+<div class="section">
 <h3 class="section-title underline">Sarah´s papers</h3>
 </div>
 
