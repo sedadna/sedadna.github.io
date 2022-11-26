@@ -14,7 +14,7 @@ Sarah was a driving force and rising star within the sedimentary ancient DNA com
 </div>
 
 <div class="section">
-<h3 class="section-title underline">Sarah´s papers</h3>
+<h3 class="section-title underline">Sarah´s main papers</h3>
 </div>
 
 <div class="avatar">
