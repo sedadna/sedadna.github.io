@@ -12,7 +12,7 @@ Sarah was a driving force and rising star within the sedimentary ancient DNA com
 <p align="justify"> With help from Sarah, her family, and several of her close colleagues, Sarah’s alma mater, the Institute for Arctic and Alpine Research (INSTAAR), has established the <a href="https://www.colorado.edu/instaar/instaar-resources/student-funding/sarah-crump-graduate-fellowship" target="_blank"><b>Sarah Crump Graduate Fellowship Fund</b></a>, which aims to raise enough money to fully support one INSTAAR grad student each year. The fellowship will focus on the study of Earth or environmental science in Arctic or alpine regions and also be a lever for equity and underserved communities. We ask that you consider <a href="https://giving.cu.edu/fund/sarah-crump-graduate-fellowship-fund" target="_blank"><b>donating to the endowment</b></a>.
 </p> 
 </div>
-
+<br>
 <div class="section">
 <h3 class="section-title underline">Sarah´s main papers</h3>
 </div>
