@@ -71,10 +71,13 @@ title: African sedaDNA working group
 
 <br>  
 <p><b>Table of members</b></p> 
+<i> under construction </i>
 <br>  
 <p><b>Research groups with skills in (paleo)ecology and/or molecular biology in Africa</b></p>
+<i> under construction </i>
 <br>   
 <p><b>Potential funds for sedaDNA research by African researchers</b></p>
+<i> under construction </i>
 <br>  
   
 <p><b>Literature about sedaDNA research in African ecosystems</b></p>
