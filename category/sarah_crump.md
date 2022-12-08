@@ -47,7 +47,7 @@ Sarah was a driving force and rising star within the sedimentary ancient DNA com
 
 <div class="intro">
 <h3 class="section-title underline">Comments from our members</h3>
-<p align="justify"> "This is extremely sad news. Sarah was a great young scientist, and she will be greatly missed. She started from scratch to learn sedaDNA techniques for her work in Baffin when nobody else was doing it in Boulder, and she achieved amazing things in a short time." - <i>Marie E Edwards</i>.</p>
+<p align="justify"> "This is extremely sad news. Sarah was a great young scientist, and she will be greatly missed. She started from scratch to learn sedaDNA techniques for her work in Baffin when nobody else was doing it in Boulder, and she achieved amazing things in a short time." - <i>Mary E Edwards</i>.</p>
 <p align="justify"> "I am deeply sorry to hear about the passing of Sarah, Even though I never met and know her, I would like to offer my deepest sympathy to the family and to the society too." - <i>Onja Razanamaro</i>.</p>
 <p align="justify"> "What a sad sad news. I did not know her personally but she set an ideal for "how driven a scientist should be" through her acheivements. Extemely sad day. Deepest condolences to Sarah's family." - <i>Kuldeep More</i>.</p>  
 <p align="justify">"For her family and friends I like to express my sincere condolences." - <i>Marco Coolen</i>.</p>
