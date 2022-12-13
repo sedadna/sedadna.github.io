@@ -254,6 +254,13 @@ target="_blank"><img src="{{ "/category/members/Kerstin_Kowarik.jpg" | relative_
 <p>Mark Louie Lopez</p>
 <p>University of Victoria, British Columbia, Canada</p>
 </div>
+
+<div class ="member">
+<div class="square"><a href="https://www.gfz-potsdam.de/en/staff/susanne.liebner/sec37" target="_blank"><img src="{{ "/category/members/Susanne_Liebner.jpg" | relative_url }}" 
+alt="Avatar" /></a></div>
+<p>Susanne Liebner</p>
+<p>German Research Centre for Geosciences, Potsdam, Germany</p>
+</div>	
 	
 <div class ="member"> 
 <div class="square"><a href="http://palaeogenetics.com/im/" target="_blank"><img src="{{ "/category/members/Ioana_Meleg.png" | relative_url }}" alt="Avatar" /></a></div> 
