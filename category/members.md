@@ -352,6 +352,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Frances Pick</p>
 <p>University of Ottawa, Canada</p>
 </div>  
+
+<div class ="member">
+<div class="square"><a href="https://www.kksand.com/" target="_blank"><img src="{{ "/category/members/Karina_Sand.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Karina Krarup Svenninggaard Sand</p>
+<p>University of Copenhagen, Denmark</p>
+</div>	
 	
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Sofia-Ribeiro-9" target="_blank"><img src="{{ "/category/members/Sofia_Ribeiro.jpg" | relative_url }}" alt="Avatar" /></a></div>
