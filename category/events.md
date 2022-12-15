@@ -7,7 +7,7 @@ title: Events
 
 <div class="intro">
 <h3 class="section-title underline">Upcoming Events</h3>
-<p>23-28 April 2023 : <a href="https://meetingorganizer.copernicus.org/EGU23/session/45007" target="_blank"><b>Session BG5.3b at EGU2023</b></a> 'Novel molecular tools (biomarkers and DNA) in climatic and environmental archives – challenges, advances, and prospects' Conveners : Marina Morlock, Doreen Huang, Tobias Schneider. Abstract submission deadline: 10 January 2023</p> 
+<p>23-28 April 2023 : <a href="https://meetingorganizer.copernicus.org/EGU23/session/45007" target="_blank"><b>Session BG5.3b at EGU2023</b></a> 'Novel molecular tools (biomarkers and DNA) in climatic and environmental archives – challenges, advances, and prospects' Conveners : Doreen Huang, Marina Morlock, Tobias Schneider. Abstract submission deadline: 10 January 2023</p> 
 <p>07-09 June 2023 : <a href="https://docs.google.com/document/d/13tvQSsiWDWVYNwo638D9ByT3cKc1HLZsXTSC_3GRtSY/edit?usp=sharing" target="_blank"><b>SedaDNA Meeting</b></a>, Potsdam, Germany. Local organizing committee: Ulrike Herzschuh, Kathleen Stoof-Leichsenring, Liv Heinecke. Co-organized with the PaleoEcoGen PAGES working group.  Save the date!</p> 
 
 <br>  
