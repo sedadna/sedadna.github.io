@@ -21,13 +21,6 @@ title: Events
  <p>Europe/Africa: <b>Inès Barrenechea </b>(University of Geneva)</p>
  <br>
  
-<h3 class="section-title underline">Special issues</h3> 
-<p>Find here more information about sedaDNA <a href="/category/si.html" target="_blank"><b>Special Issues</b></a>.</p>
-<p>In the journal Diversity <a href="https://www.mdpi.com/journal/diversity/special_issues/ancient_faunal_diversity" target="_blank">"<i>Revealing the Puzzle of the Past through Ancient Biomolecules: From Wild to Tame Faunal Diversity</i>"</a></p>
-<p>In the journal Freshwater Biology <a href="https://ercapo.wixsite.com/sedadna-society/specialissue" target="_blank">"<i>Interpreting environmental and evolutionary change in freshwater systems using DNA preserved in sediments</i>"</a></p>
-<p>In the journal AIMS Microbiology <a href="https://www.aimspress.com/aimsmicro/article/6064/special-articles" target="_blank">"<i>Progress in paleomicrobial ecology research</i>"</a></p>
-<br>  
- 
 <h3 class="section-title underline">Pasts Events</h3>
 <p>
  <a href="https://www.youtube.com/watch?v=MvtUTwxw7CU" target="_blank"><b>13 December 2022</b></a> Seminar by Mark Louie D Lopez 'Combined use of sedimentary DNA (sedDNA) and indigenous knowledge in reconstructing historical fish records' <a href="https://www.ial-ipa2022.com/" target="_blank"><b>27 Nov-1 Dec 2022</b></a> Session 'Molecular applications and perspectives on modern and Quaternary environmental systems' at IAL-IPA, Bariloche, Argentina. 
