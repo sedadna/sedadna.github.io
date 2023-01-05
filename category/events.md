@@ -7,24 +7,23 @@ title: Events
 
 <div class="intro">
 
- <h3 class="section-title underline">Research Scholarships</h3>
+<h3 class="section-title underline">Research Scholarships</h3>
 <p> To honour the memory of the young and talented researcher Sarah Crump who recently passed away, the SVS society announce an extra call this year, the <a href="https://sites.google.com/view/svsplantgeogr/scholarships" target="_blank"><b>Sarah Crump's research scholarships</b></a>, dedicated to the research of past vegetation dynamics using methods based on DNA preserved in natural archives. We invite all students, researchers and young professionals to apply for this opportunity and continue Sarah's legacy. Applications will be evaluated by the board members of the sedaDNA scientific society. Deadline <b>January 2023</b>
-<br>  
- 
- <h3 class="section-title underline">Upcoming Events</h3>
+<br>
+
+<h3 class="section-title underline">Upcoming Events</h3>
 <p>23-28 April 2023 : <a href="https://meetingorganizer.copernicus.org/EGU23/session/45007" target="_blank"><b>Session BG5.3b at EGU2023</b></a> 'Novel molecular tools (biomarkers and DNA) in climatic and environmental archives – challenges, advances, and prospects' Conveners : Doreen Huang, Marina Morlock, Tobias Schneider. Abstract submission deadline: 10 January 2023</p> 
 <p>07-09 June 2023 : <a href="https://docs.google.com/document/d/13tvQSsiWDWVYNwo638D9ByT3cKc1HLZsXTSC_3GRtSY/edit?usp=sharing" target="_blank"><b>SedaDNA Meeting</b></a>, Potsdam, Germany. Local organizing committee: Ulrike Herzschuh, Kathleen Stoof-Leichsenring, Liv Heinecke. Co-organized with the PaleoEcoGen PAGES working group.  Save the date!</p> 
 
 <br>  
  
- <h3 class="section-title underline">Monthly Recurring Events</h3>
-
- <p> The <b>Pacific seminar series</b> organized by Jamie Wood (ACAD, Adelaide, Australia). It will provide members in Pacific region timezones the opportunity to present their research and watch seminars live during daytime hours. All members of the society, irrespective of where they are in the world, are welcome to join and watch. And, if anyone is interested in presenting as part of this series please contact Jamie at jamie.wood@adelaide.edu.au.</p>  
+<h3 class="section-title underline">Monthly Recurring Events</h3>
+<p> The <b>Pacific seminar series</b> organized by Jamie Wood (ACAD, Adelaide, Australia). It will provide members in Pacific region timezones the opportunity to present their research and watch seminars live during daytime hours. All members of the society, irrespective of where they are in the world, are welcome to join and watch. And, if anyone is interested in presenting as part of this series please contact Jamie at jamie.wood@adelaide.edu.au.</p>  
  
- <p> The <b>(under)graduate students seminar series</b> organized by Kevin Nota (MPI-EVA, Leipzig, Germany). Monthly seminars, where students can give short presentations, ask questions, and socialize with peers. Since we are covering the whole globe with the society, we have split up the meetings into two time zones, with each zone having a local coordinator. We will have the meeting on the first Thursday of every month. To be added to the mailing list, contact one of the following coordinators: </p>
+<p> The <b>(under)graduate students seminar series</b> organized by Kevin Nota (MPI-EVA, Leipzig, Germany). Monthly seminars, where students can give short presentations, ask questions, and socialize with peers. Since we are covering the whole globe with the society, we have split up the meetings into two time zones, with each zone having a local coordinator. We will have the meeting on the first Thursday of every month. To be added to the mailing list, contact one of the following coordinators: </p>
  <p>Americas: <b>Jordan Von Eggers</b> (University of Wyoming)</p>
  <p>Europe/Africa: <b>Inès Barrenechea </b>(University of Geneva)</p>
- <br>
+<br>
  
 <h3 class="section-title underline">Pasts Events</h3>
 <p>
