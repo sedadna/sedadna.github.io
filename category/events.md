@@ -6,7 +6,12 @@ title: Events
 ---
 
 <div class="intro">
-<h3 class="section-title underline">Upcoming Events</h3>
+
+ <h3 class="section-title underline">Research Scholarships</h3>
+<p> To honour the memory of the young and talented researcher Sarah Crump who recently passed away, the SVS society announce an extra call this year, the <a href="https://sites.google.com/view/svsplantgeogr/scholarships" target="_blank"><b>Sarah Crump's research scholarships</b></a>, dedicated to the research of past vegetation dynamics using methods based on DNA preserved in natural archives. We invite all students, researchers and young professionals to apply for this opportunity and continue Sarah's legacy. Applications will be evaluated by the board members of the sedaDNA scientific society. Deadline <b>January 2023</b>
+<br>  
+ 
+ <h3 class="section-title underline">Upcoming Events</h3>
 <p>23-28 April 2023 : <a href="https://meetingorganizer.copernicus.org/EGU23/session/45007" target="_blank"><b>Session BG5.3b at EGU2023</b></a> 'Novel molecular tools (biomarkers and DNA) in climatic and environmental archives – challenges, advances, and prospects' Conveners : Doreen Huang, Marina Morlock, Tobias Schneider. Abstract submission deadline: 10 January 2023</p> 
 <p>07-09 June 2023 : <a href="https://docs.google.com/document/d/13tvQSsiWDWVYNwo638D9ByT3cKc1HLZsXTSC_3GRtSY/edit?usp=sharing" target="_blank"><b>SedaDNA Meeting</b></a>, Potsdam, Germany. Local organizing committee: Ulrike Herzschuh, Kathleen Stoof-Leichsenring, Liv Heinecke. Co-organized with the PaleoEcoGen PAGES working group.  Save the date!</p> 
 
