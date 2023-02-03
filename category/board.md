@@ -10,18 +10,19 @@ Title: Our board
 <div class="avatar">
 
 <div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Kevin-Nota" target="_blank"><img src="{{ "/assets/board-members/Kevin.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kevin Nota</p>
+<p>Communicator</p>
+<p>MPI-EVA</p>
+<p>Leipzig, Germany</p>
+</div>
+  
+<div class ="member">
 <div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Eric Capo</p>
 <p>Coordinator</p>
 <p>ICM-CSIC</p>
 <p>Barcelona, Spain</p>
-</div>
-
-<div class ="member">
-<div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Marie-Eve Monchamp</p>
-<p>McGill University</p>
-<p>Montréal, Canada</p>
 </div>
 
 <div class ="member">
