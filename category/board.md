@@ -26,6 +26,13 @@ Title: Our board
 </div>
   
 <div class ="member">
+<div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Marie-Eve Monchamp</p>
+<p>McGill University</p>
+<p>Montréal, Canada</p>
+</div>
+  
+<div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><img src="{{ "/assets/board-members/Cecilia2.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Cécilia Barouillet</p>
 <p>INRAE UMR CARRTEL</p>
