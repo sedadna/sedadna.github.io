@@ -24,13 +24,6 @@ Title: Our board
 <p>ICM-CSIC</p>
 <p>Barcelona, Spain</p>
 </div>
-
-<div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Kevin-Nota" target="_blank"><img src="{{ "/assets/board-members/Kevin.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Kevin Nota</p>
-<p>MPI-EVA</p>
-<p>Leipzig, Germany</p>
-</div>
   
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><img src="{{ "/assets/board-members/Cecilia2.jpg" | relative_url }}" alt="Avatar" /></a></div>
