@@ -4,7 +4,15 @@ layout: category
 
 <div class="intro">
 <h3 class="section-title underline">Job positions</h3>
+  
+<p>A<a href="https://www.jobbnorge.no/en/available-jobs/job/239568/phd-fellow-in-ancient-dna-of-cryptogams-in-northern-ecosystems" target="_blank"><u> PhD position in ancient DNA of cryptogams in northern ecosystems </u></a>is available at the Arctic University Museum of Norway, UiT. You will conduct research as a part of the newly established Norwegian Centre for Arctic Ecosystem Genomics (ArcEcoGen) and will be part of the terrestrial working group.</p>
 
+<p>The position will focus on increasing our understanding of long-term changes in northern ecosystems with a focus on terrestrial and aquatic cryptogams. While we already have explored patterns of vascular plant and mammal sedimentary ancient DNA from many sites in the north, this position will extend the research to other parts of the ecosystem by exploring patterns in cryptogams, such as bryophytes, lichens and other fungi. These data will be explored to include trait analyses and other proxies, which will increase our understanding of different environmental drivers on ecosystem development and changes.</p>
+
+<p>The position is for a period of four years. The nominal length of the PhD programme is three years. The fourth year is distributed as 25 % each year and will consist of teaching and other duties. The objective of the position is to complete research training to the level of a doctoral degree. Admission to the PhD programme is a prerequisite for employment, and the programme period starts on commencement of the position.</p>
+
+<p><b>Application deadline: 9th March 2023</b></p>
+<br>  
 <p><a href="https://www.jobbnorge.no/en/available-jobs/job/238789/2-year-postdoctoral-research-position-in-bioinformatics-and-molecular-ecology" target="_blank"><u> 2-year Postdoctoral Research Position in Bioinformatics and Molecular Ecology </u></a> at <a href="https://www.iopan.pl/en/" target="_blank"><u> NORCE in Bergen, Norway </u></a>. The job offer is for a 2-year post-doc (extendable) to work within two EU-funded projects (BIOcean5D and ANERIS). The tasks include : - further developing the SLIM pipeline to integrate long-reads, metaG and metaT processing modules (ANERIS) and - identifying new DNA-based indicators of marine ecosystems health by mining existing 18S metabarcoding data with machine learning / network inference tools (BIOcean5D). There is room for the candidate to develop own ideas on sedaDNA. 
   <br>
    <b>Application deadline: February 15th, 2023.</b></p>
@@ -22,7 +30,7 @@ layout: category
 </p>  
   
 <hr />
-<p><small>Contact kevin_nota@eva.mpg.de or sedimentarydna@gmail.com if you want to plance a job announcement on this page.</small></p>
+<p><small>Contact kevin_nota@eva.mpg.de if you want to plance a job announcement on this page.</small></p>
 
 <br>
 
