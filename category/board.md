@@ -16,59 +16,61 @@ Title: Our board
 <p>MPI-EVA</p>
 <p>Leipzig, Germany</p>
 </div>
-  
-<div class ="member">
-<div class="square"><a href="https://ericcapo.github.io/ericcapo/" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Eric Capo</p>
-<p>Coordinator</p>
-<p>ICM-CSIC</p>
-<p>Barcelona, Spain</p>
-</div>
-  
-<div class ="member">
-<div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Marie-Eve Monchamp</p>
-<p>McGill University</p>
-<p>Montréal, Canada</p>
-</div>
-  
+
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><img src="{{ "/assets/board-members/Cecilia2.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Cécilia Barouillet</p>
 <p>INRAE UMR CARRTEL</p>
 <p>Thonon-les-Bains, France</p>
 </div>
-<br>  
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Kuldeep-More" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kuldeep More</p>
+<p>CAGT</p>
+<p>Toulouse, France</p>  
+</div>  
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><img src="{{ "/assets/board-members/Ines.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Ines Barrenechea</p>
+<p>UiT</p>
+<p>Tromsø, Norway</p>
+</div>
+
 </div>
 
 <div class="avatar">
-<br>               
+
 <div class ="member">
-<div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><img src="{{ "/assets/board-members/Alex.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Alexandra Rouillard</p>
-<p>UiT, Tromsø, Norway</p>
+<div class="square"><a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><img src="{{ "/assets/board-members/Jordan.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Jordan Von Eggers</p>
+<p>University of Wyoming</p>
+<p>Tromsø, Norway</p>
 </div>
-          
+  
 <div class ="member">
-<div class="square"><a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Kuldeep More</p>
-<p>CAGT, Toulouse, France</p>  
-</div>   
-
-
+<div class="square"><a href="https://graysonhuston.wixsite.com/my-site9" target="_blank"><img src="{{ "/assets/board-members/Grayson.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Grayson Huston</p>
+<p>University of Maine</p>
+<p>Orono, USA</p>
+</div>
+  
 <div class ="member">
-<div class="square"><a href="http://www.iopan.gda.pl/projects/Dwarf/participants-7.html" target="_blank"><img src="{{ "/assets/board-members/Joanna2.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Joanna Pawłowska</p>
-<p>IOPAN, Sopot, Poland</p>
-</div>       
+<div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/assets/board-members/Mailys.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Maïlys Picard</p>
+<p>Cawthron Institute</p>
+<p>Nelson, New-Zealand</p>
+</div>
+  
+<div class ="member">
+<div class="square"><a href="https://ericcapo.github.io/ericcapo/" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Eric Capo</p>
+<p>Coordinator</p>
+<p>Umeå University, Umeå, Sweden</p>
+</div>
     
-<div class ="member">
-<div class="square"><a href="https://www.trishaspanbauer.com/" target="_blank"><img src="{{ "/assets/board-members/Trisha.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Trisha Spanbauer</p>
-<p>Toledo University</p>
-<p>Toledo, USA</p>
-<br>
-</div>
+
          
 </div>
 <div class="intro">
@@ -77,61 +79,33 @@ Title: Our board
 <p> <a href="https://www.researchgate.net/profile/Kevin_Nota2" target="_blank"><b>Kevin Nota</b></a> has a PhD in molecular paleoecology from Uppsala University. His PhD research was focused on reconstructing past flora from lake sediments and peat records. Current research interest in population genomics from ancient environmental samples. He is currently a postdoc at the Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany. Kevin is responsible for distributing the monthly newsletters, coordinating student seminars, and co-organized the first society symposium. </p>        
 </div>
 
-<div class="section Eric">
-<p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> has a Ph.D. in molecular paleoecology from INRAE UMR CARRTEL (Thonon-les-Bains, France) with  strong interests in the ecology of freshwater and marine microbial communities. Eric is the founder and coordinator of the society and is currently a post-doc fellow at ICM-CSIC (Barcelona, Spain) and guest researcher at SLU (Uppsala, Sweden).</p>  
-</div>
-
-<div class="section Marie-Eve">
-<p> <a href="https://marie-evemonchamp.weebly.com/" target="_blank"><b>Marie-Eve Monchamp</b></a> has a Ph.D. in Environmental Systems Science from the Swiss Federal Institute of Technology (ETH) (Zurich, Switzerland). Her research interests are focussed on the impact of human activities on freshwater biota. She is currently an NSERC postdoctoral fellow at McGill University (Montréal, Canada) where she applies eDNA, sedDNA and eRNA approaches to study lacustrine biodiversity and ecosystem function. Marie-Eve is the leader of the <a href="https://pastglobalchanges.org/science/wg/paleoecogen" target="_blank">PAGES PaleoEcoGen Working Group</a>.</p>       
-</div>
-
 <div class="section Cecilia">
 <p>  <a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><b>Cecilia Barouillet</b></a> has a PhD in Biology paleolimnology from Queen's University (PEARL laboratory, Kingston, Canada) and is now post-doc at INRAE UMR CARRTEL (Thonon-les-Bains, France). Her research interests focus on reconstructing the long-term ecological trajectory of lakes and studying changes in lake ecosystems functioning in response to environmental change and anthropogenic stressors. Cecilia is VP at the <a href="https://limnology.org/officers-and-boards/" target="_blank">International Society of Limnology</a> and coordinate actions in the <a href="https://ercapo.wixsite.com/sedadna-society/african-sedadna-wg" target="_blank">African sedaDNA working group</a>.</p>        
 </div>
-
-<div class="section Alex">
-<p>  <a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><b>Alexandra Rouillard</b></a> has a Ph.D. in Plant Biology (paleoecology) and is currently a postdoc at UiT The Arctic University of Norway in Tromsø also affiliated with GeoGenetics, GLOBE, at the The University of Copenhagen, Denmark. Her research aims to understand the role of climatic shifts on the diversity and function of Arctic species and ecosystems over a range of timescales using molecular and geochemical proxies from lake sediments. Alex is in charge of promoting our members' outreach and science communication content on sedaDNA.</p>        
-</div>
-
+ 
 <div class="section Kuldeep">
 <p>  <a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><b>Kuldeep More</b></a> has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He is currently working as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France. In the society, Kuldeep is managing informations from new members.</p>
 </div>
+  
+<div class="section Ines">
+<p>  <a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><b>Ines Barrenecheas</b></a> has a PhD in Earth Sciences from Geneva University. Her PhD research was focused on reconstructing marine biodiversity and on biomonitoring using eDNA metabarcoding. Current research interest is marine extremophiles (protists) from ancient and recent sediments She is currently a postdoc at the Arctic University of Norway, Tromsø, Norway. Ines is responsible for organising PhD seminars from Europe/Africa time zone.</p>        
+</div>  
 
-<div class="section Joanna">
-<p>  <a href="http://www.iopan.gda.pl/projects/Dwarf/participants-7.html" target="_blank"><b>Joanna Pawłowska</b></a> has a Ph.D. in oceanography from the Institute of Oceanology Polish Academy of Sciences IOPAN). She is currently an assistant professor in the IOPAN, where she runs the environmental DNA lab. Her research interests focus on the application of molecular tools for the assessment of benthic and planktonic ecosystems and for reconstructing past climate and environmental changes. Joanna´s role in the society is keeping up the sedaDNA literature survey.</p>     
+<div class="section Jordan">
+<p>  <a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><b>Jordan Von Eggers</b></a> is currently a Ph.D. student at the University of Wyoming. Her research focuses on how natural and anthropogenic pressures have shaped the current and past biodiversity of lower trophic levels in remote, high elevation lake ecosystems across multiple spatial scales. Jordan organizes the student seminar series for the Americas and Oceania time zones and updates the inventory of environmental ancient DNA from sedimentary archives. </p>        
+</div>  
+  
+<div class="section Grayson">
+<p> <a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><b>Grayson Huston </b></a> is a Ph.D. student in Ecology and Environmental Science at the University of Maine – Orono. His research is focused on the recovery and detection of fish DNA from aquatic sediments, with an emphasis on the impact of dams on Maine’s migratory fish species. Within the society, Grayson is one of the leads in the fish working group. </p>        
 </div>
 
-<div class="section Trisha">
-<p>  <a href="https://www.trishaspanbauer.com/" target="_blank"><b>Trisha Spanbauer</b></a> has a Ph.D. in geology and biology from the University of Nebraska-Lincoln and her research is focused on paleolimnology, with an emphasis on the ecology and evolution of algae. She is currently an assistant professor at the University of Toledo where she runs a sedimentary DNA and a molecular ecology lab. Trisha is responsible for the organization of society seminars.</p>        
+<div class="section Maïlys">
+<p> <a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><b>Maïlys Picard</b></a>  is finishing her Ph.D. in molecular paleoecology from the Cawthron Institute and the University of Waikato (New Zealand), investigating the links between cyanobacterial blooms and the introduction of non-native fish in New Zealand lakes. She is helping with student seminars. </p>        
 </div>
+  
+<div class="section Eric">
+<p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> has a Ph.D. in molecular paleoecology from INRAE UMR CARRTEL (Thonon-les-Bains, France) with  strong interests in the ecology of freshwater and marine microbial communities. Eric is the founder and coordinator of the society and is assistant professor at Umeå University (Sweden).</p>  
 </div>
-
-<div class="section">
-<h3 class="section-title underline">The student board</h3>
-<p>The student board is composed by three PhD students working with sedimentary DNA and responsible of the organization of society PhD seminars that are coordinated by Kevin Nota. Check our "Events" page for more information about these seminars.</p>
-</div>
-
-<div class="avatar">
-<div class ="member">
-<div class="square"><a href="https://genev.unige.ch/research/people/ines-barrenechea" target="_blank"><img src="{{ "/category/members/Ines_Barrenechea.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Ines Angeles Barrenechea</p>
-<p>University of Geneva, Geneva, Switzerland</p>
-</div>
-
-<div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Maïlys Picard</p>
-<p>Cawthron Institute, Nelson, New-Zealand</p>
-</div> 
-
-<div class ="member">
-<div class="square"><a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><img src="{{"/category/members/Jordan_VonEggers.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Jordan Von Eggers</p>
-<p>University of Wyoming, USA</p>
-</div>          
-<br>
-</div>
-
 
 <div class="section advisory board">
 <h3 class="section-title underline">The advisory board</h3>  
@@ -201,6 +175,13 @@ Title: Our board
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Marie-Eve Monchamp</p>
+<p>McGill University</p>
+<p>Montréal, Canada</p>
+</div>
+  
+<div class ="member">
 <div class="square"><a href="https://www.univ-na.ci/" target="_blank"><img src="{{ "/category/members/Allassane_Ouattara.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Allassane Ouattara</p>
 <p>University of Nangui Abrogoua, Ivory Coast</p>
@@ -211,7 +192,13 @@ Title: Our board
 <p>Laura Parducci</p>
 <p>Sapienza University of Rome, Italy</p>
 </div>
-      
+
+<div class ="member">
+<div class="square"><a href="http://www.iopan.gda.pl/projects/Dwarf/participants-7.html" target="_blank"><img src="{{ "/assets/board-members/Joanna2.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Joanna Pawłowska</p>
+<p>IOPAN, Sopot, Poland</p>
+</div>      
+  
 <div class ="member">
 <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/289258" target="_blank"><img src="{{ "/assets/board-members/Mikkel.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mikkel W. Pedersen</p>
@@ -223,6 +210,12 @@ Title: Our board
 <p>Frances Pick</p>
 <p>University of Ottawa, Canada</p>
 </div>    
+
+<div class ="member">
+<div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><img src="{{ "/assets/board-members/Alex.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Alexandra Rouillard</p>
+<p>UiT, Tromsø, Norway</p>
+</div>
   
 <div class ="member">
 <div class="square"><a href="https://pgl.soe.ucsc.edu" target="_blank"><img src="{{ "/assets/board-members/Beth.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -241,7 +234,14 @@ Title: Our board
 <p>John Smol</p>
 <p>Queen’s University, Canada</p>
 </div>
-  
+
+<div class ="member">
+<div class="square"><a href="https://www.trishaspanbauer.com/" target="_blank"><img src="{{ "/assets/board-members/Trisha.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Trisha Spanbauer</p>
+<p>Toledo University</p>
+<p>Toledo, USA</p>
+
+</div>  
 <div class ="member">
 <div class="square"><a href="https://www.awi.de/en/about-us/organisation/staff/kathleen-stoof-leichsenring.html" target="_blank"><img src="{{ "/assets/board-members/Kathleen.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Kathleen Stoof-Leichsenring</p>
