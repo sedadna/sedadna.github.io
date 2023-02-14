@@ -42,9 +42,9 @@ title: Members
 </div>
 	
 <div class ="member">
-<div class="square"><a href="https://genev.unige.ch/research/people/ines-barrenechea" target="_blank"><img src="{{ "/category/members/Ines_Barrenechea.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><img src="{{ "/category/members/Ines_Barrenechea.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ines Barrenechea</p>
-<p>University of Geneva, Geneva, Switzerland</p>
+<p>UiT, Tromsø, Norway</p>
 </div>
 
 <div class ="member">
