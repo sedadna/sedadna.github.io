@@ -32,7 +32,7 @@ Title: Our board
 </div>  
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><img src="{{ "/assets/board-members/Ines.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><img src="{{ "/category/members/Ines_Barrenechea.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ines Barrenechea</p>
 <p>UiT</p>
 <p>Tromsø, Norway</p>
@@ -43,21 +43,21 @@ Title: Our board
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><img src="{{ "/assets/board-members/Jordan.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><img src="{{ "/category/members/Jordan_VonEggers.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Jordan Von Eggers</p>
 <p>University of Wyoming</p>
 <p>Tromsø, Norway</p>
 </div>
   
 <div class ="member">
-<div class="square"><a href="https://graysonhuston.wixsite.com/my-site9" target="_blank"><img src="{{ "/assets/board-members/Grayson.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://graysonhuston.wixsite.com/my-site9" target="_blank"><img src="{{ "/category/members/Grayson_Huston.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Grayson Huston</p>
 <p>University of Maine</p>
 <p>Orono, USA</p>
 </div>
   
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/assets/board-members/Mailys.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Maïlys Picard</p>
 <p>Cawthron Institute</p>
 <p>Nelson, New-Zealand</p>
@@ -69,7 +69,8 @@ Title: Our board
 <p>Coordinator</p>
 <p>Umeå University, Umeå, Sweden</p>
 </div>
-    
+
+</div>
 
          
 </div>
