@@ -70,8 +70,9 @@ Title: Our board
 <p>Umeå University, Umeå, Sweden</p>
 </div>
 
-<br>
+
 </div>
+<br>
 
 <div class="intro">
 
