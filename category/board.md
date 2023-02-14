@@ -69,8 +69,10 @@ Title: Our board
 <p>Coordinator</p>
 <p>Umeå University, Umeå, Sweden</p>
 </div>
-         
+
+<br>
 </div>
+
 <div class="intro">
 
 <div class="section Kevin">
