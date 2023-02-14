@@ -50,7 +50,7 @@ Title: Our board
 </div>
   
 <div class ="member">
-<div class="square"><a href="https://graysonhuston.wixsite.com/my-site9" target="_blank"><img src="{{ "/category/members/Grayson_Huston.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><img src="{{ "/category/members/Grayson_Huston.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Grayson Huston</p>
 <p>University of Maine</p>
 <p>Orono, USA</p>
