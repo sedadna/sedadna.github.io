@@ -69,9 +69,6 @@ Title: Our board
 <p>Coordinator</p>
 <p>Umeå University, Umeå, Sweden</p>
 </div>
-
-</div>
-
          
 </div>
 <div class="intro">
@@ -89,7 +86,7 @@ Title: Our board
 </div>
   
 <div class="section Ines">
-<p>  <a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><b>Ines Barrenecheas</b></a> has a PhD in Earth Sciences from Geneva University. Her PhD research was focused on reconstructing marine biodiversity and on biomonitoring using eDNA metabarcoding. Current research interest is marine extremophiles (protists) from ancient and recent sediments She is currently a postdoc at the Arctic University of Norway, Tromsø, Norway. Ines is responsible for organising PhD seminars from Europe/Africa time zone.</p>        
+<p>  <a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><b>Ines Barrenechea</b></a> has a PhD in Earth Sciences from Geneva University. Her PhD research was focused on reconstructing marine biodiversity and on biomonitoring using eDNA metabarcoding. Current research interest is marine extremophiles (protists) from ancient and recent sediments She is currently a postdoc at the Arctic University of Norway, Tromsø, Norway. Ines is responsible for organising PhD seminars from Europe/Africa time zone.</p>        
 </div>  
 
 <div class="section Jordan">
@@ -105,7 +102,7 @@ Title: Our board
 </div>
   
 <div class="section Eric">
-<p> <a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><b>Eric Capo</b></a> has a Ph.D. in molecular paleoecology from INRAE UMR CARRTEL (Thonon-les-Bains, France) with  strong interests in the ecology of freshwater and marine microbial communities. Eric is the founder and coordinator of the society and is assistant professor at Umeå University (Sweden).</p>  
+<p> <a href="https://ericcapo.github.io/ericcapo/" target="_blank"><b>Eric Capo</b></a> has a Ph.D. in molecular paleoecology from INRAE UMR CARRTEL (Thonon-les-Bains, France) with  strong interests in the ecology of freshwater and marine microbial communities. Eric is the founder and coordinator of the society and is assistant professor at Umeå University (Sweden).</p>  
 </div>
 
 <div class="section advisory board">
