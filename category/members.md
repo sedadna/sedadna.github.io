@@ -231,6 +231,14 @@ target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.jpg" | relative_url
 </div>
 
 <div class ="member">
+<div class="square"><a href="[https://www.researchgate.net/profile/Sevgi-Kaynar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=richard+l+kimber&oq=)"
+target="_blank"><img src="{{ "/category/members/Richard_Kimber.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Richard Kimber</p>
+<p>University of Vienna, Austria</p>
+</div>
+	
+	
+<div class ="member">
 <div class="square"><a href="https://www.tuit.ut.ee/en/research/veljo-kisand" target="_blank"><img src="{{ "/assets/board-members/Veljo.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Veljo Kisand</p>
 <p>Tartu University, Estonia</p>
