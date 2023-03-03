@@ -4,7 +4,13 @@ layout: category
 
 <div class="intro">
 <h3 class="section-title underline">Job positions</h3>
-The School of Geography & Environmental Science at the University of Southampton is seeking to appoint a fill-time permanent Lecturer position focused on developing sedimentary ancient DNA (sedaDNA) research within the School. Disciplinary specialties such include (but are not limited to) limnology, biogeochemistry, freshwater and/or terrestrial ecosystems, spatial ecology, global environmental change, palaeoclimatology and Quaternary research. All the details can be found <p><a href="https://jobs.soton.ac.uk/Vacancy.aspx?id=36807&forced=2" target="_blank"><u> here </u></a>.</p>
+
+<p>A PhD position at Umeå University on the topic : deoxygenation in past and modern coastal systems and effects on microbial metabolisms. See <a href="https://ericcapo.github.io/ericcapo/category/research.html" target="_blank"><u> here </u></a> for few words about the project. The candidate will work both with water and sediment (sedDNA) samples from Norwegian fjords, Baltic Sea and likely other systems of interests. Candidate should have interest and background in (aquatic) microbial ecology and some experiences in molecular ecology would be great (but not mandatory). See here for more information
+  <a href="https://www.umu.se/en/work-with-us/open-positions/phd-position-in-ecology-with-focus-on-aquatic-microbial-ecology_600714/" target="_blank"><u> here </u></p> 
+<b>Application deadline: 31st March 2023</b></p>
+
+<br>
+<p>The School of Geography & Environmental Science at the University of Southampton is seeking to appoint a fill-time permanent Lecturer position focused on developing sedimentary ancient DNA (sedaDNA) research within the School. Disciplinary specialties such include (but are not limited to) limnology, biogeochemistry, freshwater and/or terrestrial ecosystems, spatial ecology, global environmental change, palaeoclimatology and Quaternary research. All the details can be found <p><a href="https://jobs.soton.ac.uk/Vacancy.aspx?id=36807&forced=2" target="_blank"><u> here </u></a>.</p>
   
   <b>Application deadline: 16th March 2023</b></p>
 
