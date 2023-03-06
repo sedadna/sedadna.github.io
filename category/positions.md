@@ -10,7 +10,7 @@ layout: category
 <b>Application deadline: 31st March 2023</b></p>
 
 <br>
-<p>The School of Geography & Environmental Science at the University of Southampton is seeking to appoint a fill-time permanent Lecturer position focused on developing sedimentary ancient DNA (sedaDNA) research within the School. Disciplinary specialties such include (but are not limited to) limnology, biogeochemistry, freshwater and/or terrestrial ecosystems, spatial ecology, global environmental change, palaeoclimatology and Quaternary research. All the details can be found <p><a href="https://jobs.soton.ac.uk/Vacancy.aspx?id=36807&forced=2" target="_blank"><u> here </u></a>.</p>
+<p>The School of Geography & Environmental Science at the University of Southampton is seeking to appoint a fill-time permanent Lecturer position focused on developing sedimentary ancient DNA (sedaDNA) research within the School. Disciplinary specialties such include (but are not limited to) limnology, biogeochemistry, freshwater and/or terrestrial ecosystems, spatial ecology, global environmental change, palaeoclimatology and Quaternary research. All the details can be found <a href="https://jobs.soton.ac.uk/Vacancy.aspx?id=36807&forced=2" target="_blank"><u> here </u></a>.</p>
   
   <b>Application deadline: 16th March 2023</b></p>
 
@@ -19,7 +19,7 @@ layout: category
 
 We are looking for a suitable candidate interested to work in team of Annick Wilmotte, and if possible, with a link to the biodiversity of cyanobacteria in Polar Regions (projects <a href="https://www.belspo.be/belspo/brain2-be/projects/HabitAnt_E.pdf" target="_blank"><u> HabitANT </u></a> & Exposoils). It concerns scientists with PhD obtained after 1 October 2017 or being in a position to obtain his/ her doctoral degree before 15 September 2023.</p>
   
-<p><b>The deadline for the call is 10 March 2023.</b></p>
+<p><b>The deadline for the call is 10 March 2023.</b></a></p>
 <br>  
 <p>A<a href="https://www.jobbnorge.no/en/available-jobs/job/239568/phd-fellow-in-ancient-dna-of-cryptogams-in-northern-ecosystems" target="_blank"><u> PhD position in ancient DNA of cryptogams in northern ecosystems </u></a>is available at the Arctic University Museum of Norway, UiT. You will conduct research as a part of the newly established Norwegian Centre for Arctic Ecosystem Genomics (ArcEcoGen) and will be part of the terrestrial working group.</p>
 
