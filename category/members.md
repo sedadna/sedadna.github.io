@@ -355,7 +355,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Mikkel W. Pedersen</p>
 <p>GLOBE, Copenhagen University, Denmark</p>
 </div> 
-
+	
 <div class ="member">
 <div class="square"><a href="https://scholar.google.com/citations?user=gkHu_qwAAAAJ&hl=en" target="_blank"><img src="{{ "/category/members/Amedea_Perfumo.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Amedea Perfumo</p>
