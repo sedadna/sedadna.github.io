@@ -31,16 +31,16 @@ Title: Our board
 <p>Toulouse, France</p>  
 </div>  
 
+</div>
+
+<div class="avatar">
+  
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><img src="{{ "/category/members/Ines_Barrenechea.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ines Barrenechea</p>
 <p>UiT</p>
 <p>Tromsø, Norway</p>
 </div>
-
-</div>
-
-<div class="avatar">
 
 <div class ="member">
 <div class="square"><a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><img src="{{ "/category/members/Jordan_VonEggers.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -55,12 +55,23 @@ Title: Our board
 <p>University of Maine</p>
 <p>Orono, USA</p>
 </div>
+
+</div>
+
+<div class="avatar">
   
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Maïlys Picard</p>
 <p>Cawthron Institute</p>
 <p>Nelson, New-Zealand</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Yan-Dongna" target="_blank"><img src="{{ "/category/members/Dongna_Yan.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Dongna Yan</p>
+<p>IEE, CAS</p>
+<p>Xi'an, China</p>
 </div>
   
 <div class ="member">
@@ -69,7 +80,6 @@ Title: Our board
 <p>Coordinator</p>
 <p>Umeå University, Umeå, Sweden</p>
 </div>
-
 
 </div>
 <br>
