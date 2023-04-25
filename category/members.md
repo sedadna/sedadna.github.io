@@ -550,6 +550,13 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Yan-Dongna" target="_blank"><img src="{{ "/category/members/Dongna_Yan.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Dongna Yan</p>
+<p>IEE, CAS</p>
+<p>Xi'an, China</p>
+</div>
+	
+<div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Ngoran-Yao" target="_blank"><img src="{{ "/category/members/YaoNgoran_JeanPaul.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>N'goran Jean Paul Yao</p>
 <p>Université Félix Houphouët-Boigny, Abidjan, Côte d'Ivoire</p>
