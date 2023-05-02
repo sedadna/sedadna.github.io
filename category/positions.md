@@ -1,7 +1,9 @@
 ---
 layout: category
+title: Job positions
 ---
 
+<div class="section">
 <div class="intro">
 <h3 class="section-title underline">Job positions</h3>
 
