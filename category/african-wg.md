@@ -19,7 +19,7 @@ title: African sedaDNA working group
 <div class ="member">
 <div class="square"><a href="https://scholar.google.de/citations?user=xx3i6sIAAAAJ&hl=en" target="_blank"><img src="{{ "/category/members/Rene_Dommain.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Rene Dommain</p>
-<p>Germany</p>
+<p>Singapour</p>
 <p></p>
 </div>
 
@@ -54,7 +54,7 @@ title: African sedaDNA working group
 <div class ="member">
 <div class="square"><a href="https://ercapo.wixsite.com/sedadna-society/ericcapo" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Eric Capo</p>
-<p>Spain</p>
+<p>Sweden</p>
 </div>
   
 <div class ="member">
