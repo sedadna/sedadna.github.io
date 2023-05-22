@@ -75,7 +75,7 @@ Title: Our board
 </div>
   
 <div class ="member">
-<div class="square"><a href="https://ericcapo.github.io/ericcapo/" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://ericcapo.github.io/lab/" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Eric Capo</p>
 <p>Coordinator</p>
 <p>Umeå University, Umeå, Sweden</p>
