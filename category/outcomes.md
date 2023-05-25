@@ -5,6 +5,8 @@ title: Outcomes
 
 <div class="intro">
 
+<p>Williams, Spanbauer, Heintzman, Blois, Capo, Goring, Monchamp, Parducci, Von Eggers, Alsos, Bowler, Coolen, Cullen, Crump, Epp, Fernandez-Guerra, Grimm, Herzschuh, Mereghetti, Meyer, Nota, Pedersen, Perez, Shapiro, Stoof-Leichsenring, Wood (<b>2023</b>) Strengthening global-change science by integrating aeDNA with paleoecoinformatics. Trends in Ecology and Evolution <a href="https://doi.org/10.1016/j.tree.2023.04.016" target="_blank"><b>doi: 10.1016/j.tree.2023.04.016</b></a></p>
+  
 <p>Barouillet, Monchamp, Bertilsson, Brasell Domaizon, Epp, Ibrahim, Mejbel, Nwosu, Pearman, Picard, Thomson-Laing, Tsugeki, Von Eggers, Gregory-Eaves, Pick, Wood, Capo (<b>2023</b>) Investigating the effects of anthropogenic stressors on lake biota using sedimentary DNA. Freshwater Biology <a href="https://doi.org/10.1111/fwb.14027" target="_blank"><b>doi: 10.1111/fwb.14027</b></a></p>
 
 <p>Jia, Anslan, Chen, Cao, Dong, Dulias, Gu, Heinecke, Jiang, Kruse, Kang, Li, Liu X, Liu Y, Ni, Schwalb, Stoof-Leichsenring, Shen, Tian, Wang J, Wang Yo, Wang Yu, Hu, Yang, Zhang, Herzschuh (<b>2022</b>) Sedimentary ancient DNA reveals past ecosystems and biodiversity changes on the Tibetan Plateau: Overview and prospects. Quaternary Science Reviews <a href="https://doi.org/10.1016/j.quascirev.2022.107703" target="_blank"><b>doi: 10.1016/j.quascirev.2022.107703</b></a></p>
