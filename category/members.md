@@ -391,6 +391,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Dr. Riaan F. Rifkin</p>
 <p>University of Pretoria, Hatfield, South Africa</p>
 </div>  
+
+<div class ="member">
+<div class="square"><a href="https://www.molecular-biogeography.eu" target="_blank"><img src="{{ "/category/members/Michal_Ronikier.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Michal Ronikier</p>
+<p>Institute of Botany, Krakow, Poland</p>
+</div>  	
 	
 <div class ="member">
 <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/549109" target="_blank"><img src="{{ "/assets/board-members/Alex.jpg" | relative_url }}" alt="Avatar" /></a></div>
