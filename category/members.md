@@ -169,8 +169,8 @@ title: Members
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Laura-Gedminiene" target="_blank"><img src="{{ "/category/members/Laura_Gedminienė.JPG" | relative_url }}" alt="Avatar" /></a></div>
-<p>Laura Gedminienė</p>
+<div class="square"><a href="https://www.researchgate.net/profile/Laura-Gedminiene" target="_blank"><img src="{{ "/category/members/Laura_Gedminiene.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Laura Gedminiene</p>
 <p>Nature Research Centre, Vilnius, Lithuania</p>
 </div>	
 	
