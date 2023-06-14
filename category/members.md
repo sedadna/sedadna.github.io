@@ -169,6 +169,12 @@ title: Members
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Laura-Gedminiene" target="_blank"><img src="{{ "/category/members/Laura_Gedminienė.JPG" | relative_url }}" alt="Avatar" /></a></div>
+<p>Laura Gedminienė</p>
+<p>Nature Research Centre, Vilnius, Lithuania</p>
+</div>	
+	
+<div class ="member">
 <div class="square"><a href="https://scholar.google.fr/citations?user=AN0gYZIAAAAJ&hl=fr&oi=ao" target="_blank"><img src="{{ "/assets/board-members/Charline.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Charline Giguet-Covex</p>
 <p>EDYTEM, Bourget-du-lac, France</p>
@@ -248,7 +254,7 @@ target="_blank"><img src="{{ "/category/members/Richard_Kimber.png" | relative_u
 <div class="square"><a href="https://www.nhm-wien.ac.at/en/kerstin_kowarik"
 target="_blank"><img src="{{ "/category/members/Kerstin_Kowarik.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Kerstin Kowarik</p>
-<p>Museum of Natural History, Vienna, Austria</p>
+<p>Austrian Academy of Sciences, Vienna, Austria</p>
 </div>
 
 <div class ="member">
