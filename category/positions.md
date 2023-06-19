@@ -5,11 +5,11 @@ title: Job positions
 
 <div class="section">
 <div class="intro">
-<h3 class="section-title underline">Job positions</h3>
+<h3 class="section-title underline">
+ 
+<p>A postdoc for 16 months and a PhD student for 3 years are available at La Sapienza university Rome, Italy, in the newly financed project VOLARE: Using ancient environmental DNA to assess Volcanic LAkes REference condition, biodiversity and long-term ecological response to climate variability and anthropic pressure.</p>
 
-<p>A <b>postdoc for 2 years</b> is availible at the Geological Survey of Denmark and Greenland in Copenhagen to study functional ecosystem changes in the marine Arctic with sedimentary ancient DNA. Find out more about the project and application details here: <a href="https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=168342&MediaId=5" target="_blank"><b>Two-year postdoc position in marine sedimentary ancient DNA (hr-manager.net)</b></a></p>
-
-<p>The application <b>deadline is 31st of May 2023</b> and the start date is 1st of November 2023.</p>
+<p><b>Start date November 1</b> for the PhD position and upon agreement for the postdoc position. Contact Larua Parducci immediately if you are interest in any of the two positions <b><u>(laura.parducci@uniroma1.it)<b><u>.</p>
  
     
    
