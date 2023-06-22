@@ -260,7 +260,7 @@ Title: Our board
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://zofiaecaterinataranu.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/Zofia.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://zofiaecaterinataranu.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/Zofia.PNG" | relative_url }}" alt="Avatar" /></a></div>
 <p>Zofia Taranu</p>
 <p>McGill University</p>
 <p>Montréal, Canada</p>
