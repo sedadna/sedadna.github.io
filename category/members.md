@@ -496,6 +496,13 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>    
 
 <div class ="member">
+<div class="square"><a href="https://zofiaecaterinataranu.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/Zofia.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Zofia Taranu</p>
+<p>McGill University</p>
+<p>Montréal, Canada</p>
+</div>   
+
+<div class ="member">
 <div class="square"><a href="https://www.uni-potsdam.de/en/ibb-evolutionsbiologie/index" target="_blank"><img src="{{"/category/members/Ralph_Tiedemann.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ralph Tiedemann</p>
 <p>University of Potsdam, Germany</p>
