@@ -258,7 +258,14 @@ Title: Our board
 <p>Kathleen Stoof-Leichsenring</p>
 <p>AWI, Potsdam, Germany</p>
 </div>
-  
+
+<div class ="member">
+<div class="square"><a href="https://zofiaecaterinataranu.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/Zofia.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Zofia Taranu</p>
+<p>McGill University</p>
+<p>Montréal, Canada</p>
+</div>    
+
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Narumi-Tsugeki" target="_blank"><img src="{{ "/assets/board-members/Narumi.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Narumi Tsugeki</p>
