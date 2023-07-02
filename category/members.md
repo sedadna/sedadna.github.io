@@ -385,7 +385,13 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Karina Krarup Svenninggaard Sand</p>
 <p>University of Copenhagen, Denmark</p>
 </div>	
-	
+
+ <div class ="member">
+<div class="square"><a href="https://modernancientgenomes.github.io/" target="_blank"><img src="{{ "/category/members/Gabriel_Renaud.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Gabriel Renaud</p>
+<p>Technical University of Denmark (DTU), Denmark</p>
+</div> 
+
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Sofia-Ribeiro-9" target="_blank"><img src="{{ "/category/members/Sofia_Ribeiro.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sofia Ribeiro</p>
