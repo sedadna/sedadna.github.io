@@ -5,6 +5,8 @@ title: Outcomes
 
 <div class="intro">
 
+<p>Revéret, Rijal, Heintzman, Brown, Stoof-Leichsenring, Alsos (<b>2023</b>) Environmental DNA of aquatic macrophytes: The potential for reconstructing past and present vegetation and environments. Freshwater Biology <a href="https://onlinelibrary.wiley.com/doi/10.1111/fwb.14158" target="_blank"><b>doi: 10.1111/fwb.14158</b></a></p>
+
 <p>Williams, Spanbauer, Heintzman, Blois, Capo, Goring, Monchamp, Parducci, Von Eggers, Alsos, Bowler, Coolen, Cullen, Crump, Epp, Fernandez-Guerra, Grimm, Herzschuh, Mereghetti, Meyer, Nota, Pedersen, Perez, Shapiro, Stoof-Leichsenring, Wood (<b>2023</b>) Strengthening global-change science by integrating aeDNA with paleoecoinformatics. Trends in Ecology and Evolution <a href="https://doi.org/10.1016/j.tree.2023.04.016" target="_blank"><b>doi: 10.1016/j.tree.2023.04.016</b></a></p>
   
 <p>Barouillet, Monchamp, Bertilsson, Brasell Domaizon, Epp, Ibrahim, Mejbel, Nwosu, Pearman, Picard, Thomson-Laing, Tsugeki, Von Eggers, Gregory-Eaves, Pick, Wood, Capo (<b>2023</b>) Investigating the effects of anthropogenic stressors on lake biota using sedimentary DNA. Freshwater Biology <a href="https://doi.org/10.1111/fwb.14027" target="_blank"><b>doi: 10.1111/fwb.14027</b></a></p>
