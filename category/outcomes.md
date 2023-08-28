@@ -4,6 +4,7 @@ title: Outcomes
 ---
 
 <div class="intro">
+<p>Huston, Lopez, Cheng, King, Duxbury, Picard, Thomson-Laing, Myler, Caren, Helbing, Kinnison, Saros, Gregory-Eaves, Monchamp, Wood, Armbrecht, Ficetola, Kurte, Von Eggers, Brahney, Parent, Sakata, Doi, Capo (2023) Detection of fish sedimentary DNA in aquatic systems: A review of methodological challenges and future opportunities. Early view in Environmental DNA.<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/edn3.467" target="_blank"><b>doi: 10.1002/edn3.467</b></a></p>
 
 <p>Revéret, Rijal, Heintzman, Brown, Stoof-Leichsenring, Alsos (<b>2023</b>) Environmental DNA of aquatic macrophytes: The potential for reconstructing past and present vegetation and environments. Freshwater Biology <a href="https://onlinelibrary.wiley.com/doi/10.1111/fwb.14158" target="_blank"><b>doi: 10.1111/fwb.14158</b></a></p>
 
