@@ -7,11 +7,23 @@ title: Job positions
 <div class="intro">
 <h3 class="section-title underline">New positions</h3>  
 
-<p>A PhD opportunity available at the Alfred Wegener Institute in Potsdam, Germany. The project is about Palaeoviromes: Host–Virus Interactions in Polar Regions from Ancient Sedimentary RNA/DNA. Please find all further information in the <a href="https://www.awi.de/en/work-study/jobs/job-offer.html"><b>institute webpage</b></a>.</p>
+<p> a 3 year postdoctoral fellowship position available. This is a joint venture with us, the aDNA group at the Natural History Museum London and Aleks Pluskowski from the University of Reading. The fellowship will be to study the impact of urbanism on biodiversity and ecosystem health, from Roman to Medieval times in London, using sedaDNA.</p>
 
-<p>A postdoc for 16 months and a PhD student for 3 years are available at La Sapienza university Rome, Italy, in the newly financed project VOLARE: Using ancient environmental DNA to assess Volcanic LAkes REference condition, biodiversity and long-term ecological response to climate variability and anthropic pressure.</p>
+<p>Closing date for applications: 1st October 2023.</p>
+<p>Start date: January 2024.</p>
+<p><a href="https://jobs.reading.ac.uk/Job/JobDetail?JobId=12488"><b>See the full advert here:</b></a> </p>
 
-<p><b>Start date November 1</b> for the PhD position and upon agreement for the postdoc position. Contact Larua Parducci immediately if you are interest in any of the two positions <b><u>(laura.parducci@uniroma1.it)<b><u>.</p>
- 
-    
-   
+<br><hr>    
+<p>The Department of Geological Sciences at Stockholm University invites applications for a four-year PhD position based at the Centre for Palaeogenetics (CPG) on the Stockholm University campus.</p> 
+
+<p>The PhD project is part of the First Contact research program funded by the Knut and Alice Wallenberg Foundation, with the goal of understanding the impacts of human dispersal on faunal biodiversity. The PhD project will use state-of-the-art ancient DNA techniques from both bones and sediments to reconstruct the evolutionary and ecological histories of animal communities across time intervals that include the first arrival of humans in multiple regions. You can read more about the project <a href="https://kaw.wallenberg.org/en/research/exploring-our-first-meeting-mammoths"><b>here:</b></a> here.</p>
+
+<p>The PhD student will join the research group at CPG led by <a href="http://palaeogenetics.com/peter-heintzman/"><b>here:</b></a> Peter Heintzman</p>. CPG has world class facilities and expertise for generating and analyzing ancient DNA data. The selected candidate will be expected to publish their results in peer-reviewed scientific journals and present their findings at international/national conferences.</p>
+<p>applications deadline: 10th November 2023.</p>
+<br><hr>
+
+A Postdoctoral Research Fellow position is available at the Arctic University Museum of Norway, UiT. The position is a fixed term position for a duration of two years. You will conduct research as a part of the newly established Norwegian Centre for Arctic Ecosystem Genomics (ArcEcoGen) and will be part of a group working towards a better integration of paleoecological results with ecological questions about modern ecosystems and dynamics. Research at the ArcEcoGen focuses on the combined effect of humans, climate, and biota on northern ecosystem dynamics in the past, present, and future using environmental DNA (eDNA) techniques.
+
+<p>applications deadline: 19st October 2023.</p>
+<p><a href="https://www.jobbnorge.no/en/available-jobs/job/249474/postdoctoral-fellow-in-statistical-palaeoecology-for-ancient-dna-datasets"><b>See the full advert here:</b></a> </p>
+
