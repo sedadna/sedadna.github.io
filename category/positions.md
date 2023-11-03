@@ -6,11 +6,13 @@ title: Job positions
 <div class="section">
 <div class="intro">
 <h3 class="section-title underline">New positions</h3>  
+<hr>
+<p>The aDNA group at the Natural History Museum London and Aleks Pluskowski from the University of Reading are recruiting a 3 year postdoc. The position will be to study the impact of urbanism on biodiversity and ecosystem health, from Roman to Medieval times in London, using sedaDNA.</p>
 
-<p>A Postdoctoral Research Fellow position is available at the Arctic University Museum of Norway, UiT. The position is a fixed term position for a duration of two years. You will conduct research as a part of the newly established Norwegian Centre for Arctic Ecosystem Genomics (ArcEcoGen) and will be part of a group working towards a better integration of paleoecological results with ecological questions about modern ecosystems and dynamics. Research at the ArcEcoGen focuses on the combined effect of humans, climate, and biota on northern ecosystem dynamics in the past, present, and future using environmental DNA (eDNA) techniques.</p>
+<p>applications deadline: 6th Nov 2023.</p>
+<p><a href="https://jobs.reading.ac.uk/Job/JobDetail?JobId=12629"><b>See the full advert here:</b></a> </p>
 
-<p>applications deadline: 19th October 2023.</p>
-<p><a href="https://www.jobbnorge.no/en/available-jobs/job/249474/postdoctoral-fellow-in-statistical-palaeoecology-for-ancient-dna-datasets"><b>See the full advert here:</b></a> </p>
+<hr>
 
 <br>  
 <p>The Department of Geological Sciences at Stockholm University invites applications for a four-year PhD position based at the Centre for Palaeogenetics (CPG) on the Stockholm University campus.</p> 
