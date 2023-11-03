@@ -8,7 +8,7 @@ title: Newsletters
 </div>
 <div class="intro">
 <p>
-<a href="https://sedadna.github.io/category/news/23-10.html" target="_blank"><b>October 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-09.html" target="_blank"><b>September 2023</b></a> - Summer Break - <a href="https://sedadna.github.io/category/news/23-06.html" target="_blank"><b>June 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-05.html" target="_blank"><b>May 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-04.html" target="_blank"><b>April 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-03.html" target="_blank"><b>March 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-02.html" target="_blank"><b>February 2023</b></a>
+<a href="https://sedadna.github.io/category/news/23-11.html" target="_blank"><b>November 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-10.html" target="_blank"><b>October 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-09.html" target="_blank"><b>September 2023</b></a> - Summer Break - <a href="https://sedadna.github.io/category/news/23-06.html" target="_blank"><b>June 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-05.html" target="_blank"><b>May 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-04.html" target="_blank"><b>April 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-03.html" target="_blank"><b>March 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-02.html" target="_blank"><b>February 2023</b></a>
 <p>
 <div class="section">
 <h3 class="section-title underline">Newsletters 2022</h3>
