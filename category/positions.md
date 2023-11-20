@@ -13,4 +13,4 @@ title: Job positions
   
 <p>For more information contact laura.parducci@uniroma1.it or cristiano.vernesi@fmach.it.</p>
 
-<p><b>applications deadline: 7th December 2023.</b></p>
+<p><b>Applications deadline: 7th December 2023.</b></p>
