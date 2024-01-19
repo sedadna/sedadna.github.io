@@ -9,8 +9,12 @@ title: Job positions
 <hr>
 
 <p>Postdoctoral position</p>
-<p>One-year research grant - with possibility of extension with Prof. Laura Parducci, Enviromental Biology department, La Sapienza University of Rome. Project Title: Using ancient environmental DNA to assess Volcanic lakes reference condition, biodiversity, and long-term ecological response to climate variability and anthropogenic pressure. Tasks: Apply metabarcoding and shotgun capture on lake sediment DNA, identify organisms, and develop ecological indicators. Bioinformatics skills are required for the development of molecular probes for shotgun capture sequencing.<a href="https://web.uniroma1.it/trasparenza/sites/default/files/BANDO%20191%20AR%20BII%20PRIN%20Parducci.pdf"><b>See the full advert here: (in Italian with an English translation at the end)</b></a>.</p>
+<p>Three-years research position with Dr Charline Giguet-Covex, at <a href="https://edytem.osug.fr"><b> EDYTEM Laboratory (CNRS, Université Savoie Mont Blanc:</b></a> in Le Bourget du Lac in FRANCE.</p>
   
-<p>For more information contact laura.parducci@uniroma1.it or cristiano.vernesi@fmach.it.</p>
+<p>Project Title: <b>MAGIC2 “Mountain AGroecosystems past trajectories developed by different soCieties under different bioclimatic conditions”</b>.</p>
+<p>Tasks: Apply DNA metabarcoding and qPCR analyses on lake sediment samples from several lakes located in the western Alps between 370 and 2540 m asl, and collaborate with sedimentologists, palaeoenvironmentalists, historians and archaeologists to integrate different proxies and data-types on past socio-ecosystems. <u>See here the full ad in French and English.</u></p>
+For more information contact charline.giguet-covex@univ-smb.fr.
 
-<p><b>Applications deadline: 7th December 2023.</b></p>
+<p> Send your application to <b>recrutement-postdoctorant.rh@univ-smb.fr</b>, before the 20th February 2024 to start from the 1st April 2024.</p>
+
+<p><b>Applications deadline: 20th February 2024.</b></p>
