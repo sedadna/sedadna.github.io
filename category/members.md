@@ -163,6 +163,12 @@ title: Members
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://www.mn.uio.no/ibv/english/people/aca/andrefoo/" target="_blank"><img src="{{ "/category/members/Andrew_David_Foote.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Andrew David Foote</p>
+<p>University of Oslo, Norway</p>
+</div>
+
+<div class ="member">
 <div class="square"><a href="https://rebeccagarner.github.io/" target="_blank"><img src="{{ "/category/members/Rebecca_Garner.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Rebecca Garner</p>
 <p>Concordia University, Montreal, Canada</p>
