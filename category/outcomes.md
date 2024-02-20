@@ -4,6 +4,34 @@ title: Outcomes
 ---
 
 <div class="intro">
+<p>Capo, Barouillet, Smol (<b>2023</b>) Tracking environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham <a href="https://doi.org/10.1007/978-3-031-43799-1" target="_blank"><b>doi: 10.1007/978-3-031-43799-1</b></a></p>
+
+<p>Capo, Barouillet, Smol (<b>2023</b>) Using lake sedimentary DNA to reconstruct biodiversity changes.   Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_1" target="_blank"><b>doi: 10.1007/978-3-031-43799-1-1</b></a></p>
+
+<p>Giguet-Covex, Jelavić, Foucher, Morlock, Wood, Augustijns, Domaizon, Gielly, Capo (<b>2023</b>) The sources and fates of lake sedimentary DNA. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_2" target="_blank"><b>doi: 10.1007/978-3-031-43799-1-2</b></a></p>
+
+<p>Heintzman, Nota, Rouillard, Lammers, Murchie, Armbrecht, Garcés-Pastor, Vernot(<b>2023</b>) The sedimentary ancient DNA workflow. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_3" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_3</b></a></p>
+
+<p>Vuillemin, Coolen, Kallmeyer, Liebner, Bertilsson (<b>2023</b>) Bacterial and archaeal DNA from lake sediments. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_4" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_4</b></a></p>
+
+<p>Monchamp, Pick (<b>2023</b>) Cyanobacterial DNA from lake sediments. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_5" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_5</b></a></p>
+
+<p>Barouillet, Domaizon, Capo (<b>2023</b>) Protist DNA from lake sediments. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_6" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_6</b></a></p>
+
+<p>Dulias, Epp, Stoof-Leichsenring (<b>2023</b>) Diatom DNA from lake sediments. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_7" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_7</b></a></p>
+
+<p>Revéret, Alsos, Heintzman (<b>2023</b>) Aquatic vegetation DNA from lake sediments. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_8" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_8</b></a></p>
+
+<p>Gregory-Eaves, Monchamp, Taranu (<b>2023</b>) Aquatic animal DNA from lake sediments. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_9" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_9</b></a></p>
+
+<p>Garcés-Pastor, Nota, Rijal, Liu, Jia, Leunda, Schwörer, Crump, Parducci, Alsos (<b>2023</b>) Terrestrial plant DNA from lake sediments. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_10" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_10</b></a></p>
+
+<p>Murchie, Giguet-Covex, Heintzman, Slon, Wang (<b>2023</b>) Terrestrial fauna and hominin DNA from sedimentary archives. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_11" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_11</b></a></p>
+
+<p>Taranu, Gregory-Eaves, Monchamp (<b>2023</b>) An overview of biodiversity and network modeling approaches: applications to sedimentary DNA records. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_12" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_12</b></a></p>
+
+<p>Holman, Wang, Sawafuji, Epp, Bohmann, Pedersen (<b>2023</b>) Perspectives and future developments within sedimentary DNA research. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_13" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_13</b></a></p>
+
 <p>Huston, Lopez, Cheng, King, Duxbury, Picard, Thomson-Laing, Myler, Caren, Helbing, Kinnison, Saros, Gregory-Eaves, Monchamp, Wood, Armbrecht, Ficetola, Kurte, Von Eggers, Brahney, Parent, Sakata, Doi, Capo (<b>2023</b>) Detection of fish sedimentary DNA in aquatic systems: A review of methodological challenges and future opportunities. Environmental DNA. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/edn3.467" target="_blank"><b>doi: 10.1002/edn3.467</b></a></p>
 
 <p>Revéret, Rijal, Heintzman, Brown, Stoof-Leichsenring, Alsos (<b>2023</b>) Environmental DNA of aquatic macrophytes: The potential for reconstructing past and present vegetation and environments. Freshwater Biology <a href="https://onlinelibrary.wiley.com/doi/10.1111/fwb.14158" target="_blank"><b>doi: 10.1111/fwb.14158</b></a></p>
