@@ -8,6 +8,20 @@ title: Job positions
 <h3 class="section-title underline">New positions</h3>  
 
 <hr>
+<p> Post-doc Position </p>
+
+<p>La Sapienza University in Rome is offering a 12-month postdoctoral researcher position (with possible extension until December 2025) on the VOLARE project. VOLARE aims to utilize ancient environmental DNA (eDNA) to assess Volcanic Lakes' Reference condition, biodiversity, and long-term ecological response to climate variability and anthropic pressure.</p>
+
+<p>The EU Water Framework Directive mandates member states to maintain or restore water bodies' ecological quality similar to uncontaminated ones. However, Italian volcanic lakes face challenges due to the absence of pristine environments, and current methods to define lake ecological quality are costly and labour-intensive. Our project aims to assess the potential of eDNA in surface sediment layers to compile a list of present organisms and develop numerical methods as an ecological quality indicator and to utilize eDNA from 1-meter long sediment cores to objectively estimate changes in biological communities over recent centuries, establishing a reference condition.</p>
+
+<p>The candidate will assess metabarcoding and shotgun sequencing with probe hybridization capture techniques on short sediment cores (100 cm) to determine biological community composition and biodiversity, including zooplankton, phytoplankton, phytobenthos, macrophytes, zoobenthos, and fish fauna. eDNA analysis will yield numerical methods and organism lists, indicating volcanic lake ecological quality. Additionally, molecular data will be compared with algal community composition inferred from morphological and biochemical analyses.</p>
+
+<p>Laboratory experience is required, preferably with ancient DNA and bioinformatics tools for data analysis.</p>
+
+<p>Deadline for application: April 13, 2024. For more information about the call, please refer to the provided link (brief summary in English available at the end). If you're interested and require assistance with the application process, feel free to contact the Principal Investigator at laura.parducci@uniroma1.it</p>
+
+
+<hr>
 
 <p>4 year Phd position</p>
 
