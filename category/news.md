@@ -18,7 +18,7 @@ title: Newsletters
 <a href="https://sedadna.github.io/category/news/23-09.html" target="_blank">September 2023</a> -  
 <a href="https://sedadna.github.io/category/news/23-06.html" target="_blank">June 2023</a> - 
 <a href="https://sedadna.github.io/category/news/23-05.html" target="_blank">May 2023</a> - 
-<a href="https://sedadna.github.io/category/news/23-04.html" target="_blank"><April 2023</a> - 
+<a href="https://sedadna.github.io/category/news/23-04.html" target="_blank">April 2023</a> - 
 <a href="https://sedadna.github.io/category/news/23-03.html" target="_blank">March 2023</a> - 
 <a href="https://sedadna.github.io/category/news/23-02.html" target="_blank">February 2023</a> - 
 <a href="https://sedadna.github.io/category/news/22-12.html" target="_blank">December 2022</a> - 
