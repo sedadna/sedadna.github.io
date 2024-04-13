@@ -8,33 +8,40 @@ title: Newsletters
 </div>
 <div class="intro">
 <p>
-<a href="https://sedadna.github.io/category/news/24-04.html" target="_blank"><b>April 2024</b></a> - 
-<a href="https://sedadna.github.io/category/news/24-03.html" target="_blank"><b>March 2024</b></a> - 
-<a href="https://sedadna.github.io/category/news/24-02.html" target="_blank"><b>February 2024</b></a> - 
-<a href="https://sedadna.github.io/category/news/24-01.html" target="_blank"><b>January 2024</b></a></p>
-
-  
-<div class="section">
-<h3 class="section-title underline">Newsletters 2023</h3>
-</div>
-<div class="intro">
-<p>
-<a href="https://sedadna.github.io/category/news/23-12.html" target="_blank"><b>December 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-11.html" target="_blank"><b>November 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-10.html" target="_blank"><b>October 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-09.html" target="_blank"><b>September 2023</b></a> - Summer Break - <a href="https://sedadna.github.io/category/news/23-06.html" target="_blank"><b>June 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-05.html" target="_blank"><b>May 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-04.html" target="_blank"><b>April 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-03.html" target="_blank"><b>March 2023</b></a> - <a href="https://sedadna.github.io/category/news/23-02.html" target="_blank"><b>February 2023</b></a></p>
-
-  
-<div class="section">
-<h3 class="section-title underline">Newsletters 2022</h3>
-</div>
-<div class="intro">
-<p>
-<a href="https://sedadna.github.io/category/news/22-12.html" target="_blank"><b>December 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-11.html" target="_blank"><b>November 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-10.html" target="_blank"><b>October 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-09.html" target="_blank"><b>September 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-06.html" target="_blank"><b>June 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-05.html" target="_blank"><b>May 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-04.html" target="_blank"><b>April 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-03.html" target="_blank"><b>March 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-02.html" target="_blank"><b>February 2022</b></a> - <a href="https://sedadna.github.io/category/news/22-01.html" target="_blank"><b>January 2022</b></a>.</p> 
-
-<div class="section">
-<h3 class="section-title underline">Newsletters 2021</h3>
-</div>
-
-<div class="intro">
-<a href="https://sedadna.github.io/category/news/21-12.html" target="_blank"><b>December 2021</b></a> - <a href="https://mailchi.mp/c531d37d6993/sedadna-society-november-2021-newsletter" target="_blank"><b>November 2021</b></a> - <a href="https://mailchi.mp/7fdaf9114c3a/sedadna-society-october-2021-newsletter" target="_blank"><b>October 2021</b></a> - <a href="https://mailchi.mp/1ac834a88670/sedadna-society-september-2021-newsletter" target="_blank"><b>September 2021</b></a> - <a href="https://mailchi.mp/b17fd202cdce/sedadna-society-july-2021-newsletter" target="_blank"><b>July 2021</b></a> - <a href="https://mailchi.mp/2eb31c40a2fc/sedadna-society-june-2021-newsletter" target="_blank"><b>June 2021</b></a> - <a href="https://mailchi.mp/0f04ef9f22a8/sedadna-society-may-seminar" target="_blank"><b>May 2021</b></a> - <a href="https://mailchi.mp/845fac603b38/sedadna-society-april-2021-newsletter" target="_blank"><b>April 2021</b></a> - <a href="https://mailchi.mp/0f3827b0858e/sedadna-society-march-2021-newsletter" target="_blank"><b>March 2021</b></a> - <a href="https://mailchi.mp/4add8545938a/sedadna-society-february-2021-newsletter" target="_blank"><b>February 2021</b></a>.
+<a href="https://sedadna.github.io/category/news/24-04.html" target="_blank"><b>April 2024</b></a> -  
+<a href="https://sedadna.github.io/category/news/24-03.html" target="_blank">March 2024</a> -  
+<a href="https://sedadna.github.io/category/news/24-02.html" target="_blank">February 2024</a> - 
+<a href="https://sedadna.github.io/category/news/24-01.html" target="_blank">January 2024</a> - 
+<a href="https://sedadna.github.io/category/news/23-12.html" target="_blank">December 2023</a> - 
+<a href="https://sedadna.github.io/category/news/23-11.html" target="_blank">November 2023</a> - 
+<a href="https://sedadna.github.io/category/news/23-10.html" target="_blank">October 2023</a> - 
+<a href="https://sedadna.github.io/category/news/23-09.html" target="_blank">September 2023</a> -  
+<a href="https://sedadna.github.io/category/news/23-06.html" target="_blank">June 2023</a> - 
+<a href="https://sedadna.github.io/category/news/23-05.html" target="_blank">May 2023</a> - 
+<a href="https://sedadna.github.io/category/news/23-04.html" target="_blank"><April 2023</a> - 
+<a href="https://sedadna.github.io/category/news/23-03.html" target="_blank">March 2023</a> - 
+<a href="https://sedadna.github.io/category/news/23-02.html" target="_blank">February 2023</a> - 
+<a href="https://sedadna.github.io/category/news/22-12.html" target="_blank">December 2022</a> - 
+<a href="https://sedadna.github.io/category/news/22-11.html" target="_blank">November 2022</a> - 
+<a href="https://sedadna.github.io/category/news/22-10.html" target="_blank">October 2022</a> - 
+<a href="https://sedadna.github.io/category/news/22-09.html" target="_blank">September 2022</a> - 
+<a href="https://sedadna.github.io/category/news/22-06.html" target="_blank">June 2022</a> - 
+<a href="https://sedadna.github.io/category/news/22-05.html" target="_blank">May 2022</a> - 
+<a href="https://sedadna.github.io/category/news/22-04.html" target="_blank">April 2022</a> - 
+<a href="https://sedadna.github.io/category/news/22-03.html" target="_blank">March 2022</a> - 
+<a href="https://sedadna.github.io/category/news/22-02.html" target="_blank">February 2022</a> - 
+<a href="https://sedadna.github.io/category/news/22-01.html" target="_blank">January 2022</a> - 
+<a href="https://sedadna.github.io/category/news/21-12.html" target="_blank">December 2021</a> - 
+<a href="https://mailchi.mp/c531d37d6993/sedadna-society-november-2021-newsletter" target="_blank">November 2021</a> - 
+<a href="https://mailchi.mp/7fdaf9114c3a/sedadna-society-october-2021-newsletter" target="_blank">October 2021</a> - 
+<a href="https://mailchi.mp/1ac834a88670/sedadna-society-september-2021-newsletter" target="_blank">September 2021</a> - 
+<a href="https://mailchi.mp/b17fd202cdce/sedadna-society-july-2021-newsletter" target="_blank">July 2021</a> - 
+<a href="https://mailchi.mp/2eb31c40a2fc/sedadna-society-june-2021-newsletter" target="_blank">June 2021</a> - 
+<a href="https://mailchi.mp/0f04ef9f22a8/sedadna-society-may-seminar" target="_blank">May 2021</a> - 
+<a href="https://mailchi.mp/845fac603b38/sedadna-society-april-2021-newsletter" target="_blank">April 2021</a> - 
+<a href="https://mailchi.mp/0f3827b0858e/sedadna-society-march-2021-newsletter" target="_blank">March 2021</a> - 
+<a href="https://mailchi.mp/4add8545938a/sedadna-society-february-2021-newsletter" target="_blank">February 2021</a>.
+</p>
 </div>
 
 <div class="section">
