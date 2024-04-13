@@ -12,7 +12,7 @@ title: Outcomes
 
 <p>Giguet-Covex, Jelavić, Foucher, Morlock, Wood, Augustijns, Domaizon, Gielly, Capo (<b>2023</b>) The sources and fates of lake sedimentary DNA. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_2" target="_blank"><b>doi: 10.1007/978-3-031-43799-1-2</b></a></p>
 
-<p>Heintzman, Nota, Rouillard, Lammers, Murchie, Armbrecht, Garcés-Pastor, Vernot(<b>2023</b>) The sedimentary ancient DNA workflow. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_3" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_3</b></a></p>
+<p>Heintzman, Nota, Rouillard, Lammers, Murchie, Armbrecht, Garcés-Pastor, Vernot (<b>2023</b>) The sedimentary ancient DNA workflow. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_3" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_3</b></a></p>
 
 <p>Vuillemin, Coolen, Kallmeyer, Liebner, Bertilsson (<b>2023</b>) Bacterial and archaeal DNA from lake sediments. Chapter in the book “Tracking Environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham (eds Capo E, Barouillet C, Smol JP). <a href="https://doi.org/10.1007/978-3-031-43799-1_4" target="_blank"><b>doi: 10.1007/978-3-031-43799-1_4</b></a></p>
 
