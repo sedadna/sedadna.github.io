@@ -433,7 +433,13 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Philippe Munyandamutsa</p>
 <p>University of Rwanda, Nyagatare, Rwanda</p>
 </div>
-	
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Sangram-Sahoo-3" target="_blank"><img src="{{ "/category/members/Sangram_Sahoo.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Sangram Sahoo</p>
+<p>Birbal Sahani Institute of Paleosciences, Lucknow, India</p>
+</div>
+
 <div class ="member">
 <div class="square"><a href="https://scholar.google.com/citations?user=cLUbbJkAAAAJ" target="_blank"><img src="{{ "/category/members/Mohamed_Sarhan.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mohamed S. Sarhan</p>
