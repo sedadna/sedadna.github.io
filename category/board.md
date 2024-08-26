@@ -65,10 +65,6 @@ Title: Our board
 <div class="section Maïlys">
 <p> <a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><b>Maïlys Picard</b></a>  is finishing her Ph.D. in molecular paleoecology from the Cawthron Institute and the University of Waikato (New Zealand), investigating the links between cyanobacterial blooms and the introduction of non-native fish in New Zealand lakes. She is helping with student seminars. </p>        
 </div>
-
-<div class="section Kuldeep">
-<p>  <a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><b>Kuldeep More</b></a> has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He is currently working as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France. In the society, Kuldeep is managing informations from new members.</p>
-</div>
   
 <div class="section Ines">
 <p>  <a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><b>Ines Barrenechea</b></a> has a PhD in Earth Sciences from Geneva University. Her PhD research was focused on reconstructing marine biodiversity and on biomonitoring using eDNA metabarcoding. Current research interest is marine extremophiles (protists) from ancient and recent sediments She is currently a postdoc at the Arctic University of Norway, Tromsø, Norway. Ines is responsible for organising PhD seminars from Europe/Africa time zone.</p>        
@@ -77,7 +73,11 @@ Title: Our board
 <div class="section Jordan">
 <p>  <a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><b>Jordan Von Eggers</b></a> is currently a Ph.D. student at the University of Wyoming. Her research focuses on how natural and anthropogenic pressures have shaped the current and past biodiversity of lower trophic levels in remote, high elevation lake ecosystems across multiple spatial scales. Jordan organizes the student seminar series for the Americas and Oceania time zones and updates the inventory of environmental ancient DNA from sedimentary archives. </p>        
 </div>  
-  
+
+<div class="section Kuldeep">
+<p>  <a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><b>Kuldeep More</b></a> has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He is currently working as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France. In the society, Kuldeep is managing informations from new members.</p>
+</div>
+
 <div class="section Grayson">
 <p> <a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><b>Grayson Huston </b></a> is a Ph.D. student in Ecology and Environmental Science at the University of Maine – Orono. His research is focused on the recovery and detection of fish DNA from aquatic sediments, with an emphasis on the impact of dams on Maine’s migratory fish species. Within the society, Grayson is one of the leads in the fish working group. </p>        
 </div>
