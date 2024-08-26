@@ -12,7 +12,7 @@ Title: Our board
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Maïlys Picard</p>
-<p>coordinator</p>
+<p>Coordinator</p>
 <p>Umeå University</p>
 <p>Umeå, Sweden</p>
 </div>
