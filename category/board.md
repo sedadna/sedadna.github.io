@@ -10,31 +10,13 @@ Title: Our board
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Kevin-Nota" target="_blank"><img src="{{ "/assets/board-members/Kevin.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Kevin Nota</p>
-<p>Communicator</p>
-<p>MPI-EVA</p>
-<p>Leipzig, Germany</p>
+<div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Maïlys Picard</p>
+<p>coordinator</p>
+<p>Umeå University</p>
+<p>Umeå, Sweden</p>
 </div>
 
-<div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><img src="{{ "/assets/board-members/Cecilia2.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Cécilia Barouillet</p>
-<p>INRAE UMR CARRTEL</p>
-<p>Thonon-les-Bains, France</p>
-</div>
-
-<div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Kuldeep-More" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Kuldeep More</p>
-<p>CAGT</p>
-<p>Toulouse, France</p>  
-</div>  
-
-</div>
-
-<div class="avatar">
-  
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><img src="{{ "/category/members/Ines_Barrenechea.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ines Barrenechea</p>
@@ -42,18 +24,12 @@ Title: Our board
 <p>Tromsø, Norway</p>
 </div>
 
+
 <div class ="member">
 <div class="square"><a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><img src="{{ "/category/members/Jordan_VonEggers.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Jordan Von Eggers</p>
 <p>University of Wyoming</p>
 <p>Laramie, USA</p>
-</div>
-  
-<div class ="member">
-<div class="square"><a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><img src="{{ "/category/members/Grayson_Huston.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Grayson Huston</p>
-<p>University of Maine</p>
-<p>Orono, USA</p>
 </div>
 
 </div>
@@ -61,10 +37,17 @@ Title: Our board
 <div class="avatar">
   
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Maïlys Picard</p>
-<p>Umeå University</p>
-<p>Umeå, Sweden</p>
+<div class="square"><a href="https://www.researchgate.net/profile/Kuldeep-More" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kuldeep More</p>
+<p>CAGT</p>
+<p>Toulouse, France</p>  
+</div>  
+
+<div class ="member">
+<div class="square"><a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><img src="{{ "/category/members/Grayson_Huston.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Grayson Huston</p>
+<p>University of Maine</p>
+<p>Orono, USA</p>
 </div>
 
 <div class ="member">
@@ -73,27 +56,16 @@ Title: Our board
 <p>IEE, CAS</p>
 <p>Xi'an, China</p>
 </div>
-  
-<div class ="member">
-<div class="square"><a href="https://ericcapo.github.io/lab/" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Eric Capo</p>
-<p>Coordinator</p>
-<p>Umeå University, Umeå, Sweden</p>
-</div>
 
 </div>
 <br>
 
 <div class="intro">
 
-<div class="section Kevin">
-<p> <a href="https://www.researchgate.net/profile/Kevin_Nota2" target="_blank"><b>Kevin Nota</b></a> has a PhD in molecular paleoecology from Uppsala University. His PhD research was focused on reconstructing past flora from lake sediments and peat records. Current research interest in population genomics from ancient environmental samples. He is currently a postdoc at the Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany. Kevin is responsible for distributing the monthly newsletters, coordinating student seminars, and co-organized the first society symposium. </p>        
+<div class="section Maïlys">
+<p> <a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><b>Maïlys Picard</b></a>  is finishing her Ph.D. in molecular paleoecology from the Cawthron Institute and the University of Waikato (New Zealand), investigating the links between cyanobacterial blooms and the introduction of non-native fish in New Zealand lakes. She is helping with student seminars. </p>        
 </div>
 
-<div class="section Cecilia">
-<p>  <a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><b>Cecilia Barouillet</b></a> has a PhD in Biology paleolimnology from Queen's University (PEARL laboratory, Kingston, Canada) and is now post-doc at INRAE UMR CARRTEL (Thonon-les-Bains, France). Her research interests focus on reconstructing the long-term ecological trajectory of lakes and studying changes in lake ecosystems functioning in response to environmental change and anthropogenic stressors. Cecilia is VP at the <a href="https://limnology.org/officers-and-boards/" target="_blank">International Society of Limnology</a> and coordinate actions in the <a href="https://ercapo.wixsite.com/sedadna-society/african-sedadna-wg" target="_blank">African sedaDNA working group</a>.</p>        
-</div>
- 
 <div class="section Kuldeep">
 <p>  <a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><b>Kuldeep More</b></a> has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He is currently working as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France. In the society, Kuldeep is managing informations from new members.</p>
 </div>
@@ -110,13 +82,7 @@ Title: Our board
 <p> <a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><b>Grayson Huston </b></a> is a Ph.D. student in Ecology and Environmental Science at the University of Maine – Orono. His research is focused on the recovery and detection of fish DNA from aquatic sediments, with an emphasis on the impact of dams on Maine’s migratory fish species. Within the society, Grayson is one of the leads in the fish working group. </p>        
 </div>
 
-<div class="section Maïlys">
-<p> <a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><b>Maïlys Picard</b></a>  is finishing her Ph.D. in molecular paleoecology from the Cawthron Institute and the University of Waikato (New Zealand), investigating the links between cyanobacterial blooms and the introduction of non-native fish in New Zealand lakes. She is helping with student seminars. </p>        
-</div>
-  
-<div class="section Eric">
-<p> <a href="https://ericcapo.github.io/ericcapo/" target="_blank"><b>Eric Capo</b></a> has a Ph.D. in molecular paleoecology from INRAE UMR CARRTEL (Thonon-les-Bains, France) with  strong interests in the ecology of freshwater and marine microbial communities. Eric is the founder and coordinator of the society and is assistant professor at Umeå University (Sweden).</p>  
-</div>
+
 
 <div class="section advisory board">
 <h3 class="section-title underline">The advisory board</h3>  
@@ -136,7 +102,14 @@ Title: Our board
 <p>Linda Armbrecht</p>
 <p>University of Tasmania, Australia</p>
 </div>
- 
+
+<div class ="member">
+<div class="square"><a href="https://ericcapo.github.io/lab/" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Eric Capo</p>
+<p>Coordinator</p>
+<p>Umeå University, Umeå, Sweden</p>
+</div>
+
 <div class ="member">
 <div class="square"><a href="https://staffportal.curtin.edu.au/staff/profile/view/Marco.Coolen/" target="_blank"><img src="{{ "/assets/board-members/Marco.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Marco Coolen</p>
@@ -180,12 +153,12 @@ Title: Our board
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Marie-Eve Monchamp</p>
-<p>McGill University</p>
-<p>Montréal, Canada</p>
+<div class="square"><a href="https://www.researchgate.net/profile/Kevin-Nota" target="_blank"><img src="{{ "/assets/board-members/Kevin.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kevin Nota</p>
+<p>MPI-EVA</p>
+<p>Leipzig, Germany</p>
 </div>
-  
+
 <div class ="member">
 <div class="square"><a href="https://www.univ-na.ci/" target="_blank"><img src="{{ "/category/members/Allassane_Ouattara.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Allassane Ouattara</p>
@@ -333,6 +306,13 @@ Title: Our board
 <div class="square"><a href="https://www.researchgate.net/profile/Michinobu_Kuwae" target="_blank"><img src="{{ "/assets/board-members/Michinobu.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Michinobu Kuwae</p>
 <p>Ehime University, Matsuyama, Japan</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://marie-evemonchamp.weebly.com/" target="_blank"><img src="{{ "/assets/board-members/MarieEve.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Marie-Eve Monchamp</p>
+<p>McGill University</p>
+<p>Montréal, Canada</p>
 </div>
 
 <div class ="member">
