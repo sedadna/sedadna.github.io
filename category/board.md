@@ -63,11 +63,11 @@ Title: Our board
 <div class="intro">
 
 <div class="section Maïlys">
-<p> <a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><b>Maïlys Picard</b></a>  is finishing her Ph.D. in molecular paleoecology from the Cawthron Institute and the University of Waikato (New Zealand), investigating the links between cyanobacterial blooms and the introduction of non-native fish in New Zealand lakes. She is helping with student seminars. </p>        
+<p> <a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><b>Maïlys Picard</b></a> has a Ph.D. in Biology from the University of Waikato, based at the Cawthron Institute (Aotearoa / New Zealand), where she investigated drivers of cyanobacterial blooms in lakes. She is currently a postdoctoral fellow at the University of Umeå (Sweden) and her research aims to understand and reconstruct lake and coastal systems histories, with a particular interest in functional changes. </p>        
 </div>
   
 <div class="section Ines">
-<p>  <a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><b>Ines Barrenechea</b></a> has a PhD in Earth Sciences from Geneva University. Her PhD research was focused on reconstructing marine biodiversity and on biomonitoring using eDNA metabarcoding. Current research interest is marine extremophiles (protists) from ancient and recent sediments She is currently a postdoc at the Arctic University of Norway, Tromsø, Norway. Ines is responsible for organising PhD seminars from Europe/Africa time zone.</p>        
+<p>  <a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><b>Ines Barrenechea</b></a> has a PhD in Earth Sciences from Geneva University. Her PhD research was focused on reconstructing marine biodiversity and on biomonitoring using eDNA metabarcoding. Current research interest is marine extremophiles (protists) from ancient and recent sediments. She is currently a postdoc at the Arctic University of Norway, Tromsø, Norway. Ines is responsible for organising PhD seminars from Europe/Africa time zone.</p>        
 </div>  
 
 <div class="section Jordan">
