@@ -96,12 +96,6 @@ title: Members
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.sarahcrumpscience.com/" target="_blank"><img src="{{ "/category/members/Sarah_Crump.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Sarah Crump</p>
-<p>University of California, Santa Cruz, USA</p>
-</div>
-
-<div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Abraham-Dabengwa" target="_blank"><img src="{{ "/category/members/Abraham_Dabengwa.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Abraham Dabengwa</p>
 <p>Witwatersrand University, South Africa</p>
