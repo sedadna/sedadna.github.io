@@ -275,7 +275,13 @@ alt="Avatar" /></a></div>
 <p>Susanne Liebner</p>
 <p>German Research Centre for Geosciences, Potsdam, Germany</p>
 </div>	
-	
+
+<div class ="member"> 
+<div class="square"><a href="https://old.iopan.pl/PaleoDept/KMel.html" target="_blank"><img src="{{ "/category/members/Katarzyna_Melaniuk.jpg" | relative_url }}" alt="Avatar" /></a></div> 
+<p>Katarzyna Melaniuk</p> 
+<p>The Institute of Oceanology of the Polish Academy of Sciences (IOPAN), Sopot, Poland</p> 
+</div> 
+
 <div class ="member"> 
 <div class="square"><a href="http://palaeogenetics.com/im/" target="_blank"><img src="{{ "/category/members/Ioana_Meleg.png" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Ioana Meleg</p> 
