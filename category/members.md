@@ -387,12 +387,6 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>  
 
 <div class ="member">
-<div class="square"><a href="https://www.kksand.com/" target="_blank"><img src="{{ "/category/members/Karina_Sand.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Karina Krarup Svenninggaard Sand</p>
-<p>University of Copenhagen, Denmark</p>
-</div>	
-
-<div class ="member">
 <div class="square"><a href="https://modernancientgenomes.github.io/" target="_blank"><img src="{{ "/category/members/Gabriel_Renaud.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Gabriel Renaud</p>
 <p>Technical University of Denmark (DTU), Denmark</p>
@@ -435,6 +429,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member">
+<div class="square"><a href="https://www.kksand.com/" target="_blank"><img src="{{ "/category/members/Karina_Sand.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Karina Krarup Svenninggaard Sand</p>
+<p>University of Copenhagen, Denmark</p>
+</div>	
+
+<div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Philippe-Munyandamutsa" target="_blank"><img src="{{ "/category/members/Philippe_Sanzira.JPG" | relative_url }}" alt="Avatar" /></a></div>
 <p>Philippe Munyandamutsa</p>
 <p>University of Rwanda, Nyagatare, Rwanda</p>
@@ -468,6 +468,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class="square"><a href="https://www.awi.de/en/about-us/organisation/staff/luise-schulte.html" target="_blank"><img src="{{ "/category/members/Luise_Schulte.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Luise Schulte</p>
 <p>Alfred Wegener Institute, Potsdam, Germany</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.ips.unibe.ch/aboutus/personen/paleoecology/dr_schwoerer_christoph/index_eng.html" target="_blank"><img src="{{ "/category/members/Christoph_Schwörer.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Christoph Schwörer</p>
+<p>Institute of Plant Sciences, University of Bern, Switzerland</p>
 </div>
 
 <div class ="member">
