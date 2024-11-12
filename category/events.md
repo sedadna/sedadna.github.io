@@ -7,6 +7,12 @@ title: Events
 
 <div class="intro">
 
+<h3 class="section-title underline">Upcoming Event</h3>
+ 
+<p> Join us for the second sedaDNA scientific society meeting in Tromsø, Norway, on the 24-25th of June 2025! Early bird registration opens early December 2024, in the meantime you can register your interest and stay tuned for updates [here](https://forms.office.com/e/a1jH6wzNF3).
+
+<br>
+
 <h3 class="section-title underline">Monthly Recurring Events</h3>
  
 <p> The <b>(under)graduate students seminar series</b> organized by Kevin Nota (MPI-EVA, Leipzig, Germany). Monthly seminars, where students can give short presentations, ask questions, and socialize with peers. Since we are covering the whole globe with the society, we have split up the meetings into two time zones, with each zone having a local coordinator. We will have the meeting on the first Thursday of every month. To be added to the mailing list, contact one of the following coordinators: </p>
