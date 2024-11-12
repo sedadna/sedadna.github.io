@@ -16,7 +16,7 @@ Pre-conference Workshops: June 23rd <br>
 Post-conference Excursions: June 26th<p>
  
 <p>Stay tuned! Early bird registration opens in early December 2024.<br>
-For the latest updates register here for our newsletter: <a href="https://forms.office.com/e/a1jH6wzNF3" target="_blank"><b>[this form](https://forms.office.com/e/a1jH6wzNF3)</b></a>.</p>
+For the latest updates register here for our newsletter: <a href="https://forms.office.com/e/a1jH6wzNF3" target="_blank"><b>https://forms.office.com/e/a1jH6wzNF3</b></a>.</p>
 <br>
 
 <h3 class="section-title underline">Monthly Recurring Events</h3>
