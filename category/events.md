@@ -9,7 +9,9 @@ title: Events
 
 <h3 class="section-title underline">Upcoming Event</h3>
  
-<p> Join us for the second sedaDNA scientific society meeting in Tromsø, Norway, on the 24-25th of June 2025! Early bird registration opens early December 2024, in the meantime you can register your interest and stay tuned for updates by filling this form: https://forms.office.com/e/a1jH6wzNF3
+<p> Join us for the second sedaDNA scientific society meeting in Tromsø, Norway, on the 24-25th of June 2025! Early bird registration opens early December 2024, in the meantime you can register your interest and stay tuned for updates by filling in <a href="https://forms.office.com/e/a1jH6wzNF3" target="_blank"><b>this form</b></a></p>
+ 
+ 
 <br>
 
 <h3 class="section-title underline">Monthly Recurring Events</h3>
