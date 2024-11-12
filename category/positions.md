@@ -8,33 +8,22 @@ title: Job positions
 <h3 class="section-title underline">New positions</h3>  
 
 <hr>
-<p> Post-doc Position </p>
+<p> 2 PhD positions in plant ancient DNA research at the University of Bern, Switzerland </p>
 
-<p>La Sapienza University in Rome is offering a 12-month postdoctoral researcher position (with possible extension until December 2025) on the VOLARE project. VOLARE aims to utilize ancient environmental DNA (eDNA) to assess Volcanic Lakes' Reference condition, biodiversity, and long-term ecological response to climate variability and anthropic pressure.</p>
+<p>Within the framework of the SNSF Consolidator grant project ARIaDNA, two 4-year PhD positions are available at the Institute of Plant Sciences and Oeschger Centre for Climate Change Research of the University of Bern, Switzerland. ARIaDNA aims to reconstruct how key European tree species responded to past environmental changes, using genetic data from ancient plant remains preserved in lake sediment archives. This work will provide critical insights for predicting future vegetation shifts and inform conservation strategies for alpine ecosystems.</p>
+<p>These two PhD positions provide a unique chance to contribute to ground-breaking research on forest ecosystems and climate adaptation through an interdisciplinary approach combining fieldwork, laboratory research, and computational modeling. Join us to help shape the future of climate change adaptation strategies for Europe's alpine forests!</p>
 
-<p>The EU Water Framework Directive mandates member states to maintain or restore water bodies' ecological quality similar to uncontaminated ones. However, Italian volcanic lakes face challenges due to the absence of pristine environments, and current methods to define lake ecological quality are costly and labour-intensive. Our project aims to assess the potential of eDNA in surface sediment layers to compile a list of present organisms and develop numerical methods as an ecological quality indicator and to utilize eDNA from 1-meter long sediment cores to objectively estimate changes in biological communities over recent centuries, establishing a reference condition.</p>
+<p>See more details on <a href="https://www.ips.unibe.ch/research/paleo/popdyn/index_eng.html"><b> here</b></a> and <a href="https://ohws.prospective.ch/public/v1/jobs/c36e3118-85e3-4c02-9e26-9610a1420b69"><b> here</b></a></p>
 
-<p>The candidate will assess metabarcoding and shotgun sequencing with probe hybridization capture techniques on short sediment cores (100 cm) to determine biological community composition and biodiversity, including zooplankton, phytoplankton, phytobenthos, macrophytes, zoobenthos, and fish fauna. eDNA analysis will yield numerical methods and organism lists, indicating volcanic lake ecological quality. Additionally, molecular data will be compared with algal community composition inferred from morphological and biochemical analyses.</p>
-
-<p>Laboratory experience is required, preferably with ancient DNA and bioinformatics tools for data analysis.</p>
-
-<p>Deadline for application: April 13, 2024. For more information about the call, please refer to the provided link (brief summary in English available at the end). If you're interested and require assistance with the application process, feel free to contact the Principal Investigator at laura.parducci@uniroma1.it</p>
+<p>For further information contact Dr. Christoph Schwörer at christoph.schwoerer@unibe.ch</p>
+<p>Applications will be reviewed until the 31.12.2024, but further applications might be considered until the position is filled.</p>
 
 
-<hr>
-
-<p>4 year Phd position</p>
-
-<p>A 4 year position is availbile at the Arctic University of Norway. The PhD will be part of the Norwegian Centre for Arctic Ecosystem Genomics (ArcEcoGen) at the Arctic University Museum, UiT, Tromsø. ArcEcoGen centre focuses on the combined effect of humans, climate, and biota on northern ecosystem dynamics in the past, present, and future using environmental DNA (eDNA) techniques.</p>
-
-<p>The largest impact of climate change currently seen on arctic vegetation is the northwards expansion of shrub tundra. However, shrubs may be impacted by a range of factors such as herbivory, snow cover, moisture, and temperatures, and the long-term impact are not well known. Ancient DNA has recently revolutionised our understanding of effect of past climate changes as it provides a local vegetation signal of high taxonomic resolution. Unfortunately, the dominant shrub genera, birch (Betula) and willow (Salix), are rarely distinguished to species level in ancient DNA studies. This PhD will focus on 1) develop methods for species level identification of shrubs from lake sediments, and 2) use latitudinal gradients of sedimentary ancient DNA to study past effects of environmental changes on arctic greening.<a href="https://www.jobbnorge.no/en/available-jobs/job/256742/phd-fellow-in-plant-ecology-and-evolution"><b> See here for more information</b></a></p>
-
-<p>Applications deadline: 1st April 2024</p>
 
 <hr> 
 <p>30-month post-doc </p>
 A 30-month post-doc researcher (can be extended) is available in Bergen on the project BIOcean5D, a pan-European EU-funded consortia:
-"BIOcean5D unites major European centres in molecular and cell biology; marine biology; and sequencing, together with 31 partners from 11 countries, to build a unique suite of technologies, protocols, and models allowing holistic re-exploration of marine biodiversity, from viruses to mammals, from genomes to holobionts, across multiple spatial and temporal scales, stretching from pre-industrial history to today. "</p>
+"BIOcean5D unites major European centres in molecular and cell biology; marine biology; and sequencing, together with 31 partners from 11 countries, to build a unique suite of technologies, protocols, and models allowing holistic re-exploration of marine biodiversity, from viruses to mammals, from genomes to holobionts, across multiple spatial and temporal scales, stretching from pre-industrial history to today. These two PhD positions provide a unique chance to contribute to ground-breaking research on forest ecosystems and climate adaptation through an interdisciplinary approach combining fieldwork, laboratory research, and computational modeling. Join us to help shape the future of climate change adaptation strategies for Europe's alpine forests! "</p>
 
 <p> The post-doc project aims at mining global-scale metagenomics datasets of plankton and sediment biodiversity, to analyse the patterns of marine biodiversity from the sunlit surface to the deep-ocean floor. The main objective is to get a better understanding of the plankton communities that contribute most to carbon sequestration in the deep ocean. Another objective is to develop a better understanding of diverse and inconspicuous deep-sea benthic biodiversity using omics methods. </p>
 
