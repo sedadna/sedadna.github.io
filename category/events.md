@@ -11,11 +11,11 @@ title: Events
  
 <p><b>2nd SedaDNA Society meeting</b><p>
 
-<p>Save the date for the 2nd SedaDNA Society Conference, held from June 24th-25th, 2025, in Tromsø, Norway. \n
-Pre-conference Workshops: June 23rd \n
+<p>Save the date for the 2nd SedaDNA Society Conference, held from June 24th-25th, 2025, in Tromsø, Norway. <br>
+Pre-conference Workshops: June 23rd <br>
 Post-conference Excursions: June 26th<p>
  
-<p>Stay tuned! Early bird registration opens in early December 2024.\n
+<p>Stay tuned! Early bird registration opens in early December 2024.<br>
 For the latest updates register here for our newsletter: <a href="https://forms.office.com/e/a1jH6wzNF3" target="_blank"><b>[this form](https://forms.office.com/e/a1jH6wzNF3)</b></a>.</p>
 <br>
 
