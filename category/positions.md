@@ -38,5 +38,18 @@ Climate change is already increasing the frequency and intensity of extreme weat
 <p>For more information about the first PhD offer, contact Deniz Ozkundakci (denizo@waikato.ac.nz) <br>
   and Dr Jamie Howarth (Jamie.Howarth@vuw.ac.nz) about the second PhD offer.</p>
 
+<hr> 
+
+
+<p>Two positions are open at the University of Copenhagen, a 3-year PhD position: https://employment.ku.dk/phd/?show=162635 and a 2-year postdoc position: https://employment.ku.dk/all-vacancies/?show=162648</p>
+
+<p><b>Application deadline:  28 November 2024</b>, 23.59pm CET <br>
+If you'd like more information, you can contact Dr. Elena Zavala: ezavala9@gmail.com </p>
+
+<hr> 
+
+<p>The University of Oklahoma is hiring two faculty positions. We are hiring a tenure-track assistant professor in computational biology (that might develop analytical tools for sedaDNA). We are also hiring a tenure track/tenured assistant/associate professor in molecular anthropology. Please find information on the two positions below:  <br>
+Computational Biology: <a href="apply.interfolio.com/154459"><b> apply.interfolio.com/154459</b></a> <br>
+Molecular Anthropology: <a href="apply.interfolio.com/156182"><b> apply.interfolio.com/156182</b></a>apply.interfolio.com/156182</p>
 
 
