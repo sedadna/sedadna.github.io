@@ -7,38 +7,36 @@ title: Job positions
 <div class="intro">
 <h3 class="section-title underline">New positions</h3>  
 
-<hr>
 <p> 2 PhD positions in plant ancient DNA research at the University of Bern, Switzerland </p>
 
 <p>Within the framework of the SNSF Consolidator grant project ARIaDNA, two 4-year PhD positions are available at the Institute of Plant Sciences and Oeschger Centre for Climate Change Research of the University of Bern, Switzerland. ARIaDNA aims to reconstruct how key European tree species responded to past environmental changes, using genetic data from ancient plant remains preserved in lake sediment archives. This work will provide critical insights for predicting future vegetation shifts and inform conservation strategies for alpine ecosystems.</p>
 <p>These two PhD positions provide a unique chance to contribute to ground-breaking research on forest ecosystems and climate adaptation through an interdisciplinary approach combining fieldwork, laboratory research, and computational modeling. Join us to help shape the future of climate change adaptation strategies for Europe's alpine forests!</p>
 
-<p>See more details on <a href="https://www.ips.unibe.ch/research/paleo/popdyn/index_eng.html"><b> here</b></a> and <a href="https://ohws.prospective.ch/public/v1/jobs/c36e3118-85e3-4c02-9e26-9610a1420b69"><b> here</b></a></p>
+<p>See more details <a href="https://www.ips.unibe.ch/research/paleo/popdyn/index_eng.html"><b> here</b></a> and <a href="https://ohws.prospective.ch/public/v1/jobs/c36e3118-85e3-4c02-9e26-9610a1420b69"><b> here</b></a></p>
 
-<p>For further information contact Dr. Christoph Schwörer at christoph.schwoerer@unibe.ch</p>
-<p>Applications will be reviewed until the 31.12.2024, but further applications might be considered until the position is filled.</p>
+<p>For further information contact Dr. Christoph Schwörer at christoph.schwoerer@unibe.ch. Applications will be reviewed until the 31.12.2024, but further applications might be considered until the position is filled.</p>
 
 
 
 <hr> 
-<p>30-month post-doc </p>
-A 30-month post-doc researcher (can be extended) is available in Bergen on the project BIOcean5D, a pan-European EU-funded consortia:
-"BIOcean5D unites major European centres in molecular and cell biology; marine biology; and sequencing, together with 31 partners from 11 countries, to build a unique suite of technologies, protocols, and models allowing holistic re-exploration of marine biodiversity, from viruses to mammals, from genomes to holobionts, across multiple spatial and temporal scales, stretching from pre-industrial history to today. These two PhD positions provide a unique chance to contribute to ground-breaking research on forest ecosystems and climate adaptation through an interdisciplinary approach combining fieldwork, laboratory research, and computational modeling. Join us to help shape the future of climate change adaptation strategies for Europe's alpine forests! "</p>
 
-<p> The post-doc project aims at mining global-scale metagenomics datasets of plankton and sediment biodiversity, to analyse the patterns of marine biodiversity from the sunlit surface to the deep-ocean floor. The main objective is to get a better understanding of the plankton communities that contribute most to carbon sequestration in the deep ocean. Another objective is to develop a better understanding of diverse and inconspicuous deep-sea benthic biodiversity using omics methods. </p>
+<p>Two PhD positions based in New Zealand – Characterising lake responses to climate extremes</p>
 
-<p>Further development towards sedimentary ancient DNA in marine settings are expected. </p>
+<p>The successful candidates will be part of a nationwide lake programme Our Lakes, Our Future (ourlakesourfuture.co.nz). The programme aims to develop a set of globally unique approaches to monitoring and managing lakes. The successful candidates will be integrated into this internationally recognised lake research team and have opportunities to work in different organisations across Aotearoa New Zealand.</p>
 
-<p>More details on the profile <a href="https://www.jobbnorge.no/en/available-jobs/job/258508/postdoc-researcher-position"><b> here</b></a></p>
+<p>Position 1. Characterising lake responses to climate extremes using high-frequency sensor data<br>
+We are seeking an enthusiastic and highly motivated student for a fully funded PhD project using high-frequency sensor data to understand lake ecosystem responses to climate extremes. Lakes are increasingly exposed to extreme climate events (e.g., intense storms, droughts), yet typical monitoring (manual to fortnightly) often prevents a robust understanding of the response and recovery of lake ecosystems following these events. We aim to analyse automated high-frequency sensor data from profiling buoys in lakes across Aotearoa New Zealand to characterise changes in lake ecosystem structure and function following some of the most extreme climate events observed in New Zealand (e.g., Cyclone Gabrielle). </p>
 
-<p>Starting date: June / July 2024. </p>
-<p><b>Application deadline:</b> The review process will start immediately and the position will remain open until filled. </p>
 
-<hr>
-<p>PhD position</p>
-<p>A full-time PhD position is available in the fields of marine microbial ecology, paleogenomics and bioinformatics at <a href="https://www.jobbnorge.no/en/available-jobs/job/258181/phd-research-fellow-in-marine-microbial-ecology"><b> NORCE Climate and Environment</b></a> in Bergen, Norway.</p>
+<p>Position 2. Investigating lake responses to extreme weather events using high-resolution paleoenvironmental reconstructions<br>
+Climate change is already increasing the frequency and intensity of extreme weather events, such as storms and droughts, and these effects are forecast to worsen under future climate projections. For example, extreme rainfall caused by ex-tropical cyclones dramatically increases catchment runoff and causes erosion, delivering high sediment and nutrient loads to lake ecosystems. However, little is known about how lake ecosystems respond to these pulse disturbances, limiting attempts to forecast the impact of future climate scenarios on lakes in Aotearoa-New Zealand. We seek an enthusiastic and highly motivated student for a fully funded PhD project using paleoenvironmental reconstruction to understand lake ecosystem responses to extreme weather events. </p>
 
-<p>The research will focus on the impact of past environmental change on marine microbial diversity in Norwegian and Arctic fjords using sedimentary ancient DNA. The position is available from 01.09.2024 and for a fixed-term period of 3 years. The position will be located at NORCE, and you will be enrolled as a PhD student at the Department of Biological Sciences at the University of Bergen. <a href="https://www.jobbnorge.no/en/available-jobs/job/258181/phd-research-fellow-in-marine-microbial-ecology"><b> See here for more information</b></a></p>
+<p>More details here<a href="https://ourlakesourfuture.co.nz/two-phd-scholarships-impacts-of-extreme-climate-events/"><b> here</b></a></p>
 
-<p><b>Applications deadline: March 24th, 2024.</b></p>
+<p><b>Application deadline:</b> 15 November 2024. <b>Start date:</b> no later than the March 2025. </p>
+
+<p>For more information about the first PhD offer, contact Deniz Ozkundakci (denizo@waikato.ac.nz) <br>
+  and Dr Jamie Howarth (Jamie.Howarth@vuw.ac.nz) about the second PhD offer.</p>
+
+
 
