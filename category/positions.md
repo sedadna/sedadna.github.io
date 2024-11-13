@@ -41,7 +41,7 @@ Climate change is already increasing the frequency and intensity of extreme weat
 <p><b>PhD and postdoc positions, University of Copenhagen</b></p>
 <p>Two positions are open at the University of Copenhagen, a 3-year PhD position: https://employment.ku.dk/phd/?show=162635 and a 2-year postdoc position: https://employment.ku.dk/all-vacancies/?show=162648</p>
 
-<p><b>Application deadline: 28 November 2024</b>, 23.59pm CET. <br>
+<p><b>Application deadline:</b> 28 November 2024, 23.59pm CET. <br>
 If you'd like more information, you can contact Dr. Elena Zavala: ezavala9@gmail.com </p>
 
 <hr> 
