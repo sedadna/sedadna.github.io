@@ -30,7 +30,7 @@ We are seeking an enthusiastic and highly motivated student for a fully funded P
 <p>Position 2. Investigating lake responses to extreme weather events using high-resolution paleoenvironmental reconstructions<br>
 Climate change is already increasing the frequency and intensity of extreme weather events, such as storms and droughts, and these effects are forecast to worsen under future climate projections. For example, extreme rainfall caused by ex-tropical cyclones dramatically increases catchment runoff and causes erosion, delivering high sediment and nutrient loads to lake ecosystems. However, little is known about how lake ecosystems respond to these pulse disturbances, limiting attempts to forecast the impact of future climate scenarios on lakes in Aotearoa-New Zealand. We seek an enthusiastic and highly motivated student for a fully funded PhD project using paleoenvironmental reconstruction to understand lake ecosystem responses to extreme weather events. </p>
 
-<p>More details here<a href="https://ourlakesourfuture.co.nz/two-phd-scholarships-impacts-of-extreme-climate-events/"><b> here</b></a>.</p>
+<p>More details <a href="https://ourlakesourfuture.co.nz/two-phd-scholarships-impacts-of-extreme-climate-events/"><b> here</b></a>.</p>
 
 <p><b>Application deadline:</b> 15 November 2024. <b>Start date:</b> no later than March 2025. </p>
 
@@ -39,7 +39,11 @@ Climate change is already increasing the frequency and intensity of extreme weat
 <hr> 
 
 <p><b>PhD and postdoc positions, University of Copenhagen</b></p>
-<p>Two positions are open at the University of Copenhagen, a 3-year PhD position: https://employment.ku.dk/phd/?show=162635 and a 2-year postdoc position: https://employment.ku.dk/all-vacancies/?show=162648</p>
+<p>Two positions are open at the University of Copenhagen, a 3-year PhD position: 
+  <a href="https://employment.ku.dk/phd/?show=162635"><b> https://employment.ku.dk/phd/?show=162635</b></a>
+  and a 2-year postdoc position: 
+  <a href="https://employment.ku.dk/all-vacancies/?show=162648"><b> https://employment.ku.dk/all-vacancies/?show=162648</b></a>
+  </p>
 
 <p><b>Application deadline:</b> 28 November 2024, 23.59pm CET. <br>
 If you'd like more information, you can contact Dr. Elena Zavala: ezavala9@gmail.com </p>
