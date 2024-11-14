@@ -377,7 +377,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Maïlys Picard</p>
-<p>Umeå Unviversity, Umeå, Sweden</p>
+<p>Umeå University, Umeå, Sweden</p>
 </div> 
 	
 <div class ="member">
