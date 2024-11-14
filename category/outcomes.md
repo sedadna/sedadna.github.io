@@ -4,7 +4,7 @@ title: Outcomes
 ---
 
 <div class="intro">
-<p>Picard, Von Eggers, Brasell, Yan, Klaminder, Alsos, Barouillet, Cheng, Dommain, Dulias, Duxbury, Edwards, Garcés Pastor, Harning, Hudson, Hutson, Kaynar, Kurte, Leunda, Lopez, Moguel, Olajos, Pérez Godoy, Revéret, Rijal, Rydberg, Schwörer, Stoof-Leichsenring, Taranu, Thomson-Laing, Thorpe, Tiedemann, Nogales, Wang, Wood, Capo (<b>2024</b>) Using DNA archived in lake sediments to reconstruct past ecosystems. Chapter in the Encyclopedia of Quaternary Science, 3rd edition <a href="https://doi.org/10.1016/B978-0-323-99931-1.00171-9" target="_blank"><b>doi: 10.1016/B978-0-323-99931-1.00171-9</b></a></p>
+<p>Picard, Von Eggers, Brasell, Yan, Klaminder, Alsos, Barouillet, Cheng, Dommain, Dulias, Duxbury, Edwards, Garcés Pastor, Harning, Hudson, Hutson, Kaynar, Kurte, Leunda, Lopez, Moguel, Olajos, Pérez Godoy, Revéret, Rijal, Rydberg, Schwörer, Stoof-Leichsenring, Taranu, Thomson-Laing, Thorpe, Tiedemann, Nogales, Wang, Wood, Capo (<b>2024</b>) Using DNA archived in lake sediments to reconstruct past ecosystems. Chapter in the Encyclopedia of Quaternary Science, 3rd edition <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780323999311001719?via%3Dihub" target="_blank"><b>doi: 10.1016/B978-0-323-99931-1.00171-9</b></a></p>
   
 <p>Capo, Barouillet, Smol (<b>2023</b>) Tracking environmental change using lake sediments: Sedimentary DNA (Vol. 6). Springer Cham <a href="https://doi.org/10.1007/978-3-031-43799-1" target="_blank"><b>doi: 10.1007/978-3-031-43799-1</b></a></p>
 
