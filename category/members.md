@@ -224,6 +224,12 @@ target="_blank"><img src="{{ "/category/members/Weihan_Jia.png" | relative_url }
 </div>
 
 <div class ="member"> 
+<div class="square"><a href="https://www.icarehb.com/hkanbar" target="_blank"><img src="{{ "/category/members/Hussein_Kanbar.jpg" | relative_url }}" alt="Avatar" /></a></div> 
+<p>Hussein Kanbar</p> 
+<p>ICArEHB, Portugal</p> 
+</div>
+
+<div class ="member"> 
 <div class="square"><a href="https://www.tu-braunschweig.de/en/igeo/team/kang-wengang" target="_blank"><img src="{{ "/category/members/Wengang_Kang.jpg" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Wengang Kang</p> 
 <p>University of Braunschweig, Germany</p> 
