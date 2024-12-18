@@ -15,8 +15,8 @@ title: Events
 Pre-conference Workshops: June 23rd <br>
 Post-conference Excursions: June 26th<p>
  
-<p>Stay tuned! Early bird registration opens in early December 2024.<br>
-For the latest updates register here for our newsletter: <a href="https://forms.office.com/e/a1jH6wzNF3" target="_blank"><b>https://forms.office.com/e/a1jH6wzNF3</b></a>.</p>
+<p><b>The abstract submission is open! (deadline closes the 10th of January)</b>.<br>
+More information <a href="https://nordicsocietyoikos.glueup.com/event/2nd-sedadna-scientific-society-conference-125115/home.html" target="_blank"><b> </b>can be found here</a>.</p>
 <br>
 
 <h3 class="section-title underline">Monthly Recurring Events</h3>
