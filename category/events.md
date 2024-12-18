@@ -16,7 +16,7 @@ Pre-conference Workshops: June 23rd <br>
 Post-conference Excursions: June 26th<p>
  
 <p><b>The abstract submission is open! (deadline closes the 10th of January)</b>.<br>
-More information <a href="https://nordicsocietyoikos.glueup.com/event/2nd-sedadna-scientific-society-conference-125115/home.html" target="_blank"><b> </b>can be found here</a>.</p>
+More information on how to submit and abstract, and details about registration <a href="https://nordicsocietyoikos.glueup.com/event/2nd-sedadna-scientific-society-conference-125115/home.html" target="_blank"><b> </b>can be found here</a>.</p>
 <br>
 
 <h3 class="section-title underline">Monthly Recurring Events</h3>
