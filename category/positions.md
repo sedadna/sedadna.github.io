@@ -7,5 +7,10 @@ title: Job positions
 <div class="intro">
 <h3 class="section-title underline">New positions</h3>  
 
-Update in progress
+  
+<p><a href="https://www.wur.nl/nl/vacature/phd-position-sedimentary-ancient-dna-sedadna-as-a-robust-tool-for-river-science.htm" target="_blank"><b>A PhD position</b></a> on the transport and deposition of DNA and its representation in the fluvial sedimentary record with <b>Annegret Larsen</b> and <b>Benjamin Vernot</b>, based at Wageningen University & Research, Netherlands. The application deadline is the <b>10th of March 2025</b>.</p>
+
+<p><a href="https://jobs.soton.ac.uk/Vacancy.aspx?ref=3002725WR" target="_blank"><b>A PhD position</b></a> using ancient sedimentary DNA to study ancient ports with <b>Tony Brown</b> at the University of Southampton, UK. The application deadline is the <b>6th of March 2025</b>.</p>
+
+<p>A <a href="https://euraxess.ec.europa.eu/jobs/314957" target="_blank"><b>PhD position</b></a> and a <a href="https://euraxess.ec.europa.eu/jobs/314958" target="_blank"><b>Postdoc position</b></a> to address the impact of past climate and human disturbance on mountain vegetation at different scales and using variou proxies (including sedaDNA) with <b>Maria Leunda</b> at the University of Bern, Switzerland. The application deadline is the <b>31st of March 2025</b>.</p>
 
