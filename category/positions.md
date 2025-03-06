@@ -15,7 +15,7 @@ title: Job positions
 <p>A <a href="https://euraxess.ec.europa.eu/jobs/314957" target="_blank"><b>PhD position</b></a> and a <a href="https://euraxess.ec.europa.eu/jobs/314958" target="_blank"><b>Postdoc position</b></a> to address the impact of past climate and human disturbance on mountain vegetation at different scales and using variou proxies (including sedaDNA) with <b>Maria Leunda</b> at the University of Bern, Switzerland. The application deadline is the <b>31st of March 2025</b>.</p>
 
 
-<p>A <a href="https://jobs.ugent.be/job/Ghent-Assistant-department-Biology-9000/814251702/" target="_blank"><b>PhD position</b></a> on 'The response of Antarctic lake communities to Pleistocene and Holocene climate changes' at Ghent University. The aim is to study changes in microeukaryotic community structure using aDNA and relate these to past variability in temperature and lake water salinity. The application deadline is the <b>25th of March</b>b>. Applications need to be submitted through the 
+<p>A <a href="https://jobs.ugent.be/job/Ghent-Assistant-department-Biology-9000/814251702/" target="_blank"><b>PhD position</b></a> on 'The response of Antarctic lake communities to Pleistocene and Holocene climate changes' at Ghent University. The aim is to study changes in microeukaryotic community structure using aDNA and relate these to past variability in temperature and lake water salinity. The application deadline is the <b>25th of March</b>. Applications need to be submitted through the 
 <a href="https://jobs.ugent.be/job/Ghent-Assistant-department-Biology-9000/814251702/" target="_blank"><b>e-recruitment system of Ghent University</b></a>.</p>
   
   
