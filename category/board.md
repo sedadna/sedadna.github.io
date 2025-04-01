@@ -43,6 +43,16 @@ Title: Our board
 <p>Toulouse, France</p>  
 </div>  
 
+<div class="avatar">
+  
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Scarlett-Zetter" target="_blank"><img src="{{ "/category/members/Scarlett_Zetters.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Scarlett Zeter</p>
+<p>UiT</p>
+<p>Tromsø, Norway</p>  
+</div>  
+
+
 <div class ="member">
 <div class="square"><a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><img src="{{ "/category/members/Grayson_Huston.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Grayson Huston</p>
@@ -82,8 +92,12 @@ Title: Our board
 <p> <a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><b>Grayson Huston </b></a> is a Ph.D. student in Ecology and Environmental Science at the University of Maine – Orono. His research is focused on the recovery and detection of fish DNA from aquatic sediments, with an emphasis on the impact of dams on Maine’s migratory fish species. Within the society, Grayson is one of the leads in the fish working group. </p>        
 </div>
 
+<div class="section Scarlett">
+<p> <a href="https://www.researchgate.net/profile/Scarlett-Zetter" target="_blank"><b>Scarlett Zetter</b></a> is currently finishing a Ph.D in molecular palaeoecology at Tromsø Museum, Arctic University of Norway (UiT). Her research focuses on using plant and animal sedaDNA metabarcoding, in conjunction with climate reconstructions, to identify how climate change and anthropogenic impacts have affected community dynamics since the Last Glacial Maximum. </p>        
+</div>
 
 
+ 
 <div class="section advisory board">
 <h3 class="section-title underline">The advisory board</h3>  
 <p>The advisory board is composed by recognized experts in paleoecology, paleogenomics, molecular ecology and more particularly sedaDNA research.</p>
