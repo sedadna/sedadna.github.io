@@ -46,11 +46,12 @@ Title: Our board
 <div class="avatar">
   
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Scarlett-Zetter" target="_blank"><img src="{{ "/category/members/Scarlett_Zetters.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Scarlett-Zetter" target="_blank"><img src="{{ "/category/members/Scarlett_Zetter.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Scarlett Zeter</p>
 <p>UiT</p>
 <p>Tromsø, Norway</p>  
 </div>  
+
 
 
 <div class ="member">
