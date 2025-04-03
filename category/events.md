@@ -15,7 +15,7 @@ title: Events
 Pre-conference Workshops: June 23rd <br>
 Post-conference Excursions: June 26th<p>
  
-<p><b>The official website of the conference is over <a href="https://nordicsocietyoikos.glueup.com/event/2nd-sedadna-scientific-society-conference-125115/home.html" target="_blank"><b>here</b></a>.</p>
+<p>The official website of the conference is over <a href="https://nordicsocietyoikos.glueup.com/event/2nd-sedadna-scientific-society-conference-125115/home.html" target="_blank"><b>here</b></a>.</p>
 <br>
 
 
