@@ -67,7 +67,7 @@ Title: Our board
 </div>  
 
 <div class ="member">
-<div class="square"><a href="https://www.adelaide.edu.au/directory/Vilma.perez" target="_blank"><img src="{{ "/category/members/Vilma_Perez.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.adelaide.edu.au/directory/Vilma.perez" target="_blank"><img src="{{ "/category/members/Vilma_Perez.JPG" | relative_url }}" alt="Avatar" /></a></div>
 <p>Vilma Pérez</p>
 <p>ACAD, The University of Adelaide</p>
 <p>Adelaide, Australia</p>  
