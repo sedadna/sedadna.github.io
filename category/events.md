@@ -31,7 +31,7 @@ Abstracts can be submitted until the <b>20th of April 2025</b>.
  <br>
 
 
-<p align="justify">The <a href="https://www.iscb.org/bigevo2025/home" target="_blank"><b>International Joint Conference on “BioGeoEvolution: Bridging Past and Future Discoveries, BiGEvo 2025”</b></a> is aims to foster interdisciplinary discussions and collaborations that deepen our understanding of the interplay between geological processes and the evolution of life on Earth. It will emphasize ancient microbial ecosystems as models for early Earth conditions and explore their modern applications in biotechnology and ecology. The conference will be held in Cuatro Ciénegas, Coahuila, Mexico, 28-30 May 2025, with pre and post-conference events occurring 26-27 May and 31 May - June 1. Abstract submission is now closed.</p>
+<p align="justify">The <a href="https://www.iscb.org/bigevo2025/home" target="_blank"><b>International Joint Conference on “BioGeoEvolution: Bridging Past and Future Discoveries, BiGEvo 2025”</b></a> aims to foster interdisciplinary discussions and collaborations that deepen our understanding of the interplay between geological processes and the evolution of life on Earth. It will emphasize ancient microbial ecosystems as models for early Earth conditions and explore their modern applications in biotechnology and ecology. The conference will be held in Cuatro Ciénegas, Coahuila, Mexico, 28-30 May 2025, with pre and post-conference events occurring 26-27 May and 31 May - June 1. Abstract submission is now closed.</p>
 
 
  <br>
