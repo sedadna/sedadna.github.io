@@ -4,7 +4,7 @@ Title: Our board
 ---
 
 <div class="section">
-<h3 class="section-title underline">The organizing board</h3>
+<h3 class="section-title underline">The organising board</h3>
 </div>
 
 <div class="avatar">
