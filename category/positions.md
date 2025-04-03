@@ -7,19 +7,16 @@ title: Job positions
 <div class="intro">
 <h3 class="section-title underline">New positions</h3>  
 
-  
-<p><a href="https://www.wur.nl/nl/vacature/phd-position-sedimentary-ancient-dna-sedadna-as-a-robust-tool-for-river-science.htm" target="_blank"><b>A PhD position</b></a> on the transport and deposition of DNA and its representation in the fluvial sedimentary record with <b>Annegret Larsen</b> and <b>Benjamin Vernot</b>, based at Wageningen University & Research, Netherlands. The application deadline is the <b>10th of March 2025</b>.</p>
+<p>A <b>Postdoc position</b> in ancient environmental genomics at the University of Copenhagen. This project will explore the relationship between environmental changes and human demographics, disease load, and site histories by analysing ancient environmental DNA (eDNA). By extracting DNA from various archaeological contexts, including soil monoliths and discrete samples from around Europe, the study aims to reconstruct past environments and assess their impact on human populations. The project seek to pioneer the use of ancient metagenomes to address standing archaeological questions in collaboration with researchers across most of Europe. Through advanced techniques like deep shotgun metagenomics, this work seeks to enhance our understanding of anthropogenic environments in Western Eurasia. Funding is for two years, start date as soon as possible, at the Centre for Ancient Environmental Genomics, Globe Institute, UCPH, in Copenhagen. </p>
+<p>Qualifications & Skills:
+<ul>
+  <li>A background in genetics, bioinformatics or like.</li>
+  <li>Experience with ancient DNA analysis.</li>
+  <li>Strong analytical skills and an interest in interdisciplinary research.</li>
+  <li>Ability to work both independently and collaboratively in an international research environment.</li>
+</ul> </p>
+<p>If you are interested, send your questions or your CV directly to Mikkel (Asst Prof. Mikkel Winther Pedersen, mwpedersen@sund.ku.dk).</p>
 
-<p><a href="https://jobs.soton.ac.uk/Vacancy.aspx?ref=3002725WR" target="_blank"><b>A Postdoc position</b></a> and <a href="https://www.findaphd.com/phds/project/the-palaeoecology-and-sedadna-of-ancient-ports/?p181593" target="_blank"><b>a PhD position</b></a> using ancient sedimentary DNA to study ancient ports with <b>Tony Brown</b>, <b>Doreen Yu-Tuan Huang</b>, and <b>Paul Hughes</b> at the University of Southampton, UK. The application deadline is the <b>6th of March 2025 for the Postdoc position and 18th of March for the PhD position</b>.</p>
 
-<p>A <a href="https://euraxess.ec.europa.eu/jobs/314957" target="_blank"><b>PhD position</b></a> and a <a href="https://euraxess.ec.europa.eu/jobs/314958" target="_blank"><b>Postdoc position</b></a> to address the impact of past climate and human disturbance on mountain vegetation at different scales and using variou proxies (including sedaDNA) with <b>Maria Leunda</b> at the University of Bern, Switzerland. The application deadline is the <b>31st of March 2025</b>.</p>
-
-
-<p>A <a href="https://jobs.ugent.be/job/Ghent-Assistant-department-Biology-9000/814251702/" target="_blank"><b>PhD position</b></a> on 'The response of Antarctic lake communities to Pleistocene and Holocene climate changes' at Ghent University. The aim is to study changes in microeukaryotic community structure using aDNA and relate these to past variability in temperature and lake water salinity. The application deadline is the <b>25th of March</b>. Applications need to be submitted through the 
-<a href="https://jobs.ugent.be/job/Ghent-Assistant-department-Biology-9000/814251702/" target="_blank"><b>e-recruitment system of Ghent University</b></a>.</p>
-  
-  
-  
-  . 
 
 
