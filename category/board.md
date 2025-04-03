@@ -32,9 +32,7 @@ Title: Our board
 <p>Laramie, USA</p>
 </div>
 
-</div>
 
-<div class="avatar">
   
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Kuldeep-More" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -43,16 +41,9 @@ Title: Our board
 <p>Toulouse, France</p>  
 </div>  
 
+</div>
+
 <div class="avatar">
-  
-<div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Scarlett-Zetter" target="_blank"><img src="{{ "/category/members/Scarlett_Zetter.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Scarlett Zeter</p>
-<p>UiT</p>
-<p>Tromsø, Norway</p>  
-</div>  
-
-
 
 <div class ="member">
 <div class="square"><a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><img src="{{ "/category/members/Grayson_Huston.png" | relative_url }}" alt="Avatar" /></a></div>
@@ -68,13 +59,34 @@ Title: Our board
 <p>Xi'an, China</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Scarlett-Zetter" target="_blank"><img src="{{ "/category/members/Scarlett_Zetter.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Scarlett Zeter</p>
+<p>UiT</p>
+<p>Tromsø, Norway</p>  
+</div>  
+
+<div class ="member">
+<div class="square"><a href="https://www.adelaide.edu.au/directory/vilma.perez" target="_blank"><img src="{{ "/category/members/Scarlett_Zetter.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Vilma Pérez</p>
+<p>ACAD, The University of Adelaide</p>
+<p>Adelaide, Australia</p>  
+</div>  
+
+<div class ="member">
+<div class="square"><a href="https://www.adelaide.edu.au/directory/vilma.perez" target="_blank"><img src="{{ "/category/members/Alois_Reveret.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Aloïs Revéret </p>
+<p>UiT</p>
+<p>Tromsø, Norway</p> 
+</div>  
+
 </div>
 <br>
 
 <div class="intro">
 
 <div class="section Maïlys">
-<p> <a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><b>Maïlys Picard</b></a> has a Ph.D. in Biology from the University of Waikato, based at the Cawthron Institute (Aotearoa / New Zealand), where she investigated drivers of cyanobacterial blooms in lakes. She is currently a postdoctoral fellow at the University of Umeå (Sweden) and her research aims to understand and reconstruct lake and coastal systems histories, with a particular interest in functional changes. </p>        
+<p> <a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><b>Maïlys Picard</b></a> has a Ph.D. in Biology from the University of Waikato, based at the Cawthron Institute (Aotearoa / New Zealand), where she investigated drivers of cyanobacterial blooms in lakes. She is currently a postdoctoral fellow at the University of Umeå (Sweden) and her research aims to understand and reconstruct lake and coastal systems histories, with a particular interest in functional changes (photosythesis and microbial respirations). </p>        
 </div>
   
 <div class="section Ines">
@@ -96,6 +108,17 @@ Title: Our board
 <div class="section Scarlett">
 <p> <a href="https://www.researchgate.net/profile/Scarlett-Zetter" target="_blank"><b>Scarlett Zetter</b></a> is currently finishing a Ph.D in molecular palaeoecology at Tromsø Museum, Arctic University of Norway (UiT). Her research focuses on using plant and animal sedaDNA metabarcoding, in conjunction with climate reconstructions, to identify how climate change and anthropogenic impacts have affected community dynamics since the Last Glacial Maximum. </p>        
 </div>
+
+
+<div class="section Vilma">
+<p> <a href="https://scholar.google.com/citations?hl=es&user=2m-ZrxcAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><b>Vilma Pérez</b></a>  is a postdoctoral researcher at the Australian Centre for Ancient DNA, University of Adelaide, Australia. She specialises in palaeomicrobiology and molecular ecology, focusing on reconstructing microbial communities from present and past environments using environmental DNA techniques. Originally from Chile, Vilma completed her PhD in Biological Sciences at the University of Antofagasta, where she studied microbial adaptation to extreme environmental conditions in the Chilean Andean highlands. Her current work involves using ancient environmental DNA methods to reconstruct past ecosystems in Australia, providing insights into how ecosystems have responded to environmental changes over time.</p>        
+</div>
+
+<div class="section Vilma">
+<p> <a href="https://scholar.google.com/citations?hl=es&user=2m-ZrxcAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><b>Aloïs Revéret</b></a> is a PhD student at Tromsø Museum, UiT. He investigates sedaDNA records along the western seaboard of the Fennoscandian Ice Sheet to study plant successional dynamics across stadial—interstadial cycles. He is also interested in trait-based environmental reconstruction in lakes, and currently works with mixed marine/terrestrial sediment cores from the North Sea.</p>        
+</div>
+
+
 
 
  
