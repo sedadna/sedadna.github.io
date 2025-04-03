@@ -67,14 +67,14 @@ Title: Our board
 </div>  
 
 <div class ="member">
-<div class="square"><a href="https://www.adelaide.edu.au/directory/vilma.perez" target="_blank"><img src="{{ "/category/members/Scarlett_Zetter.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.adelaide.edu.au/directory/Vilma.perez" target="_blank"><img src="{{ "/category/members/Vilma_Perez.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Vilma Pérez</p>
 <p>ACAD, The University of Adelaide</p>
 <p>Adelaide, Australia</p>  
 </div>  
 
 <div class ="member">
-<div class="square"><a href="https://www.adelaide.edu.au/directory/vilma.perez" target="_blank"><img src="{{ "/category/members/Alois_Reveret.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Alois-Reveret" target="_blank"><img src="{{ "/category/members/Alois_Reveret.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Aloïs Revéret </p>
 <p>UiT</p>
 <p>Tromsø, Norway</p> 
