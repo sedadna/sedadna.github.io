@@ -7,7 +7,7 @@ title: Events
 
 <div class="intro">
 
-<h3 class="section-title underline">Upcoming Event</h3>
+<h3 class="section-title underline">Upcoming Events</h3>
  
 <p><b>2nd SedaDNA Society meeting</b><p>
 
@@ -15,9 +15,27 @@ title: Events
 Pre-conference Workshops: June 23rd <br>
 Post-conference Excursions: June 26th<p>
  
-<p><b>The abstract submission is open! (deadline closes the 10th of January)</b>.<br>
-More information on how to submit and abstract, and details about registration <a href="https://nordicsocietyoikos.glueup.com/event/2nd-sedadna-scientific-society-conference-125115/home.html" target="_blank"><b> </b>can be found here</a>.</p>
+<p><b>The official website of the conference is over <a href="https://nordicsocietyoikos.glueup.com/event/2nd-sedadna-scientific-society-conference-125115/home.html" target="_blank"><b> </b>here</a>.</p>
 <br>
+
+
+<p align="justify">The <a href="https://ialipa-2025.sciencesconf.org/resource/page/id/43" target="_blank"><b>IAL-IPA joint meeting 2025</b></a> will be in Aix les Bains, France from October 6-10, 2025. The conference has three sessions that could be of interest: 
+   <ul>
+  <li><a href="https://ialipa-2025.sciencesconf.org/resource/page/id/11" target="_blank"><b> "II-1-New perspectives and findings in paleolimnology using environmental ancient DNA"</b></a> organised by <b>Kathleen R. Stoof-Leichsenring</b>, <b>Laura S. Epp</b>, <b>Charline Giguet-Covex</b>, <b>Maïlys Picard</b>, <b>Stanislav Jelavić</b>, <b>Antony G. Brown</b>.</li>
+    <li><a href="https://ialipa-2025.sciencesconf.org/resource/page/id/20" target="_blank"><b> "III-7-The coevolution of environments and biodiversity"</b></a> organised by <b>Leighton King</b>, <b>Pavani Misra</b>, <b>Irene Gregory-Eaves</b>.</li>
+  <li>  <a href="https://ialipa-2025.sciencesconf.org/resource/page/id/22" target="_blank"><b> "IV-1-Biogeochemical cycles in the subsurface: molecular and mineral proxies for integrated lacustrine studies"</b></a> organised by <b>Lotta Purkamo</b>, <b>Maïlys Picard</b>, <b>Aurèle Vuillemin</b>, and <b>Camille Thomas</b>. </li>
+</ul> 
+Abstracts can be submitted until the <b>20th of April 2025</b>.
+  </p>
+
+ <br>
+
+
+<p align="justify">The <a href="https://www.iscb.org/bigevo2025/home" target="_blank"><b>International Joint Conference on “BioGeoEvolution: Bridging Past and Future Discoveries, BiGEvo 2025”</b></a> is aims to foster interdisciplinary discussions and collaborations that deepen our understanding of the interplay between geological processes and the evolution of life on Earth. It will emphasize ancient microbial ecosystems as models for early Earth conditions and explore their modern applications in biotechnology and ecology. The conference will be held in Cuatro Ciénegas, Coahuila, Mexico, 28-30 May 2025, with pre and post-conference events occurring 26-27 May and 31 May - June 1. Abstract submission is now closed.</p>
+
+
+ <br>
+  <br>
 
 <h3 class="section-title underline">Monthly Recurring Events</h3>
  
