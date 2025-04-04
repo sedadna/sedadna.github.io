@@ -36,9 +36,9 @@ Title: Our board
   
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Kuldeep-More" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Kuldeep More</p>
-<p>CAGT</p>
-<p>Toulouse, France</p>  
+<p>Kuldeep More</p> 
+<p>University at Buffalo</p>
+<p>New York, USA</p>  
 </div>  
 
 </div>
