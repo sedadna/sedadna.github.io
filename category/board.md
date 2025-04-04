@@ -86,7 +86,7 @@ Title: Our board
 <div class="intro">
 
 <div class="section Maïlys">
-<p> <a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><b>Maïlys Picard</b></a> has a Ph.D. in Biology from the University of Waikato, based at the Cawthron Institute (Aotearoa / New Zealand), where she investigated drivers of cyanobacterial blooms in lakes. She is currently a postdoctoral fellow at the University of Umeå (Sweden) and her research aims to understand and reconstruct lake and coastal systems histories, with a particular interest in functional changes (photosythesis and microbial respirations). </p>        
+<p> <a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><b>Maïlys Picard</b></a> has a Ph.D. in Biology from the University of Waikato / Cawthron Institute (Aotearoa / New Zealand). She is currently a postdoctoral fellow at the University of Umeå (Sweden) and her research aims to understand and reconstruct lake and coastal systems histories, with a particular interest in functional changes (photosythesis and microbial respirations). </p>        
 </div>
   
 <div class="section Ines">
