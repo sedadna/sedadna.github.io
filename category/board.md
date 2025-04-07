@@ -55,7 +55,7 @@ Title: Our board
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Yan-Dongna" target="_blank"><img src="{{ "/category/members/Dongna_Yan.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Dongna Yan</p>
-<p>IEE, CAS</p>
+<p>IEE, Chinese Academy of Sciences</p>
 <p>Xi'an, China</p>
 </div>
 
