@@ -110,8 +110,6 @@ Title: Our board
 <p> <a href="https://www.researchgate.net/profile/Yan-Dongna" target="_blank"><b>Dongna Yan</b></a> has a Ph.D. in Environmental Science from the Institute of Earth Environment, Chinese Academy of Sciences (IEECAS), where she currently serves as an Associate Researcher. Her research focuses on paleolimnological reconstruction of aquatic ecosystem evolution, with a particular interest in investigating the co-evolutionary patterns between antibiotic-resistance genes and algal bloom dynamics.</p>        
 </div>
 
-Dongna Yan 
-
 
 <div class="section Scarlett">
 <p> <a href="https://www.researchgate.net/profile/Scarlett-Zetter" target="_blank"><b>Scarlett Zetter</b></a> is currently finishing a Ph.D in molecular palaeoecology at Tromsø Museum, Arctic University of Norway (UiT). Her research focuses on using plant and animal sedaDNA metabarcoding, in conjunction with climate reconstructions, to identify how climate change and anthropogenic impacts have affected community dynamics since the Last Glacial Maximum. </p>        
