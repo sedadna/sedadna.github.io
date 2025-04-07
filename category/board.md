@@ -90,7 +90,7 @@ Title: Our board
 </div>
   
 <div class="section Ines">
-<p>  <a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><b>Ines Barrenechea</b></a> has a PhD in Earth Sciences from Geneva University. Her PhD research was focused on reconstructing marine biodiversity and on biomonitoring using eDNA metabarcoding. Current research interest is marine extremophiles (protists) from ancient and recent sediments. She is currently a postdoc at the Arctic University of Norway, Tromsø, Norway. Ines is responsible for organising PhD seminars from Europe/Africa time zone.</p>        
+<p>  <a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><b>Ines Barrenechea</b></a> has a PhD in Earth Sciences from Geneva University. Her PhD research was focused on reconstructing marine biodiversity and on biomonitoring using eDNA metabarcoding. Her current research interest is marine extremophiles (protists) from ancient and recent sediments. She is currently a postdoc at the Arctic University of Norway, Tromsø, Norway. Ines is responsible for organising PhD seminars from Europe/Africa time zone.</p>        
 </div>  
 
 <div class="section Jordan">
@@ -102,8 +102,16 @@ Title: Our board
 </div>
 
 <div class="section Grayson">
-<p> <a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><b>Grayson Huston </b></a> is a Ph.D. student in Ecology and Environmental Science at the University of Maine – Orono. His research is focused on the recovery and detection of fish DNA from aquatic sediments, with an emphasis on the impact of dams on Maine’s migratory fish species. Within the society, Grayson is one of the leads in the fish working group. </p>        
+<p> <a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><b>Grayson Huston</b></a> is a Ph.D. student in Ecology and Environmental Science at the University of Maine – Orono. His research is focused on the recovery and detection of fish DNA from aquatic sediments, with an emphasis on the impact of dams on Maine’s migratory fish species. Within the society, Grayson is one of the leads in the fish working group. </p>        
 </div>
+
+
+<div class="section Dongna">
+<p> <a href="https://www.researchgate.net/profile/Yan-Dongna" target="_blank"><b>Dongna Yan</b></a> has a Ph.D. in Environmental Science from the Institute of Earth Environment, Chinese Academy of Sciences (IEECAS), where she currently serves as an Associate Researcher. Her research focuses on paleolimnological reconstruction of aquatic ecosystem evolution, with a particular interest in investigating the co-evolutionary patterns between antibiotic-resistance genes and algal bloom dynamics.</p>        
+</div>
+
+Dongna Yan 
+
 
 <div class="section Scarlett">
 <p> <a href="https://www.researchgate.net/profile/Scarlett-Zetter" target="_blank"><b>Scarlett Zetter</b></a> is currently finishing a Ph.D in molecular palaeoecology at Tromsø Museum, Arctic University of Norway (UiT). Her research focuses on using plant and animal sedaDNA metabarcoding, in conjunction with climate reconstructions, to identify how climate change and anthropogenic impacts have affected community dynamics since the Last Glacial Maximum. </p>        
