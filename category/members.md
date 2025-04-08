@@ -173,7 +173,13 @@ title: Members
 <p>Laura Gedminiene</p>
 <p>Nature Research Centre, Vilnius, Lithuania</p>
 </div>	
-	
+
+<div class ="member">
+<div class="square"><a href="https://ucrisportal.univie.ac.at/en/persons/pere-gelabert" target="_blank"><img src="{{ "/category/members/Pere_Gelabert.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Pere Gelabert</p>
+<p>University of Vienna, Austria</p>
+</div>
+ 
 <div class ="member">
 <div class="square"><a href="https://scholar.google.fr/citations?user=AN0gYZIAAAAJ&hl=fr&oi=ao" target="_blank"><img src="{{ "/assets/board-members/Charline.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Charline Giguet-Covex</p>
@@ -477,7 +483,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.ips.unibe.ch/aboutus/personen/paleoecology/dr_schwoerer_christoph/index_eng.html" target="_blank"><img src="{{ "/category/members/Christoph_Schwörer.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.ips.unibe.ch/aboutus/personen/paleoecology/dr_schwoerer_christoph/index_eng.html" target="_blank"><img src="{{ "/category/members/Christoph_Schworer.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Christoph Schwörer</p>
 <p>Institute of Plant Sciences, University of Bern, Switzerland</p>
 </div>
