@@ -61,7 +61,7 @@ Title: Our board
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Scarlett-Zetter" target="_blank"><img src="{{ "/category/members/Scarlett_Zetter.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Scarlett Zeter</p>
+<p>Scarlett Zetter</p>
 <p>UiT</p>
 <p>Tromsø, Norway</p>  
 </div>  
@@ -120,8 +120,8 @@ Title: Our board
 <p> <a href="https://scholar.google.com/citations?hl=es&user=2m-ZrxcAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><b>Vilma Pérez</b></a>  is a postdoctoral researcher at the Australian Centre for Ancient DNA, University of Adelaide, Australia. She specialises in palaeomicrobiology and molecular ecology, focusing on reconstructing microbial communities from present and past environments using environmental DNA techniques. Originally from Chile, Vilma completed her PhD in Biological Sciences at the University of Antofagasta, where she studied microbial adaptation to extreme environmental conditions in the Chilean Andean highlands. Her current work involves using ancient environmental DNA methods to reconstruct past ecosystems in Australia, providing insights into how ecosystems have responded to environmental changes over time.</p>        
 </div>
 
-<div class="section Vilma">
-<p> <a href="https://scholar.google.com/citations?hl=es&user=2m-ZrxcAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><b>Aloïs Revéret</b></a> is a PhD student at Tromsø Museum, UiT. He investigates sedaDNA records along the western seaboard of the Fennoscandian Ice Sheet to study plant successional dynamics across stadial—interstadial cycles. He is also interested in trait-based environmental reconstruction in lakes, and currently works with mixed marine/terrestrial sediment cores from the North Sea.</p>        
+<div class="section Aloïs">
+<p> <a href="https://www.researchgate.net/profile/Alois-Reveret" target="_blank"><b>Aloïs Revéret</b></a> is a PhD student at Tromsø Museum, UiT. He investigates sedaDNA records along the western seaboard of the Fennoscandian Ice Sheet to study plant successional dynamics across stadial—interstadial cycles. He is also interested in trait-based environmental reconstruction in lakes, and currently works with mixed marine/terrestrial sediment cores from the North Sea.</p>        
 </div>
 
 
