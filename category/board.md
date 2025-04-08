@@ -98,7 +98,7 @@ Title: Our board
 </div>  
 
 <div class="section Kuldeep">
-<p>  <a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><b>Kuldeep More</b></a> has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He is currently working as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France. In the society, Kuldeep is managing informations from new members.</p>
+<p>  <a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><b>Kuldeep More</b></a> has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. H worked as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France. NoCurrently he is at State University of New York (SUNY) at Buffalo investigation the recovery of (past) vegetation after the last glaciation in the south-east Alaska. In the society, Kuldeep is managing informations from new members.</p>
 </div>
 
 <div class="section Grayson">
