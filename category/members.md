@@ -406,7 +406,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Alois-Reveret" target="_blank"><img src="{{ "/category/members/Alois_Reveret.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Alois Reveret</p>
+<p>Aloïs Revéret</p>
 <p>The Arctic University of Norway, Norway</p>
 </div>
 
