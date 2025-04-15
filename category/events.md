@@ -39,9 +39,10 @@ Abstracts can be submitted until the <b>20th of April 2025</b>.
 
 <h3 class="section-title underline">Monthly Recurring Events</h3>
  
-<p> The <b>(under)graduate students seminar series</b> organized by Kevin Nota (MPI-EVA, Leipzig, Germany). Monthly seminars, where students can give short presentations, ask questions, and socialize with peers. Since we are covering the whole globe with the society, we have split up the meetings into two time zones, with each zone having a local coordinator. We will have the meeting on the first Thursday of every month. To be added to the mailing list, contact one of the following coordinators: </p>
- <p>Americas: <b>Jordan Von Eggers</b> (University of Wyoming)</p>
- <p>Europe/Africa: <b>Inès Barrenechea </b>(University of Geneva)</p>
+<p> Are you a student (BSc, MSc, PhD) or a postdoc working with sed(a)DNA? Would you like to meet with peers, discuss methods, data interpretation, present your latest findings? The <b>ERCs seminar series</b> are monthly meetings where early career researchers (ECRs) can chat, discuss abotu sedaDNA and ask questions in a non-formal setting students. Since labs working on sedaDNA are found all around the globe, we have split up the meetings into two time zones (the Americas and Europe/Africa), each a local coordinator. Meeting are usually on the first Thursday of every month. To be added to the mailing list, please fill in this <a href="https://docs.google.com/forms/d/1u33PJHJQJUXuyAedCrkgjgQLgKpq7y9M-VGLpCXxQGs/edit" target="_blank"><b>form</b></a>.
+<p> Local coordinators: </p>
+ <p>Americas: <b>Jordan Von Eggers</b> (University of Wyoming, USA)</p>
+ <p>Europe/Africa: <b>Inès Barrenechea </b>(The Arctic University of Norway, Norway)</p>
 <br>
  
 <h3 class="section-title underline">Pasts Events</h3>
