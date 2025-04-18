@@ -300,6 +300,12 @@ alt="Avatar" /></a></div>
 <p>Swedish Museum of Natural History, Stockholm, Sweden</p> 
 </div> 
 
+<div class ="member"> 
+<div class="square"><a href="https://www.researchgate.net/profile/Mathisse-Meyneng" target="_blank"><img src="{{ "/category/members/Mathisse_Meyneng.JPG" | relative_url }}" alt="Avatar" /></a></div> 
+<p>Mathisse Meyneng</p> 
+<p>Centre Bretagne - ZI de la Pointe du Diable, France</p> 
+</div> 
+
 <div class ="member">
 <div class="square"><a href="http://www.ucedna.com"
 target="_blank"><img src="{{ "/category/members/Rachel_Meyer.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -361,7 +367,13 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Christine Omuombo</p>
 <p>University of Nairobi, Kenya</p>
 </div>
-	
+
+<div class ="member">
+<div class="square"><a href="https://scholar.google.com.tr/citations?user=yyusZM8AAAAJ&hl=en" target="_blank"><img src="{{ "/category/members/Funda_ÖZDEMİR_DEĞİRMENCİ.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Funda Özdemir Değirmenci</p>
+<p>Ahi Evran University, Turkey</p>
+</div>
+
 <div class ="member">
 <div class="square"><a href="https://corsidilaurea.uniroma1.it/it/users/lauraparducciuniroma1it" target="_blank"><img src="{{ "/assets/board-members/LauraP.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Laura Parducci</p>
@@ -466,10 +478,16 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 
 <div class ="member">
 <div class="square"><a href="https://climatechange.umaine.edu/people/jasmine-saros/" target="_blank"><img src="{{ "/category/members/Jasmine_Saros.jpeg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Jasmine_Saros</p>
+<p>Jasmine Saros</p>
 <p>University of Maine, Orono, USA</p>
 </div>
-	
+
+ <div class ="member">
+<div class="square"><a href="https://scholar.google.com/citations?user=Ya5JkNEAAAAJ&hl=en" target="_blank"><img src="{{ "/category/members/Rikai_Sawafuji.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Rikai Sawafuji</p>
+<p>University of the Ryukyus, Japan</p>
+</div>
+
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Lennart-Schreiber" target="_blank"><img src="{{ "/category/members/Lennart_Schreiber.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Lennart Schreiber</p>
@@ -549,7 +567,13 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <p>Ralph Tiedemann</p>
 <p>University of Potsdam, Germany</p>
 </div>
-	
+
+<div class ="member">
+<div class="square"><a href="https://isem-evolution.fr/en/membre/tougard/" target="_blank"><img src="{{"/category/members/Christelle_Tougard.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Christelle Tougard</p>
+<p>Université Montpellier, France</p>
+</div>
+
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Narumi-Tsugeki" target="_blank"><img src="{{ "/assets/board-members/Narumi.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Narumi Tsugeki</p>
