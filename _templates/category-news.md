@@ -24,6 +24,7 @@ title: [month][year] Newsletter
 <h4 class="section-title underline">New papers</h4>
 
 <!-- This month's new papers -->
+# Search terms: sedaDNA and sedimentary ancient DNA (these are the most numerous) and you check out the other keywords (ancient environmental DNA, environmental DNA soil, environmental DNA permafrost, environmental DNA lake sediment, coral cores DNA, ancient DNA sediment, ancient DNA caves, ancient DNA speleothems)
 
 <p><b>Jing Wang</b> <i> et al.,</i> (2025) published "<a href="https://doi.org/10.1016/j.jglr.2025.102579" target="_blank"><u><i>Sedimentary recorded nitrogen-transforming microbes reflect climate fluctuations in a glacial lake on the Qinghai-Tibetan Plateau over a millennium timescale</i></u></a>" in the Journal of Great Lakes Research.</p>
 
