@@ -7,6 +7,31 @@ title: Job positions
 <div class="intro">
 <h3 class="section-title underline">New positions</h3>  
 
+<p align="justify">A <b>Funded PhD Opportunity on the project 'Historical Changes in Microalgal Communities in Coastal Aotearoa' at Lincoln University, Aotearoa–New Zealand.</b></p>
+<p align="justify">Applicants must meet the Lincoln University <a href=""https://www.lincoln.ac.nz/study/study-programmes/programme-search/doctor-of-philosophy-phd/><b>entry requirements</b></a>.</p>
+<p align="justify">We're looking for a motivated PhD student to join a multi-institutional team investigating historical changes in marine microalgal communities in coastal Aotearoa–New Zealand.
+This exciting project uses sediment cores, eDNA and palaeoecological tools to uncover how human impacts and environmental change have shaped our coastal ecosystems over time. You'll work with researchers from Lincoln University, Cawthron Institute, and GNS Science, alongside international experts and in partnership with hapori Māori.</p>
+<p align="justify">Supervisors: Prof. Susie Wood, Assoc. Dr Kyle Bland (GNS Science), Dr Kirsty Smith (Cawthron)</p>
+<p align="justify">More info & to apply <a href="https://www.findaphd.com/phds/project/historical-changes-in-microalgal-communities-in-coastal-aotearoa-new-zealand/?p185050">here</a>.</p>
+
+<br>
+<br>
+
+<p align="justify">A <b>Master’s thesis scholarship – Microbial genetics in lakes</b>.</p>
+<p align="justify">Applicants must meet the Lincoln University <a href=""https://www.lincoln.ac.nz/study/study-programmes/programme-search/doctor-of-philosophy-phd/><b>entry requirements</b></a>.</p>
+<p align="justify">This scholarship is <b>only</b> available to New Zealand citizens or residents.  We’re offering a funded Master’s project investigating microbial metagenomes from over 150 lakes across Aotearoa–New Zealand. This project is part of the MBIE-funded Smart Idea initiative: 'Applying a functional evidence approach to prioritise lake restoration initiatives'. You'll explore how microbial functions (e.g. carbon fixation, antimicrobial resistance) vary with environmental conditions.
+<ul>
+  <li>Stipend: $15,000 + tuition fees</li>
+  <li>Supervision: Prof. Susie Wood (Lincoln Uni) & Dr John Pearman (Cawthron Institute)</li>
+  <li>Start: early 2026</li>
+  <li>Ideal background: eDNA analysis, R coding skills</li>
+</ul></p>
+<p align="justify">Apply by emailing <a href="mailto:Susie.wood@lincoln.ac.nz">Susie.wood@lincoln.ac.nz</a> with your CV, academic transcript, motivation letter, and two referee contacts.</p>
+
+<br>
+<br>
+
+<p align="justify">A <a href="https://www.findaphd.com/phds/project/the-ancient-dna-and-palaeoenvironments-of-classical-ports/?p181593"><b>PhD position</b></a> (funded for 3.5 years) in palaeoenvironmental archaeology and <i>sed</i>aDNA at the University of Southampton.</p>
 <p align="justify">A <a href="https://www.jobbnorge.no/en/available-jobs/job/278815/phd-fellow-in-northern-european-landscape-archaeology-environmental-change-and-sedadna"><b>PhD position</b></a> (funded for four years) in palaeoenvironmental archaeology and <i>sed</i>aDNA at Tromsø Museum (UiT The Arctic University of Norway).</p>
 <p align="justify">This PhD project is attached to the Norwegian Research Council and UiT-funded <a href="https://uit.no/research/arcecogen/project?pid=871080">‘Viking to Christian Landscapes across the Norwegian Sea (V2C)’ project</a> (PI Tony Brown). The successful candidate will join a team coring lakes and mires in Central and Northern Norway, Orkney and Shetland Isles, UK and undertake metabarcoding and lithological analyses of lake-sediment cores to obtain information on past vascular plant species including crops, and herbivores in a region at the edge of agriculture in Europe. These data, together with similar data from southern Norway will be used together with the V2C team (UiT, University of Bergen, University of Durham UK, Highlands and Islands University UK) to:
 <ul>
