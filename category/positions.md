@@ -31,7 +31,6 @@ This exciting project uses sediment cores, eDNA and palaeoecological tools to un
 <br>
 <br>
 
-<p align="justify">A <a href="https://www.findaphd.com/phds/project/the-ancient-dna-and-palaeoenvironments-of-classical-ports/?p181593"><b>PhD position</b></a> (funded for 3.5 years) in palaeoenvironmental archaeology and <i>sed</i>aDNA at the University of Southampton.</p>
 <p align="justify">A <a href="https://www.jobbnorge.no/en/available-jobs/job/278815/phd-fellow-in-northern-european-landscape-archaeology-environmental-change-and-sedadna"><b>PhD position</b></a> (funded for four years) in palaeoenvironmental archaeology and <i>sed</i>aDNA at Tromsø Museum (UiT The Arctic University of Norway).</p>
 <p align="justify">This PhD project is attached to the Norwegian Research Council and UiT-funded <a href="https://uit.no/research/arcecogen/project?pid=871080">‘Viking to Christian Landscapes across the Norwegian Sea (V2C)’ project</a> (PI Tony Brown). The successful candidate will join a team coring lakes and mires in Central and Northern Norway, Orkney and Shetland Isles, UK and undertake metabarcoding and lithological analyses of lake-sediment cores to obtain information on past vascular plant species including crops, and herbivores in a region at the edge of agriculture in Europe. These data, together with similar data from southern Norway will be used together with the V2C team (UiT, University of Bergen, University of Durham UK, Highlands and Islands University UK) to:
 <ul>
