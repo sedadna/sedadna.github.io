@@ -8,7 +8,7 @@ title: Job positions
 <h3 class="section-title underline">New positions</h3>  
 
 <p align="justify">A <b>Funded PhD Opportunity on the project 'Historical Changes in Microalgal Communities in Coastal Aotearoa' at Lincoln University, Aotearoa–New Zealand.</b></p>
-<p align="justify">Applicants must meet the Lincoln University <a href=""https://www.lincoln.ac.nz/study/study-programmes/programme-search/doctor-of-philosophy-phd/><b>entry requirements</b></a>.</p>
+<p align="justify">Applicants must meet the Lincoln University <a href="https://www.lincoln.ac.nz/study/study-programmes/programme-search/doctor-of-philosophy-phd/"><b>entry requirements</b></a>.</p>
 <p align="justify">We're looking for a motivated PhD student to join a multi-institutional team investigating historical changes in marine microalgal communities in coastal Aotearoa–New Zealand.
 This exciting project uses sediment cores, eDNA and palaeoecological tools to uncover how human impacts and environmental change have shaped our coastal ecosystems over time. You'll work with researchers from Lincoln University, Cawthron Institute, and GNS Science, alongside international experts and in partnership with hapori Māori.</p>
 <p align="justify">Supervisors: Prof. Susie Wood, Assoc. Dr Kyle Bland (GNS Science), Dr Kirsty Smith (Cawthron)</p>
@@ -18,7 +18,7 @@ This exciting project uses sediment cores, eDNA and palaeoecological tools to un
 <br>
 
 <p align="justify">A <b>Master’s thesis scholarship – Microbial genetics in lakes</b>.</p>
-<p align="justify">Applicants must meet the Lincoln University <a href=""https://www.lincoln.ac.nz/study/study-programmes/programme-search/doctor-of-philosophy-phd/><b>entry requirements</b></a>.</p>
+<p align="justify">Applicants must meet the Lincoln University <a href="https://www.lincoln.ac.nz/study/study-programmes/programme-search/doctor-of-philosophy-phd/"><b>entry requirements</b></a>.</p>
 <p align="justify">This scholarship is <b>only</b> available to New Zealand citizens or residents.  We’re offering a funded Master’s project investigating microbial metagenomes from over 150 lakes across Aotearoa–New Zealand. This project is part of the MBIE-funded Smart Idea initiative: 'Applying a functional evidence approach to prioritise lake restoration initiatives'. You'll explore how microbial functions (e.g. carbon fixation, antimicrobial resistance) vary with environmental conditions.
 <ul>
   <li>Stipend: $15,000 + tuition fees</li>
