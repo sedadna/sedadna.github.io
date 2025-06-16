@@ -9,7 +9,7 @@ Title: New PhD graduates
 
 <!-- TEMPLATE
 <div class="avatar">
-<div class ="member">
+<div class="member">
 <div class="square"><a href="PROFILE.URL" target="_blank"><img src="{{ "/category/members/NAME.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>FULL_NAME</p>
 <p><a href="THESIS.URL">THESIS TITLE</a></p>
@@ -32,7 +32,7 @@ OR
 
 <!--
 <div class="avatar">
-<div class ="member">
+<div class="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Alois-Reveret" target="_blank"><img src="{{ "/category/members/Alois_Reveret.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Aloïs Revéret</p>
 <p><a href="">Ancient DNA in Arctic sediments: reconstructing ecosystem changes throughout the Quaternary deglaciation</a></p>
@@ -53,7 +53,7 @@ His research interests are steep skiing and tasty cheese.</p>
 </div>
 
 <div class="avatar">
-<div class ="member">
+<div class="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Tulug-Ataman" target="_blank"><img src="https://i1.rgstatic.net/ii/profile.image/11431281099073239-1669197987650_Q128/Tulug-Ataman.jpg" alt="Avatar" /></a></div>
 <p>Tuluğ G. Ataman</p>
 <p><a href="">Thesis title</a></p>
@@ -70,7 +70,7 @@ His research interests are steep skiing and tasty cheese.</p>
 </div>
 
 <div class="avatar">
-<div class ="member">
+<div class="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Scarlett-Zetter"><img src="{{ "/category/members/Scarlett_Zetter.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Scarlett Zetter</p>
 <p><a href="">Thesis title</a></p>
@@ -87,7 +87,7 @@ His research interests are steep skiing and tasty cheese.</p>
 -->
 
 <div class="avatar">
-<div class ="member">
+<div class="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Lucas-Elliott-3" target="_blank"><img src="https://i1.rgstatic.net/ii/profile.image/11431281183075306-1692700144000_Q128/Lucas-Elliott-3.jpg" alt="Avatar" /></a></div>
 <p>Lucas D. Elliott</p>
 <p><a href="https://munin.uit.no/handle/10037/35339">Unlocking the potential of ancient sedimentary DNA — Approaches to reconstructing past vegetation assemblages</a></p>
@@ -106,7 +106,7 @@ His research interests are steep skiing and tasty cheese.</p>
 </div>
 
 <div class="avatar">
-<div class ="member">
+<div class="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Izabella-Baisheva" target="_blank"><img src="{{ "/category/members/Izabella_Baisheva.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Izabella A. Baisheva</p>
 <p><a href="https://www.researchgate.net/publication/389547161_Past_and_present_environmental_conditions_in_Yakutia_-_a_palaeoecological_study_using_lake_sediments">Past and present environmental conditions in Yakutia — a (palaeo)ecological study using lake sediments</a></p>
