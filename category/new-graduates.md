@@ -104,7 +104,6 @@ His research interests are steep skiing and tasty cheese.</p>
   He is preparing a manuscript to compare the taxonomic yield of metabarcoding, shotgun metagenomics, and target capture.</p>
 <p>Luke is currently working as a postdoc with the <a href="https://uit.no/research/arcecogen">ArcEcoGen research group</a> at Tromsø Museum (UiT).</p>
 </div>
-</div>
 
 <div class="avatar">
 <div class ="member">
