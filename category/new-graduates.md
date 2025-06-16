@@ -107,7 +107,7 @@ His research interests are steep skiing and tasty cheese.</p>
 
 <div class="avatar">
 <div class ="member">
-<div class="square"><a href="PROFILE.URL" target="_blank"><img src="{{ "/category/members/Izabella_Baisheva.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Izabella-Baisheva" target="_blank"><img src="{{ "/category/members/Izabella_Baisheva.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Izabella A. Baisheva</p>
 <p><a href="https://www.researchgate.net/publication/389547161_Past_and_present_environmental_conditions_in_Yakutia_-_a_palaeoecological_study_using_lake_sediments">Past and present environmental conditions in Yakutia — a (palaeo)ecological study using lake sediments</a></p>
 <p>10/12/2024</p>
