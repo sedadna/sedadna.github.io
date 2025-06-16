@@ -43,10 +43,10 @@ OR
 </div>
 <div class="section Alois">
 <p><a href="https://www.researchgate.net/profile/Alois-Reveret">Aloïs Revéret</a> sincerely hopes that he will be able to submit his thesis and defend in time, although his track record does not quite plead for it.
-His <a href="https://doi.org/10.1111/fwb.14158">first paper</a> reviewed the methodologies detecting eDNA of freshwater aquatic plants, and showed that it can be leveraged to renconstruct abiotic variables.
-In his <a href="">second paper</a>, he investigates ten millennia of postglacial ecological succession at the southwestern edge of the Scandinavian peninsula.
-His <a href="">third paper</a> has mammoth in it.
-Aloïs also led the <a href="https://doi.org/10.1007/978-3-031-43799-1_8">chapter on aquatic macrophytes</a> in the <a href="https://link.springer.com/10.1007/978-3-031-43799-1">palaeolimology volume dedicated to sedimentary ancient DNA</a>, and contributed to an <a href="https://www.sciencedirect.com/science/article/pii/B9780323999311001719">encyclopedia article</a>.
+  His <a href="https://doi.org/10.1111/fwb.14158">first paper</a> reviewed the methodologies detecting eDNA of freshwater aquatic plants, and showed that it can be leveraged to renconstruct abiotic variables.
+  In his <a href="">second paper</a>, he investigates ten millennia of postglacial ecological succession at the southwestern edge of the Scandinavian peninsula.
+  His <a href="">third paper</a> has mammoth in it.
+  Aloïs also led the <a href="https://doi.org/10.1007/978-3-031-43799-1_8">chapter on aquatic macrophytes</a> in the <a href="https://link.springer.com/10.1007/978-3-031-43799-1">palaeolimology volume dedicated to sedimentary ancient DNA</a>, and contributed to an <a href="https://www.sciencedirect.com/science/article/pii/B9780323999311001719">encyclopedia article</a>.
 </p>
 <p><b>Aloïs is currently seeking a Nobel Prize.</b>
 His research interests are steep skiing and tasty cheese.</p>
@@ -117,9 +117,9 @@ His research interests are steep skiing and tasty cheese.</p>
 </div>
 <div class="section Izabella">
 <p> <a href="https://www.researchgate.net/profile/Izabella-Baisheva">Izabella Baisheva</a> successfully defended her Ph.D., which constitutes a major contribution to the limnology of Yakutia by applying <i>sed</i>aDNA metabarcoding of diatoms, macrophytes and terrestrial plants.
-Her <a href="https://doi.org/10.1007/s10933-023-00285-w">first paper</a> reconstructs the sequential formation and biological history of Lake Satagay, a thermokarst lake in Central Yakutia.
-Her <a href="https://doi.org/10.3389/fevo.2022.962906">second paper</a> explores how this lake's surrounding vegetation was affected by wildfire activity during the Holocene.
-In a <a href="https://doi.org/10.3389/feart.2024.1354284">third paper</a>, she investigated an intermontane basin lake in southwestern Yakutia, providing an unprecedented insight on freshwater and vegetation dynamics from the region between Lake Baikal and Central Yakutia, since the Last Glacial Maximum.
+  Her <a href="https://doi.org/10.1007/s10933-023-00285-w">first paper</a> reconstructs the sequential formation and biological history of Lake Satagay, a thermokarst lake in Central Yakutia.
+  Her <a href="https://doi.org/10.3389/fevo.2022.962906">second paper</a> explores how this lake's surrounding vegetation was affected by wildfire activity during the Holocene.
+  In a <a href="https://doi.org/10.3389/feart.2024.1354284">third paper</a>, she investigated an intermontane basin lake in southwestern Yakutia, providing an unprecedented insight on freshwater and vegetation dynamics from the region between Lake Baikal and Central Yakutia, since the Last Glacial Maximum.
   She is developing a manuscript assessing the environmental and biological status of 66 lakes across Central Yakutia and the Oymyakon Plateau.
 </p>
 <p>Izabella is currently a visiting researcher at the Institute of Tibetan Plateau Research (Chinese Academy of Sciences), and a guest researcher at AWI, Potsdam, Germany.
