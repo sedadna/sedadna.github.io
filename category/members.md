@@ -274,19 +274,26 @@ target="_blank"><img src="{{ "/category/members/Kerstin_Kowarik.jpg" | relative_
 <p>Michinobu Kuwae</p>
 <p>Ehime University, Matsuyama, Japan</p>
 </div>
-	
-<div class ="member">
-<div class="square"><a href="https://marklouielopez.weebly.com" target="_blank"><img src="{{ "/category/members/Mark_Lopez.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Mark Louie Lopez</p>
-<p>University of Victoria, British Columbia, Canada</p>
-</div>
 
-<div class ="member">
+ <div class ="member">
 <div class="square"><a href="https://www.gfz-potsdam.de/en/staff/susanne.liebner/sec37" target="_blank"><img src="{{ "/category/members/Susanne_Liebner.jpg" | relative_url }}" 
 alt="Avatar" /></a></div>
 <p>Susanne Liebner</p>
 <p>German Research Centre for Geosciences, Potsdam, Germany</p>
 </div>	
+
+<div class ="member">
+<div class="square"><a href="https://arts-sciences.buffalo.edu/biological-sciences/faculty/faculty-directory/charlotte-lindqvist.html" target="_blank"><img src="{{ "/category/members/Charlotte_lindqvist.jpg" | relative_url }}" 
+alt="Avatar" /></a></div>
+<p>Charlotte Lindqvist</p>
+<p>State University of New York at Buffalo, Buffalo, USA</p>
+</div>	
+
+<div class ="member">
+<div class="square"><a href="https://marklouielopez.weebly.com" target="_blank"><img src="{{ "/category/members/Mark_Lopez.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Mark Louie Lopez</p>
+<p>University of Victoria, British Columbia, Canada</p>
+</div>
 
 <div class ="member"> 
 <div class="square"><a href="https://old.iopan.pl/PaleoDept/KMel.html" target="_blank"><img src="{{ "/category/members/Katarzyna_Melaniuk.jpg" | relative_url }}" alt="Avatar" /></a></div> 
