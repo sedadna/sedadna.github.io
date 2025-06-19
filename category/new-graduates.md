@@ -89,12 +89,12 @@ His research interests are steep skiing and tasty cheese.</p>
 <div class="avatar">
 <div class="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Lucas-Elliott-3" target="_blank"><img src="https://i1.rgstatic.net/ii/profile.image/11431281183075306-1692700144000_Q128/Lucas-Elliott-3.jpg" alt="Avatar" /></a></div>
+</div>
 <p>Lucas D. Elliott</p>
 <p><a href="https://munin.uit.no/handle/10037/35339">Unlocking the potential of ancient sedimentary DNA — Approaches to reconstructing past vegetation assemblages</a></p>
 <p>15/11/2024</p>
 <p><a href="https://uit.no/research/arcecogen">Tromsø Museum, UiT The Arctic University of Norway</a></p>
 <p>Tromsø, Norway</p>
-</div>
 </div>
 <div class="section Luke">
 <p> <a href="https://www.researchgate.net/profile/Lucas-Elliott-3">Luke Elliott</a> successfully defended his Ph.D. this winter.
