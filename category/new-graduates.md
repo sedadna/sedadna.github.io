@@ -95,7 +95,6 @@ His research interests are steep skiing and tasty cheese.</p>
 <p>15/11/2024</p>
 <p><a href="https://uit.no/research/arcecogen">Tromsø Museum, UiT The Arctic University of Norway</a></p>
 <p>Tromsø, Norway</p>
-</div>
 <div class="section Luke">
 <p> <a href="https://www.researchgate.net/profile/Lucas-Elliott-3">Luke Elliott</a> successfully defended his Ph.D. this winter.
   His <a href="https://doi.org/10.3390/quat6010007">first paper</a> investigates the influence of glacial activity on vegetation and soil properties on an island in northern Norway.
@@ -103,6 +102,7 @@ His research interests are steep skiing and tasty cheese.</p>
   His third work, released as a <a href="https://doi.org/10.22541/au.172529953.39892767/v1">preprint</a>, is a bionformatical pipeline that annotates metagenomic datasets based on genome skims.
   He is preparing a manuscript to compare the taxonomic yield of metabarcoding, shotgun metagenomics, and target capture.</p>
 <p>Luke is currently working as a postdoc with the <a href="https://uit.no/research/arcecogen">ArcEcoGen research group</a> at Tromsø Museum (UiT).</p>
+</div>
 </div>
 
 <div class="avatar">
