@@ -113,7 +113,7 @@ His research interests are steep skiing and tasty cheese.</p>
       <img src="https://i1.rgstatic.net/ii/profile.image/11431281183075306-1692700144000_Q128/Lucas-Elliott-3.jpg" alt="Avatar2" />
     </a>
   </div>
-  <div class="member2">
+  <div class="member">
     <p>Lucas D. Elliott</p>
     <p><a href="https://munin.uit.no/handle/10037/35339">Unlocking the potential of ancient sedimentary DNA — Approaches to reconstructing past vegetation assemblages</a></p>
     <p>15/11/2024</p>
