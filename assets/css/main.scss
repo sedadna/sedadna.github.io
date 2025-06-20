@@ -98,7 +98,6 @@ $sidebar-width: 22rem;
   flex-wrap: nowrap;
 }
 
-
 .avatar2 img{
     border-radius: 50%;
     width: 12rem;
@@ -108,7 +107,33 @@ $sidebar-width: 22rem;
     margin: auto;
 }
 
+.avatar2 {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
 
+.member {
+  flex: 2; /* Give it more space */
+}
+
+.member2 p {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  margin: 0.3rem 0;
+  text-align: left;
+}
+
+.square2 {
+  width: 12rem;
+  height: 12rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1.5rem;
+}
 
 
 
