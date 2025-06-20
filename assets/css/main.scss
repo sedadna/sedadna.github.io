@@ -90,6 +90,24 @@ $sidebar-width: 22rem;
     margin: auto;
 }
 
+.avatar2 {
+    display: flex;
+    flex-wrap:nowrap;
+    justify-content: space-around;
+}
+
+.avatar2 img{
+    border-radius: 50%;
+    width: 12rem;
+    height: 12rem;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+
+
+
+
 .member p {
     text-align: center;
     font-size: 0.7rem;
