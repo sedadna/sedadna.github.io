@@ -107,13 +107,6 @@ $sidebar-width: 22rem;
 }
 
 
-
-.member {
-  flex: 2; /* Give it more space */
-}
-
-
-
 .square2 {
   display: flex;
   justify-content: center;
@@ -122,7 +115,22 @@ $sidebar-width: 22rem;
   /* Remove width/height here */
 }
 
+.member2 {
+  flex: 1;
+  text-align: left;
+}
 
+.member2 p {
+  text-align: left;
+  font-size: 0.7rem;
+  margin: 0.2rem 0;
+}
+
+.member2 p:first-of-type {
+  font-size: 0.8rem;
+  color: #000;
+  font-weight: bold;
+}
 
 .member p {
     text-align: center;
