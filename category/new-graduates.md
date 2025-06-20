@@ -86,9 +86,9 @@ His research interests are steep skiing and tasty cheese.</p>
 </div>
 -->
 
-<div class="avatar2">
+<div class="avatar">
 <div class="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Lucas-Elliott-3" target="_blank"><img src="https://i1.rgstatic.net/ii/profile.image/11431281183075306-1692700144000_Q128/Lucas-Elliott-3.jpg" alt="Avatar2" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Lucas-Elliott-3" target="_blank"><img src="https://i1.rgstatic.net/ii/profile.image/11431281183075306-1692700144000_Q128/Lucas-Elliott-3.jpg" alt="Avatar" /></a></div>
 <p>Lucas D. Elliott</p>
 <p><a href="https://munin.uit.no/handle/10037/35339">Unlocking the potential of ancient sedimentary DNA — Approaches to reconstructing past vegetation assemblages</a></p>
 <p>15/11/2024</p>
@@ -104,6 +104,36 @@ His research interests are steep skiing and tasty cheese.</p>
   He is preparing a manuscript to compare the taxonomic yield of metabarcoding, shotgun metagenomics, and target capture.</p>
 <p>Luke is currently working as a postdoc with the <a href="https://uit.no/research/arcecogen">ArcEcoGen research group</a> at Tromsø Museum (UiT).</p>
 </div>
+
+
+<!-- Maïlys' new try -->
+<div class="avatar2">
+  <div class="square">
+    <a href="https://www.researchgate.net/profile/Lucas-Elliott-3" target="_blank">
+      <img src="https://i1.rgstatic.net/ii/profile.image/11431281183075306-1692700144000_Q128/Lucas-Elliott-3.jpg" alt="Avatar2" />
+    </a>
+  </div>
+  <div class="member">
+    <p>Lucas D. Elliott</p>
+    <p><a href="https://munin.uit.no/handle/10037/35339">Unlocking the potential of ancient sedimentary DNA — Approaches to reconstructing past vegetation assemblages</a></p>
+    <p>15/11/2024</p>
+    <p><a href="https://uit.no/research/arcecogen">Tromsø Museum, UiT The Arctic University of Norway</a></p>
+    <p>Tromsø, Norway</p>
+  </div>
+</div>
+<!-- Text below image -->
+<div class="section Luke">
+  <p><a href="https://www.researchgate.net/profile/Lucas-Elliott-3">Luke Elliott</a> successfully defended his Ph.D. this winter.
+  His <a href="https://doi.org/10.3390/quat6010007">first paper</a> investigates the influence of glacial activity on vegetation and soil properties on an island in northern Norway.
+  His <a href="https://doi.org/10.1111/1755-0998.13926">second paper</a> advances the capacity of <i>sed</i>aDNA to study intraspecific genetic diversity for palaeo-phylogeography.
+  His third work, released as a <a href="https://doi.org/10.22541/au.172529953.39892767/v1">preprint</a>, is a bionformatical pipeline that annotates metagenomic datasets based on genome skims.
+  He is preparing a manuscript to compare the taxonomic yield of metabarcoding, shotgun metagenomics, and target capture.</p>
+  <p>Luke is currently working as a postdoc with the <a href="https://uit.no/research/arcecogen">ArcEcoGen research group</a> at Tromsø Museum (UiT).</p>
+</div>
+
+
+
+
 
 <div class="avatar">
 <div class="member">
