@@ -90,21 +90,12 @@ $sidebar-width: 22rem;
     margin: auto;
 }
 
-.avatar2 {
-  display: flex;
-  align-items: flex-start;
-  gap: 1rem;
-  margin-bottom: 1rem;
-  flex-wrap: nowrap;
-}
-
 .avatar2 img{
     border-radius: 50%;
     width: 12rem;
     height: 12rem;
     object-fit: cover;
     display: block;
-    margin: auto;
 }
 
 .avatar2 {
@@ -114,6 +105,8 @@ $sidebar-width: 22rem;
   max-width: 900px;
   margin: 0 auto;
 }
+
+
 
 .member {
   flex: 2; /* Give it more space */
@@ -127,12 +120,11 @@ $sidebar-width: 22rem;
 }
 
 .square2 {
-  width: 12rem;
-  height: 12rem;
   display: flex;
   justify-content: center;
   align-items: center;
   margin-right: 1.5rem;
+  /* Remove width/height here */
 }
 
 
