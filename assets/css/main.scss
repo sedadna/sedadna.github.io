@@ -91,10 +91,13 @@ $sidebar-width: 22rem;
 }
 
 .avatar2 {
-    display: flex;
-    flex-wrap:nowrap;
-    justify-content: space-around;
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: nowrap;
 }
+
 
 .avatar2 img{
     border-radius: 50%;
@@ -104,6 +107,7 @@ $sidebar-width: 22rem;
     display: block;
     margin: auto;
 }
+
 
 
 
