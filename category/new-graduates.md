@@ -86,6 +86,10 @@ His research interests are steep skiing and tasty cheese.</p>
 </div>
 -->
 
+
+
+
+<!-- previous
 <div class="avatar">
 <div class="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Lucas-Elliott-3" target="_blank"><img src="https://i1.rgstatic.net/ii/profile.image/11431281183075306-1692700144000_Q128/Lucas-Elliott-3.jpg" alt="Avatar" /></a></div>
@@ -104,7 +108,7 @@ His research interests are steep skiing and tasty cheese.</p>
   He is preparing a manuscript to compare the taxonomic yield of metabarcoding, shotgun metagenomics, and target capture.</p>
 <p>Luke is currently working as a postdoc with the <a href="https://uit.no/research/arcecogen">ArcEcoGen research group</a> at Tromsø Museum (UiT).</p>
 </div>
-
+-->
 
 <!-- Maïlys' new try -->
 <div class="avatar2">
