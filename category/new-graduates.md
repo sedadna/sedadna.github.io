@@ -139,7 +139,7 @@ His research interests are steep skiing and tasty cheese.</p>
 
 <hr style="opacity:0">
 <hr style="opacity:0">
-4u
+
 <div class="avatar2">
   <div class="member2">
     <div class="square2">
