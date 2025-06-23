@@ -137,9 +137,7 @@ His research interests are steep skiing and tasty cheese.</p>
   <p>Luke is currently working as a postdoc with the <a href="https://uit.no/research/arcecogen">ArcEcoGen research group</a> at Tromsø Museum (UiT).</p>
 </div>
 
-
-
-
+<hr style="opacity:0">
 
 <div class="avatar2">
   <div class="member2">
