@@ -119,8 +119,10 @@ His research interests are steep skiing and tasty cheese.</p>
   </div>
   <div class="member2">
     <p>Lucas D. Elliott</p>
+    <p></p>
     <p><a href="https://munin.uit.no/handle/10037/35339">Unlocking the potential of ancient sedimentary DNA — Approaches to reconstructing past vegetation assemblages</a></p>
     <p>15/11/2024</p>
+    <p></p>
     <p><a href="https://uit.no/research/arcecogen">Tromsø Museum, UiT The Arctic University of Norway</a></p>
     <p>Tromsø, Norway</p>
   </div>
@@ -139,15 +141,22 @@ His research interests are steep skiing and tasty cheese.</p>
 
 
 
-<div class="avatar">
-<div class="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Izabella-Baisheva" target="_blank"><img src="{{ "/category/members/Izabella_Baisheva.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Izabella A. Baisheva</p>
-<p><a href="https://www.researchgate.net/publication/389547161_Past_and_present_environmental_conditions_in_Yakutia_-_a_palaeoecological_study_using_lake_sediments">Past and present environmental conditions in Yakutia — a (palaeo)ecological study using lake sediments</a></p>
-<p>10/12/2024</p>
-<p><a href="https://www.awi.de/en/">Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)</a> and <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></p>
-<p>Potsdam, Germany</p>
-</div>
+<div class="avatar2">
+  <div class="member2">
+    <div class="square2">
+      <a href="https://www.researchgate.net/profile/Izabella-Baisheva" target="_blank">
+        <img src="{{ "/category/members/Izabella_Baisheva.jpg" | relative_url }}" alt="Avatar" />
+      </a>
+    </div>
+    <div class="member2">
+    <p>Izabella A. Baisheva</p>
+    <p></p>
+    <p><a href="https://www.researchgate.net/publication/389547161_Past_and_present_environmental_conditions_in_Yakutia_-_a_palaeoecological_study_using_lake_sediments">Past and present environmental conditions in Yakutia — a (palaeo)ecological study using lake sediments</a></p>
+    <p>10/12/2024</p>
+    <p></p>
+    <p><a href="https://www.awi.de/en/">Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)</a> and <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></p>
+    <p>Potsdam, Germany</p>
+  </div>
 </div>
 <div class="section Izabella">
 <p> <a href="https://www.researchgate.net/profile/Izabella-Baisheva">Izabella Baisheva</a> successfully defended her Ph.D., which constitutes a major contribution to the limnology of Yakutia by applying <i>sed</i>aDNA metabarcoding of diatoms, macrophytes and terrestrial plants.
