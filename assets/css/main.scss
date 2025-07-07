@@ -118,7 +118,15 @@ $sidebar-width: 22rem;
 .member3 p {
   text-align: left;
   font-size: 0.7rem;
-  margin: 0.2rem 0;
+  margin: 0.2rem 0;  
+  flex: 1;
+  text-align: left;
+}
+
+.member3 p:first-of-type {
+  font-size: 0.8rem;
+  color: #000;
+  font-weight: bold;
 }
 
 .member2 p {
