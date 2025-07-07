@@ -110,7 +110,7 @@ His research interests are steep skiing and tasty cheese.</p>
 </div>
 -->
 
-<!-- Maïlys' new try -->
+<!-- Luke-->
 <div class="avatar2">
   <div class="square2">
     <a href="https://www.researchgate.net/profile/Lucas-Elliott-3" target="_blank">
@@ -139,6 +139,38 @@ His research interests are steep skiing and tasty cheese.</p>
 
 <hr style="opacity:0">
 <hr style="opacity:0">
+
+
+<!-- Izabella-->
+<div class="avatar2">
+  <div class="square2">
+    <a href="https://www.researchgate.net/profile/Izabella-Baisheva" target="_blank">
+      <img src="{{ "/category/members/Izabella_Baisheva.jpg" | relative_url }}" alt="Avatar2" />
+    </a>
+  </div>
+  <div class="member2">
+    <p>Izabella A. Baisheva</p>
+    <hr style="opacity:0">
+    <p><a  href="https://www.researchgate.net/publication/389547161_Past_and_present_environmental_conditions_in_Yakutia_-_a_palaeoecological_study_using_lake_sediments">Past and present environmental conditions in Yakutia — a (palaeo)ecological study using lake sediments</a></p>
+    <p>10/12/2024</p>
+    <hr style="opacity:0">
+    <p>Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)</a> and <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></p>
+    <p>Potsdam, Germany</p>
+  </div>
+</div>
+<!-- Text below image -->
+<div class="section Izabella">
+<p> <a href="https://www.researchgate.net/profile/Izabella-Baisheva">Izabella Baisheva</a> successfully defended her Ph.D., which constitutes a major contribution to the limnology of Yakutia by applying <i>sed</i>aDNA metabarcoding of diatoms, macrophytes and terrestrial plants.
+  Her <a href="https://doi.org/10.1007/s10933-023-00285-w">first paper</a> reconstructs the sequential formation and biological history of Lake Satagay, a thermokarst lake in Central Yakutia.
+  Her <a href="https://doi.org/10.3389/fevo.2022.962906">second paper</a> explores how this lake's surrounding vegetation was affected by wildfire activity during the Holocene.
+  In a <a href="https://doi.org/10.3389/feart.2024.1354284">third paper</a>, she investigated an intermontane basin lake in southwestern Yakutia, providing an unprecedented insight on freshwater and vegetation dynamics from the region between Lake Baikal and Central Yakutia, since the Last Glacial Maximum.
+  She is developing a manuscript assessing the environmental and biological status of 66 lakes across Central Yakutia and the Oymyakon Plateau.
+</p>
+<p>Izabella is currently a visiting researcher at the Institute of Tibetan Plateau Research (Chinese Academy of Sciences), and a guest researcher at AWI, Potsdam, Germany.
+<b>She is looking for a postdoctoral position in or around the Netherlands</b>, any recommendations or connections would be well appreciated.</p>
+</div>
+
+
 
 <div class="avatar2">
   <div class="member2">
