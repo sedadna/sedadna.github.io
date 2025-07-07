@@ -119,10 +119,10 @@ His research interests are steep skiing and tasty cheese.</p>
   </div>
   <div class="member2">
     <p>Lucas D. Elliott</p>
-    <hr style="opacity:0">
+    <!-- <hr style="opacity:0">-->
     <p><a href="https://munin.uit.no/handle/10037/35339">Unlocking the potential of ancient sedimentary DNA — Approaches to reconstructing past vegetation assemblages</a></p>
     <p>15/11/2024</p>
-    <hr style="opacity:0">
+   <!--  <hr style="opacity:0">-->
     <p><a href="https://uit.no/research/arcecogen">Tromsø Museum, UiT The Arctic University of Norway</a></p>
     <p>Tromsø, Norway</p>
   </div>
