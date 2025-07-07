@@ -7,6 +7,7 @@ title: Job positions
 <div class="intro">
 <h3 class="section-title underline">New positions</h3>  
 
+<!--
 <p align="justify">A <b>Funded PhD Opportunity on the project 'Historical Changes in Microalgal Communities in Coastal Aotearoa' at Lincoln University, Aotearoa–New Zealand.</b></p>
 <p align="justify">Applicants must meet the Lincoln University <a href="https://www.lincoln.ac.nz/study/study-programmes/programme-search/doctor-of-philosophy-phd/"><b>entry requirements</b></a>.</p>
 <p align="justify">We're looking for a motivated PhD student to join a multi-institutional team investigating historical changes in marine microalgal communities in coastal Aotearoa–New Zealand.
@@ -16,6 +17,7 @@ This exciting project uses sediment cores, eDNA and palaeoecological tools to un
 
 <br>
 <br>
+-->
 
 <p align="justify">A <b>Master’s thesis scholarship – Microbial genetics in lakes</b>.</p>
 <p align="justify">Applicants must meet the Lincoln University <a href="https://www.lincoln.ac.nz/study/study-programmes/programme-search/doctor-of-philosophy-phd/"><b>entry requirements</b></a>.</p>
