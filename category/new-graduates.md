@@ -150,10 +150,8 @@ His research interests are steep skiing and tasty cheese.</p>
   </div>
   <div class="member2">
     <p>Izabella A. Baisheva</p>
-    <hr style="opacity:0">
     <p><a  href="https://www.researchgate.net/publication/389547161_Past_and_present_environmental_conditions_in_Yakutia_-_a_palaeoecological_study_using_lake_sediments">Past and present environmental conditions in Yakutia — a (palaeo)ecological study using lake sediments</a></p>
     <p>10/12/2024</p>
-    <hr style="opacity:0">
     <p>Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)</a> and <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></p>
     <p>Potsdam, Germany</p>
   </div>
