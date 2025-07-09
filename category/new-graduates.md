@@ -7,6 +7,34 @@ Title: New PhD graduates
 <h3 class="section-title underline">Our new doctors in sedimentary DNA</h3>
 </div>
 
+<!-- Barbara -->
+<div class="avatar2">
+  <div class="square2">
+    <a href="https://www.researchgate.net/profile/Barbara-Von-Hippel" target="_blank">
+      <img src="{{ "/category/members/Barbara_von_Hippel.jpg" | relative_url }}" alt="Avatar2" />
+    </a>
+  </div>
+  <div class="member2">
+    <p style="margin-bottom:0.4em">Barbara von Hippel</p>
+    <p><a href="https://doi.org/10.25932/publishup-63600">Long-term bacteria-fungi-plant associations in permafrost soils inferred from palaeometagenomics</a></p>
+    <p style="margin-bottom:0.4em">28/02/2024</p>
+    <p><a href="https://www.awi.de/en/science.html">Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)</a> and <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></p>
+    <p>Potsdam, Germany</p>
+  </div>
+</div>
+<!-- Text below image -->
+<div class="section Barbara">
+  <p><a href="https://www.researchgate.net/profile/Barbara-Von-Hippel">Barbara</a> successfully defended her Ph.D. in February 2024.
+    Her <a href="https://doi.org/10.1002/edn3.315">first paper</a> explores the diversity of fungi in sedimentary ancient DNA.
+    Her <a href="https://doi.org/10.1016/j.quascirev.2022.107758">second paper</a> expands her previous work by investigating co-occurrence patterns of plants and fungi across Siberia.
+    Her <a href="https://doi.org/10.1126/sciadv.adj5527">third paper</a> was recently published, and reconstructs postglacial pedogenesis and soil processes, inferred from metagenomics data.</p>
+  <p>Barbara is currently working as a postdoc at the University of Augsburg.
+    <b>She is also looking for collaborations, and would love to contribute to further aDNA publications that include her knowledge areas — fungi, bacteria, plants, soil processes — and more specifically focusing on soil communities.</p>
+</div>
+
+<hr style="opacity:0">
+<hr style="opacity:0">
+
 <!-- Ying -->
 <div class="avatar2">
   <div class="square2">
