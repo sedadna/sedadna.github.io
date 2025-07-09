@@ -15,9 +15,9 @@ Title: New PhD graduates
     </a>
   </div>
   <div class="member2">
-    <p style="margin-bottom:0.5em">Ying Liu</p>
+    <p style="margin-bottom:0.4em">Ying Liu</p>
     <p><a href="https://doi.org/10.25932/publishup-68048">Understanding drivers on plant communities change through sedaDNA evidence in the Arctic and Alpine region</a></p>
-    <p style="margin-bottom:0.5em">16/05/2025</p>
+    <p style="margin-bottom:0.4em">16/05/2025</p>
     <p><a href="https://www.awi.de/en/science/geosciences/polar-terrestrial-environmental-systems/research-foci/high-latitude-biodiversity.html">Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)</a> and <a href="https://www.uni-potsdam.de/en/umwelt/">University of Potsdam</a></p>
     <p>Potsdam, Germany</p>
   </div>
@@ -45,9 +45,9 @@ Title: New PhD graduates
     </a>
   </div>
   <div class="member2">
-    <p>Lucas D. Elliott</p>
+    <p style="margin-bottom:0.4em">Lucas D. Elliott</p>
     <p><a href="https://munin.uit.no/handle/10037/35339">Unlocking the potential of ancient sedimentary DNA — Approaches to reconstructing past vegetation assemblages</a></p>
-    <p>15/11/2024</p>
+    <p style="margin-bottom:0.4em">15/11/2024</p>
     <p><a href="https://uit.no/research/arcecogen">Tromsø Museum, UiT The Arctic University of Norway</a></p>
     <p>Tromsø, Norway</p>
   </div>
@@ -73,9 +73,9 @@ Title: New PhD graduates
     </a>
   </div>
   <div class="member2">
-    <p>Izabella A. Baisheva</p>
+    <p style="margin-bottom:0.4em">Izabella A. Baisheva</p>
     <p><a  href="https://www.researchgate.net/publication/389547161_Past_and_present_environmental_conditions_in_Yakutia_-_a_palaeoecological_study_using_lake_sediments">Past and present environmental conditions in Yakutia — a (palaeo)ecological study using lake sediments</a></p>
-    <p>10/12/2024</p>
+    <p style="margin-bottom:0.4em">10/12/2024</p>
     <p><a href="https://www.awi.de/en/science.html">Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)</a> and <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></p>
     <p>Potsdam, Germany</p>
   </div>
