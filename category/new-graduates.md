@@ -10,7 +10,7 @@ Title: New PhD graduates
 <!-- Barbara -->
 <div class="avatar2">
   <div class="square2">
-    <a href="https://www.researchgate.net/profile/Barbara-Von-Hippel" target="_blank">
+    <a href="https://de.linkedin.com/in/dr-barbara-von-hippel-907755133?trk=people-guest_people_search-card" target="_blank">
       <img src="{{ "/category/members/Barbara_von_Hippel.jpg" | relative_url }}" alt="Avatar2" />
     </a>
   </div>
@@ -24,7 +24,7 @@ Title: New PhD graduates
 </div>
 <!-- Text below image -->
 <div class="section Barbara">
-  <p><a href="https://www.researchgate.net/profile/Barbara-Von-Hippel">Barbara</a> successfully defended her Ph.D. in February 2024.
+  <p><a href="https://de.linkedin.com/in/dr-barbara-von-hippel-907755133?trk=people-guest_people_search-card">Barbara</a> successfully defended her Ph.D. in February 2024.
     Her <a href="https://doi.org/10.1002/edn3.315">first paper</a> explores the diversity of fungi in sedimentary ancient DNA.
     Her <a href="https://doi.org/10.1016/j.quascirev.2022.107758">second paper</a> expands her previous work by investigating co-occurrence patterns of plants and fungi across Siberia.
     Her <a href="https://doi.org/10.1126/sciadv.adj5527">third paper</a> was recently published, and reconstructs postglacial pedogenesis and soil processes, inferred from metagenomics data.</p>
