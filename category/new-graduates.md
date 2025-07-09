@@ -11,7 +11,7 @@ Title: New PhD graduates
 <div class="avatar2">
   <div class="square2">
     <a href="https://www.researchgate.net/profile/Ying-Liu-369?ev=hdr_xprf" target="_blank">
-      <img src="{{ "/category/members/Ying_Liu.jpg" | relative_url }}" alt="Avatar2" />
+      <img src="{{ "/category/members/Ying_Liu.png" | relative_url }}" alt="Avatar2" />
     </a>
   </div>
   <div class="member2">
