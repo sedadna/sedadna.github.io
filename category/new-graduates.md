@@ -15,7 +15,7 @@ Title: New PhD graduates
     </a>
   </div>
   <div class="member2">
-    <p>Ying Liu</p>
+    <p style="margin-bottom:1em">Ying Liu</p>
     <p><a href="https://doi.org/10.25932/publishup-68048">Understanding drivers on plant communities change through sedaDNA evidence in the Arctic and Alpine region</a></p>
     <p>16/05/2025</p>
     <p><a href="https://www.awi.de/en/science/geosciences/polar-terrestrial-environmental-systems/research-foci/high-latitude-biodiversity.html">Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)</a> and <a href="https://www.uni-potsdam.de/en/umwelt/">University of Potsdam</a></p>
