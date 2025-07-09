@@ -117,5 +117,5 @@ Title: New PhD graduates
     Her <a href="https://doi.org/10.1016/j.quascirev.2022.107758">second paper</a> expands her previous work by investigating co-occurrence patterns of plants and fungi across Siberia.
     Her <a href="https://doi.org/10.1126/sciadv.adj5527">third paper</a> was recently published, and reconstructs postglacial pedogenesis and soil processes, inferred from metagenomics data.</p>
   <p>Barbara is currently working as a postdoc at the University of Augsburg.
-    <b>She is also looking for collaborations, and would love to contribute to further aDNA publications that include her knowledge areas — fungi, bacteria, plants, soil processes — and more specifically focusing on soil communities.</p>
+    <b>She is also looking for collaborations, and would love to contribute to further aDNA publications that include her knowledge areas — fungi, bacteria, plants, soil processes — and more specifically focusing on soil communities.</b></p>
 </div>
