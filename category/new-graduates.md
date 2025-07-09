@@ -7,34 +7,6 @@ Title: New PhD graduates
 <h3 class="section-title underline">Our new doctors in sedimentary DNA</h3>
 </div>
 
-<!-- Barbara -->
-<div class="avatar2">
-  <div class="square2">
-    <a href="https://de.linkedin.com/in/dr-barbara-von-hippel-907755133?trk=people-guest_people_search-card" target="_blank">
-      <img src="{{ "/category/members/Barbara_von_Hippel.jpg" | relative_url }}" alt="Avatar2" />
-    </a>
-  </div>
-  <div class="member2">
-    <p style="margin-bottom:0.4em">Barbara von Hippel</p>
-    <p><a href="https://doi.org/10.25932/publishup-63600">Long-term bacteria-fungi-plant associations in permafrost soils inferred from palaeometagenomics</a></p>
-    <p style="margin-bottom:0.4em">28/02/2024</p>
-    <p><a href="https://www.awi.de/en/science.html">Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)</a> and <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></p>
-    <p>Potsdam, Germany</p>
-  </div>
-</div>
-<!-- Text below image -->
-<div class="section Barbara">
-  <p><a href="https://de.linkedin.com/in/dr-barbara-von-hippel-907755133?trk=people-guest_people_search-card">Barbara</a> successfully defended her Ph.D. in February 2024.
-    Her <a href="https://doi.org/10.1002/edn3.315">first paper</a> explores the diversity of fungi in sedimentary ancient DNA.
-    Her <a href="https://doi.org/10.1016/j.quascirev.2022.107758">second paper</a> expands her previous work by investigating co-occurrence patterns of plants and fungi across Siberia.
-    Her <a href="https://doi.org/10.1126/sciadv.adj5527">third paper</a> was recently published, and reconstructs postglacial pedogenesis and soil processes, inferred from metagenomics data.</p>
-  <p>Barbara is currently working as a postdoc at the University of Augsburg.
-    <b>She is also looking for collaborations, and would love to contribute to further aDNA publications that include her knowledge areas — fungi, bacteria, plants, soil processes — and more specifically focusing on soil communities.</p>
-</div>
-
-<hr style="opacity:0">
-<hr style="opacity:0">
-
 <!-- Ying -->
 <div class="avatar2">
   <div class="square2">
@@ -60,6 +32,36 @@ Title: New PhD graduates
   </p>
   <p>Ying is currently a guest researcher at the Alfred Wegener Institute (AWI) in Potsdam, Germany.
     In September, she will join the <a href="https://uit.no/research/arcecogen">ArcEcoGen research group</a> at Tromsø Museum (UiT), as a postdoctoral researcher.</p>
+</div>
+
+<hr style="opacity:0">
+<hr style="opacity:0">
+
+<!-- Izabella -->
+<div class="avatar2">
+  <div class="square2">
+    <a href="https://www.researchgate.net/profile/Izabella-Baisheva" target="_blank">
+      <img src="{{ "/category/members/Izabella_Baisheva.jpg" | relative_url }}" alt="Avatar2" />
+    </a>
+  </div>
+  <div class="member2">
+    <p style="margin-bottom:0.4em">Izabella A. Baisheva</p>
+    <p><a  href="https://www.researchgate.net/publication/389547161_Past_and_present_environmental_conditions_in_Yakutia_-_a_palaeoecological_study_using_lake_sediments">Past and present environmental conditions in Yakutia — a (palaeo)ecological study using lake sediments</a></p>
+    <p style="margin-bottom:0.4em">10/12/2024</p>
+    <p><a href="https://www.awi.de/en/science.html">Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)</a> and <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></p>
+    <p>Potsdam, Germany</p>
+  </div>
+</div>
+<!-- Text below image -->
+<div class="section Izabella">
+<p><a href="https://www.researchgate.net/profile/Izabella-Baisheva">Izabella Baisheva</a> successfully defended her Ph.D., which constitutes a major contribution to the limnology of Yakutia by applying <i>sed</i>aDNA metabarcoding of diatoms, macrophytes and terrestrial plants.
+  Her <a href="https://doi.org/10.1007/s10933-023-00285-w">first paper</a> reconstructs the sequential formation and biological history of Lake Satagay, a thermokarst lake in Central Yakutia.
+  Her <a href="https://doi.org/10.3389/fevo.2022.962906">second paper</a> explores how this lake's surrounding vegetation was affected by wildfire activity during the Holocene.
+  In a <a href="https://doi.org/10.3389/feart.2024.1354284">third paper</a>, she investigated an intermontane basin lake in southwestern Yakutia, providing an unprecedented insight on freshwater and vegetation dynamics from the region between Lake Baikal and Central Yakutia, since the Last Glacial Maximum.
+  She is developing a manuscript assessing the environmental and biological status of 66 lakes across Central Yakutia and the Oymyakon Plateau.
+</p>
+<p>Izabella is currently a visiting researcher at the Institute of Tibetan Plateau Research (Chinese Academy of Sciences), and a guest researcher at AWI, Potsdam, Germany.
+<b>She is looking for a postdoctoral position in or around the Netherlands</b>, any recommendations or connections would be well appreciated.</p>
 </div>
 
 <hr style="opacity:0">
@@ -93,29 +95,27 @@ Title: New PhD graduates
 <hr style="opacity:0">
 <hr style="opacity:0">
 
-<!-- Izabella -->
+<!-- Barbara -->
 <div class="avatar2">
   <div class="square2">
-    <a href="https://www.researchgate.net/profile/Izabella-Baisheva" target="_blank">
-      <img src="{{ "/category/members/Izabella_Baisheva.jpg" | relative_url }}" alt="Avatar2" />
+    <a href="https://de.linkedin.com/in/dr-barbara-von-hippel-907755133?trk=people-guest_people_search-card" target="_blank">
+      <img src="{{ "/category/members/Barbara_von_Hippel.jpg" | relative_url }}" alt="Avatar2" />
     </a>
   </div>
   <div class="member2">
-    <p style="margin-bottom:0.4em">Izabella A. Baisheva</p>
-    <p><a  href="https://www.researchgate.net/publication/389547161_Past_and_present_environmental_conditions_in_Yakutia_-_a_palaeoecological_study_using_lake_sediments">Past and present environmental conditions in Yakutia — a (palaeo)ecological study using lake sediments</a></p>
-    <p style="margin-bottom:0.4em">10/12/2024</p>
+    <p style="margin-bottom:0.4em">Barbara von Hippel</p>
+    <p><a href="https://doi.org/10.25932/publishup-63600">Long-term bacteria-fungi-plant associations in permafrost soils inferred from palaeometagenomics</a></p>
+    <p style="margin-bottom:0.4em">28/02/2024</p>
     <p><a href="https://www.awi.de/en/science.html">Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)</a> and <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></p>
     <p>Potsdam, Germany</p>
   </div>
 </div>
 <!-- Text below image -->
-<div class="section Izabella">
-<p><a href="https://www.researchgate.net/profile/Izabella-Baisheva">Izabella Baisheva</a> successfully defended her Ph.D., which constitutes a major contribution to the limnology of Yakutia by applying <i>sed</i>aDNA metabarcoding of diatoms, macrophytes and terrestrial plants.
-  Her <a href="https://doi.org/10.1007/s10933-023-00285-w">first paper</a> reconstructs the sequential formation and biological history of Lake Satagay, a thermokarst lake in Central Yakutia.
-  Her <a href="https://doi.org/10.3389/fevo.2022.962906">second paper</a> explores how this lake's surrounding vegetation was affected by wildfire activity during the Holocene.
-  In a <a href="https://doi.org/10.3389/feart.2024.1354284">third paper</a>, she investigated an intermontane basin lake in southwestern Yakutia, providing an unprecedented insight on freshwater and vegetation dynamics from the region between Lake Baikal and Central Yakutia, since the Last Glacial Maximum.
-  She is developing a manuscript assessing the environmental and biological status of 66 lakes across Central Yakutia and the Oymyakon Plateau.
-</p>
-<p>Izabella is currently a visiting researcher at the Institute of Tibetan Plateau Research (Chinese Academy of Sciences), and a guest researcher at AWI, Potsdam, Germany.
-<b>She is looking for a postdoctoral position in or around the Netherlands</b>, any recommendations or connections would be well appreciated.</p>
+<div class="section Barbara">
+  <p><a href="https://de.linkedin.com/in/dr-barbara-von-hippel-907755133?trk=people-guest_people_search-card">Barbara</a> successfully defended her Ph.D. in February 2024.
+    Her <a href="https://doi.org/10.1002/edn3.315">first paper</a> explores the diversity of fungi in sedimentary ancient DNA.
+    Her <a href="https://doi.org/10.1016/j.quascirev.2022.107758">second paper</a> expands her previous work by investigating co-occurrence patterns of plants and fungi across Siberia.
+    Her <a href="https://doi.org/10.1126/sciadv.adj5527">third paper</a> was recently published, and reconstructs postglacial pedogenesis and soil processes, inferred from metagenomics data.</p>
+  <p>Barbara is currently working as a postdoc at the University of Augsburg.
+    <b>She is also looking for collaborations, and would love to contribute to further aDNA publications that include her knowledge areas — fungi, bacteria, plants, soil processes — and more specifically focusing on soil communities.</p>
 </div>
