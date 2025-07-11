@@ -54,7 +54,7 @@ Title: New PhD graduates
 </div>
 <!-- Text below image -->
 <div class="section Alexandra">
-  <p><a href="https://www.researchgate.net/profile/Alexandra-Schmidt-11">Alexandra</a> successfully defended her PhD this spring.
+  <p><a href="https://www.researchgate.net/profile/Alexandra-Schmidt-11">Alexandra Schmidt</a> successfully defended her PhD this spring.
     Her <a href="https://doi.org/10.1016/j.ecolind.2024.112494">first paper</a> explores phytoplankton dynamics in the Baltic Sea, based on ddPCR of a diatom species and a dinoflagellate species.
     A <a href="https://doi.org/10.1101/2025.03.10.642313">second preprint</a> delves deeper into the diatom's palaeogenomics, showing stability despite eight millennia of strong anthropic pressures.
     Her <a href="https://doi.org/10.1093/ismejo/wrae252">third paper</a> reports that this diatom species can remain dormant in ancient sediment, yet restore its full biological functioning once exposed to suitable conditions.
@@ -140,7 +140,7 @@ Title: New PhD graduates
 </div>
 <!-- Text below image -->
 <div class="section Barbara">
-  <p><a href="https://de.linkedin.com/in/dr-barbara-von-hippel-907755133?trk=people-guest_people_search-card">Barbara</a> successfully defended her Ph.D. in February 2024.
+  <p><a href="https://de.linkedin.com/in/dr-barbara-von-hippel-907755133?trk=people-guest_people_search-card">Barbara von Hippel</a> successfully defended her Ph.D. in February 2024.
     Her <a href="https://doi.org/10.1002/edn3.315">first paper</a> explores the diversity of fungi in sedimentary ancient DNA.
     Her <a href="https://doi.org/10.1016/j.quascirev.2022.107758">second paper</a> expands her previous work by investigating co-occurrence patterns of plants and fungi across Siberia.
     Her <a href="https://doi.org/10.1126/sciadv.adj5527">third paper</a> was recently published, and reconstructs postglacial pedogenesis and soil processes, inferred from metagenomics data.</p>
