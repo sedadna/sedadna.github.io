@@ -37,6 +37,34 @@ Title: New PhD graduates
 <hr style="opacity:0">
 <hr style="opacity:0">
 
+<!-- Alexandra -->
+<div class="avatar2">
+  <div class="square2">
+    <a href="https://www.researchgate.net/profile/Alexandra-Schmidt-11" target="_blank">
+      <img src="https://i1.rgstatic.net/ii/profile.image/1071657548533760-1632514478359_Q128/Alexandra-Schmidt-11.jpg" alt="Avatar2" />
+    </a>
+  </div>
+  <div class="member2">
+    <p style="margin-bottom:0.4em">Alexandra Schmidt</p>
+    <p><a href="https://kops.uni-konstanz.de/server/api/core/bitstreams/35f85e30-bbb9-4424-82dd-1e71f8c2e41d/content">Unravelling the past and present: marine phytoplankton population dynamics in the face of the Anthropocene</a></p>
+    <p style="margin-bottom:0.4em">09/05/2025</p>
+    <p><a href="https://www.uni-konstanz.de/">University of Konstanz</a> and <a href="https://www.ab.mpg.de/">Max Planck Institute of Animal Behavior</a></p>
+    <p>Constance, Germany</p>
+  </div>
+</div>
+<!-- Text below image -->
+<div class="section Alexandra">
+  <p><a href="https://www.researchgate.net/profile/Alexandra-Schmidt-11">Alexandra</a> successfully defended her PhD this spring.
+    Her <a href="https://doi.org/10.1016/j.ecolind.2024.112494">first paper</a> explores phytoplankton dynamics in the Baltic Sea, based on ddPCR of a diatom species and a dinoflagellate species.
+    A <a href="https://doi.org/10.1101/2025.03.10.642313">second preprint</a> delves deeper into the diatom's palaeogenomics, showing stability despite eight millennia of strong anthropic pressures.
+    Her <a href="https://doi.org/10.1093/ismejo/wrae252">third paper</a> reports that this diatom species can remain dormant in ancient sediment, yet restore its full biological functioning once exposed to suitable conditions.
+    The <a href="https://kops.uni-konstanz.de/server/api/core/bitstreams/35f85e30-bbb9-4424-82dd-1e71f8c2e41d/content#%5B%7B%22num%22%3A340%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C68%2C771%2C0%5D">fourth manuscript</a> expands on this discovery by comparing genomes of modern and revived diatoms.</p>
+  <p>Alexandra is currently employed as a postdoc at the <a href="https://www.uni-konstanz.de/">University of Konstanz</a>.</p>
+</div>
+
+<hr style="opacity:0">
+<hr style="opacity:0">
+
 <!-- Izabella -->
 <div class="avatar2">
   <div class="square2">
