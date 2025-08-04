@@ -163,6 +163,12 @@ title: Members
 </div>
 
 <div class ="member">
+<div class="square"><a href="http://martinez-garcia-science.weebly.com/" target="_blank"><img src="{{ "/category/members/Manuel_Martinez_Garcia.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Manuel Martinez Garcia</p>
+<p>Universidad de Alicante, Spain</p>
+</div>
+
+<div class ="member">
 <div class="square"><a href="https://rebeccagarner.github.io/" target="_blank"><img src="{{ "/category/members/Rebecca_Garner.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Rebecca Garner</p>
 <p>Concordia University, Montreal, Canada</p>
