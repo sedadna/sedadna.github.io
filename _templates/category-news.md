@@ -35,7 +35,7 @@ title: [month][year] Newsletter
 <div class="intro">
 <h4 class="section-title underline">Preprints</h4>
 
-<p><a href="https://www.elsaabs.com/" target="_blank"><b>Elsa Abs</b></a> <i> et al.,</i> (2025) made the preprint "<a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1716/"><i>Ideas and perspectives: Using meta-omics to unravel biogeochemical changes from cell to planetary scales</i></a>" available on EGUsphere Preprint repository.</p>
+<p><a href="https://www.elsaabs.com/" target="_blank"><b>Elsa Abs</b></a> <i> et al.,</i> (2025) submitted the preprint "<a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1716/"><i>Ideas and perspectives: Using meta-omics to unravel biogeochemical changes from cell to planetary scales</i></a>" available on EGUsphere Preprint repository.</p>
 
 <br>
 
@@ -52,7 +52,5 @@ title: [month][year] Newsletter
 
 <br>
 <br>
-<br>
 
-<p><small>Get in touch with 
- <a href="mailto:mailys.picard@umu.se"><b>Maïlys Picard</b></a> if you would like to announce something to the society, or if you have a recent paper that you would like to advertise in the newsletter.</small></p>
+<p><small>If you have a query or something to annonce, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLT1Oy9T3tikrYDxF9l65q3vfQl6iQMPHTzX5DPZ7aQIYUkA/viewform"><b> click here</b></a>, and if you have a recent paper to share in the next newsletter, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjbcDSBFH9jntd_LF9cq3D5_IR5u00okFaVvIjGFErS2_FbQ/viewform"><b>let us know</b></a>.</small></p>
