@@ -9,7 +9,7 @@ title: [month][year] Newsletter
 </div>
 
 <div class="intro">
-<p> Dear sed-DNA enthusiasts,</p>
+<p> Dear sedaDNA enthusiasts,</p>
 
 <p align="justify">Hello and welcome to the [month] newsletter! [preamble, e.g. This past month has also been productive in terms of new papers, and one new preprint and one new PHD position, though there are no new conference sessions to announce (see the <a href="https://sedadna.github.io/category/events.html"><b>Events</b></a> tab for other events previously announced).]</p>
 
