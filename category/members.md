@@ -5,7 +5,7 @@ title: Members
 
 <div class="intro">
 <h3 class="section-title underline">The members</h3>  
-<p> The society is currently composed by 482 members including our <a href="/category/board.html" target="_blank"><b>board</b></a>. You can find below informations about some of our members. If you want to add your info here, please email a picture and your website link to <b>kdmore@buffalo.edu</b></p>
+<p> The society is currently composed by 482 members including our <a href="/category/board.html" target="_blank"><b>board</b></a>. You can find below informations about some of our members. If you want to add your info here, please email a picture and your website link to <b>kudmo@geus.dk</b></p>
 <br>
 </div>
 
@@ -287,14 +287,7 @@ alt="Avatar" /></a></div>
 <p>Susanne Liebner</p>
 <p>German Research Centre for Geosciences, Potsdam, Germany</p>
 </div>	
-
-<div class ="member">
-<div class="square"><a href="https://arts-sciences.buffalo.edu/biological-sciences/faculty/faculty-directory/charlotte-lindqvist.html" target="_blank"><img src="{{ "/category/members/Charlotte_lindqvist.jpg" | relative_url }}" 
-alt="Avatar" /></a></div>
-<p>Charlotte Lindqvist</p>
-<p>State University of New York at Buffalo, Buffalo, USA</p>
-</div>	
-
+	
 <div class ="member">
 <div class="square"><a href="https://marklouielopez.weebly.com" target="_blank"><img src="{{ "/category/members/Mark_Lopez.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mark Louie Lopez</p>
@@ -346,9 +339,9 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>   
 	
 <div class ="member">
-<div class="square"><a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://pub.geus.dk/da/persons/kuldeep-more" target="_blank"><img src="{{ "/assets/board-members/Kuldeep.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Kuldeep More</p>
-<p>CAGT, Toulouse, France</p>  
+<p>GEUS, Copenhagen, Denmark</p>  
 </div>   
 	
 <div class ="member"> 
