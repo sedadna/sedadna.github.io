@@ -12,6 +12,34 @@ Title: New PhD graduates
 </div>
 <br>
 
+<!-- Scarlett -->
+<div class="avatar2">
+  <div class="square2">
+    <a href="https://hlszette.github.io/#" target="_blank">
+      <img src="{{ "/category/members/Scarlett_Zetter.jpg" | relative_url }}" alt="Avatar2" />
+    </a>
+  </div>
+  <div class="member2">
+    <p style="margin-bottom:0.4em">Scarlett Zetter</p>
+    <p><a href="https://munin.uit.no/handle/10037/38018">Echoes of the past: finding the secrets of ancient ecosystems using sedaDNA</a></p>
+    <p style="margin-bottom:0.4em">19/09/2025</p>
+    <p><a href="https://uit.no/research/arcecogen">Tromsø Museum, UiT The Arctic University of Norway</a></p>
+    <p>Tromsø, Norway</p>
+  </div>
+</div>
+<!-- Text below image -->
+<div class="section Scarlett">
+  <p><a href="https://hlszette.github.io/#">Scarlett Zetter</a> successfully defended her Ph.D. this autumn.
+    In her first manuscript, she developed a reverse blocking primer complementary to that of Giguet-Covex et al. (2014), which considerably reduces the bycatch of human contaminant DNA in 16S metabarcoding.
+    Her second manuscript investigates the early postglacial flora and fauna in Wales, characteristic of the Late Pleistocene with detections of woolly mammoth and its associated graminoids.
+    Her <a href="https://doi.org/10.1177/09596836241307304">third paper</a> demonstrates that the vertical transhumance in the Eastern Alps has increased floristic diversity by opening new habitats within the subalpine vegetation belt.
+    She also contributed as third author on an <a href="https://doi.org/10.1038/s41467-025-59028-2">article</a> exploring the relationship between mammalian herbivore abundance and plant diversity across the Alps.</p>
+  <p>Scarlett is currently employed at University of Southampton, where she works as a postdoctoral researcher on the <a href="https://www.southampton.ac.uk/smmi/news/2025/02/the-ancient-ports-of-europe-a-novel-genetic-window-on-ancient-lives-portgen.page">PortGEN project</a>.</p>
+</div>
+
+<hr style="opacity:0">
+<hr style="opacity:0">
+
 <!-- Ying -->
 <div class="avatar2">
   <div class="square2">
