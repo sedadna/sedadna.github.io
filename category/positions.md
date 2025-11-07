@@ -19,19 +19,33 @@ This exciting project uses sediment cores, eDNA and palaeoecological tools to un
 <br>
 -->
 
-<p align="justify">A <b>Master’s thesis scholarship – Microbial genetics in lakes</b>.</p>
-<p align="justify">Applicants must meet the Lincoln University <a href="https://www.lincoln.ac.nz/study/study-programmes/programme-search/doctor-of-philosophy-phd/"><b>entry requirements</b></a>.</p>
-<p align="justify">This scholarship is <b>only</b> available to New Zealand citizens or residents.  We’re offering a funded Master’s project investigating microbial metagenomes from over 150 lakes across Aotearoa–New Zealand. This project is part of the MBIE-funded Smart Idea initiative: 'Applying a functional evidence approach to prioritise lake restoration initiatives'. You'll explore how microbial functions (e.g. carbon fixation, antimicrobial resistance) vary with environmental conditions.
+<p align="justify"> A <b>PhD Position</b> in Paleogenomics: “Tracing Ecosystem Change through Time” (ANR PaleoGreen Project).</p>
+<p align="justify"> The Laboratoire Chrono-Environnement (UMR 6249, Université Marie et Louis Pasteur, Besançon) invites applications for a fully funded PhD under the supervision of Chair Proessor Jr. Amedea Perfumo, as part of the ANR-funded project PaleoGreen.</p>
+<p align="justify"> <b>Project overview</b>: Agroecosystems are essential for human societies yet represent major drivers of environmental change. This PhD will investigate how biodiversity and ecosystem functioning have transformed over time, tracing the transition from pristine natural environments to intensively managed agricultural systems. Using sedimentary ancient DNA (sedaDNA), the project will reconstruct past ecosystems to uncover the long-term effects of climate change, land-use transformation, and pollution. Particular attention will be given to environmental microbiomes - the assemblages of bacteria, archaea, viruses, and fungi - and their interactions with plants and soils, revealing their fundamental roles in ecosystem resilience, functioning, and sustainability. Research will combine ancient DNA metagenomics, bioinformatics, and ecological modeling within state-of-the-art paleogenetic facilities at Chrono-Environnement.</p>
+<p align="justify"> <b>Candidate profile</b> - Candidates should have:
 <ul>
-  <li>Stipend: $15,000 + tuition fees</li>
-  <li>Supervision: Prof. Susie Wood (Lincoln Uni) & Dr John Pearman (Cawthron Institute)</li>
-  <li>Start: early 2026</li>
-  <li>Ideal background: eDNA analysis, R coding skills</li>
+  <li>A Master’s degree in molecular biology, bioinformatics, microbial ecology, environmental genomics, or a related field</li>
+  <li>Experience in molecular biology, including DNA extraction, PCR, and metagenomic sequencing with downstream taxonomic and functional analyses.</li>
+  <li>Proficiency in bioinformatics and coding (Python, R, or similar).</li>
+  <li>A solid understanding of microbial ecology and its relevance to ecosystem research.</li>
 </ul></p>
-<p align="justify">Apply by emailing <a href="mailto:Susie.wood@lincoln.ac.nz">Susie.wood@lincoln.ac.nz</a> with your CV, academic transcript, motivation letter, and two referee contacts.</p>
+<p align="justify"><b>Start date</b>: Early 2026 (flexible). Duration: 36 months.
+<p align="justify">Application - Applicants should send a single PDF file including:
+<ul>
+  <li>A detailed CV</li>
+  <li>A motivation letter outlining interest and suitability for the project</li>
+  <li>Contact details of two referees</li>
+</ul></p>
+<p align="justify">Please submit your application and any inquiries to Amedea Perfumo (<a href="mailto:amedea.perfumo@cnrs.fr">amedea.perfumo@cnrs.fr</a>). Further details about the position can be found <a href="https://emploi.cnrs.fr/Offres/Doctorant/UMR6249-SEBLAN-017/Default.aspx"><b>here</b></a>. </p>
+
+
 
 <br>
 <br>
+
+
+
+
 
 
 
