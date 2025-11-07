@@ -401,7 +401,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class ="member">
 <div class="square"><a href="https://scholar.google.com/citations?user=gkHu_qwAAAAJ&hl=en" target="_blank"><img src="{{ "/category/members/Amedea_Perfumo.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Amedea Perfumo</p>
-<p>Alfred Wegener Institute, Potsdam, Germany</p>
+<p>Chrono-environnement, UMLP, France</p>
 </div>
 	
 <div class ="member">
