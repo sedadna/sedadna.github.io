@@ -29,14 +29,14 @@ This exciting project uses sediment cores, eDNA and palaeoecological tools to un
   <li>Proficiency in bioinformatics and coding (Python, R, or similar).</li>
   <li>A solid understanding of microbial ecology and its relevance to ecosystem research.</li>
 </ul></p>
-<p align="justify"><b>Start date</b>: Early 2026 (flexible). Duration: 36 months.
-<p align="justify">Application - Applicants should send a single PDF file including:
+<p align="justify"><b>Start date</b>: Early 2026 (flexible). <b>Duration</b>: 36 months.
+<p align="justify"><b>Application</b> - Applicants should send a single PDF file including:
 <ul>
   <li>A detailed CV</li>
   <li>A motivation letter outlining interest and suitability for the project</li>
   <li>Contact details of two referees</li>
 </ul></p>
-<p align="justify">Please submit your application and any inquiries to Amedea Perfumo (<a href="mailto:amedea.perfumo@cnrs.fr">amedea.perfumo@cnrs.fr</a>). Further details about the position can be found <a href="https://emploi.cnrs.fr/Offres/Doctorant/UMR6249-SEBLAN-017/Default.aspx"><b>here</b></a>. </p>
+<p align="justify">Please submit your application and any inquiries to <b>Amedea Perfumo</b> (<a href="mailto:amedea.perfumo@cnrs.fr">amedea.perfumo@cnrs.fr</a>). Further details about the position can be found <a href="https://emploi.cnrs.fr/Offres/Doctorant/UMR6249-SEBLAN-017/Default.aspx"><b>here</b></a>. </p>
 
 
 
