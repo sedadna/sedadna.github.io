@@ -8,7 +8,7 @@ title: Newsletters
 </div>
 <div class="intro">
 <p>
-<a href="/category/news/25-12.html" target="_blank"><b>November 2025</b></a> -
+<a href="/category/news/25-12.html" target="_blank"><b>December 2025</b></a> -
 <a href="https://sedadna.github.io/category/news/25-11.html" target="_blank">November 2025</a> -
 <a href="https://sedadna.github.io/category/news/25-10.html" target="_blank">October 2025</a> -
 <a href="https://sedadna.github.io/category/news/25-09.html" target="_blank">September 2025</a> -
