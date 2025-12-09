@@ -12,6 +12,12 @@ title: Members
 <div class="avatar">
 
 <div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Mdjubayer-Alam" target="_blank"><img src="{{ "/category/members/Md_Jubayer_Alam.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Md Jubayer Alam</p>
+<p>Lakehead University, Thunder Bay, Canada</p>
+</div>
+
+<div class ="member">
 <div class="square"><a href="https://en.uit.no/ansatte/person?p_document_id=164266" target="_blank"><img src="{{ "/assets/board-members/Inger.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Inger G. Alsos</p>
 <p>UiT, Tromsø, Norway </p>
@@ -92,7 +98,7 @@ title: Members
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Jeremy-Courtin" target="_blank"><img src="{{ "/category/members/Jeremy_Courtin.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Jérémy Courtin</p>
-<p>AWI, Potsdam, Germany</p>
+<p>GEUS, Copenhagen, Denmark</p>
 </div>
 
 <div class ="member">
