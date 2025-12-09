@@ -12,7 +12,7 @@ title: Members
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Mdjubayer-Alam" target="_blank"><img src="{{ "/category/members/Md_Jubayer_Alam.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Mdjubayer-Alam" target="_blank"><img src="{{ "/category/members/Md_Jubayer_Alam.JPG" | relative_url }}" alt="Avatar" /></a></div>
 <p>Md Jubayer Alam</p>
 <p>Lakehead University, Thunder Bay, Canada</p>
 </div>
