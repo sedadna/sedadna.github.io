@@ -26,9 +26,9 @@ title: [month][year] Newsletter
 <!-- This month's new papers -->
 # Search terms: sedaDNA and sedimentary ancient DNA (these are the most numerous) and you check out the other keywords (ancient environmental DNA, environmental DNA soil, environmental DNA permafrost, environmental DNA lake sediment, coral cores DNA, ancient DNA sediment, ancient DNA caves, ancient DNA speleothems)
 
-<p><b>Jing Wang</b> <i> et al.,</i> (2025) published "<a href="https://doi.org/10.1016/j.jglr.2025.102579" target="_blank"><u><i>Sedimentary recorded nitrogen-transforming microbes reflect climate fluctuations in a glacial lake on the Qinghai-Tibetan Plateau over a millennium timescale</i></u></a>" in the Journal of Great Lakes Research.</p>
+<p><b>Jing Wang</b> <i> et al.,</i> (2026) published "<a href="https://doi.org/10.1016/j.jglr.2025.102579" target="_blank"><u><i>Sedimentary recorded nitrogen-transforming microbes reflect climate fluctuations in a glacial lake on the Qinghai-Tibetan Plateau over a millennium timescale</i></u></a>" in the Journal of Great Lakes Research.</p>
 
-<p><a href="https://www.researchgate.net/profile/Kai-Li-55" target="_blank"><b>Kai Li</b></a><i> et al.,</i> (2025) published "<a href="https://doi.org/10.1016/j.quascirev.2025.109348" target="_blank"><u><i>sedaDNA and pollen disclose treeline advancing and plant diversity trajectory under recent climate warming in southwestern Hengduan Mountains, China</i></u></a>" in Quaternary Science Reviews.</p>
+<p><a href="https://www.researchgate.net/profile/Kai-Li-55" target="_blank"><b>Kai Li</b></a><i> et al.,</i> (2026) published "<a href="https://doi.org/10.1016/j.quascirev.2025.109348" target="_blank"><u><i>sedaDNA and pollen disclose treeline advancing and plant diversity trajectory under recent climate warming in southwestern Hengduan Mountains, China</i></u></a>" in Quaternary Science Reviews.</p>
 
 <br>
 
