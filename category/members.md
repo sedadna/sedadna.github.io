@@ -581,6 +581,12 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 </div>   
 
 <div class ="member">
+<div class="square"><a href="https://www.uis.no/en/profile/440" target="_blank"><img src="{{"/category/members/Ida_Tegby.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Ida Tegby</p>
+<p>University of Stavanger, Norway</p>
+</div>
+
+<div class ="member">
 <div class="square"><a href="https://www.uni-potsdam.de/en/ibb-evolutionsbiologie/index" target="_blank"><img src="{{"/category/members/Ralph_Tiedemann.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ralph Tiedemann</p>
 <p>University of Potsdam, Germany</p>
