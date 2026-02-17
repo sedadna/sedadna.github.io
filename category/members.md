@@ -300,6 +300,12 @@ alt="Avatar" /></a></div>
 <p>University of Victoria, British Columbia, Canada</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://www.marum.de/Max-Marklein.html" target="_blank"><img src="{{ "/category/members/Max_Marklein.JPG" | relative_url }}" alt="Avatar" /></a></div>
+<p>Max Marklein</p>
+<p>University of Bremen, Germany</p>
+</div>
+
 <div class ="member"> 
 <div class="square"><a href="https://old.iopan.pl/PaleoDept/KMel.html" target="_blank"><img src="{{ "/category/members/Katarzyna_Melaniuk.jpg" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Katarzyna Melaniuk</p> 
