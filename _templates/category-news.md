@@ -35,7 +35,7 @@ title: [month][year] Newsletter
 <div class="intro">
 <h4 class="section-title underline">Preprints</h4>
 
-<p><a href="https://www.elsaabs.com/" target="_blank"><b>Elsa Abs</b></a> <i> et al.,</i> (2025) submitted the preprint "<a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1716/"><i>Ideas and perspectives: Using meta-omics to unravel biogeochemical changes from cell to planetary scales</i></a>" available on EGUsphere Preprint repository.</p>
+<p><a href="https://www.elsaabs.com/" target="_blank"><b>Elsa Abs</b></a> <i> et al.,</i> (2026) submitted the preprint "<a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1716/"><i>Ideas and perspectives: Using meta-omics to unravel biogeochemical changes from cell to planetary scales</i></a>" available on EGUsphere Preprint repository.</p>
 
 <br>
 
