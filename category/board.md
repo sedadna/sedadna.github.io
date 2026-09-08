@@ -62,8 +62,8 @@ Title: Our board
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Scarlett-Zetter" target="_blank"><img src="{{ "/category/members/Scarlett_Zetter.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Scarlett Zetter</p>
-<p>UiT</p>
-<p>Tromsø, Norway</p>  
+<p>Uni of Southampton</p>
+<p>Bristol, England</p>  
 </div>  
 
 <div class ="member">
