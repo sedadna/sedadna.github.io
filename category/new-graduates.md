@@ -12,6 +12,36 @@ Title: New PhD graduates
 </div>
 <br>
 
+<!-- Aloïs -->
+<div class="avatar2">
+  <div class="square2">
+    <a href="https://www.researchgate.net/profile/Alois-Reveret" target="_blank">
+      <img src="{{ "/category/members/Alois_Reveret.jpg" | relative_url }}" alt="Avatar2" />
+    </a>
+  </div>
+  <div class="member2">
+    <p style="margin-bottom:0.4em">Aloïs Revéret</p>
+    <p><a href="https://hdl.handle.net/11250/5566267">Reconstruction of long-term postglacial succession of subpolar terrestrial ecosystems from sedimentary ancient DNA</a></p>
+    <p style="margin-bottom:0.4em">22/09/2026</p>
+    <p><a href="https://uit.no/research/arcecogen">Tromsø Museum, UiT The Arctic University of Norway</a></p>
+    <p>Tromsø, Norway</p>
+  </div>
+</div>
+<!-- Text below image -->
+<div class="section Aloïs">
+  <p><a href="https://www.researchgate.net/profile/Alois-Reveret">Aloïs Revéret</a> successfully defended his PhD this autumn.
+    His <a href="https://doi.org/10.1111/fwb.14158">first paper</a> reviewed the methodologies detecting eDNA of freshwater aquatic plants, and showed that its palaeorecord can be leveraged to renconstruct past environmental parameters in lakes.
+    In his <a href="https://doi.org/10.1016/j.quascirev.2026.110062">second paper</a>, he investigated almost ten millennia of postglacial ecological succession at the southwestern edge of the Scandinavian peninsula.
+    His third manuscript has mammoth in it.
+    He co-authored a <a href="https://doi.org/10.1002%2Fjqs.70101">fourth paper</a> reconstructing the Holocene vegetation history of the subantarctic Kerguelen archipelago (South Indian Ocean), including mosses and liverworts that constitute a crucial part of the local flora.
+	<br>
+    Aloïs also led the <a href="https://doi.org/10.1007/978-3-031-43799-1_8">chapter on aquatic macrophytes</a> in the <a href="https://link.springer.com/10.1007/978-3-031-43799-1">palaeolimnology volume dedicated to sedimentary ancient DNA</a>, and contributed to an <a href="https://www.sciencedirect.com/science/article/pii/B9780323999311001719">encyclopedia article</a> as well as an <a href="https://doi.org/10.1002/edn3.70270">article</a> comparing eDNA methods for local vegetation reconstruction.</p>
+  <p>Aloïs is currently working as a researcher on the <a href="https://www.temporalecology.com/project-time-lines">TIME-LINES project</a> at <a href="https://uit.no/research/arcecogen">UiT The Arctic University of Norway</a>.</p>
+</div>
+
+<hr style="opacity:0">
+<hr style="opacity:0">
+
 <!-- Scarlett -->
 <div class="avatar2">
   <div class="square2">
@@ -63,8 +93,7 @@ Title: New PhD graduates
     The <a href="https://doi.org/10.1038/s41467-025-56176-3">second paper</a> explores how species richness and average distribution range shifted during glacial–interglacial transitions in northeastern Siberia and Alaska.
     Her <a href="https://doi.org/10.1101/2025.05.26.656118">third study</a>, currently available as a preprint, investigates woody taxa encroachment during climate warming from glacial to interglacial periods, highlighting an increase in negative plant–plant interactions in the Arctic.
   </p>
-  <p>Ying is currently a guest researcher at the Alfred Wegener Institute (AWI) in Potsdam, Germany.
-    In September, she will join the <a href="https://uit.no/research/arcecogen">ArcEcoGen research group</a> at Tromsø Museum (UiT), as a postdoctoral researcher.</p>
+  <p>Ying is currently a postdoctoral researcher in the <a href="https://uit.no/research/arcecogen">ArcEcoGen research group</a> at Tromsø Museum (UiT), working on the <a href="https://memeland.no/en">MEMELAND project</a>.</p>
 </div>
 
 <hr style="opacity:0">
