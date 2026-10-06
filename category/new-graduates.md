@@ -32,7 +32,7 @@ Title: New PhD graduates
   <p><a href="https://www.researchgate.net/profile/Alois-Reveret">Aloïs Revéret</a> successfully defended his PhD this autumn.
     His <a href="https://doi.org/10.1111/fwb.14158">first paper</a> reviewed the methodologies detecting eDNA of freshwater aquatic plants, and showed that its palaeorecord can be leveraged to renconstruct past environmental parameters in lakes.
     In his <a href="https://doi.org/10.1016/j.quascirev.2026.110062">second paper</a>, he investigated almost ten millennia of postglacial ecological succession at the southwestern edge of the Scandinavian peninsula.
-    His third manuscript has mammoth in it.
+    His third manuscript explores the lush biota of Doggerland during the Allerød interstadial, with nearly 300 plant taxa detected as well as iconic representatives of the Pleistocene megafauna such as the woolly mammoth, the woolly rhinoceros, and the giant deer (or Irish elk).
     He co-authored a <a href="https://doi.org/10.1002%2Fjqs.70101">fourth paper</a> reconstructing the Holocene vegetation history of the subantarctic Kerguelen archipelago (South Indian Ocean), including mosses and liverworts that constitute a crucial part of the local flora.
 	<br>
     Aloïs also led the <a href="https://doi.org/10.1007/978-3-031-43799-1_8">chapter on aquatic macrophytes</a> in the <a href="https://link.springer.com/10.1007/978-3-031-43799-1">palaeolimnology volume dedicated to sedimentary ancient DNA</a>, and contributed to an <a href="https://www.sciencedirect.com/science/article/pii/B9780323999311001719">encyclopedia article</a> as well as an <a href="https://doi.org/10.1002/edn3.70270">article</a> comparing eDNA methods for local vegetation reconstruction.</p>
