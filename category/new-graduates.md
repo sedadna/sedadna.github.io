@@ -29,7 +29,7 @@ Title: New PhD graduates
 </div>
 <!-- Text below image -->
 <div class="section Aloïs">
-  <p><a href="https://www.researchgate.net/profile/Alois-Reveret">Aloïs Revéret</a> successfully defended his PhD this autumn.
+  <p align="justify"><a href="https://www.researchgate.net/profile/Alois-Reveret">Aloïs Revéret</a> successfully defended his PhD this autumn.
     His <a href="https://doi.org/10.1111/fwb.14158">first paper</a> reviewed the methodologies detecting eDNA of freshwater aquatic plants, and showed that its palaeorecord can be leveraged to renconstruct past environmental parameters in lakes.
     In his <a href="https://doi.org/10.1016/j.quascirev.2026.110062">second paper</a>, he investigated almost ten millennia of postglacial ecological succession at the southwestern edge of the Scandinavian peninsula.
     His third manuscript explores the lush biota of Doggerland during the Allerød interstadial, with nearly 300 plant taxa detected as well as iconic representatives of the Pleistocene megafauna such as the woolly mammoth, the woolly rhinoceros, and the giant deer (or Irish elk).
@@ -59,7 +59,7 @@ Title: New PhD graduates
 </div>
 <!-- Text below image -->
 <div class="section Scarlett">
-  <p><a href="https://hlszette.github.io/#">Scarlett Zetter</a> successfully defended her Ph.D. this autumn.
+  <p align="justify"><a href="https://hlszette.github.io/#">Scarlett Zetter</a> successfully defended her Ph.D. this autumn.
     In her first manuscript, she developed a reverse blocking primer complementary to that of Giguet-Covex et al. (2014), which considerably reduces the bycatch of human contaminant DNA in 16S metabarcoding.
     Her second manuscript investigates the early postglacial flora and fauna in Wales, characteristic of the Late Pleistocene with detections of woolly mammoth and its associated graminoids.
     Her <a href="https://doi.org/10.1177/09596836241307304">third paper</a> demonstrates that the vertical transhumance in the Eastern Alps has increased floristic diversity by opening new habitats within the subalpine vegetation belt.
@@ -87,7 +87,7 @@ Title: New PhD graduates
 </div>
 <!-- Text below image -->
 <div class="section Ying">
-  <p><a href="https://www.researchgate.net/profile/Ying-Liu-369?ev=hdr_xprf">Ying Liu</a> successfully defended her Ph.D. in May 2025.
+  <p align="justify"><a href="https://www.researchgate.net/profile/Ying-Liu-369?ev=hdr_xprf">Ying Liu</a> successfully defended her Ph.D. in May 2025.
     Her research leverages sedimentary ancient DNA to investigate changes in plant communities across Arctic and alpine regions, focusing on the influence of abiotic factors and biotic interactions.
     Her <a href="https://doi.org/10.1016/j.quascirev.2024.108850">first paper</a> examines climate- and human-driven shifts in plant communities on the northeastern Tibetan Plateau.
     The <a href="https://doi.org/10.1038/s41467-025-56176-3">second paper</a> explores how species richness and average distribution range shifted during glacial–interglacial transitions in northeastern Siberia and Alaska.
@@ -116,7 +116,7 @@ Title: New PhD graduates
 </div>
 <!-- Text below image -->
 <div class="section Alexandra">
-  <p><a href="https://www.researchgate.net/profile/Alexandra-Schmidt-11">Alexandra Schmidt</a> successfully defended her PhD this spring.
+  <p align="justify"><a href="https://www.researchgate.net/profile/Alexandra-Schmidt-11">Alexandra Schmidt</a> successfully defended her PhD this spring.
     Her <a href="https://doi.org/10.1016/j.ecolind.2024.112494">first paper</a> explores phytoplankton dynamics in the Baltic Sea, based on ddPCR of a diatom species and a dinoflagellate species.
     A <a href="https://doi.org/10.1101/2025.03.10.642313">second preprint</a> delves deeper into the diatom's palaeogenomics, showing stability despite eight millennia of strong anthropic pressures.
     Her <a href="https://doi.org/10.1093/ismejo/wrae252">third paper</a> reports that this diatom species can remain dormant in ancient sediment, yet restore its full biological functioning once exposed to suitable conditions.
@@ -144,7 +144,7 @@ Title: New PhD graduates
 </div>
 <!-- Text below image -->
 <div class="section Izabella">
-<p><a href="https://www.researchgate.net/profile/Izabella-Baisheva">Izabella Baisheva</a> successfully defended her Ph.D., which constitutes a major contribution to the limnology of Yakutia by applying <i>sed</i>aDNA metabarcoding of diatoms, macrophytes and terrestrial plants.
+<p align="justify"><a href="https://www.researchgate.net/profile/Izabella-Baisheva">Izabella Baisheva</a> successfully defended her Ph.D., which constitutes a major contribution to the limnology of Yakutia by applying <i>sed</i>aDNA metabarcoding of diatoms, macrophytes and terrestrial plants.
   Her <a href="https://doi.org/10.1007/s10933-023-00285-w">first paper</a> reconstructs the sequential formation and biological history of Lake Satagay, a thermokarst lake in Central Yakutia.
   Her <a href="https://doi.org/10.3389/fevo.2022.962906">second paper</a> explores how this lake's surrounding vegetation was affected by wildfire activity during the Holocene.
   In a <a href="https://doi.org/10.3389/feart.2024.1354284">third paper</a>, she investigated an intermontane basin lake in southwestern Yakutia, providing an unprecedented insight on freshwater and vegetation dynamics from the region between Lake Baikal and Central Yakutia, since the Last Glacial Maximum.
@@ -174,7 +174,7 @@ Title: New PhD graduates
 </div>
 <!-- Text below image -->
 <div class="section Luke">
-  <p><a href="https://www.researchgate.net/profile/Lucas-Elliott-3">Luke Elliott</a> successfully defended his Ph.D. this winter.
+  <p align="justify"><a href="https://www.researchgate.net/profile/Lucas-Elliott-3">Luke Elliott</a> successfully defended his Ph.D. this winter.
     His <a href="https://doi.org/10.3390/quat6010007">first paper</a> investigates the influence of glacial activity on vegetation and soil properties on an island in northern Norway.
     His <a href="https://doi.org/10.1111/1755-0998.13926">second paper</a> advances the capacity of <i>sed</i>aDNA to study intraspecific genetic diversity for palaeo-phylogeography.
     His third work, released as a <a href="https://doi.org/10.22541/au.172529953.39892767/v1">preprint</a>, is a bionformatical pipeline that annotates metagenomic datasets based on genome skims.
@@ -202,7 +202,7 @@ Title: New PhD graduates
 </div>
 <!-- Text below image -->
 <div class="section Barbara">
-  <p><a href="https://de.linkedin.com/in/dr-barbara-von-hippel-907755133?trk=people-guest_people_search-card">Barbara von Hippel</a> successfully defended her Ph.D. in February 2024.
+  <p align="justify"><a href="https://de.linkedin.com/in/dr-barbara-von-hippel-907755133?trk=people-guest_people_search-card">Barbara von Hippel</a> successfully defended her Ph.D. in February 2024.
     Her <a href="https://doi.org/10.1002/edn3.315">first paper</a> explores the diversity of fungi in sedimentary ancient DNA.
     Her <a href="https://doi.org/10.1016/j.quascirev.2022.107758">second paper</a> expands her previous work by investigating co-occurrence patterns of plants and fungi across Siberia.
     Her <a href="https://doi.org/10.1126/sciadv.adj5527">third paper</a> was recently published, and reconstructs postglacial pedogenesis and soil processes, inferred from metagenomics data.</p>
