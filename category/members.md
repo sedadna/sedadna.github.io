@@ -260,14 +260,12 @@ target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.jpg" | relative_url
 <p>University of Potsdam, Germany</p>
 </div>
 
-<!--
 <div class ="member">
-<div class="square"><a href=""
+<div class="square"><a href="https://www.researchgate.net/profile/Oliver-Kern"
 target="_blank"><img src="{{ "/category/members/Oliver_Kern.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Oliver A. Kern</p>
 <p>UiT, Tromsø, Norway</p>
 </div>
--->
 
 <div class ="member">
 <div class="square"><a href="[https://www.researchgate.net/profile/Sevgi-Kaynar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=richard+l+kimber&oq=)"
