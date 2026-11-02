@@ -5,7 +5,7 @@ title: Members
 
 <div class="intro">
 <h3 class="section-title underline">The members</h3>  
-<p> The society is currently composed by 482 members including our <a href="/category/board.html" target="_blank"><b>board</b></a>. You can find below informations about some of our members. If you want to add your info here, please email a picture and your website link to <b>kudmo@geus.dk</b></p>
+<p> The society is currently composed by 483 members including our <a href="/category/board.html" target="_blank"><b>board</b></a>. You can find below informations about some of our members. If you want to add your info here, please email a picture and your website link to <b>kudmo@geus.dk</b></p>
 <br>
 </div>
 
@@ -92,7 +92,7 @@ title: Members
 <div class ="member">
 <div class="square"><a href="http://tristan.cordier.free.fr" target="_blank"><img src="{{ "/category/members/Tristan_Cordier.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Tristan Cordier</p>
-<p>NORCE climate, Bergen, Norway</p>
+<p>NORCE, Bergen, Norway</p>
 </div>
 	
 <div class ="member">
@@ -147,7 +147,7 @@ title: Members
 <div class ="member">
 <div class="square"><a href="https://www.southampton.ac.uk/geography/about/staff/mee.page" target="_blank"><img src="{{ "/assets/board-members/Mary.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Mary E. Edwards</p>
-<p>Southampton University, United Kingdom</p>
+<p>Southampton University, UK</p>
 </div>
 	
 <div class ="member">
@@ -195,7 +195,7 @@ title: Members
 <div class ="member">
 <div class="square"><a href="https://scholar.google.fr/citations?user=AN0gYZIAAAAJ&hl=fr&oi=ao" target="_blank"><img src="{{ "/assets/board-members/Charline.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Charline Giguet-Covex</p>
-<p>EDYTEM, Bourget-du-lac, France</p>
+<p>EDYTEM, Le-Bourget-du-lac, France</p>
 </div>
       
 <div class ="member">
@@ -213,7 +213,7 @@ title: Members
 <div class ="member">
 <div class="square"><a href="https://sites.google.com/view/peteheintzman" target="_blank"><img src="{{ "/assets/board-members/Pete.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Peter D. Heintzman</p>
-<p>UiT, Tromsø, Norway</p>
+<p>Centre for Palaeogenetics, Stockholm, Sweden</p>
 </div>
 
 <div class ="member">
@@ -259,6 +259,15 @@ target="_blank"><img src="{{ "/category/members/Sevgi_Kaynar.jpg" | relative_url
 <p>Sevgi Kaynar</p>
 <p>University of Potsdam, Germany</p>
 </div>
+
+<!--
+<div class ="member">
+<div class="square"><a href=""
+target="_blank"><img src="{{ "/category/members/Oliver_Kern.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Oliver A. Kern</p>
+<p>UiT, Tromsø, Norway</p>
+</div>
+-->
 
 <div class ="member">
 <div class="square"><a href="[https://www.researchgate.net/profile/Sevgi-Kaynar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=richard+l+kimber&oq=)"
@@ -419,7 +428,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Maïlys Picard</p>
-<p>Umeå University, Umeå, Sweden</p>
+<p>University of Bern, Switzerland</p>
 </div> 
 	
 <div class ="member">
@@ -437,7 +446,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Alois-Reveret" target="_blank"><img src="{{ "/category/members/Alois_Reveret.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Aloïs Revéret</p>
-<p>The Arctic University of Norway, Norway</p>
+<p>UiT, Tromsø, Norway</p>
 </div>
 
 <div class ="member">
@@ -515,7 +524,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class ="member">
 <div class="square"><a href="https://www.awi.de/en/about-us/organisation/staff/luise-schulte.html" target="_blank"><img src="{{ "/category/members/Luise_Schulte.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Luise Schulte</p>
-<p>Alfred Wegener Institute, Potsdam, Germany</p>
+<p>AWI, Potsdam, Germany</p>
 </div>
 
 <div class ="member">
@@ -570,7 +579,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Pierre_Taberlet" target="_blank"><img src="{{ "/assets/board-members/Pierre.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Pierre Taberlet</p>
-<p>LECA, Grenoble Alpes University, France</p>
+<p>LECA, Grenoble-Alpes University, France</p>
 </div>    
 
 <div class ="member">
@@ -625,7 +634,7 @@ target="_blank"><img src="{{ "/category/members/Barbara_Moguel.jpg" | relative_u
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Yucheng-Wang-5" target="_blank"><img src="{{ "/category/members/Yucheng_Wang.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Yucheng Wang</p>
-<p>University of Cambridge, United Kingdom</p>
+<p>University of Cambridge, UK</p>
 </div>
 
 <div class ="member">
