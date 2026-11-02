@@ -73,7 +73,7 @@ title: Members
 
 <div class ="member">
 <div class="square"><a href="https://ericcapo.github.io/lab/" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Eric Capo</p>
+<p>Éric Capo</p>
 <p>Umeå University, Sweden</p>
 </div>
 
@@ -268,12 +268,11 @@ target="_blank"><img src="{{ "/category/members/Oliver_Kern.jpg" | relative_url 
 </div>
 
 <div class ="member">
-<div class="square"><a href="[https://www.researchgate.net/profile/Sevgi-Kaynar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=richard+l+kimber&oq=)"
+<div class="square"><a href="https://www.heas.at/about/network-associates/richard-kimber/"
 target="_blank"><img src="{{ "/category/members/Richard_Kimber.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Richard Kimber</p>
 <p>University of Vienna, Austria</p>
 </div>
-	
 	
 <div class ="member">
 <div class="square"><a href="https://www.tuit.ut.ee/en/research/veljo-kisand" target="_blank"><img src="{{ "/assets/board-members/Veljo.jpg" | relative_url }}" alt="Avatar" /></a></div>
