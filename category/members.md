@@ -44,7 +44,7 @@ title: Members
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Cecilia-Barouillet" target="_blank"><img src="{{ "/assets/board-members/Cecilia2.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Cécilia Barouillet</p>
-<p>INRAE UMR CARRTEL, Thonon-les-Bains, France</p>
+<p>INRAe-CARRTEL, Thonon-les-Bains, France</p>
 </div>
 	
 <div class ="member">
@@ -115,14 +115,14 @@ title: Members
 	
 <div class ="member">
 <div class="square"><a href="https://www.norceresearch.no/personer/stijn-de-schepper" target="_blank"><img src="{{ "/assets/board-members/Stijn.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Stijn De Schepper</p>
+<p>Stijn de Schepper</p>
 <p>NORCE, Bergen, Norway</p>
 </div>
 	
 <div class ="member">
 <div class="square"><a href="https://isabelledomaizon.wixsite.com/recherche" target="_blank"><img src="{{ "/assets/board-members/Isabelle.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Isabelle Domaizon</p>
-<p>INRAE UMR CARRTEL, Thonon-les-bains, France</p>
+<p>INRAe-CARRTEL, Thonon-les-Bains, France</p>
 </div>
 	
 <div class ="member">
@@ -158,7 +158,7 @@ title: Members
 	
 <div class ="member">
 <div class="square"><a href="http://www.lsce.ipsl.fr/Pisp/olivier.evrard/" target="_blank"><img src="{{ "/category/members/Olivier_Evrard.JPG" | relative_url }}" alt="Avatar" /></a></div>
-<p>Olivier Evrard</p>
+<p>Olivier Évrard</p>
 <p>LSCE, Saint Aubin, France</p>
 </div>
 
@@ -182,7 +182,7 @@ title: Members
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Laura-Gedminiene" target="_blank"><img src="{{ "/category/members/Laura_Gedminiene.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Laura Gedminiene</p>
+<p>Laura Gedminienė</p>
 <p>Nature Research Centre, Vilnius, Lithuania</p>
 </div>	
 
@@ -315,7 +315,7 @@ alt="Avatar" /></a></div>
 <div class ="member"> 
 <div class="square"><a href="https://old.iopan.pl/PaleoDept/KMel.html" target="_blank"><img src="{{ "/category/members/Katarzyna_Melaniuk.jpg" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Katarzyna Melaniuk</p> 
-<p>The Institute of Oceanology of the Polish Academy of Sciences (IOPAN), Sopot, Poland</p> 
+<p>IOPAN, Sopot, Poland</p> 
 </div> 
 
 <div class ="member"> 
@@ -327,7 +327,7 @@ alt="Avatar" /></a></div>
 <div class ="member"> 
 <div class="square"><a href="https://www.researchgate.net/profile/Mathisse-Meyneng" target="_blank"><img src="{{ "/category/members/Mathisse_Meyneng.JPG" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Mathisse Meyneng</p> 
-<p>Centre Bretagne - ZI de la Pointe du Diable, France</p> 
+<p>IFREMER Bretagne, Plouzané, France</p> 
 </div> 
 
 <div class ="member">
@@ -340,7 +340,7 @@ target="_blank"><img src="{{ "/category/members/Rachel_Meyer.jpg" | relative_url
 <div class ="member"> 
 <div class="square"><a href="https://www.researchgate.net/profile/Alexis-Marchesini" target="_blank"><img src="{{ "/category/members/Alexis_Marchesini.png" | relative_url }}" alt="Avatar" /></a></div> 
 <p>Alexis Marchesini</p> 
-<p>Istituto Agrario San Michele All'Adige, San Michele All'Adige, Italy</p> 
+<p>Istituto Agrario San Michele All'Adige, Trentino-Alto Adige, Italy</p> 
 </div> 
 	
 <div class ="member">
