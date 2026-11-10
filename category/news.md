@@ -56,6 +56,6 @@ title: Newsletters
 <a href="https://sedadna.github.io/category/news/22-03.html" target="_blank">March 2022</a> - 
 <a href="https://sedadna.github.io/category/news/22-02.html" target="_blank">February 2022</a> - 
 <a href="https://sedadna.github.io/category/news/22-01.html" target="_blank">January 2022</a> - 
-<a href="https://sedadna.github.io/category/news/21-12.html" target="_blank">December 2021</a> - 
+<a href="https://sedadna.github.io/category/news/21-12.html" target="_blank">December 2021</a> 
 </p>
 </div>
