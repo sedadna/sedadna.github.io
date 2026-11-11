@@ -8,7 +8,7 @@ Title: New PhD graduates
 </div>
 
 <div class="intro">
-<p><button class="button-join" role="button" onclick="window.open('https://cryptpad.fr/form/#/3/form/view/6930ce57dee0ca03f35a2e171c2f0257/','_blank')" type="button">Be next to celebrate your PhD!</button></p>
+<p><button class="button-join" role="button" onclick="window.open('https://forms.gle/2gzGzKmoFdrruyfR7','_blank')" type="button">Be next to celebrate your PhD!</button></p> <!--https://cryptpad.fr/form/#/3/form/view/6930ce57dee0ca03f35a2e171c2f0257/-->
 </div>
 <br>
 
