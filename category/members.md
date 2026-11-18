@@ -5,7 +5,7 @@ title: Members
 
 <div class="intro">
 <h3 class="section-title underline">The members</h3>  
-<p> The society is currently composed by 483 members including our <a href="/category/board.html" target="_blank"><b>board</b></a>. You can find below informations about some of our members. If you want to add your info here, please email a picture and your website link to <b>kudmo@geus.dk</b></p>
+<p> The society is currently composed by many members including our <a href="/category/board.html" target="_blank"><b>board</b></a>. You can find below informations about some of our members. If you want to add your info here, please email a picture and your website link to <b>kudmo@geus.dk</b></p>
 <br>
 </div>
 
