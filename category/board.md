@@ -81,7 +81,7 @@ Title: Our board
 
 <div class="avatar">
 <div class ="member">
-<div class="square"><a href="https://ceciliabarouillet.netlify.app/" target="_blank"><img src="{{ "/assets/board-members/Cecilia2.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://ceciliabarouillet.netlify.app/" target="_blank"><img src="{{ "/assets/board-members/Cecilia2.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Cecilia Barouillet</p>
 <p>University of Geneva, Geneva, Switzerland</p>
 </div>
