@@ -23,6 +23,39 @@ If you'd like more information, please contact Prof. <a href="mailto:ecostello@u
 <br>
 
 <!--
+<p align="justify">
+A <a href="https://creaf.factorial.com/job_posting/predoctoral-researcher-for-sea-to-summit-project-ref-26-059-iv00253-328432"><b>PhD position in Palaeoecology and Genomics</b></a> is available at <a href="https://www.creaf.cat/en">CREAF/Universitat Autònoma de Barcelona</a> (UAB).
+This position is part of the SEA-TO-SUMMIT project to integrate palaeoecology, phylogenetic diversity and genomics across elevational gradients in Macaronesia.
+<p align="justify">
+The PhD candidate will investigate why some plant species persist for millennia whereas others decline or disappear under changing environmental conditions.
+Using Holocene fossil pollen records from the Canary Islands and Azores, the candidate will reconstruct long-term vegetation dynamics across elevational gradients, from coastal habitats to mountain ecosystems.
+The project will identify plant taxa that persisted, expanded, declined, disappeared, or reappeared through time and examine whether these trajectories are associated with particular ecological, phylogenetic, or genomic characteristics.
+By integrating fossil pollen data with modern biodiversity, traits, phylogenetic, and genomic information, the project will provide new insights into the ecological and evolutionary mechanisms underlying plant persistence and biodiversity change on oceanic islands.
+</p>
+
+<br>
+
+<p align="justify">
+<b>Another position as <a href="https://tauler.seu-e.cat/detall?idEns=11&idEdicte=656073">Postdoctoral researcher</a></b> is available also at <a href="https://www.creaf.cat/en">CREAF/UAB</a>, as part of the ERC <a href="https://www.temporalecology.com/project-time-lines">TIME-LINES project</a>.
+<p align="justify">
+The Postdoctoral researcher will work on topics related to island biodiversity, palaeoecology, long-term vegetation dynamics and biodiversity change through time.
+Depending on the candidate's expertise, this may include: i) Quantitative analysis and synthesis of large pollen and palaeoecological datasets; ii) Fossil pollen preparation, identification, counting, and interpretation; iii) Reconstruction of long-term biodiversity and vegetation dynamics; iv) Statistical analyses and biodiversity modelling; and v) Processing and analysis of sedimentary ancient DNA (sedaDNA) metabarcoding data.
+Candidates with experience in pollen analysis, sedimentary ancient DNA analysis, palaeoecological data analysis, biodiversity modelling, or related fields are particularly encouraged to apply.
+</p>
+
+<br>
+
+<p align="justify">
+The deadline to apply to either positions at CREAF/UAB is the <b>30th November 2026</b>.
+Inquiries about both positions can be made to Dr. <a href="mailto:s.nogue@creaf.uab.cat"><b>Sandra Nogué</b></a>.
+</p>
+
+<br>
+<br>
+<br>
+-->
+
+<!--
 <p align="justify">A <a href="https://employment.ku.dk/all-vacancies/?show=167653" target="_blank">Staff Scientist or Research Consultant in Bioinformatics</a> position is available at the Centre of Ancient Environmental Genomics at the Globe Institute, University of Copenhagen. The position is 3 years fixed-term where the candidate's role will include processing and analysing large-scale sequencing data, and designing and automating robust pipelines for data summarisation, visualisation, and quality control.</p>
 <p align="justify">Application deadline is the <b>15th September 2026</b>. If you'd like more information, please contact <a href="mailto:tskorneliussen@sund.ku.dk"><b>Thorfinn Sand Korneliussen</b></a> or <a href="mailto:mwpedersen@sund.ku.dk"><b>Mikkel Winther Pedersen</b>.
 <br>
