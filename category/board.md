@@ -9,15 +9,12 @@ Title: Our board
 
 <div class="avatar">
 
-
-
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><img src="{{ "/category/members/Ines_Barrenechea.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ines Barrenechea</p>
 <p>UiT</p>
 <p>Tromsø, Norway</p>
 </div>
-
 
 <div class ="member">
 <div class="square"><a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><img src="{{ "/category/members/Jordan_VonEggers.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -82,8 +79,9 @@ Title: Our board
 <p>The chair committee work together with the coordinator and organizing board to make the society alive and useful for all.</p>
 </div>
 
+<div class="avatar">
 <div class ="member">
-<div class="square"><a href="https://ceciliabarouillet.netlify.app/" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://ceciliabarouillet.netlify.app/" target="_blank"><img src="{{ "/assets/board-members/Cecilia2.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Cecilia Barouillet</p>
 <p>University of Geneva, Geneva, Switzerland</p>
 </div>
@@ -99,6 +97,8 @@ Title: Our board
 <div class="square"><a href="https://www.capolab.net/" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Eric Capo</p>
 <p>Umeå University, Umeå, Sweden</p>
+</div>
+
 </div>
 
 <div class="section advisory board">
