@@ -9,13 +9,7 @@ Title: Our board
 
 <div class="avatar">
 
-<div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Maïlys Picard</p>
-<p>Coordinator</p>
-<p>Umeå University</p>
-<p>Umeå, Sweden</p>
-</div>
+
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><img src="{{ "/category/members/Ines_Barrenechea.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -83,51 +77,30 @@ Title: Our board
 </div>
 <br>
 
-<div class="intro">
-
-<div class="section Maïlys">
-<p> <a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><b>Maïlys Picard</b></a> has a Ph.D. in Biology from the University of Waikato / Cawthron Institute (Aotearoa / New Zealand). She is currently a postdoctoral fellow at the University of Umeå (Sweden) and her research aims to understand and reconstruct lake and coastal systems histories, with a particular interest in functional changes (photosythesis and microbial respirations). </p>        
-</div>
-  
-<div class="section Ines">
-<p>  <a href="https://www.researchgate.net/profile/Ines-Barrenechea-2" target="_blank"><b>Ines Barrenechea</b></a> has a PhD in Earth Sciences from Geneva University. Her PhD research was focused on reconstructing marine biodiversity and on biomonitoring using eDNA metabarcoding. Her current research interest is marine extremophiles (protists) from ancient and recent sediments. She is currently a postdoc at the Arctic University of Norway, Tromsø, Norway. Ines is responsible for organising PhD seminars from Europe/Africa time zone.</p>        
-</div>  
-
-<div class="section Jordan">
-<p>  <a href="https://sites.google.com/view/jvoneggers/home" target="_blank"><b>Jordan Von Eggers</b></a> is currently a Ph.D. student at the University of Wyoming. Her research focuses on how natural and anthropogenic pressures have shaped the current and past biodiversity of lower trophic levels in remote, high elevation lake ecosystems across multiple spatial scales. Jordan organizes the student seminar series for the Americas and Oceania time zones and updates the inventory of environmental ancient DNA from sedimentary archives. </p>        
-</div>  
-
-<div class="section Kuldeep">
-<p>  <a href="https://cagt.cnrs.fr/more-kuldeep/" target="_blank"><b>Kuldeep More</b></a> has a Ph.D. in Sedimentary Paleogenomics from Curtin University, Perth and his research is focused on assessing the impact of paleo-environmental variabilities on the past ecosystems. He worked as a Marie Skłodowska Curie IEF post-doctoral researcher in the AGES group at Centre for Anthropobiology and Genomics of Toulouse (CAGT), France. Currently he is at the State University of New York (SUNY) at Buffalo investigating the recovery of (past) vegetation after the last glaciation in the south-east Alaska. In the society, Kuldeep is managing informations from new members.</p>
+<div class="section chair committee">
+<h3 class="section-title underline">The chair committee</h3>  
+<p>The chair committee work together with the coordinator and organizing board to make the society alive and useful for all.</p>
 </div>
 
-<div class="section Grayson">
-<p> <a href="https://graysonhuston.wixsite.com/my-site" target="_blank"><b>Grayson Huston</b></a> is a Ph.D. student in Ecology and Environmental Science at the University of Maine – Orono. His research is focused on the recovery and detection of fish DNA from aquatic sediments, with an emphasis on the impact of dams on Maine’s migratory fish species. Within the society, Grayson is one of the leads in the fish working group. </p>        
+<div class ="member">
+<div class="square"><a href="https://ceciliabarouillet.netlify.app/" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Cecilia Barouillet</p>
+<p>University of Geneva, Geneva, Switzerland</p>
 </div>
 
-
-<div class="section Dongna">
-<p> <a href="https://www.researchgate.net/profile/Yan-Dongna" target="_blank"><b>Dongna Yan</b></a> has a Ph.D. in Environmental Science from the Institute of Earth Environment, Chinese Academy of Sciences (IEECAS), where she currently serves as an Associate Researcher. Her research focuses on paleolimnological reconstruction of aquatic ecosystem evolution, with a particular interest in investigating the co-evolutionary patterns between antibiotic-resistance genes and algal bloom dynamics.</p>        
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Kevin-Nota" target="_blank"><img src="{{ "/assets/board-members/Kevin.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kevin Nota</p>
+<p>MPI-EVA</p>
+<p>Leipzig, Germany</p>
 </div>
 
-
-<div class="section Scarlett">
-<p> <a href="https://www.researchgate.net/profile/Scarlett-Zetter" target="_blank"><b>Scarlett Zetter</b></a> is currently finishing a Ph.D in molecular palaeoecology at Tromsø Museum, Arctic University of Norway (UiT). Her research focuses on using plant and animal sedaDNA metabarcoding, in conjunction with climate reconstructions, to identify how climate change and anthropogenic impacts have affected community dynamics since the Last Glacial Maximum. </p>        
+<div class ="member">
+<div class="square"><a href="https://www.capolab.net/" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Eric Capo</p>
+<p>Umeå University, Umeå, Sweden</p>
 </div>
 
-
-<div class="section Vilma">
-<p> <a href="https://scholar.google.com/citations?hl=es&user=2m-ZrxcAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><b>Vilma Pérez</b></a>  is a postdoctoral researcher at the Australian Centre for Ancient DNA, University of Adelaide, Australia. She specialises in palaeomicrobiology and molecular ecology, focusing on reconstructing microbial communities from present and past environments using environmental DNA techniques. Originally from Chile, Vilma completed her PhD in Biological Sciences at the University of Antofagasta, where she studied microbial adaptation to extreme environmental conditions in the Chilean Andean highlands. Her current work involves using ancient environmental DNA methods to reconstruct past ecosystems in Australia, providing insights into how ecosystems have responded to environmental changes over time.</p>        
-</div>
-
-<div class="section Aloïs">
-<p> <a href="https://www.researchgate.net/profile/Alois-Reveret" target="_blank"><b>Aloïs Revéret</b></a> is a PhD student at Tromsø Museum, UiT. He investigates sedaDNA records along the western seaboard of the Fennoscandian Ice Sheet to study plant successional dynamics across stadial—interstadial cycles. He is also interested in trait-based environmental reconstruction in lakes, and currently works with mixed marine/terrestrial sediment cores from the North Sea.</p>        
-</div>
-
-
-
-
- 
 <div class="section advisory board">
 <h3 class="section-title underline">The advisory board</h3>  
 <p>The advisory board is composed by recognized experts in paleoecology, paleogenomics, molecular ecology and more particularly sedaDNA research.</p>
@@ -145,12 +118,6 @@ Title: Our board
 <div class="square"><a href="https://researchers.adelaide.edu.au/profile/linda.armbrecht" target="_blank"><img src="{{ "/assets/board-members/Linda.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Linda Armbrecht</p>
 <p>University of Tasmania, Australia</p>
-</div>
-
-<div class ="member">
-<div class="square"><a href="https://ericcapo.github.io/lab/" target="_blank"><img src="{{ "/assets/board-members/Eric.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Eric Capo</p>
-<p>Umeå University, Umeå, Sweden</p>
 </div>
 
 <div class ="member">
@@ -195,12 +162,6 @@ Title: Our board
 <p>Tartu University, Estonia</p>
 </div>
 
-<div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Kevin-Nota" target="_blank"><img src="{{ "/assets/board-members/Kevin.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Kevin Nota</p>
-<p>MPI-EVA</p>
-<p>Leipzig, Germany</p>
-</div>
 
 <div class ="member">
 <div class="square"><a href="https://www.univ-na.ci/" target="_blank"><img src="{{ "/category/members/Allassane_Ouattara.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -312,8 +273,8 @@ Title: Our board
 <p> Cawthron Institute, Nelson, New Zealand</p>
 </div>
   
-<br> 
 </div>
+<br>
 
 <div class="section advisory board">
 <h3 class="section-title underline">Past board members</h3>  
@@ -356,6 +317,13 @@ Title: Our board
 <p>Marie-Eve Monchamp</p>
 <p>McGill University</p>
 <p>Montréal, Canada</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Maïlys Picard</p>
+<p>Umeå University</p>
+<p>Umeå, Sweden</p>
 </div>
 
 <div class ="member">
