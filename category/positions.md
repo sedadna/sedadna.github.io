@@ -30,7 +30,8 @@ Candidates with experience in pollen analysis, sedimentary ancient DNA analysis,
 <br>
 
 <p align="justify">
-The deadline to apply to either positions at CREAF/UAB is the <b>30th November 2026</b>.
+The deadline to apply to the postdoctoral position (TIME-LINES) is the <b>29th November 2026</b>.
+The PhD position (SEA-TO-SUMMIT) can be applied for until the <b>30th November 2026</b>.
 Inquiries about both positions can be made to Dr. <a href="mailto:s.nogue@creaf.uab.cat"><b>Sandra Nogué</b></a>.
 </p>
 
